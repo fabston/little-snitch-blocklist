@@ -14,7 +14,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 ### 🌟 About
 
 * Entries: **164,621**
-* Updated: **Jun 30, 2021, 08:07 PM (UTC)**
+* Updated: **Jun 30, 2021, 09:54 PM (UTC)**
 * Expires: 1 day (frequency)
 * [Raw file](https://blocklist.fabston.dev/raw) with a [100% uptime](https://status.blocklist.fabston.dev).
 
