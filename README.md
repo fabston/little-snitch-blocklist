@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/fabston/little-snitch-blocklist" target="_blank"><img src="https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/assets/logo.png" width="425px"></a></p>
+<p align="center"><a href="https://github.com/fabston/little-snitch-blocklist" target="_blank"><img src="https://github.com/fabston/little-snitch-blocklist/blob/master/assets/logo.png?raw=true" width="425px"></a></p>
 
 <p align="center">
     <a href="https://github.com/fabston/little-snitch-blocklist/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fabston/little-snitch-blocklist" alt="license"></a>
@@ -45,5 +45,5 @@ If you are using my blocklist and you'd like to test it you can do so on my home
 ---
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/bmac.png?raw=true" width=200px></a>
+    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://github.com/fabston/little-snitch-blocklist/blob/master/assets/bmac.png?raw=true" width=200px></a>
 </p>
