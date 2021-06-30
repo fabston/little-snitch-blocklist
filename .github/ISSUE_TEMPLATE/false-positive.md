@@ -1,5 +1,5 @@
 ---
-name: "False positive \U+1F4A2"
+name: "False positive ♨️"
 about: "There is a domain that shouldn't be blocked"
 labels: "false positive"
 
