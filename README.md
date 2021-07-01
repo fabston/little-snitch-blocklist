@@ -36,7 +36,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 To subscribe to this blocklist, open Little Snitch Configuration and go to `File > New Rule Group Subscription (⇧⌘M)` and paste the following URL `https://blocklist.fabston.dev/rules` into it.
 
-<p align="center"><img src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/usage.png?raw=true"</p>
+<p align="center"><img src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/usage.png?raw=true" width="800px"</p>
 
 ---
 
