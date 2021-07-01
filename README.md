@@ -16,7 +16,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 * Entries: **165,527**
 * Updated: **Jul 01, 2021, 06:51 AM (UTC)**
 * Expires: 1 day (frequency)
-* [Raw file](https://blocklist.fabston.dev/raw) with a [100% uptime](https://status.blocklist.fabston.dev).
+* [Raw file](https://blocklist.fabston.dev/rules) with a [100% uptime](https://stats.uptimerobot.com/yk1zvsNvJA).
 
 <ul>
 <details>
@@ -29,6 +29,14 @@ This blocklist is an optional supplementary filter list that completely removes 
 </ul>
 </details>
 </ul>
+
+---
+
+### ⚙️ Usage
+
+To subscribe to this blocklist, open Little Snitch Configuration and go to `File > New Rule Group Subscription (⇧⌘M)` and paste the following URL `https://blocklist.fabston.dev/rules` into it.
+
+<p align="center"><img src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/usage.png?raw=true"</p>
 
 ---
 
