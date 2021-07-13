@@ -13,8 +13,8 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### 🌟 About
 
-* Entries: **169,265**
-* Updated: **Jul 12, 2021, 03:00 PM (UTC)**
+* Entries: **169,145**
+* Updated: **Jul 13, 2021, 03:00 PM (UTC)**
 * Expires: 1 day (frequency)
 * [Raw file](https://blocklist.fabston.dev/rules) with a [100% uptime](https://stats.uptimerobot.com/yk1zvsNvJA).
 
