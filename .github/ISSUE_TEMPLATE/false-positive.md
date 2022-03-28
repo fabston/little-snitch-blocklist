@@ -5,6 +5,6 @@ labels: "false positive"
 
 ---
 
-## Which domain should be removed?
+### Which domain should be removed?
 
 ### Why should the domain be removed?
