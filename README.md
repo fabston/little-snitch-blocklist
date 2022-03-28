@@ -2,6 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/fabston/little-snitch-blocklist/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fabston/little-snitch-blocklist" alt="license"></a>
+    <a href="https://github.com/fabston/little-snitch-blocklist"><img src="https://img.shields.io/github/repo-size/fabston/little-snitch-blocklist" alt="repo size"></a>
     <a href="https://github.com/fabston/little-snitch-blocklist/commits/main"><img src="https://img.shields.io/github/last-commit/fabston/little-snitch-blocklist" alt="last commit"></a>
     <a href="https://github.com/fabston/little-snitch-blocklist/commits/main"><img src="https://img.shields.io/github/commit-activity/m/fabston/little-snitch-blocklist" alt="commit activity"></a>
 </p>
@@ -12,9 +13,8 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### 🌟 About
 
-* Entries: **163,319**
-* Size: **25M**
-* Updated: **Mar 12, 2022, 03:00 PM (UTC)**
+* Entries: **163,947**
+* Updated: **Mar 28, 2022, 08:31 AM (UTC)**
 * Expires: 1 day (frequency)
 * Here's the [RAW file](https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt)
 
