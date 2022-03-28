@@ -2,7 +2,6 @@
 
 <p align="center">
     <a href="https://github.com/fabston/little-snitch-blocklist/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fabston/little-snitch-blocklist" alt="license"></a>
-    <a href="https://github.com/fabston/little-snitch-blocklist"><img src="https://img.shields.io/github/repo-size/fabston/little-snitch-blocklist" alt="repo size"></a>
     <a href="https://github.com/fabston/little-snitch-blocklist/commits/main"><img src="https://img.shields.io/github/last-commit/fabston/little-snitch-blocklist" alt="last commit"></a>
     <a href="https://github.com/fabston/little-snitch-blocklist/commits/main"><img src="https://img.shields.io/github/commit-activity/m/fabston/little-snitch-blocklist" alt="commit activity"></a>
 </p>
