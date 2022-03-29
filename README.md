@@ -22,11 +22,9 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### ⚙️ Usage
 
-To subscribe to this blocklist, open Little Snitch Configuration and go to `File > New Rule Group Subscription (⇧+⌘+M)` and paste the following URL `https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt` into it.
+1. To subscribe to this blocklist, open Little Snitch Configuration and go to `File > New Rule Group Subscription (⇧+⌘+M)` and paste the following URL `https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt` into it.
 
-<p align="center"><img src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/usage.png?raw=true" width="800px"</p>
-
-Under `Preferences > Advanced (⌘+,)`, you can choose to `Approve rules automatically` as they are added to this repository or selectively enable/disable while subscribing a particular rule set.
+2. Under `Preferences > Advanced (⌘+,)`, you can choose to `Approve rules automatically` as they are added to this repository or selectively enable/disable while subscribing a particular rule set.
 
 ---
 
