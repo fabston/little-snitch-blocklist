@@ -15228,11 +15228,7 @@ csp.mediaplex.com
 csr-k.tlnk.io
 csr.goforandroid.com
 csr.inspsearchapi.com
-css-cd.mmtcdn.com
 css.f-4560.com
-css.mmtcdn.com
-cssak.mmtcdn.com
-csshtlak.mmtcdn.com
 cstat.apple.com
 cstest.adtechus.com
 csud.contextweb.com
@@ -21271,7 +21267,6 @@ ht.trailers.brazzerstv.contentabc.com
 htapi.coofinder.com
 htcdn.adx1.com
 htdn.adx1.com
-html.mmtcdn.com
 html.pubnative.net
 html5.adsrvr.org
 html5adkit.plusmo.s3.amazonaws.com
@@ -22445,7 +22440,6 @@ img-7.3lift.com
 img-8.3lift.com
 img-9.3lift.com
 img-ams5.mediaplex.com
-img-cd.mmtcdn.com
 img-cdn.mediaplex.com
 img-cdn.steepto.com
 img-cdn.wshareit.com
@@ -22482,7 +22476,6 @@ img.m.cnzz.com
 img.media.net
 img.mediaplex.com
 img.mgid.com
-img.mmtcdn.com
 img.phone.baidu.com
 img.prod.vidible.tv
 img.propellerads.com
@@ -22512,7 +22505,6 @@ img5.adbucks.com
 img5.brandreachsys.com
 imgad.intellitxt.com
 imgads.media.net
-imgak.mmtcdn.com
 imgblur.adkmob.com
 imgcdn.brightinfo.com
 imgdemo.adsame.com
@@ -22525,8 +22517,6 @@ imgg.steepto.com
 imgg1.mgid.com
 imggprx.adskeeper.co.uk
 imggprx.mgid.com
-imghtl.mmtcdn.com
-imghtlak.mmtcdn.com
 imgn.mgid.com
 imgn.steepto.com
 imgsrc.adtiming.com
@@ -23554,7 +23544,6 @@ jqceiv.mirtesen.ru
 jr2g.tlnk.io
 jrj.adsame.com
 js-agent.newrelic.com
-js-cd.mmtcdn.com
 js-sdk.analytics-data.io
 js-sdk.atom-data.io
 js-sec.casalemedia.com
@@ -23587,7 +23576,6 @@ js.idio.co
 js.juicyads.com
 js.leadin.com
 js.mgid.com
-js.mmtcdn.com
 js.moatads.com
 js.mobojoy.baidu.com
 js.moengage.com
@@ -23606,7 +23594,6 @@ js08.adlooxtracking.com
 js09.adlooxtracking.com
 js10.adlooxtracking.com
 js13.adlooxtracking.com
-jsak.mmtcdn.com
 jsc-cdn.mgid.com
 jsc.adskeeper.co.uk
 jsc.mgid.com
@@ -23618,7 +23605,6 @@ jsecoin.com
 jserr.cnzz.com
 jsfp.coremetrics.com
 jsg.mgid.com
-jshtlak.mmtcdn.com
 jsks.biz
 jsmedia.adsame.com
 jsn.mgid.com
@@ -24991,7 +24977,6 @@ m.contextweb.com
 m.coremetrics.com
 m.data.mob.com
 m.dlx.addthis.com
-m.do.co
 m.doubleclick.net
 m.evergage.com
 m.flurry.com
@@ -31198,7 +31183,6 @@ r1.tcr52.tynt.com
 r101.rmd.admob.com
 r102.rmd.admob.com
 r103.rmd.admob.com
-r1imghtlak.mmtcdn.com
 r2.ace.advertising.com
 r2.skimresources.com
 r3cyk.rdtk.io
@@ -31697,8 +31681,6 @@ riedel.7eer.net
 rightdiagnosis.us.intellitxt.com
 riju.ittest.33across.com
 rilla.offerstrack.net
-rimgak.mmtcdn.com
-rimghtlak.mmtcdn.com
 ringola.g2afse.com
 ringsrecord.com
 rinuk.mirtesen.ru
@@ -33288,7 +33270,6 @@ sentry.sec.miui.com
 sentrypc.7eer.net
 seo.marketo.com
 seoclarity.evergage.com
-seoimgak.mmtcdn.com
 seolytics01.webtrekk.net
 separatesilver.com
 sephora.adlegend.com
@@ -35588,7 +35569,6 @@ static.message.umeng.com
 static.mf.ma.spartan.contentdef.com
 static.mf.tour.spartan.contentdef.com
 static.mgid.com
-static.mmtcdn.com
 static.mopub.com
 static.ny.us.criteo.net
 static.outbrain.com
@@ -38603,7 +38583,6 @@ usp-forum.de.intellitxt.com
 usproxy.randi.adswizz.com
 uspstudios.vidible.tv
 usr.mgid.com
-usrimgak.mmtcdn.com
 usrtb-i.performancecentral.mobi
 ussco12.actonsoftware.com
 ussco13.actonsoftware.com
@@ -41125,7 +41104,6 @@ www.mktg.act-on.com
 www.mmmvar.amobee.com
 www.mmo2de.amobee.com
 www.mmstat.com
-www.mmtcdn.com
 www.mmvivo.amobee.com
 www.moatads.com
 www.mobileapptracking.com
