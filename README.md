@@ -34,6 +34,12 @@ If you find something in a list that you believe is a mistake or breaks function
 
 ---
 
+### 🚦 Test blocklist connectivity
+
+If you are using my blocklist and you'd like to test it, you can do so [here](https://little-snitch-blocklist.netlify.app/).
+
+---
+
 <p align="center">
     <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/bmac.png?raw=true" width=200px></a>
 </p>
