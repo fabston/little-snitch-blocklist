@@ -1,0 +1,4 @@
+# A file containing the false positives that have been removed.
+# =============================================================
+stream.binance.com
+referral.crypto.com
