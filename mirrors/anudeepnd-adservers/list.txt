@@ -7104,6 +7104,7 @@ addtitans.g2afse.com
 addvaluemedia.go2affise.com
 ade.clmbtech.com
 ade.googlesyndication.com
+adengine.snigelweb.com
 adev.adnium.com
 adeventtracker.spotify.com
 adex.dotmetrics.net
@@ -7967,6 +7968,11 @@ adsdolfin.g2afse.com
 adse.adsymptotic.com
 adsellerator.g2afse.com
 adsense.codev.wixapps.net
+adserv-fra1.snigelweb.com
+adserv-nyc1.snigelweb.com
+adserv-sfo3.snigelweb.com
+adserv-sgp1.snigelweb.com
+adserv.snigelweb.com
 adserve-ams.1rx.io
 adserve-nj.1rx.io
 adserve-sjo.1rx.io
@@ -8386,6 +8392,7 @@ advanceweb.actonsoftware.com
 advandmedia-banner-desktop.rtb.adx1.com
 advandmedia-banner-mobile.rtb.adx1.com
 advandmedia-native.rtb.adx1.com
+advantage.snigelweb.com
 advantagecu.com.102.112.2o7.net
 advantic01.webtrekk.net
 advantixmarketing.re.getclicky.com
@@ -9694,6 +9701,7 @@ api.shuzilm.cn
 api.singular.net
 api.smaato.com
 api.sms.intl.miui.com
+api.snigelweb.com
 api.snoobi.com
 api.sonobi.com
 api.stage.onereporting.vidible.tv
@@ -10243,6 +10251,8 @@ arescadon.com
 arg.atomex.net
 argos.co.uk.d1.sc.omtrdc.net
 argumenti.mirtesen.ru
+argus-fra1.snigelweb.com
+argus.snigelweb.com
 argyresthia.com
 ariadna.evergage.com
 ariba-top100.112.2o7.net
@@ -10570,6 +10580,7 @@ auction.com.102.112.2o7.net
 auction.unityads.unity3d.com
 auctional.info
 auctionatatest01.webtrekk.net
+auctioneer.snigelweb.com
 aud.pubmatic.com
 aud11000.pubmatic.com
 aud22000.pubmatic.com
@@ -12475,6 +12486,7 @@ californiaclosets.adlegend.com
 californiapsychicstrack.optimove.net
 californiapsychicstracksdk-stg.optimove.net
 californiapsychicstracksdk.optimove.net
+call.snigelweb.com
 callawaygolfcom2.112.2o7.net
 callback-ios.hyprmx.com
 callback.batmobi.net
@@ -13133,6 +13145,7 @@ cdn.sit.vertamedia.com
 cdn.skimresources.com
 cdn.smartadserver.com
 cdn.smi2.net
+cdn.snigelweb.com
 cdn.sokrati.com
 cdn.solocpm.com
 cdn.special-offers.online
@@ -14138,6 +14151,7 @@ cmp.bounceexchange.com
 cmp.digitru.st
 cmp.mediavine.com
 cmp.sirdata.com
+cmp.snigelweb.com
 cmplay.did.ijinshan.com
 cmpmliveto100.112.2o7.net
 cmpush.ksmobile.net
@@ -15129,6 +15143,7 @@ criteofakepixel.ad.atdmt.com
 criticinc-d.openx.net
 critictruck.com
 crm-preview.dynamicyield.com
+crm.snigelweb.com
 crm.stickyadstv.com
 crocierissimetracksdk.optimove.net
 crocs-ca.pxf.io
@@ -16887,6 +16902,7 @@ dreba03.webtrekk.net
 dressforlessde.widget.criteo.com
 drhouseforum.de.intellitxt.com
 drip.pxf.io
+drive.snigelweb.com
 drivenowde.widget.criteo.com
 drnews.mirtesen.ru
 drone-test.dmx.districtm.io
@@ -19876,12 +19892,14 @@ genius-pipe.pxf.io
 genius01.webtrekk.net
 geniusdisplay.com
 gentlemansbox.pxf.io
+geo-eu.snigelweb.com
 geo-intermedia.videoplaza.tv
 geo-lb01.w55c.net
 geo-lb02.w55c.net
 geo-service.adtelligent.com
 geo-tracker.smadex.com
 geo-um.btrll.com
+geo-us.snigelweb.com
 geo.adgear.com
 geo.api.qualaroo.com
 geo.atdmt.com
@@ -24596,6 +24614,7 @@ load.txexp.exelator.com
 load77.exelator.com
 loadan.exelator.com
 loadedmoney.offerstrack.net
+loader-adserv.snigelweb.com
 loader-io.districtm.io
 loader.ogstats.com
 loadingpagesson.club
@@ -25155,6 +25174,7 @@ manager-cdn.teads.tv
 manager.alfa.smartlook.com
 manager.beta.smartlook.com
 manager.smartlook.com
+manager.snigelweb.com
 manager.spotad.co
 manager.teads.tv
 manager.wazuh.53.localytics.com
@@ -25397,6 +25417,7 @@ massdrop.7eer.net
 massets.appsflyer.com
 massivumde.widget.criteo.com
 master-ads-g2.3d.amobee.com
+master-adserv-fra1.snigelweb.com
 master-klass.mirtesen.ru
 master.ads.contentabc.com
 mastercard.demdex.net
@@ -25784,6 +25805,7 @@ medyanet.sdk.beemray.com
 meepo.meitustat.com
 meet.adx1.com
 meet.fitanalytics.com
+meet.snigelweb.com
 meet.vertamedia.com
 meet754seeuye.info
 meetme-d.openx.net
@@ -30043,6 +30065,8 @@ player.adtelligent.com
 player.alfa.smartlook.com
 player.beta.smartlook.com
 player.smartlook.com
+playground-adserv.snigelweb.com
+playground.snigelweb.com
 playtika-api.optimove.net
 playtime-tm.everesttech.net
 playtime-videos.tubemogul.com
@@ -30205,6 +30229,7 @@ portal.clickagy.com
 portal.dynamicyield.com
 portal.hiido.com
 portal.prod.vidible.tv
+portal.snigelweb.com
 portal.technoratimedia.com
 portal.touchcommerce.com
 portal.veinteractive.com
@@ -30320,6 +30345,7 @@ prebid.districtm.ca
 prebid.media.net
 prebid.s-onetag.com
 prebid.technoratimedia.com
+prebidbuilder.snigelweb.com
 precheck-in.adsjudo.com
 precisioncoating.actonsoftware.com
 prediction-lb.fitanalytics.com
@@ -30582,6 +30608,7 @@ proteusadvisory.evergage.com
 proton-int.flurry.com
 proton.flurry.com
 protostats.bigo.sg
+prototypes.snigelweb.com
 prov.alphonso.tv
 providence.evergage.com
 provideplant.com
@@ -30709,6 +30736,7 @@ pubh.offerstrack.net
 public.53.localytics.com
 public.gameanalytics.com
 public.service.getui.com
+public.snigelweb.com
 public.wmo.int
 publicacionessemana.d1.sc.omtrdc.net
 publicis.onetag.com
@@ -32251,7 +32279,6 @@ s.amazon-adsystem.com
 s.api.xiaoying.co
 s.c.appier.net
 s.cdn.turner.com
-s.click.aliexpress.com
 s.clickability.com
 s.clickiocdn.com
 s.clicktale.net
@@ -32717,6 +32744,7 @@ sandbox.manifest.auditude.com
 sandbox.optimove.net
 sandbox.outbrain.com
 sandbox.qualaroo.com
+sandbox.snigelweb.com
 sandbox.stickyadstv.com
 sandbox.vip.uj1.inmobi.com
 sandbox2.auditude.com
@@ -34348,6 +34376,7 @@ spartanrace.7eer.net
 spaweek.7eer.net
 spd.atdmt.com
 spd.browser.miui.com
+spd.snigelweb.com
 spdy-lb11.adsymptotic.com
 spdy-lb2.adsymptotic.com
 spdy-lb4.adsymptotic.com
@@ -35590,6 +35619,7 @@ static.servedby-buysellads.com
 static.sharethrough.com
 static.sites.contentabc.com
 static.smi2.net
+static.snigelweb.com
 static.ssacdn.com
 static.stg.yieldmo.com
 static.streamate.doublepimp.com
@@ -37225,6 +37255,7 @@ tool2.rmd.admob.com
 tool4.rmd.admob.com
 toolbelt.treasuredata.com
 toolbox-bj.getui.com
+toolbox.snigelweb.com
 tools-c.clickability.com
 tools.3g.qq.com
 tools.adskeeper.co.uk
@@ -39612,6 +39643,7 @@ vt.myvisualiq.net
 vtechweb.adsame.com
 vtechweb.iv.adsame.com
 vtent.andbeyond.media
+vtiger.snigelweb.com
 vtigercrm.addapptr.com
 vtphp.andbeyond.media
 vtrk.doubleverify.com
@@ -41358,6 +41390,7 @@ www.smartlook.com
 www.smi2.net
 www.smi2.ru
 www.smrtb.com
+www.snigelweb.com
 www.snoobi.fi
 www.sokrati.com
 www.solocpm.com

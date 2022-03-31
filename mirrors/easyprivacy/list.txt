@@ -2329,6 +2329,7 @@ connection.verical.com
 connectlp.keysight.com
 connectportal.netapp.com
 connecttest.arubanetworks.com
+connext-cdn.azureedge.net
 consciouscheese.com
 consciousdirt.com
 conseils.dotbase.com
