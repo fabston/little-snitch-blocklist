@@ -7337,6 +7337,7 @@ adoremetrack.optimove.net
 adoremetracksdk.optimove.net
 adoric-om.com
 adotize.offerstrack.net
+adp-pubd-static.adtdp.com
 adp.propellerads.com
 adp1-kr.mookie1.com
 adpdl.ssl.d2.sc.omtrdc.net
@@ -8321,6 +8322,7 @@ adsupply.com
 adswizz.com
 adsys.adk2x.com
 adszx.pro
+adt-static.adtdp.com
 adt.ca.102.112.2o7.net
 adt.pxl.ace.advertising.com
 adt.shuzilm.cn
@@ -8328,6 +8330,7 @@ adtag.technoratimedia.com
 adtago.s3.amazonaws.com
 adtags.tubemogul.com
 adtarget.coremetrics.com
+adtdp.com
 adtech.adgebra.in
 adtech.advertising.com
 adtech.nflximg.net
@@ -9718,6 +9721,7 @@ api.taplytics.com
 api.target.smi2.net
 api.teads.tv
 api.tealiumiq.com
+api.telemetrydeck.com
 api.tercept.com
 api.terraform-outputs.env.sandbox53.localytics.com
 api.tinyhoneybee.com
@@ -12660,6 +12664,8 @@ cashpointtracksdk.optimove.net
 casinoborgatatracksdk.optimove.net
 casper.pxf.io
 cassandra-u14-us-east.stickyadstv.com
+cast-cf-j.adtdp.com
+cast-js-j.adtdp.com
 castaluna.widget.criteo.com
 casualgamingbrands.evyy.net
 cat.criteo.com
@@ -21656,6 +21662,11 @@ ice.aws.amobee.com
 ice.cdn.videoplaza.tv
 icecomround2.112.2o7.net
 icemakerdirect.com.112.112.2o7.net
+ich-loss.adtdp.com
+ich-rd.adtdp.com
+ich-rtb.adtdp.com
+ich-vt.adtdp.com
+ich-wn.adtdp.com
 iclickcdn.com
 icloud.actonsoftware.com
 icloud.vizury.com
@@ -23177,6 +23188,7 @@ ir2.beap.gemini.yahoo.com
 irc.eu.criteo.net
 ireland.demandbase.com
 iridize993pf.pw
+iris.adtdp.com
 iriscoremetadataprod.blob.core.windows.net
 irismedia.g2afse.com
 irl1.demdex.net
@@ -23375,6 +23387,7 @@ iyq-i.tlnk.io
 iz682noju02ye5.com
 izidress.7eer.net
 izjvwx.mirtesen.ru
+j-serval.adtdp.com
 j.adlooxtracking.com
 j.bayctrk.com
 j.traffichunt.com
@@ -23605,6 +23618,7 @@ js.smi2.ru
 js.stats.g.doubleclick.net
 js.trendmd.com
 js.w.inmobi.com
+js.wpadmngr.com
 js02.adlooxtracking.com
 js05.adlooxtracking.com
 js07.adlooxtracking.com
@@ -28124,6 +28138,7 @@ oomiz.voluumtrk.com
 oops.lijit.com
 op.hiido.com
 op.skimresources.com
+opemane.adtdp.com
 open.3s.mobvista.com
 open.cnzz.com
 open.mp.huangye.miui.com
@@ -31883,6 +31898,8 @@ rq.vserv.mobi
 rq6w3.voluumtrk.com
 rrmprod.amobee.com
 rs-gmtdmp.mookie1.com
+rs-j.adtdp.com
+rs-sync.adtdp.com
 rs.adx.io
 rs.info.lgsmartad.com
 rs.nexus.ensighten.com
@@ -35884,6 +35901,9 @@ stevenspointjournal.com.ssl.d1.sc.omtrdc.net
 stg-data-in.ads.heytapmobi.com
 stg-dmz-nsc1-ext.stg.fwmrm.net
 stg-fe-nsc1-ext.stg.fwmrm.net
+stg-j-serval.adtdp.com
+stg-opemane.adtdp.com
+stg-tgdfm.adtdp.com
 stg.adx1.com
 stg.auditude.com
 stg.k.intellitxt.com
@@ -36742,6 +36762,7 @@ telemetry.sdk.inmobi.com
 telemetry.swe.quicinc.com
 telemetry.urs.microsoft.com
 telemetry.v.dropbox.com
+telemetrydeck.com
 telenor-analytics.localytics.com
 telenor-creatives.53.localytics.com
 telenor-profile.localytics.com
@@ -36861,6 +36882,7 @@ tfbi5.voluumtrk.com
 tflcar-auto.t.domdex.com
 tg.admitad.com
 tg.adx1.com
+tgdfm.adtdp.com
 tgl.mookie1.com
 tgpzz.ouasflpydty21tf.bapb.gdn
 tgsync.optimove.net
@@ -40186,6 +40208,7 @@ wp.outbrain.com
 wp.qgr.ph
 wp.teads.tv
 wp.unbounce.com
+wpadmngr.com
 wparea.de.intellitxt.com
 wpdev.beemray.com
 wpengine.7eer.net
@@ -40564,6 +40587,7 @@ www.adstract.com
 www.adsupply.com
 www.adswizz.com
 www.adsymptotic.com
+www.adtdp.com
 www.adtech.de
 www.adtechjp.com
 www.adtechus.com
@@ -41456,6 +41480,7 @@ www.team.unbounce.com
 www.techblog.appnexus.com
 www.technology.inmobi.com
 www.technoratimedia.com
+www.telemetrydeck.com
 www.templates-test.unbounce.com
 www.templates.unbounce.com
 www.tercept.com
@@ -41574,6 +41599,7 @@ www.why.unbounce.com
 www.widgets.webengage.com
 www.wp-test.unbounce.com
 www.wp.unbounce.com
+www.wpadmngr.com
 www.wqocynupmbad.com
 www.wr.clicktale.net
 www.wr20.clicktale.net
