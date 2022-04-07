@@ -1689,6 +1689,7 @@ boost.mobileposse.com
 bootstrap.upsight-api.com
 boxoffice.urbanairship.com
 bp.adkmob.com
+brahe.apptimize.com
 brain.foresee.com
 brainient.com
 branch.io
@@ -1913,6 +1914,7 @@ cdn.avantisvideo.com
 cdn.ayads.co
 cdn.bannersnack.com
 cdn.batmobi.net
+cdn.bidmatrixdsp.com
 cdn.bizible.com
 cdn.blisspointmedia.com
 cdn.bluebillywig.com
@@ -3603,6 +3605,7 @@ in.treasuredata.com
 in.wzrkt.com
 in1-spiky.wzrkt.com
 in1.wzrkt.com
+inapps.appflyer.com
 inapps.appsflyer.com
 inc2.igexin.com
 incoming-data-sense360.s3.amazonaws.com
@@ -3723,7 +3726,6 @@ jact.atdmt.com
 jadserve.postrelease.com
 jadserve.postrelease.com.akadns.net
 jampp.com
-jdoqocy.com
 jelly.mdhv.io
 jgl.microad.net
 jioads.akamaized.net
@@ -4105,6 +4107,7 @@ mcdp-nydc1.outbrain.com
 mcdp-sadc1.outbrain.com
 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
+md-a-c.apptimize.com
 md-nj.lfstmedia.com
 mdmserver.mobidia.com
 me-client.eservice.emarsys.net
@@ -4574,6 +4577,7 @@ paas-push-api-log.immomo.com
 paas-push-api.immomo.com
 pad-v3.presage.io
 padsdel.com
+pagead.googlesyndication.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pandg.tapad.com
@@ -4821,6 +4825,7 @@ prebid.media.net
 prebid.mgid.com
 prebid.s-onetag.com
 prebid.technoratimedia.com
+prebids.adnsx.com
 preferences.truste.com
 premiumsrv.aniview.com
 presage.io
@@ -5667,6 +5672,7 @@ slog.trackingio.com
 smaato-server.thinknearhub.com
 smaato.com
 smaato.net
+smadex.com
 smart.link
 smart.mobvista.com
 smartclip.net
@@ -6568,6 +6574,7 @@ us-match.taboola.com
 us-notify.bidagent.xad.com
 us-sync.taboola.com
 us-tracking.nextdoor.com
+us-trk.bidmatrixdsp.com
 us-u.openx.net
 us-vid-events.taboola.com
 us-west-2.ecs.mb.moatads.com
@@ -6896,6 +6903,7 @@ wlb2.cdn.stickyadstv.com.akadns.net
 wlplay.aniview.com
 wltrack.aniview.com
 wo.gumgum.com
+woobids.com
 woodpecker.uc.cn
 wootric-eligibility.herokuapp.com
 worker1.advertnative.com
@@ -6955,7 +6963,6 @@ www.clarity.ms
 www.geoplugin.net
 www.google-analytics.com
 www.googleadservices.com
-www.jdoqocy.com
 www.leanplum.com
 www.lightboxcdn.com
 www.localytics.com
