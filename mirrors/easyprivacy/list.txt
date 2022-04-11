@@ -2120,7 +2120,6 @@ clientservice.alphasimplex.com
 clinical.questdiagnostics.com
 clk.boulanger.com
 clk.ubi.com
-cllctr.roistat.com
 clnbze.dzienniklodzki.pl
 clnbze.dziennikzachodni.pl
 clnbze.expressilustrowany.pl
@@ -2235,7 +2234,6 @@ collector.ozeex.com
 collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.rn.de
-collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
 collector.statowl.com
