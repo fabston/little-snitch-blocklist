@@ -734,7 +734,6 @@ ai.voiceads.cn
 aibuy-api.aibuy.io
 aic.cdpbeacon.lgtvcommon.com
 aidps.atdmt.com
-ailoganalyticsportal-eus.cloudapp.net
 aimatch.com
 aiqua-config.c.appier.net
 aiqua-sdk.c.appier.net
@@ -1622,7 +1621,6 @@ betrad.com.edgekey.net
 bf20578xco.bf.dynatrace.com
 bh.contextweb.com
 bhpz.adj.st
-bi-analytics.cloudapp.net
 bi.yeshen.com
 bid.adview.cn
 bid.adview.com
@@ -1703,7 +1701,6 @@ brightroll-partners.tremorhub.com
 bronrt.stsdk.vivo.com.cn
 brort.stsdk.vivo.com.cn
 browser-http-intake.logs.datadoghq.com
-browser.events.data.msn.com
 brpnrt.stsdk.vivo.com.cn
 brprt.stsdk.vivo.com.cn
 bs-geo.dvgtm.akadns.net
@@ -1769,7 +1766,6 @@ c.webengage.com
 c.webtrends.com
 c00162-dl.urbanairship.com
 c1.adform.net
-c1.microsoft.com
 c1.popads.net
 c1exchange.com
 c2.popads.net
@@ -4498,7 +4494,6 @@ ops-cdn.undertone.com
 opt.ximad.com
 optad360.io
 optaim.com
-optanon.blob.core.windows.net
 optchk.ayads.co
 optimix.asia
 optimize-stats.voxmedia.com
@@ -6445,8 +6440,6 @@ trk.games-to-run123.com
 trk.hot-mob.com
 trk.in25app.com
 trk.kissmetrics.com
-trk.klclick2.com
-trk.klclick3.com
 trk.pinterest.com
 trk.superads.cn
 trk.tidaltv.com
@@ -6557,7 +6550,6 @@ upsnap.com
 us-1.gladly.com
 us-central.load.exelator.com
 us-central1-adaptive-growth.cloudfunctions.net
-us-central1-production-242307.cloudfunctions.net
 us-east-1.event.prod.bidr.io
 us-east-1.local.emxdgt.com
 us-east-1.prod.pr.analytics.console.aws.a2z.com
