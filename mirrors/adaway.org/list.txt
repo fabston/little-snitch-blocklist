@@ -1159,7 +1159,6 @@ api.usebutton.com
 api.userleap.com
 api.verify.mob.com
 api.verticalscope.com
-api.viafoura.co
 api.videometrics.ted.com
 api.vidora.com
 api.viglink.com
@@ -2049,7 +2048,6 @@ cdn.unityads.unity3d.com
 cdn.uprivaladserver.net
 cdn.usebutton.com
 cdn.usefathom.com
-cdn.viafoura.net
 cdn.vidible.tv
 cdn.viewdeos.com
 cdn.viglink.com
@@ -5036,7 +5034,6 @@ rdr.ad-score.com
 reachms.bfmio.com
 realclever.com
 realtime.clinch.co
-realtimeeventfeeds.viafoura.co
 rebootv5.adfuture.cn
 rebootv5.adsunflower.com
 recommender.scarabresearch.com
@@ -5982,7 +5979,6 @@ studio-t.teads.tv
 study.snapads.com
 stx-assets.sharethrough.com
 su.addthis.com
-sub.viafoura.co
 submit.zapr.in
 subway2016.tt.omtrdc.net
 subwayfranchiseeadvertising.sc.omtrdc.net
