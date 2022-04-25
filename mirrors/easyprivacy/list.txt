@@ -25,6 +25,7 @@
 3347.wolf-gordon.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
+4399stat.5054399.com
 4jnzhl0d0.com
 520886.xyz
 5363316.marketing.numi.com
@@ -1198,6 +1199,7 @@ analytics.footballdb.com
 analytics.foresee.com
 analytics.forgetwp.com
 analytics.formstack.com
+analytics.freemake.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
@@ -1273,6 +1275,7 @@ analytics.photorank.me
 analytics.piksel.com
 analytics.plex.tv
 analytics.pointdrive.linkedin.com
+analytics.pop2watch.com
 analytics.popsci.com
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
@@ -2611,6 +2614,7 @@ d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
+d276.ourmidland.com
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
@@ -2662,6 +2666,7 @@ d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
+d810.mysanantonio.com
 d81mfvml8p5ml.cloudfront.net
 da.hornbach.at
 da.hornbach.ch
@@ -3141,6 +3146,7 @@ ebusinesssr.carte-gr.total.fr
 ec.infosys.com
 ec.walkme.com
 ecjsot.aosom.es
+eclick.360doc.com
 eclick.baidu.com
 ecomm.events
 ecommstats.s3.amazonaws.com
@@ -3611,6 +3617,7 @@ eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.usj.es
 events-service.coinbase.com
+events-tracker.deliveroo.net
 events.air.tv
 events.apester.com
 events.api.godaddy.com
@@ -3717,6 +3724,7 @@ f-log-test.grammarly.io
 f0nn.oney.fr
 f1tbit.com
 f362.nola.com
+f775.thehour.com
 f7ds.liberation.fr
 f8phvntohv.tpetry.me
 fac.fanucamerica.com
@@ -3880,6 +3888,7 @@ fresnel-events.vimeocdn.com
 fretfulfurniture.com
 friendwool.com
 frightenedpotato.com
+frog.yuanfudao.com
 froglytics.eventfrog.ch
 fronttoad.com
 frztrk.netmums.com
@@ -4196,6 +4205,8 @@ gzlxvg.papy.co.jp
 h.imedia.cz
 h.seznam.cz
 h00c.sfr.fr
+h353.ncadvertiser.com
+h559.stamfordadvocate.com
 h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
@@ -4752,6 +4763,7 @@ iyvzqt.agabangmall.com
 j.bg.adresult-sp.jp
 j.image-ad.jp
 j1.ax.xrea.com
+j198.registercitizen.com
 j927.statnews.com
 jadedjoke.com
 jailbulb.com
@@ -4906,6 +4918,7 @@ l.support.canva.com
 l.thumbtack.com
 l.typesquare.com
 l2k30jsa.theochu.com
+l936.expressnews.com
 la-sync.taboola.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
@@ -6142,6 +6155,7 @@ metrics.foodnavigator-latam.com
 metrics.foodnavigator-usa.com
 metrics.foodnavigator.com
 metrics.forecourttrader.co.uk
+metrics.freemake.com
 metrics.gap.com
 metrics.generac.com
 metrics.genesis.es
@@ -6586,6 +6600,7 @@ o.bluewin.ch
 o.medallia.com
 o.opentable.com
 o.xbox.com
+o398.trumbulltimes.com
 o68c.sfr.fr
 oaizwm.zox.la
 oajhfq.etopsport.ro
@@ -6687,6 +6702,7 @@ opps.taboola.com
 oppuz.com
 ops.bpost.be
 opslegacy.toolbar.net.zooplus.com
+opti-digital.com
 optimallimit.com
 optimize-stats.voxmedia.com
 optionen.hager.de
@@ -7293,6 +7309,7 @@ python.jacksellwood.com
 pytxsn.najlacnejsisport.sk
 pzpevk.newbalance.ru
 q20jqurls0y7gk8.info
+q777.sfchronicle.com
 qa-brc.emails.rakuten.com
 qa1.dr.goldenserviceawards.net.zooplus.fr
 qamnyl.bever.nl
@@ -9889,6 +9906,7 @@ stats.graphql-api.com
 stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
+stats.hanmaker.com
 stats.hd24.watch
 stats.hex.pm
 stats.hexdocs.pm
@@ -10427,6 +10445,7 @@ t1.benefits.tops.co.th
 t1.stadiumgoods.com
 t2.hulu.com
 t2.t2b.click
+t570.wiltonbulletin.com
 t8.mailperformance.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
@@ -11715,6 +11734,8 @@ txyqik.jjshouse.fr
 tybfxw.puma.com
 tzwaw.pw
 u47.pnc.com
+u652.myplainview.com
+u927.sfgate.com
 u989.theweek.com
 ua.indianexpress.com
 uansiq.clip.mx
@@ -11934,6 +11955,7 @@ w3.flatex.nl
 w3.vitrade.de
 w7.berlin.de
 w7.weihnachteninberlin.de
+w740.newstimes.com
 wa.metro.co.uk
 wa.planet-wissen.de
 wa.quarks.de
@@ -12568,7 +12590,10 @@ xyxgbs.lezhin.com
 xyz.bestool.pl
 y.ksl.com
 y1.arte.tv
+y738.nhregister.com
+y820.darientimes.com
 y8hxgv9m.kobetsu.co.jp
+y900.greenwichtime.com
 yandexadexchange.net
 yast.rutube.ru
 ybpeih.wconcept.com
@@ -12626,6 +12651,9 @@ yyhijp.g123.jp
 yzcpqa.gumtree.com
 z.cdp-dev.cnn.com
 z0uolej1qnxzub1.info
+z211.yourconroenews.com
+z492.ctinsider.com
+z680.beaumontenterprise.com
 za.zdn.vn
 zam.nextinpact.com
 zaventemdijleland.viessmann.be
