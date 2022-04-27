@@ -2619,6 +2619,7 @@ den01.sync.search.spotxchange.com
 depart.trinitymedia.ai
 detect-survey.effectivemeasure.net
 detect.rayjump.com
+deutschebahn.sc.omtrdc.net
 dev-as.cluep.com
 dev-track.adthrive.com
 dev.appboy.com
@@ -3692,6 +3693,7 @@ ipla.hit.stat24.com
 ips-img.iperceptions.com
 ipv6.adrta.com
 ipw.metadsp.co.uk
+iqdigital.demdex.net
 iqzn-useast.adnxs.com
 iqzone.com
 ir-ing-district.clicktale.net
@@ -5439,6 +5441,7 @@ sdkapicdn.applanga.com
 sdkapp.mobile.sina.cn
 sdkclick.mobile.sina.cn
 sdkconf.msstatic.com
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdkconfig.vrvm.com
