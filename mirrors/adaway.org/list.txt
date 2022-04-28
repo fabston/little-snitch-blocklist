@@ -4308,7 +4308,6 @@ mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 my-gmtdmp.mookie1.com
 my-ssl.effectivemeasure.net
-my.rtmark.net
 mybbc-analytics.files.bbci.co.uk
 mybuys.com
 mycdn.media.net
@@ -4726,7 +4725,6 @@ pixel.quantcount.com
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
-pixel.s3xified.com
 pixel.servebom.com
 pixel.shareaholic.com
 pixel.sojern.com
@@ -5109,7 +5107,6 @@ rm-hk.aarki.net
 rm.aarki.net
 rm.recs.richrelevance.com
 ro-gmtdmp.mookie1.com
-rocketreach.co
 rodeoconfig.yodo1api.com
 roimedia.advertserve.com
 rotaban.ru
@@ -5894,7 +5891,6 @@ static.polarcdn.com
 static.popads.net
 static.privacytrck.com
 static.quantcount.com
-static.rocketreach.co
 static.rqmob.com
 static.scroll.com
 static.securedtouch.com
@@ -5943,7 +5939,6 @@ stats.netsolads.com
 stats.playrix.com
 stats.popcap.com
 stats.restartad.com
-stats.sa-as.com
 stats.smartclip.net
 stats.sxp.smartclip.net
 stats.umsns.com
