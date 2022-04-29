@@ -2512,6 +2512,7 @@ cs.nexttv.co.il
 cse3.chausport.com
 csi.gstatic.com
 csp-collector.appspot.com
+csp-reporting.cloudflare.com
 csp.archant.co.uk
 csr.onet.pl
 cstats.sankakucomplex.com
