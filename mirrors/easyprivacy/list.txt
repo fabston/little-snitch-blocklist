@@ -2156,6 +2156,7 @@ cm-in.americanexpress.com
 cm-jp.americanexpress.com
 cm-mms.coachmag.co.uk
 cm-sg.americanexpress.com
+cm.bilibili.com
 cm.informaengage.com
 cmass.massmedian.co.jp
 cmme.actonservice.com
@@ -2699,6 +2700,7 @@ data.alexa.com
 data.all-in.de
 data.aonunited.com
 data.avid.com
+data.bilibili.com
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.circulate.com
@@ -3628,6 +3630,7 @@ events.attentivemobile.com
 events.audiate.me
 events.avaya.com
 events.brightline.tv
+events.btw.so
 events.chaordicsystems.com
 events.demoup.com
 events.engage.cebglobal.com
@@ -5179,6 +5182,7 @@ lio8.destinia.com.pa
 liosix.mtvuutiset.fi
 literally-analytics.appspot.com
 literatelight.com
+live-trace.bilibili.com
 live.alljobs.co.il
 live.cxo.name
 live.ec2.cxo.name
@@ -5999,6 +6003,7 @@ metric.bostonscientific.com
 metric.emerils.com
 metric.fatcatalog.com
 metric.fidmscholarshipfoundation.org
+metric.huya.com
 metric.infoworld.com
 metric.khkgears.us
 metric.lake.jp
@@ -6477,7 +6482,6 @@ net.shop.com.mm
 net1.coolsailing.com
 net1.netski.com
 netc.sfr.fr
-netu.wiztube.xyz
 neurotrack.neurolake.io
 news.azcapitoltimes.com
 news.bpost.be
@@ -6632,6 +6636,7 @@ ogb2.biovie.com
 ogb2.eauthermalejonzac.com
 ogb2.leanatureboutique.com
 ogb2.natessance.com
+ohm-dot-hackster-io.appspot.com
 oiat.dow.com
 oimg.nbcsports.com
 ojm4.palladiumhotelgroup.com
@@ -9313,6 +9318,7 @@ sowa.carhartt.com
 sowlettuce.com
 soxnwz.lg.com
 soxpbl.oka.com
+sp-wukong-tracker.b-cdn.net
 sp.app.com
 sp.argusleader.com
 sp.aviasales.com
