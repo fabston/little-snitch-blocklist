@@ -1664,6 +1664,7 @@ beacon.squixa.net
 beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
+beacon.vertebrae-axis.com
 beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
@@ -2686,6 +2687,7 @@ da.netease.com
 daifez.thebay.com
 damageddistance.com
 dancemistake.com
+danv01ao0kdr2.cloudfront.net
 dapperfloor.com
 daq0d0aotgq0f.cloudfront.net
 dash.getsitecontrol.com
@@ -3611,6 +3613,7 @@ event.evtm.53.com
 event.getblue.io
 event.instiengage.com
 event.jma.or.jp
+event.mrtnsvr.com
 event.syndigo.cloud
 event.webcollage.net
 event1.thermofisher.com
@@ -6803,6 +6806,7 @@ p.milliyet.com.tr
 p.neil.gg
 p.nqueue.io
 p.pagesjaunes.fr
+p.placed.com
 p.pmu.fr
 p.ryanhalliday.com
 p.tencentmind.com
