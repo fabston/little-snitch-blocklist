@@ -1047,7 +1047,6 @@ api.idio.co
 api.immomo.com
 api.indicative.com
 api.infinario.com
-api.instabug.com
 api.intellimize.co
 api.intentiq.com
 api.iperceptions.com
