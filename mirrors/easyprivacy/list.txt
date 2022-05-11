@@ -2757,6 +2757,7 @@ daten.union-investment.de
 datum.appfleet.com
 dbex-tracker-v2.driveback.ru
 dbpbyh.americanas.com.br
+dbv0r7a702yve.cloudfront.net
 dbzpek.nike.com
 dc.banggood.com
 dc.plussizetech.com
@@ -7584,6 +7585,7 @@ ruddywash.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
+rum.condenastdigital.com
 rum.ingress.layer0.co
 rum.kobo.com
 rum.layer0.co
