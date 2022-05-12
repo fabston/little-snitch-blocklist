@@ -5248,6 +5248,7 @@ log.mappy.net
 log.mediacategory.com
 log.medietall.no
 log.mgtv.com
+log.mix.sina.com.cn
 log.olark.com
 log.optimizely.com
 log.outbrain.com
@@ -7737,6 +7738,7 @@ satracking.finning.com
 sats.mailbrew.com
 savorystructure.com
 saysidewalk.com
+sbeacon.sina.com.cn
 sbgsodufuosmmvsdf.info
 sbttlj.togetter.com
 sbxelb.bonprix.ro
@@ -8074,6 +8076,7 @@ services.cmacgm-group.com
 services.hmhost.co.uk
 session.timecommerce.net
 seyfwl.interia.pl
+sfp.safe.baidu.com
 sfp7.eco-conscient.com
 sftrack.searchforce.net
 sg3.notarize.com
@@ -9204,6 +9207,7 @@ so.opentable.com
 so.swisscom.ch
 so8.hyatt.com
 soaprange.com
+sofire.bdstatic.com
 software.seek.intel.com
 sojjtp.e-wheels.no
 solar.sharpmarketing.eu

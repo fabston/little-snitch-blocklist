@@ -210,6 +210,8 @@ aan.speedshiftmedia.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
+aax-us-east-retail-direct.amazon-adsystem.com
+aax-us-east-retail-direct.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax.amazon-adsystem.com
