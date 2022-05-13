@@ -427,7 +427,6 @@ ads.creative-serving.com
 ads.cybersales.cz
 ads.dada.it
 ads.dailycamera.com
-ads.datingyes.com
 ads.delfin.bg
 ads.deltha.hu
 ads.dennisnet.co.uk
@@ -647,6 +646,7 @@ ads.tripod.lycos.co.uk
 ads.tripod.lycos.de
 ads.tripod.lycos.es
 ads.tripod.lycos.it
+ads.tripod.lycos.nl
 ads.tso.dennisnet.co.uk
 ads.twitter.com
 ads.twojatv.info
@@ -1818,7 +1818,6 @@ fpctraffic2.com
 fpjs.io
 fqtag.com
 frailoffer.com
-franklybundlecarver.com
 free-banners.com
 free-counter.co.uk
 freebanner.com
@@ -1988,7 +1987,6 @@ hubadnetwork.com
 hueads.com
 hueadsortb.com
 hueadsxml.com
-huezzcjskf.site
 hurricanedigitalmedia.com
 hurtteeth.com
 hydramedia.com
@@ -3522,7 +3520,6 @@ voicevegetable.com
 voluum.com
 voluumtrk2.com
 volvelle.tech
-voodoo-ads.io
 vpon.com
 vrs.cz
 vs.tucows.com

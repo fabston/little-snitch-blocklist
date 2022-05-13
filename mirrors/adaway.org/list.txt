@@ -1128,7 +1128,6 @@ api.salmonads.com
 api.saypromo.net
 api.sdk.zadn.vn
 api.sdkbox.com
-api.sec.miui.com
 api.secondstreetapp.com
 api.segment.io
 api.sentiance.com
@@ -2325,7 +2324,6 @@ config.eastus-ssp.appgwv2.inmobi.com
 config.emb-api.com
 config.hiido.com
 config.inmobi.com
-config.ioam.de
 config.mobilegamestats.com
 config.otherlevels.com
 config.quantumgraph.com
@@ -2557,9 +2555,6 @@ data.emb-api.com
 data.flurry.com
 data.iappmobi.com
 data.logentries.com
-data.mistat.india.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.rus.xiaomi.com
 data.mob.com
 data.mobclix.com
 data2.ad-score.com
@@ -2931,7 +2926,6 @@ events.influencemobile.com
 events.kumulos.com
 events.launchdarkly.com
 events.lbesecapi.com
-events.mapbox.com
 events.mobile.optimizely.com
 events.personali.com
 events.privy.com
@@ -3316,7 +3310,6 @@ halo.ad.gt
 hasmobi.net
 hassaleh.iad-03.braze.com
 havasedge.com
-hawk.pcgamer.com
 hb-t5u9.raps.ravm.tv
 hb.adscale.de
 hb.aralego.com
@@ -3702,7 +3695,6 @@ ir-na.amazon-adsystem.com
 ir.surveywall-api.survata.com
 iris.tv
 iroko.gocarrot.com
-irqs.ioam.de
 irr.ru
 irs01.com
 is-gateway.supersonicads.com
@@ -5331,7 +5323,6 @@ scribe.logs.roku.com
 script.4dex.io
 script.crazyegg.com
 script.hotjar.com
-script.ioam.de
 script.leadboxer.com
 script.tapfiliate.com
 scripts.affiliatefuture.com
