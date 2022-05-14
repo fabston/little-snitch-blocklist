@@ -11289,7 +11289,6 @@ tracker.comagic.ru
 tracker.data-vp.com
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
-tracker.esputnik.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
@@ -11982,6 +11981,8 @@ w7.berlin.de
 w7.weihnachteninberlin.de
 w740.newstimes.com
 wa.gmx.ch
+wa.gmx.co.uk
+wa.gmx.net
 wa.metro.co.uk
 wa.planet-wissen.de
 wa.quarks.de
@@ -11990,6 +11991,7 @@ wa.sportschau.de
 wa.ui-portal.de
 wa.wdr.de
 wa.wdrmaus.de
+wa.web.de
 waaf.medion.com
 waaf1.aldilife.com
 waaf1.alditalk.de
