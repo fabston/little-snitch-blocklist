@@ -919,6 +919,7 @@ ad.udition.jp
 ad1.tone.ne.jp
 ad7.bigmir.net
 adb-analytics.live-now.com
+adbp.online
 adbq.bk.mufg.jp
 adbsmetrics.ep.hmc.co.kr
 adbsmetrics.genesis.com
@@ -7302,7 +7303,6 @@ pv.xcar.com.cn
 pvfbav.sportler.com
 pvoheg.bubbleroom.se
 pvrugd.nieruchomosci-online.pl
-pvtag.yahoo.co.jp
 pvx.xcar.com.cn
 pw.gigazine.net
 px.derstandard.at
