@@ -2243,6 +2243,7 @@ collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
 collector.getyourguide.com
+collector.github.com
 collector.githubapp.com
 collector.mazeberry.com
 collector.megaxh.com
@@ -3753,6 +3754,7 @@ factory.redbull.racing
 fadedprofit.com
 fadewaves.com
 faintflag.com
+fairdatacenter.de
 falsefeet.com
 famousquarter.com
 fan.volleyball.world
