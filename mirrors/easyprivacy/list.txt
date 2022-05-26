@@ -2232,6 +2232,7 @@ col.idealista.pt
 coletor.terra.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
+collect.adplogger.no
 collect.alipay.com
 collect.cloudsponge.com
 collect.f5.com
@@ -11299,6 +11300,7 @@ track.tiara.daum.net
 track.tiara.kakao.com
 track.tomwx.net
 track.uc.cn
+track.ultimate-guitar.com
 track.untd.com
 track.vdo.ai
 track.veedio.it
