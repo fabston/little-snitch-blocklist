@@ -686,6 +686,7 @@ aa.deutsche-bank.de
 aa.maxblue.de
 aa.norisbank.de
 aa.postbank.de
+aa.tweakers.nl
 aaaa.gakkikaitori.co.jp
 aad.actonservice.com
 aadata.april-international.com
@@ -2560,6 +2561,7 @@ curlycannon.com
 currentcollar.com
 curtaincows.com
 custom.plausible.io
+customfingerprints.bablosoft.com
 cutecalculator.com
 cutecushion.com
 cutepopcorn.com
@@ -2770,6 +2772,7 @@ datacollector-dra.dt.hicloud.com
 datadog-service.mvfglobal.com
 datag.polo.com
 datanoticias.prisasd.com
+datatechonert.com
 daten.union-investment.de
 datum.appfleet.com
 dbex-tracker-v2.driveback.ru
@@ -5283,6 +5286,7 @@ log.mediacategory.com
 log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
+log.mofa.go.kr
 log.olark.com
 log.optimizely.com
 log.outbrain.com
@@ -7591,6 +7595,7 @@ rkdms.com
 rlcdn.com
 rlinks.one.in
 rlog.popin.cc
+rmgdapfnccsharpprd.azurewebsites.net
 rndntpmgnj-a.akamaihd.net
 rnffgv.wemakeprice.com
 rnybul.gismeteo.kz
@@ -11855,7 +11860,9 @@ txpbnm.sevellia.com
 txv0.destinia.hu
 txyqik.jjshouse.fr
 tybfxw.puma.com
+tzegilo.com
 tzwaw.pw
+u299.libelle-lekker.be
 u47.pnc.com
 u652.myplainview.com
 u927.sfgate.com
