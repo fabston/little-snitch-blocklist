@@ -1993,6 +1993,7 @@ cdn.arcstudiopro.com
 cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
+cdnhst.xyz
 ce.lijit.com
 celigo.actonservice.com
 cellstats.mako.co.il
@@ -2574,6 +2575,7 @@ cv.drive-hikari.net
 cv.online.ysroad.co.jp
 cv.shiryoku1.com
 cvhefd.ixbt.com
+cvlb.dev
 cvs.kireimo.jp
 cvt1.sibnet.ru
 cws.conviva.com
@@ -2648,6 +2650,7 @@ d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
+d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -7282,6 +7285,7 @@ privacy.outdoorsg.com
 privacyfriendly.netlify.app
 private.roche.com
 processor.asccommunications.com
+procroanalytics.com
 prod.ew.srp.navigacloud.com
 proditor.sparda.de
 productivepear.com
@@ -7356,6 +7360,7 @@ px.derstandard.at
 px.effirst.com
 px.excitedigitalmedia.com
 px.marchex.io
+px.mountain.com
 px.owneriq.net
 px.pandora.com
 px.spiceworks.com
@@ -11537,6 +11542,7 @@ tracking.info.ivanti.com
 tracking.info.methodisthealthsystem.org
 tracking.info.rcgt.com
 tracking.insperity.com
+tracking.intentsify.io
 tracking.janssenmedicalcloud.de
 tracking.janssenmedicalcloud.ru
 tracking.jotform.com
@@ -11785,6 +11791,7 @@ trk.business.westernunion.fr
 trk.business.westernunion.it
 trk.business.westernunion.pl
 trk.channelfutures.com
+trk.clinch.co
 trk.contentmarketinginstitute.com
 trk.coteriefashionevents.com
 trk.darkreading.com
