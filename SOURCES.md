@@ -1,14 +1,16 @@
 ## Sources
 
+Since Little Snitch only supports max 200,000 blocked domains I had to trim down the list.
+
 The sources of the input data information are as follows:
 
 | Name                                  | License                                             | Homepage                                        | Raw URL                                    |
 |:--------------------------------------|:----------------------------------------------------|:------------------------------------------------|:-------------------------------------------|
 | ~~1Hosts~~                            | [Dandelicence][license-1hosts]                      | [Link][homepage-1hosts]                         | [Link][source-1hosts]                      |
-| adaway.org                            | CC-BY-3.0                                           | [Link][homepage-adaway.org]                     | [Link][source-adaway.org]                  |
+| ~~adaway.org~~                        | CC-BY-3.0                                           | [Link][homepage-adaway.org]                     | [Link][source-adaway.org]                  |
 | AdGuard - Simplified                  | GPL-3.0-only                                        | [Link][homepage-adguard-simplified]             | [Link][source-adguard-simplified]          |
 | AdGuard DNS filter                    | GPL-3.0-only                                        | [Link][homepage-AdGuardSDNSFilter]              | [Link][source-AdGuardSDNSFilter]           |
-| anudeepND                             | MIT                                                 | [Link][homepage-anudeepND]                      | [Link][source-anudeepND]                   |
+| ~~anudeepND~~                         | MIT                                                 | [Link][homepage-anudeepND]                      | [Link][source-anudeepND]                   |
 | DigitalSide Threat-Intel              | MIT                                                 | [Link][homepage-digitalside-threat-intel]       | [Link][source-digitalside-threat-intel]    |
 | EasyList                              | (GPL-3.0-only OR CC-BY-SA-3.0)                      | [Link][homepage-easylist]                       | [Link][source-easylist]                    |
 | EasyPrivacy                           | (GPL-3.0-only OR CC-BY-SA-3.0)                      | [Link][homepage-easyprivacy]                    | [Link][source-easyprivacy]                 |
@@ -26,7 +28,7 @@ The sources of the input data information are as follows:
 | pgl.yoyo.org                          | [MCRAE][license-pgl.yoyo.org]                       | [Link][homepage-pgl.yoyo.org]                   | [Link][source-pgl.yoyo.org]                |  
 | Phishing Army                         | CC-BY-NC-4.0                                        | [Link][homepage-phishing.army]                  | [Link][source-phishing.army]               |
 | ~~socram8888 - Not on my shift!~~     | ISC                                                 | [Link][homepage-socram8888-notonmyshift]        | [Link][source-socram8888-notonmyshift]     |
-| ~~someonewhocares.org~~               | ["non-commercial"][license-someonewhocares.org]     | [Link][homepage-someonewhocares.org]            | [Link][source-someonewhocares.org]         |
+| someonewhocares.org                   | ["non-commercial"][license-someonewhocares.org]     | [Link][homepage-someonewhocares.org]            | [Link][source-someonewhocares.org]         |
 | ~~spam404.com~~                       | CC-BY-SA-4.0                                        | [Link][homepage-spam404.com]                    | [Link][source-spam404.com]                 |
 | StevenBlack                           | MIT                                                 | [Link][homepage-stevenblack]                    | [Link][source-stevenblack]                 |
 | uBlock                                | GPL-3.0-only                                        | [Link][homepage-ublock]                         | [Link][source-ublock]                      |
