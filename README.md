@@ -30,7 +30,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### 🐞 Domain additions, removals, false positives 
 
-If you find something in a list that you believe is a mistake or breaks functionality, please [open an issue](https://github.com/fabston/little-snitch-blocklist/issues/new/choose) and I'll consider removing it. Also, if you find an unblocked subdomain of a blocked root domain, please let me know so I can add it to a list. 
+If you find something in a list that you believe is a mistake or breaks functionality, please [open a discussion](https://github.com/fabston/little-snitch-blocklist/discussions/categories/false-positive) and I'll consider removing it. Also, if you find an unblocked subdomain of a blocked root domain, please let me know so I can add it to a list. 
 
 ---
 
