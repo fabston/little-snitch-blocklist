@@ -470,7 +470,6 @@ analytics.functionofbeauty.com
 analytics.gandi.net
 analytics.generalmills.com
 analytics.getshogun.com
-analytics.ghostery.com
 analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
@@ -660,7 +659,6 @@ badskates.com
 bae5tracker.com
 bakeronerousfollowing.com
 bam-x.com
-banner.profile.ru
 banner.ws.pho.to
 bannerflow.com
 banners.evoluhcion.es
@@ -3305,14 +3303,18 @@ mkt1134.com
 mkt11340.com
 mkt11341.com
 mkt11342.com
+mkt11343.com
 mkt11344.com
+mkt11345.com
 mkt11346.com
 mkt11347.com
 mkt11348.com
 mkt11349.com
 mkt1135.com
+mkt11350.com
 mkt11351.com
 mkt11352.com
+mkt11353.com
 mkt11354.com
 mkt11355.com
 mkt11356.com
@@ -13215,6 +13217,7 @@ smetrics.aetnamedicare.com
 smetrics.agillink.com
 smetrics.aia.com
 smetrics.airbank.cz
+smetrics.airbnbrio.com
 smetrics.aircanada.com
 smetrics.aireserv.com
 smetrics.ajinomoto.co.jp
@@ -13343,6 +13346,7 @@ smetrics.cdwg.com
 smetrics.cedars-sinai.org
 smetrics.celebritycruises.com
 smetrics.centerwell.com
+smetrics.centerwellpharmacy.com
 smetrics.centerwellprimarycare.com
 smetrics.centurylink.com
 smetrics.ceratizit.com
