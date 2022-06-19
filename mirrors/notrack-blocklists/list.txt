@@ -3332,6 +3332,7 @@ mkt1137.com
 mkt11370.com
 mkt11373.com
 mkt1138.com
+mkt11382.com
 mkt1139.com
 mkt1140.com
 mkt1141.com
@@ -13208,7 +13209,6 @@ smetrics.abbott
 smetrics.abbvie.com
 smetrics.abercrombie.com
 smetrics.accaglobal.com
-smetrics.accreditedlink.com
 smetrics.active.com
 smetrics.activecommunities.com
 smetrics.aem.playstation.com
@@ -13433,7 +13433,6 @@ smetrics.dominos.com
 smetrics.dreamlabdata.com
 smetrics.drschollsshoes.com
 smetrics.dryerventwizard.com
-smetrics.dts.com
 smetrics.eastwestbank.com
 smetrics.edc.ca
 smetrics.eddiebauer.com
@@ -13550,6 +13549,7 @@ smetrics.home.kpmg
 smetrics.homeadvisor.com
 smetrics.homes.com
 smetrics.hossintropia.com
+smetrics.hotsy.com
 smetrics.hpe.com
 smetrics.hrblock.com
 smetrics.hsamuel.co.uk
@@ -13932,6 +13932,7 @@ smetrics.synopsys.com
 smetrics.t-mobile.com
 smetrics.t-mobilemoney.com
 smetrics.talbots.com
+smetrics.tataaia.com
 smetrics.taylors.edu.my
 smetrics.tcs.com
 smetrics.td.com
@@ -14011,7 +14012,6 @@ smetrics.vodafone.com.tr
 smetrics.vodafone.es
 smetrics.vodafone.gr
 smetrics.vodafone.in
-smetrics.volgograd.ru
 smetrics.vonage.com
 smetrics.vonageforhome.com
 smetrics.vueling.com
