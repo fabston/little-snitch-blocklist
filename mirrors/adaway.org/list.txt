@@ -1044,7 +1044,6 @@ api.growthpush.com
 api.hdtv.letv.com
 api.huq.io
 api.huqindustries.co.uk
-api.iadvize.com
 api.idio.co
 api.immomo.com
 api.indicative.com
@@ -1837,7 +1836,6 @@ ccgateway.net
 ccpa.psg.nexstardigital.net
 cd.adition.com
 cd.connatix.com
-cdlc.iadvize.com
 cdm.connatix.com
 cdn-3.convertexperiments.com
 cdn-3.convertexperiments.com.edgekey.net
@@ -2238,7 +2236,6 @@ co.akisinn.info
 co.dewrain.life
 co.vaicore.site
 co.vaicore.xyz
-cobrowsing-ha.iadvize.com
 code.directadvert.ru
 code.hot-mob.com
 code.metalocator.com
@@ -3068,7 +3065,6 @@ freesam.kt.com
 freewheeleventsbidder-east.extend.tv
 front-logs.voodoo-ads.io
 frtn.socdm.com
-fstatic.iadvize.com
 ftpcontent.worldnow.com
 funnel-assets.startappservice.com
 fuse.forbes.com
@@ -3305,7 +3301,6 @@ haaretz.pushwoosh.com
 hades.getsocial.im
 hail-reporting.tutelatechnologies.com
 hal9000.redintelligence.net
-halc.iadvize.com
 halo.ad.gt
 hasmobi.net
 hassaleh.iad-03.braze.com
@@ -3850,7 +3845,6 @@ lbal.wowanalytics.co.uk
 lbdata.tj.ijinshan.com
 lbnyj2.bidder.owneriq.net
 lbsjc.bidder.owneriq.net
-lc.iadvize.com
 lcdn.tsyndicate.com
 lcf.cmplay.cmcm.com
 lciapi.ninthdecimal.com
@@ -5862,7 +5856,6 @@ static.gridsumdissector.com
 static.hk5.vip.prod.criteo.net
 static.hotjar.com
 static.hyprmx.com
-static.iadvize.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
@@ -6981,7 +6974,6 @@ xml.ezmob.com
 xml.revrtb.com
 xml1.adsimilate.com
 xmlserving.mobagent.com
-xmpp-ha-alb.iadvize.com
 xpig-dev.directservices.it
 xpromo.g5e.com
 xtr.carambo.la
