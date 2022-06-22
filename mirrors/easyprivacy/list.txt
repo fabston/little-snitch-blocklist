@@ -1984,7 +1984,6 @@ cc.pennstatehealth.org
 cc.swiftype.com
 ccaas.avaya.com
 ccexperimentsstatic.oracleoutsourcing.com
-ccm19.de
 ccmd.coveredca.com
 ccpa.psg.nexstardigital.net
 cdfhpj.automobile.it
@@ -5268,6 +5267,7 @@ ln.ameba.jp
 lntvby.banggood.com
 lnvguu.lifood.jp
 lnxfgm.party-calendar.net
+loader-cdn.azureedge.net
 loader.zeroform.com
 localbeige.club
 lodicoandco.actonservice.com
@@ -6713,6 +6713,7 @@ old.legacy.tester.controller.net.zooplus.com
 oldapi.admins.net.zooplus.de
 oldapi.login.net.zooplus.de
 olpmni.acer.com
+olytics.omeda.com
 om.a1vacations.com
 om.aopa.org
 om.cnet.com.au
@@ -10578,6 +10579,7 @@ tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
+tags.fullcontact.com
 tags.globo.com
 tags.johnlewis.com
 tags.master-perf-tools.com
@@ -12111,6 +12113,7 @@ w3.flatex.at
 w3.flatex.de
 w3.flatex.nl
 w3.vitrade.de
+w4o7aea80ss3-a.akamaihd.net
 w7.berlin.de
 w7.weihnachteninberlin.de
 w740.newstimes.com
