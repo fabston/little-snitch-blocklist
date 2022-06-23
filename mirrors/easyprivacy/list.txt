@@ -3689,6 +3689,7 @@ events.kangan.edu.au
 events.mapbox.com
 events.matterport.com
 events.medio.com
+events.mercadolibre.com
 events.mywd.com
 events.newsroom.bi
 events.newyorklifeinvestments.com
@@ -5352,6 +5353,7 @@ loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
 logs.51cto.com
+logs.animaapp.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -10285,8 +10287,6 @@ stats.xn--drivation-b4a.fr
 stats.yinyuetai.com
 stats.yourdallashandyman.com
 stats.zander.wtf
-stats.zone-annuaire.one
-stats.zone-telechargement.click
 stats.zotabox.com
 stats1.tune.pk
 stats2.tune.pk

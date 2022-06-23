@@ -3318,11 +3318,13 @@ mkt11353.com
 mkt11354.com
 mkt11355.com
 mkt11356.com
+mkt11358.com
 mkt11359.com
 mkt1136.com
 mkt11360.com
 mkt11361.com
 mkt11362.com
+mkt11363.com
 mkt11364.com
 mkt11366.com
 mkt11367.com
@@ -3331,6 +3333,7 @@ mkt11369.com
 mkt1137.com
 mkt11370.com
 mkt11373.com
+mkt11377.com
 mkt1138.com
 mkt11382.com
 mkt1139.com
@@ -13832,6 +13835,7 @@ smetrics.repco.com.au
 smetrics.riteaid.com
 smetrics.robeco.com
 smetrics.roche.de
+smetrics.rockandpop.cl
 smetrics.rockettes.com
 smetrics.roland.com
 smetrics.rolex.com
@@ -14329,7 +14333,6 @@ tqlkg.com
 tqn.com
 track.addevent.com
 track.canva.com
-track.deskgod.com
 track.dictionary.com
 track.easeus.com
 track.flexlinkspro.com
