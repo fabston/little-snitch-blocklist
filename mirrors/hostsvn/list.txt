@@ -739,6 +739,7 @@ gluco.native-ad.net
 go.mediaz.vn
 go.polyad.net
 go.vnecdn.com
+google-shopping-v2.sapoapps.vn
 google-shopping.sapoapps.vn
 googleshopping.sapoapps.vn
 gostats.vn
@@ -901,6 +902,7 @@ log.bizlive.vn
 log.d.eclick.vn
 log.daidoanket.vn
 log.dantocmiennui.vn
+log.dav.edu.vn
 log.doanhnhan.vn
 log.eclick.vn
 log.giaoduc.net.vn
@@ -1215,6 +1217,7 @@ ranking.younetmedia.com
 rd.ambientplatform.vn
 realclick.vn
 rec.admicro.vn
+rec.aiservice.vn
 rec.donglogs.com
 recommender.ezca.asia
 recsite.smartconvert.co
@@ -1404,6 +1407,7 @@ static2.adtimaserver.vn
 static3.urekamedia.com
 staticad.thethao247.vn
 statis.dsp.vn
+statistic-blog-v2.sapoapps.vn
 statistic.batdongsan.com.vn
 statistics-vov2.vov.vn
 statistics.tapchimypham.com.vn
@@ -1467,6 +1471,7 @@ thapi.flygame.io
 thegioididong.me
 thgame.flygame.io
 thongke.24h.com.vn
+thongke.arttimes.vn
 thongke.baotintuc.vn
 thongke.bookingcare.vn
 thongke.khampha.vn

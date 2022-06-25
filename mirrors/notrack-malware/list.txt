@@ -15,7 +15,6 @@ api.essentialchannel.com
 api.interfacehelper.com
 api.interfacesmode.com
 api.logpartition.com
-api.lookupindex.com
 api.lookupmanager.com
 api.masterprotocols.com
 api.rotatornet.com
