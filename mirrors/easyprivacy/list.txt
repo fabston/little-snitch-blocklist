@@ -1169,6 +1169,7 @@ analytics.chegg.com
 analytics.churchthemes.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cloud.coveo.com
 analytics.cmn.com
 analytics.cocolog-nifty.com
 analytics.codeforscience.org
@@ -2244,6 +2245,7 @@ col.idealista.pt
 coletor.terra.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
+collect-v6.51.la
 collect.adplogger.no
 collect.alipay.com
 collect.cloudsponge.com
@@ -10527,6 +10529,7 @@ t.sharethis.com
 t.signalayer.com
 t.skimresources.com
 t.smile.eu
+t.splicky.com
 t.spot.im
 t.toxbuddy.com
 t.tulsahurricane.com
