@@ -1,5 +1,6 @@
 # A file containing the false positives that have been removed.
 # =============================================================
+awstrack.me
 stream.binance.com
 referral.crypto.com
 dpm.demdex.net
