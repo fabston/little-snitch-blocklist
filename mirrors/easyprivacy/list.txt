@@ -1954,6 +1954,7 @@ canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 capablecows.com
 capablecup.com
+captcha-display.com
 capture-api.ap3prod.com
 capture.condenastdigital.com
 carburanalyticsspace.carte-gr.total.fr
@@ -6775,6 +6776,7 @@ oozgka.immoscout24.ch
 op-drive-sto.carrefour.fr
 opel.net.zooplus.com
 open.delivery.net
+openfpcdn.io
 operationkettle.com
 oph7o.montecarlosbm-corporate.com
 ophan.theguardian.com
@@ -10380,6 +10382,7 @@ summit.edm.globalsources.com
 sunlightmetrics.b-cdn.net
 superficialeyes.com
 superficialspring.com
+superpointlesshamsters.com
 supervisegoldfish.com
 support.api.prod.net.zooplus.de
 support.data-api.net.zooplus.de
