@@ -2628,6 +2628,7 @@ d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1iazwv1n1tsyi.cloudfront.net
+d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
@@ -6429,6 +6430,7 @@ mkzpqu.sungboon.com
 mlfolu.nabava.net
 mlhtmc.macnificos.com
 mlinks.fluz.app
+mlm-tracking-service.meinestadt.de
 mlmswk.janpara.co.jp
 mlweb.dmlab.hu
 mm-api.agency
@@ -6535,6 +6537,7 @@ nanostats.nanopress.it
 nappyattack.com
 nasi.etherscan.com
 nautilus.net.zooplus.de
+navigation-timing.meinestadt.de
 nbcxa65t002z.net.zooplus.fr
 nbg.seagate.com
 nbrngg.rinkaiseminar.co.jp
@@ -9421,6 +9424,7 @@ sp.baxterbulletin.com
 sp.bucyrustelegraphforum.com
 sp.burlingtonfreepress.com
 sp.caller.com
+sp.cargurus.co.uk
 sp.chillicothegazette.com
 sp.cincinnati.com
 sp.citizen-times.com
@@ -9867,6 +9871,7 @@ stats.4travel.jp
 stats.acadevor.com
 stats.administrarweb.es
 stats.adultswim.com
+stats.aerotime.aero
 stats.airfarewatchdog.co.uk
 stats.aixbrain.de
 stats.allaboutberlin.com
