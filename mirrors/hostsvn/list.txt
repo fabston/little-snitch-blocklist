@@ -41,6 +41,7 @@ ad.vietbao.vn
 ad.vkool.net
 ad.vnnayngaytin.vn
 ad.zing.vn
+ad.zinimedia.com
 adadmin.headlines.pw
 adapi.tuyensinh247.com
 adasia.fuseplatform.net
@@ -128,6 +129,7 @@ ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
 ads.platform.zalo.me
+ads.sexyland.vn
 ads.songmoi.vn
 ads.sporttv.today
 ads.suckhoegiadinh.com.vn
@@ -228,6 +230,7 @@ aff.atp.vn
 aff.mclick.mobi
 affiliate.chiaki.vn
 affiliate.k4.tinhte.vn
+affmates.com
 agency.adsota.com
 ai.nanda.vn
 ai.thanhnien.vn
@@ -252,14 +255,17 @@ analytics.admon.com.vn
 analytics.aita.gov.vn
 analytics.ambient-platform.com
 analytics.anthill.vn
+analytics.bachtuongphat.com
 analytics.bkav.com
 analytics.bkav.com.vn
+analytics.bluemotionmedia.vn
 analytics.diamondstarfinancial.com.vn
 analytics.donglogs.com
 analytics.eclick.vn
 analytics.explus.vn
 analytics.fsoft.com.vn
 analytics.hub-js.com
+analytics.jamstackvietnam.com
 analytics.jeoway.com
 analytics.mfocus.vn
 analytics.molistar.com
@@ -301,6 +307,7 @@ api.adfly.vn
 api.adsplay.xyz
 api.adtima.vn
 api.adtimaserver.vn
+api.affmates.com
 api.autoads.asia
 api.boclinkads.com
 api.cityads.com
@@ -374,6 +381,7 @@ banner.lavanetwork.net
 banner.novanet.vn
 banner.thadaco.vn
 banner.trangvangvietnam.com
+banner.uto.vn
 banners-gallery.coccoc.com
 baogia.vads.vn
 bd.urekamedia.com
@@ -555,6 +563,7 @@ cpm.vidoomy.com
 cpo.adflex.vn
 cpx.polyad.net
 cpx.vnecdn.com
+cre-ads.com
 creatives.lavanetwork.net
 crm.ants.vn
 crm.bizfly.vn
@@ -880,6 +889,7 @@ live.vnpgroup.net
 livechat.oncustomer.asia
 liveonline.nhanhoa.com
 lmht-membership.com
+lmsreport.systems.vn
 local-media.ambient-platform.com
 local-media.m.ambient-platform.com
 log-collector.shopee.vn
@@ -904,6 +914,7 @@ log.daidoanket.vn
 log.dantocmiennui.vn
 log.dav.edu.vn
 log.doanhnhan.vn
+log.dubaotiente.com
 log.eclick.vn
 log.giaoduc.net.vn
 log.hemera.com.vn
@@ -960,11 +971,15 @@ log4x.nixcdn.com
 log7.adsplay.xyz
 logapi.misa.com.vn
 logen.vietnamplus.vn
+loges.vietnamplus.vn
+logfr.vietnamplus.vn
 logg4u.cnnd.vn
 logging.admicro.vn
 logging.kinhtedothi.vn
 login.gammaplatform.com
+logkm.dantocmiennui.vn
 logperf.vnexpress.net
+logru.vietnamplus.vn
 logs.docnhanh.com.vn
 logs.giaoducthoidai.vn
 logs.thethaovanhoa.vn
@@ -972,6 +987,8 @@ logs1.reatimes.vn
 logsbin.dantri.com.vn
 logscafef.channelvn.net
 logv2.mp3.zing.vn
+logzh.dantocmiennui.vn
+logzh.vietnamplus.vn
 loind.mobio.vn
 lottery.flygame.io
 lottery.headlines.pw
@@ -991,7 +1008,9 @@ marketing.itgeek.vn
 marketingai.admicro.vn
 matomo.ecoe.vn
 matomo.energyfacility.vn
+matomo.hicity.vn
 matomo.magicmarketing.vn
+matomo.quan.hoabinh.vn
 matomo.shac.vn
 matomo.vepg.vn
 mautic.200lab.io
@@ -1072,6 +1091,7 @@ mxs02.cityads.com
 nanda.vn
 native-ad.net
 nct1.logging.nextsmarty.com
+nct2-logging.nct.vn
 new.cityads.com
 newlog.daidoanket.vn
 news-good.net
@@ -1197,6 +1217,7 @@ qc.klick.vn
 qc.kqbd88.com
 qc.mhsolution.vn
 qc.violet.vn
+qcao.happyskin.vn
 qccoccocmedia.vn
 qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
@@ -1279,6 +1300,7 @@ sentry-mini.zalo.me
 sentry.dantri.com.vn
 sentry.fptplay.net
 sentry.mediacdn.vn
+sentry.ministore.h5.zalo.me
 sentry.sendo.vn
 sentry.thucuc.vn
 seo.mediaz.vn
@@ -1435,6 +1457,7 @@ stiad.eclick.vn
 stla.eclick.vn
 stockbook-ads.firebaseapp.com
 stockbook-ads.firebaseio.com
+storage.affmates.com
 stportal.eclick.vn
 stream.adtimaserver.vn
 stream.org.adtimaserver.vn
@@ -1447,6 +1470,7 @@ sv-api-lottery.headlines.pw
 sv-static-lottery.headlines.pw
 sv-static1-lottery.headlines.pw
 syncwowsails.com
+systracking.admicro.vn
 t.ants.vn
 t.d.ants.vn
 t.d.eclick.vn

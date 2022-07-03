@@ -3371,6 +3371,7 @@ mkt11361.com
 mkt11362.com
 mkt11363.com
 mkt11364.com
+mkt11365.com
 mkt11366.com
 mkt11367.com
 mkt11368.com
@@ -3380,7 +3381,9 @@ mkt11370.com
 mkt11373.com
 mkt11374.com
 mkt11377.com
+mkt11379.com
 mkt1138.com
+mkt11380.com
 mkt11382.com
 mkt11383.com
 mkt11385.com
@@ -3390,6 +3393,7 @@ mkt11391.com
 mkt11393.com
 mkt11394.com
 mkt11396.com
+mkt11397.com
 mkt1140.com
 mkt1141.com
 mkt1142.com
@@ -13621,6 +13625,7 @@ smetrics.heathrow.com
 smetrics.heathrowexpress.com
 smetrics.hebprepaid.com
 smetrics.herbalife.com
+smetrics.hks-power.co.jp
 smetrics.hmhco.com
 smetrics.hollandamerica.com
 smetrics.hollisterco.com
@@ -13723,6 +13728,7 @@ smetrics.lululemon.com.hk
 smetrics.lululemon.de
 smetrics.lww.com
 smetrics.m1.com.sg
+smetrics.magnumicecream.com
 smetrics.mandg.com
 smetrics.marcus.com
 smetrics.maritimeintelligence.informa.com
@@ -13865,6 +13871,7 @@ smetrics.pharmaintelligence.informa.com
 smetrics.platformservices.co.uk
 smetrics.playcard.com
 smetrics.plumbenefits.com
+smetrics.plumbingtoday.biz
 smetrics.politico.com
 smetrics.politicopro.com
 smetrics.potterybarn.com
