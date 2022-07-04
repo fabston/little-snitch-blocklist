@@ -2458,7 +2458,6 @@ correctchaos.com
 count.asnetworks.de
 count.candou.com
 count.carrierzone.com
-count.channeladvisor.com
 count.me.uk
 count.munhwa.com
 count.paycounter.com
@@ -3710,7 +3709,6 @@ events.reclamefolder.nl
 events.reddit.com
 events.redditmedia.com
 events.regis.edu
-events.release.narrativ.com
 events.santander.co.uk
 events.shareably.net
 events.sk.ht
@@ -3940,6 +3938,7 @@ fpc.singleplatform.com
 fpc.spurs.com
 fpc.trimarkusa.com
 fpcdallasstars.nhl.com
+fpcdn.io
 fpcsbulls.nba.com
 fpt.microsoft.com
 fpwtsp.xxxlutz.de
@@ -7004,6 +7003,7 @@ perso.aws.arc.pub
 persuadesock.com
 persuadesupport.com
 pesaea.autoesa.cz
+pets.channeladvisor.com
 pevftg.shopee.sg
 pezxux.footlocker.co.uk
 pf.intuit.com
@@ -10472,6 +10472,7 @@ t.brand-server.com
 t.c4tw.net
 t.castle.io
 t.cfjump.com
+t.channeladvisor.com
 t.clic2buy.com
 t.comms.thetimes.co.uk
 t.cubuffs.com
