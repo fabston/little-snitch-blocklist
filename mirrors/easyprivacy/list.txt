@@ -2349,6 +2349,7 @@ connect.dimensiondata.com
 connect.flowroute.com
 connect.frontier.com
 connect.ftpresents.com
+connect.idocdn.com
 connect.imam-us.org
 connect.intel.com
 connect.lightriver.com
@@ -8154,6 +8155,7 @@ securecookies.dustinhome.se
 securedata.dats24.be
 secureflashplayerfeedback.adobe.com
 secureforms.cirium.com
+securemetrics.apple.com
 securemetrics.gap.com
 secureod.odfl.com
 securetags.gisbaltic.eu

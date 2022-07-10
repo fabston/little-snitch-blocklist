@@ -610,6 +610,7 @@ adserver.adtech.advertising.com
 adserver.adtech.de
 adserver.adtechjp.com
 adserver.adtechus.com
+adserver.adverty.com
 adserver.bridgebase.com
 adserver.iprom.net
 adserver.merciless.localstars.com
@@ -1421,6 +1422,7 @@ assets-v2.yieldify.com
 assets.abbi.io
 assets.adspruce.com
 assets.adstage.io
+assets.anzuinfra.com
 assets.appboycdn.com
 assets.applovin.com
 assets.bounceexchange.com
@@ -1791,6 +1793,7 @@ caesar.iad-03.braze.com
 campaign.ad-brix.com
 campaign.adobe.com
 capi.connatix.com
+caps-server.anzu.io
 carambo.la
 cards-sea-nfl.yinzcam.com
 carfax.sc.omtrdc.net
@@ -2735,6 +2738,7 @@ dtvc.adsafeprotected.com
 duapps.com
 duiba.com.cn
 dvgtm.akadns.net
+dynamic-l1.anzuinfra.com
 dynamic.criteo.com
 dynamic.da1.vip.prod.criteo.com
 dyntrk.com
@@ -2803,6 +2807,7 @@ embed.sendtonews.com
 embed.tagboard.com.herokudns.com
 embed.tempest-identity.prod.saymedia.com
 emea-v3.tracking.justpremium.com
+emqx.anzuinfra.com
 emxdgt.com
 emxhb.emxdgt.com
 encyclopediabritannica.blueconic.net
@@ -2904,6 +2909,7 @@ events-stream-svc.usw2.cordial.com
 events-us-east-1.ipredictive.com
 events-us-west-2.ipredictive.com
 events.aerserv.com
+events.anzuinfra.com
 events.apester.com
 events.api.boomtrain.com
 events.api.vungle.com
@@ -3809,6 +3815,8 @@ l.qq.com
 l.sharethis.com
 l.tcp.push.mob.com
 l0-secure.videohub.tv
+l1-1.anzu.io
+l3-2.anzuinfra.com
 l3.evidon.com
 la-match.taboola.com
 la-sync.taboola.com
@@ -3955,6 +3963,7 @@ logging.admicro.vn
 logging.api.intuit.com
 logging.carambo.la
 logging.fishsticksgames.com
+logic.anzuinfra.com
 logs-01.loggly.com
 logs.81plug.com
 logs.datadoghq.com
@@ -6415,6 +6424,7 @@ trk.games-to-run123.com
 trk.hot-mob.com
 trk.in25app.com
 trk.kissmetrics.com
+trk.klclick1.com
 trk.pinterest.com
 trk.superads.cn
 trk.tidaltv.com
@@ -6467,6 +6477,7 @@ ud.tubemogul.com
 udc-neb.kampyle.com
 udm.scorecardresearch.com
 udp.push.mob.com
+ue.applovin.com
 ue.flipboard.com
 uefa.pushwoosh.com
 ufs.adkmob.com
