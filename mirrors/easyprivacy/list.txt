@@ -1154,6 +1154,7 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.belgacom.be
+analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bigcommerce.com
 analytics.bitrix.info
@@ -7119,6 +7120,7 @@ pixel.honestjohn.co.uk
 pixel.inforsea.com
 pixel.ionos.fr
 pixel.kknews.cc
+pixel.lilystyle.ai
 pixel.locker2.com
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
@@ -7653,6 +7655,7 @@ reydrj.papilot.pl
 rezync.com
 rfk.biglots.com
 rflrlt.divano.ru
+rftslb.com
 rgiixp.sperry.com
 rh5i.tradingsat.com
 rhetoricalveil.com
@@ -9350,6 +9353,7 @@ solutions.dbschenker.com
 solutions.desertfinancial.com
 solutions.equifax.co.uk
 solutions.healthlinx.com
+solutions.invocacdn.com
 solutions.peco-energy.com
 solutions.refinitiv.com
 solutions.risk.lexisnexis.com
@@ -10448,7 +10452,6 @@ support2.flex.com
 supportmetrics.apple.com
 survey.interquest.com
 suspendseed.com
-sv.aq.qq.com
 svarcom.actonservice.com
 svoywu.autoscout24.de
 swa.and.co.uk
