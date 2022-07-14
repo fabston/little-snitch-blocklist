@@ -713,7 +713,6 @@ bevyup.com
 bid.glass
 bidence.net
 bidgear.com
-bidmyqps.xyz
 bidr.io
 bidstreamserver.com
 bidswitch.com
@@ -3163,6 +3162,7 @@ mkt11159.com
 mkt1116.com
 mkt11160.com
 mkt11161.com
+mkt11162.com
 mkt11163.com
 mkt11164.com
 mkt11165.com
@@ -3328,6 +3328,7 @@ mkt1132.com
 mkt11320.com
 mkt11321.com
 mkt11322.com
+mkt11323.com
 mkt11324.com
 mkt11325.com
 mkt11326.com
@@ -3386,6 +3387,7 @@ mkt11374.com
 mkt11375.com
 mkt11376.com
 mkt11377.com
+mkt11378.com
 mkt11379.com
 mkt1138.com
 mkt11380.com
@@ -3404,8 +3406,12 @@ mkt11396.com
 mkt11397.com
 mkt11399.com
 mkt1140.com
+mkt11400.com
 mkt11402.com
+mkt11406.com
 mkt1141.com
+mkt11411.com
+mkt11413.com
 mkt1142.com
 mkt1143.com
 mkt1144.com
@@ -13907,6 +13913,7 @@ smetrics.ralphlauren.es
 smetrics.ralphlauren.ie
 smetrics.ralphlauren.it
 smetrics.ralphlauren.nl
+smetrics.ralphlauren.pt
 smetrics.rate.com
 smetrics.ray-ban.com
 smetrics.realcanadiansuperstore.ca
