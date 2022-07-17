@@ -1313,7 +1313,6 @@ foresee.com
 foreseeresults.com
 formalyzer.com
 forter.com
-forthcomingpropelwho.com
 forwardtomyfriend.com
 fqtag.com
 fredhopperservices.com
@@ -3179,6 +3178,7 @@ mkt11174.com
 mkt11175.com
 mkt11176.com
 mkt11177.com
+mkt11178.com
 mkt11179.com
 mkt1118.com
 mkt11181.com
@@ -3408,11 +3408,18 @@ mkt11399.com
 mkt1140.com
 mkt11400.com
 mkt11402.com
+mkt11404.com
 mkt11406.com
+mkt11407.com
 mkt1141.com
+mkt11410.com
 mkt11411.com
 mkt11413.com
+mkt11415.com
+mkt11417.com
+mkt11418.com
 mkt1142.com
+mkt11424.com
 mkt1143.com
 mkt1144.com
 mkt1145.com
@@ -13597,6 +13604,7 @@ smetrics.francosarto.com
 smetrics.frontier.com
 smetrics.frontline.com
 smetrics.ftd.com
+smetrics.futuro.cl
 smetrics.gaes.es
 smetrics.gatesnotes.com
 smetrics.gcimetrics.com
@@ -14278,7 +14286,6 @@ steepto.com
 stickyadstv.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-stopzoology.com
 stores-counters.wix.com
 stormiq.com
 storygize.net
