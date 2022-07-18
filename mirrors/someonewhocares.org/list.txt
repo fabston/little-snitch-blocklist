@@ -1760,6 +1760,7 @@ an.yandex.ru
 analysis.fc2.com
 analytics-ingress-global.bitmovin.com
 analytics-static.ugc.bazaarvoice.com
+analytics.foresee.com
 analytics.global.sky.com
 analytics.kwebsoft.com
 analytics.msnbc.msn.com
@@ -6677,6 +6678,7 @@ producttestpanel.com
 prof.estat.com
 profile.uproxx.com
 profiline-berlin.de
+profit-btc.org
 profitboosterapp.com
 proflashdata.com
 projectgoals.net
@@ -7475,6 +7477,7 @@ sokrates.adtech.us
 sol-images.adbureau.net
 sol.adbureau.net
 solamor.com
+solarswitch4all.com
 solartia.com
 solicita.info
 solidbau.oewabox.at
@@ -7646,7 +7649,6 @@ static.unocdn.com
 static.vertamedia.com
 static.virgul.com
 static.vpptechnologies.com
-static.williamhill.com
 static.wooboo.com.cn
 static.youmi.net
 staticads.btopenworld.com
@@ -8926,6 +8928,7 @@ windows-wsus-update.com
 winter-balance.com
 wirtvlg.oewabox.at
 wishdownget.com
+wizzshop.trade
 wk4x5rdtoz2tn0.com
 wm.baidu.com
 wmedia.adk2x.com
