@@ -380,7 +380,6 @@ affluentshinymulticultural.com
 afftrack.com
 afftrack.pro
 afftrk.altex.ro
-aftv-serving.bid
 agafurretor.com
 agentanalytics.com
 agkn.com
@@ -1274,6 +1273,25 @@ eyeviewads.com
 ezodn.com
 ezoic.com
 ezoic.net
+f-log-at.grammarly.io
+f-log-balto.grammarly.io
+f-log-csp.grammarly.io
+f-log-editor-debug.grammarly.io
+f-log-editor.grammarly.com
+f-log-editor.grammarly.io
+f-log-extension.grammarly.io
+f-log-features-ci.grammarly.io
+f-log-js-plugin.grammarly.io
+f-log-mac-extension.grammarly.io
+f-log-mobile-ios.grammarly.io
+f-log-mobile.grammarly.io
+f-log-officeaddin.grammarly.io
+f-log-officeaddinjs.grammarly.io
+f-log-support.grammarly.io
+f-log-test.grammarly.io
+f-log-win-extension.grammarly.io
+f-log-wrex.grammarly.io
+f-log.grammarly.io
 face3media.com
 facetz.net
 facilitategovernor.com
@@ -1286,6 +1304,7 @@ fatmedia.io
 faultspiano.com
 fbot.me
 feedbackify.com
+femetrics.grammarly.io
 ferventhoaxresearch.com
 fetchback.com
 fidelity-media.com
@@ -3416,6 +3435,7 @@ mkt1140.com
 mkt11400.com
 mkt11402.com
 mkt11404.com
+mkt11405.com
 mkt11406.com
 mkt11407.com
 mkt1141.com
@@ -13755,6 +13775,7 @@ smetrics.lululemon.com
 smetrics.lululemon.com.au
 smetrics.lululemon.com.hk
 smetrics.lululemon.de
+smetrics.lululemon.es
 smetrics.lww.com
 smetrics.m1.com.sg
 smetrics.magnumicecream.com
@@ -14513,6 +14534,7 @@ tracking.rus.miui.com
 tracking.sezzle.com
 tracking.shopstyle.co.uk
 tracking.shopstyle.com
+tracking.unrealengine.com
 tracking.websitealive.com
 tracking.wetter.at
 tracking.wpnetwork.eu
