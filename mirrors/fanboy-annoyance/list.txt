@@ -35,6 +35,8 @@ cookie.consents.app
 cookie.gazeta.pl
 cookie.vrt.be
 cookie.wieni.be
+cookieapi.incomit.dk
+cookieapi2.incomit.dk
 cookies.fakt.pl
 cookies.forbes.pl
 cookies.gardena.net
