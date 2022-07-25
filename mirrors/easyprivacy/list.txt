@@ -5387,6 +5387,7 @@ logistics.osmworldwide.com
 loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
+logs-partners.coupang.com
 logs.51cto.com
 logs.animaapp.com
 logs.gaana.com
@@ -10896,6 +10897,7 @@ tms.dmp.wi-fi.ru
 tms.eharmony.ca
 tms.fmm.io
 tmy8.madeindesign.ch
+tncid.app
 tns.simba.taobao.com
 to.getnitropack.com
 tock.weg.plus
