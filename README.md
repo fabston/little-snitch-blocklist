@@ -12,9 +12,9 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### 🌟 About
 
-* Entries: **180,987**
-* Size: **32M**
-* Updated: **Jul 25, 2022, 03:00 PM (UTC)**
+* Entries: **182,706**
+* Size: **29M**
+* Updated: **Jul 26, 2022, 03:00 PM (UTC)**
 * Expires: 1 day (frequency)
 * Here's the [RAW file](https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt)
 
