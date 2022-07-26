@@ -80,6 +80,7 @@ adnetwork.vn
 adpia.vn
 adpostback.headlines.pw
 adrealclick.com
+ads-admin.hubs.vn
 ads-api.playfun.vn
 ads-backend.nhadatmoi.net
 ads-cdn.fptplay.net
@@ -289,6 +290,7 @@ analytics.vnncdn.net
 analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.yomedia.vn
+analytics.yts.vn
 analytics.zapps.vn
 analytics.zim.vn
 antalyser.ants.vn
@@ -329,9 +331,12 @@ api.subiz.net
 api.subiz.xyz
 api.unibots.in
 api.widget.zalo.me
+api.wiinvent.tv
 api2.boclinkads.com
 api4report.adsplay.xyz
 apia.headlines.pw
+apilog.mytvnet.vn
+apilogduration.mytvnet.vn
 apinas.nct.vn
 apis.adbro.me
 apiv2.tiin.vn
@@ -393,6 +398,7 @@ beta.onmarketer.net
 betaapi.autoads.asia
 betacdn.autoads.asia
 bgadx.com
+bi.vhost.vn
 bidgear-syndication.com
 bidgear.com
 blogstatistics.sapoapps.vn
@@ -465,7 +471,6 @@ cdn.rongzhouxing.com
 cdn.serving.ad.org.vn
 cdn.starseed.fr
 cdn.surfcountor.com
-cdn.tekoapis.com
 cdn.tpmedia.online
 cdn.unibots.in
 cdn.urekamedia.com
@@ -500,6 +505,8 @@ chiasephim.xyz
 chin-adnetwork.com
 cityads.com
 cityadstrack.com
+cjm.vnptmedia.vn
+cjmgw.vnptmedia.vn
 cleverads.vn
 clevernet.vn
 cli.ambient-platform.com
@@ -535,6 +542,7 @@ code.native-ad.net
 codon.vn
 collect.ovp.vn
 congnb.analytics.saas-vn.network
+content-ml.admicro.vn
 context.qc.coccoc.com
 contineljs.com
 conv.adnetwork.vn
@@ -546,6 +554,7 @@ corenlp.admicro.vn
 counter.24h.com.vn
 counter.ntdvn.com
 counter.ntdvn.net
+countervov.emitech.vn
 cp.adsplay.xyz
 cp.novanet.vn
 cp.polyad.net
@@ -569,6 +578,7 @@ crm.ants.vn
 crm.bizfly.vn
 crm.englishtown.edu.vn
 crmbizfly.todo.vn
+crmx.eqvn.net
 crocopop.com
 crowd.novaon.asia
 crp.urekamedia.com
@@ -671,6 +681,8 @@ elink.nhanlucnganhluat.vn
 elogs.vnexpress.net
 ema.hostvn.net
 emarketing.eclick.vn
+embed.wiinvent.com.vn
+embed.wiinvent.tv
 engineering.adsplay.net
 enterpriseapi.admicro.vn
 erp.novaon.asia
@@ -734,6 +746,7 @@ garena.fan
 garena.mobi
 garenaa.vn
 garenaj.vn
+garenalqm.com
 garera.vn
 garrena.vn
 gcjs.genmonet.com
@@ -825,8 +838,12 @@ insight.ants.vn
 insight.mediaz.vn
 interactive.brand.zing.vn
 interactive.tinnhanhchungkhoan.vn
+intranet.dcorp.com.vn
 invite.baomoi.com
 iosalpha.onfluencer.net
+ipcc-vnp1.vnptmedia.vn
+ipcc.shop.vnpt.vn
+ipcc.vnpt.com.vn
 irduwhojas.ga
 itim.vn
 j.eclick.vn
@@ -885,6 +902,7 @@ lienquan-garena-giftcode.com
 lienquanmobilequatang.com
 link.cado.pro
 live-api.oncustomer.asia
+live.careplusvn.com
 live.vnpgroup.net
 livechat.oncustomer.asia
 liveonline.nhanhoa.com
@@ -934,6 +952,7 @@ log.pv1.eclick.vn
 log.saleup88.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
+log.smoney.vn
 log.starseed.fr
 log.tapchimattran.vn
 log.tapchitaichinh.vn
@@ -1025,6 +1044,7 @@ mautic.educa.vn
 mautic.educe.vn
 mautic.haproinfo.vn
 mautic.hicity.vn
+mautic.hubs.vn
 mautic.icsc.vn
 mautic.itnavi.com.vn
 mautic.jagodo.vn
@@ -1296,13 +1316,6 @@ sellers.urekamedia.com
 sen02.younetmedia.com
 send.mediaz.vn
 sendy.adpia.vn
-sentry-mini.zalo.me
-sentry.dantri.com.vn
-sentry.fptplay.net
-sentry.mediacdn.vn
-sentry.ministore.h5.zalo.me
-sentry.sendo.vn
-sentry.thucuc.vn
 seo.mediaz.vn
 september.cityads.com
 service-api.accesstrade.vn
@@ -1463,6 +1476,7 @@ stream.adtimaserver.vn
 stream.org.adtimaserver.vn
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 subiz-cdn.com
+support-maps.live
 support.tenten.vn
 surfcountor.com
 sv-api-event.headlines.pw
@@ -1560,6 +1574,7 @@ tracking.fff.com.vn
 tracking.gapone.vn
 tracking.hapiwork.vn
 tracking.hongtinnhanh.com
+tracking.hubs.vn
 tracking.meta.vn
 tracking.onfluencer.net
 tracking.phunuadong.vn
@@ -1676,6 +1691,8 @@ wifi-api3.adsplay.xyz
 wifi-api4.adsplay.xyz
 wifi.adsplay.xyz
 wifiads.cleverads.vn
+wiinvent.com.vn
+wiinvent.tv
 worth.smartconvert.co
 wp-cdn.cityads.com
 wpn.codon.vn
