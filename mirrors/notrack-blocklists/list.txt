@@ -529,7 +529,6 @@ analytics.query.yahoo.com
 analytics.quizizz.com
 analytics.regex101.com
 analytics.rodpub.com
-analytics.rosehosting.com
 analytics.samsungknox.com
 analytics.schoolwires.com
 analytics.sem-track.com
@@ -1756,7 +1755,6 @@ logger.zcoup.com
 loggly.com
 loginradius.com
 logmatic.io
-lognormal.net
 logs.amap.com
 logs.autofi.com
 logs.boardkingsgame.com
@@ -3392,6 +3390,7 @@ mkt11353.com
 mkt11354.com
 mkt11355.com
 mkt11356.com
+mkt11357.com
 mkt11358.com
 mkt11359.com
 mkt1136.com
@@ -3431,6 +3430,7 @@ mkt11393.com
 mkt11394.com
 mkt11396.com
 mkt11397.com
+mkt11398.com
 mkt11399.com
 mkt1140.com
 mkt11400.com
@@ -3439,6 +3439,7 @@ mkt11404.com
 mkt11405.com
 mkt11406.com
 mkt11407.com
+mkt11409.com
 mkt1141.com
 mkt11410.com
 mkt11411.com
@@ -14007,7 +14008,6 @@ smetrics.seb.ee
 smetrics.seb.lv
 smetrics.seguro.mediaset.es
 smetrics.sephora.com
-smetrics.service-plans.io
 smetrics.sfr.fr
 smetrics.shangri-la.com
 smetrics.shannons.com.au
