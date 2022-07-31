@@ -3101,6 +3101,7 @@ mkt11080.com
 mkt11081.com
 mkt11082.com
 mkt11083.com
+mkt11084.com
 mkt11085.com
 mkt11086.com
 mkt11087.com
@@ -3448,6 +3449,8 @@ mkt11418.com
 mkt1142.com
 mkt11424.com
 mkt1143.com
+mkt11431.com
+mkt11435.com
 mkt1144.com
 mkt1145.com
 mkt1146.com
@@ -13195,7 +13198,6 @@ secretmedia.com
 securedvisit.com
 securemetrics.apple.com
 securemetrics.athletawell.com
-securemetrics.edu.ws
 securemetrics.yeezygap.com
 securepaths.com
 seedtag.com
@@ -13895,7 +13897,6 @@ smetrics.optimum.net
 smetrics.optum.com
 smetrics.orangetheory.com
 smetrics.otsuka-us.com
-smetrics.oxfam.org.uk
 smetrics.pacsun.com
 smetrics.panasonic.net
 smetrics.pandora.net
@@ -14791,7 +14792,6 @@ webvisor.org
 weekli.systems
 whoisvisiting.com
 widespace.com
-windychinese.com
 wingify.com
 wisepops.com
 wistia.net
