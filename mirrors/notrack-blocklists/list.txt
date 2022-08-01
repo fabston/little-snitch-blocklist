@@ -555,7 +555,6 @@ analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yongjinbao.com.cn
 analytics.yugen.to
-analytics.zinlab.com
 analyticsmsp.com
 analyticspixel.microsoft.com
 and.co.uk
@@ -572,7 +571,6 @@ anyclip.com
 anythinktech.com
 apester.com
 api-analytics-de.huami.com
-api-analytics-in.huami.com
 api-analytics-ru.huami.com
 api-analytics-us.huami.com
 api-telemetry.servers.getgo.com
@@ -1041,7 +1039,6 @@ dc-storm.com
 de.coremetrics.com
 de17a.com
 dealer.com
-decaysnort.com
 decenthat.com
 decibelinsight.com
 decibelinsight.net
