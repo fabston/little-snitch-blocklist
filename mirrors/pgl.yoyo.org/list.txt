@@ -1017,6 +1017,7 @@ apathetictheory.com
 api.amplitude.com
 api.eu.amplitude.com
 api.intensifier.de
+api.iterable.com
 api.kameleoon.com
 api.lab.amplitude.com
 api.rudderlabs.com
@@ -2066,7 +2067,6 @@ ipstack.com
 irchan.com
 ireklama.cz
 is-tracking-pixel-api-prod.appspot.com
-iterable.com
 itop.cz
 its-that-easy.com
 iubzka.online
@@ -2083,6 +2083,7 @@ jdoqocy.com
 jinkads.de
 joetec.net
 js-agent.newrelic.com
+js.iterable.com
 js.users.51.la
 jsecoin.com
 jsrdn.com
