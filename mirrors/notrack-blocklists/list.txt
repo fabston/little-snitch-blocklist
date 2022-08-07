@@ -1709,7 +1709,6 @@ likedstring.com
 lilystyle.ai
 linkbucks.com
 linkis.com
-linkoffers.net
 linkpulse.com
 linksynergy.com
 lipperhey.com
@@ -3421,6 +3420,7 @@ mkt11384.com
 mkt11385.com
 mkt11387.com
 mkt11388.com
+mkt11389.com
 mkt1139.com
 mkt11391.com
 mkt11393.com
@@ -3437,6 +3437,7 @@ mkt11404.com
 mkt11405.com
 mkt11406.com
 mkt11407.com
+mkt11408.com
 mkt11409.com
 mkt1141.com
 mkt11410.com
@@ -3447,15 +3448,19 @@ mkt11415.com
 mkt11417.com
 mkt11418.com
 mkt1142.com
+mkt11423.com
 mkt11424.com
 mkt11425.com
 mkt11427.com
 mkt1143.com
 mkt11431.com
+mkt11433.com
 mkt11434.com
 mkt11435.com
+mkt11437.com
 mkt11438.com
 mkt1144.com
+mkt11440.com
 mkt1145.com
 mkt1146.com
 mkt1147.com
@@ -12568,7 +12573,6 @@ mobilegamestats.com
 mobiletech.no
 mobiletelemetry.ebay.com
 mobilexpression.com
-mobpartner.com
 mobpartner.mobi
 mobring.co
 mobytrks.com
@@ -13168,7 +13172,10 @@ salecycle.com
 salesfire.co.uk
 salesmanago.pl
 salutationcheerlessdemote.com
+samsungadhub.com
 samsungads.com
+samsungsads.com
+samsungtvads.com
 sanalytics.verizon.com
 sanalytics.verizonwireless.com
 sas15k01.com
