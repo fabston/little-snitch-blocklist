@@ -2229,6 +2229,7 @@ collect-eu.attraqt.io
 collect-v6.51.la
 collect.adplogger.no
 collect.alipay.com
+collect.banggood.com
 collect.cloudsponge.com
 collect.helsana.ch
 collect.iteam-dress.com
@@ -3677,6 +3678,7 @@ events.sk.ht
 events.splash-screen.net
 events.split.io
 events.splunk.com
+events.statsigapi.net
 events.strategic-i.com
 events.tubecup.org
 events.turbosquid.com
@@ -7386,6 +7388,7 @@ qitdsl.ralf.ru
 qjxiyt.respect-shoes.ru
 qkhhjm.autoscout24.nl
 qljiop.allabout.co.jp
+qm.redbull.com
 qmiiln.tower.jp
 qmlzcm.petshop.ru
 qmoyfh.xcite.com.sa
