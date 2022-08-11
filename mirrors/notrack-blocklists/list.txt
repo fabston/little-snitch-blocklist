@@ -3429,6 +3429,7 @@ mkt1139.com
 mkt11391.com
 mkt11393.com
 mkt11394.com
+mkt11395.com
 mkt11396.com
 mkt11397.com
 mkt11398.com
@@ -3452,6 +3453,8 @@ mkt11415.com
 mkt11417.com
 mkt11418.com
 mkt1142.com
+mkt11420.com
+mkt11421.com
 mkt11423.com
 mkt11424.com
 mkt11425.com
@@ -12635,7 +12638,6 @@ myvisualiq.net
 myxheat.com
 n-core-pipe.com
 n214adserv.com
-namesurf.net
 nanigans.com
 nanogardens.tech
 nanorep.com
@@ -14191,6 +14193,7 @@ smetrics.workingadvantage.com
 smetrics.worldbank.org
 smetrics.worldmarket.com
 smetrics.wowtv.de
+smetrics.wradio.com.mx
 smetrics.wunetspendprepaid.com
 smetrics.wyndhamhotels.com
 smetrics.yaencontre.com
