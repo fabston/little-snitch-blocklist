@@ -725,6 +725,7 @@ events.samsungads.com
 events.startappservice.com
 events3.adcolony.com
 events3alt.adcolony.com
+evri-package-gb.web.app
 exchange.dumb1.com
 exchange.longmusic.com
 exp100.strangled.net
@@ -1201,6 +1202,7 @@ neymar.alphonso.tv
 nffdg43zx.appspot.com
 nicemice.cf
 nj.thor.rtk.io
+nl-crypto.com
 nl1.ero-advertising.com
 nl2.ero-advertising.com
 nlocalhost.wordtheminer.com
