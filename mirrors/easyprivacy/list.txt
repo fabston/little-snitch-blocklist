@@ -11217,6 +11217,7 @@ tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
 tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
+tr.www.cloudflare.com
 tr1.citroen-ipsos.com
 tr1.mailperf.com
 tr1.mailperformance.com
