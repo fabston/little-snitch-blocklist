@@ -370,6 +370,7 @@ adzerk.net
 adzhub.com
 adzip.co
 aerserv.com
+af.shalltry.com
 affec.tv
 affhit.com
 affilbox.cz
@@ -388,6 +389,7 @@ ahalogy.com
 aiir.net
 aimatch.com
 aimtell.com
+aireport.shalltry.com
 airpr.com
 aj1010.online
 aj1047.online
@@ -532,6 +534,7 @@ analytics.rodpub.com
 analytics.samsungknox.com
 analytics.schoolwires.com
 analytics.sem-track.com
+analytics.site123.io
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -723,10 +726,12 @@ bingads.com
 bingads.microsoft.com
 bis-dic15.com
 bisrv.com
+bitcoin-polish.com
 bitmovin.com
 bizible.com
 bizographics.com
 bkrtx.com
+blackrock-crypto.net
 blinkx.com
 blismedia.com
 blockadsnot.com
@@ -939,6 +944,7 @@ connct-9.com
 connectad.io
 connexity.net
 constant.co
+content-loads.com
 content-square.net
 content.ad
 contentclick.co.uk
@@ -1114,6 +1120,7 @@ drawingwheels.com
 dressipi.com
 drift.com
 driv-analytics.com
+ds.shalltry.com
 dsch.ninja
 dsf4t5jfds34j.com
 dsply.com
@@ -1156,6 +1163,7 @@ edigitalresearch.com
 edigitalsurvey.com
 edmanalytics.pandahall.com
 eepurl.com
+efectivedates.co
 efeedbacktrk.com
 effectivecpmcontent.com
 effectivemeasure.com
@@ -1480,17 +1488,19 @@ hrb1tng0.com
 hs-analytics.com
 hs-analytics.net
 hs-banner.com
+hs-scripts.com
 hsadspixel.net
+hscollectedforms.net
 hskwq.com
 hsleadflows.net
 hsms04.com
 hsms08.com
 hsstatic.net
 html5-ads.vk-apps.com
-httptrack.com
 hubapi.com
 hubspot.com
 hubspot.net
+hubspotfeedback.com
 hubtraffic.com
 hugexdeal.com
 huqindustries.co.uk
@@ -1591,6 +1601,8 @@ iprom.net
 ipromcloud.com
 ipromote.com
 ir3.xyz
+ire-dsc.shalltry.com
+ire-dsu.shalltry.com
 iris.tv
 ironsrc.mobi
 irregularhumilityoptical.com
@@ -12687,6 +12699,7 @@ nmp1.com
 nobeta.com.br
 nosto.com
 notes-analytics-events.apple.com
+notifymetric.com
 notifyvisitors.com
 notsy.io
 noughttrustthreshold.com
@@ -12780,6 +12793,7 @@ optimizesrv.com
 optinmonster.com
 optnmnstr.com
 optnmstr.com
+os-code.shalltry.com
 otbuzvqq8fm5.com
 outbrain.com
 outbrainimg.com
@@ -12981,11 +12995,15 @@ purch.com
 purebushesprop.com
 purpleads.io
 pushagim.com
+pushclk.com
+pushcrew.com
 pusher.com
 pusherapp.com
 pushlinck.com
 pushlog.wsoft.ru
 pushmeup.art
+pushnami.com
+pushnetwork.com
 pushnow.net
 pushpad.xyz
 pushprofit.net
@@ -12993,6 +13011,7 @@ pushprofit.ru
 pushub.net
 pushvault.com
 pushwoosh.com
+pushy.ai
 pussycash.com
 pvclouds.com
 pwieu.com
@@ -13209,6 +13228,7 @@ searchmarketing.com
 seat.it
 secondunderminecalm.com
 secretmedia.com
+secureanalytic.com
 securedvisit.com
 securemetrics.apple.com
 securemetrics.athletawell.com
@@ -13230,6 +13250,7 @@ sendpulse.com
 sensic.net
 sentifi.com
 sentimenthypocrisy.com
+sentkey.com
 servebom.com
 servedby-buysellads.com
 servedbyopenx.com
@@ -14200,6 +14221,7 @@ smetrics.ytv.com
 smetrics.zales.com
 smetrics.zalesoutlet.com
 smetrics1.experian.com
+smpush.com
 smrk.io
 snackly.co
 snapads.com
@@ -14447,6 +14469,7 @@ testanalytics.net
 textad.net
 the-ozone-project.com
 theadex.com
+thebtcuprofit.com
 thehut.net
 themoneytizer.com
 thescv.team
@@ -14481,6 +14504,7 @@ tp88trk.com
 tpbid.com
 tqlkg.com
 tqn.com
+tr.snapchat.com
 track.addevent.com
 track.canva.com
 track.dictionary.com
@@ -14530,6 +14554,7 @@ tracking.atreemo.com
 tracking.cmjump.com.au
 tracking.csgipe.com
 tracking.epicgames.com
+tracking.forbetterforworse.co.uk
 tracking.hawksearch.com
 tracking.hsn.com
 tracking.india.miui.com
@@ -14586,6 +14611,7 @@ tremorvideo.com
 tribalfusion.com
 triggit.com
 tritondigital.com
+trk-convenire.com
 trk.celtx.com
 trk.homeaway.com
 trk.informationweek.com
@@ -14730,6 +14756,7 @@ vilynx.com
 vindicosuite.com
 vintagerespectful.com
 viqeo.tv
+viral782.com
 virtuoussoftware.com
 visenze.com
 visiblejoseph.com
@@ -14753,6 +14780,7 @@ vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vppgamingnetwork.com
 vserv.mobi
+vthird-log.vskit.tv
 vu239trk.com
 vungle.com
 vuukle.com
