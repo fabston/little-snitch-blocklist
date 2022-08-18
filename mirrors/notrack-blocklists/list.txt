@@ -3460,6 +3460,7 @@ mkt11411.com
 mkt11413.com
 mkt11414.com
 mkt11415.com
+mkt11416.com
 mkt11417.com
 mkt11418.com
 mkt1142.com
@@ -3478,6 +3479,7 @@ mkt11437.com
 mkt11438.com
 mkt1144.com
 mkt11440.com
+mkt11442.com
 mkt1145.com
 mkt1146.com
 mkt1147.com
@@ -13196,8 +13198,6 @@ salesmanago.pl
 salutationcheerlessdemote.com
 samsungadhub.com
 samsungads.com
-samsungsads.com
-samsungtvads.com
 sanalytics.verizon.com
 sanalytics.verizonwireless.com
 sas15k01.com
@@ -13401,6 +13401,7 @@ smetrics.ally.com
 smetrics.americancentury.com
 smetrics.amfam.com
 smetrics.amica.com
+smetrics.amp.co.nz
 smetrics.ancestry.com
 smetrics.angara.com
 smetrics.angi.com
@@ -13497,6 +13498,7 @@ smetrics.bzees.com
 smetrics.caesars.com
 smetrics.cahealthwellness.com
 smetrics.caleres.com
+smetrics.calia.com
 smetrics.calvinklein.us
 smetrics.capitalone.com
 smetrics.careplushealthplans.com
@@ -13620,6 +13622,7 @@ smetrics.ellentube.com
 smetrics.elpais.com
 smetrics.elsevier.com
 smetrics.enelenergia.it
+smetrics.energia.ie
 smetrics.energyaustralia.com.au
 smetrics.enterprise.com
 smetrics.enterprisersproject.com
@@ -13685,6 +13688,7 @@ smetrics.globalnews.ca
 smetrics.globe.com.ph
 smetrics.go365.com
 smetrics.goindigo.in
+smetrics.goinggoinggone.com
 smetrics.golfgalaxy.com
 smetrics.gomastercard.com.au
 smetrics.grainger.com
@@ -14050,7 +14054,6 @@ smetrics.shell.co.uk
 smetrics.shellenergy.co.uk
 smetrics.shinseibank.com
 smetrics.sho.com
-smetrics.shopbop.com
 smetrics.shopmyexchange.com
 smetrics.shoppersdrugmart.ca
 smetrics.shoppremiumoutlets.com
@@ -14188,6 +14191,7 @@ smetrics.vueling.com
 smetrics.vw.com
 smetrics.vwfs-service-plans.io
 smetrics.vwfs.de
+smetrics.wacken.com
 smetrics.walgreens.com
 smetrics.waseda-ac.co.jp
 smetrics.waters.com

@@ -4,9 +4,6 @@
 24h-ipad-ad.24hstatic.com
 360.anatic.net
 480.zaloapp.ads.zdn.vn
-5734a40f2d.vws.vegacdn.vn
-703531862.vws.vegacdn.vn
-95395c25b4.vws.vegacdn.vn
 a.adsplay.xyz
 a.ants.vn
 a.cdp.asia
@@ -90,6 +87,7 @@ ads.247phim.com
 ads.568play.vn
 ads.adflex.vn
 ads.admatrix.vn
+ads.alophim.org
 ads.ants.vn
 ads.appota.com
 ads.autonet.com.vn
@@ -505,6 +503,7 @@ chiasephim.xyz
 chin-adnetwork.com
 cityads.com
 cityadstrack.com
+cjm.mytv.vn
 cjm.vnptmedia.vn
 cjmgw.vnptmedia.vn
 cleverads.vn
@@ -690,6 +689,7 @@ erp2.novaon.asia
 euro.klick.vn
 eva-ad.24hstatic.com
 event.adpia.vn
+event.filum.ai
 event.headlines.pw
 eventlqvn.com
 ezca.asia
@@ -842,9 +842,12 @@ intranet.dcorp.com.vn
 invite.baomoi.com
 iosalpha.onfluencer.net
 ipcc-vnp1.vnptmedia.vn
+ipcc.mytv.com.vn
 ipcc.shop.vnpt.vn
 ipcc.vinaphone.com.vn
+ipcc.vinaphoneplus.com.vn
 ipcc.vnpt.com.vn
+ipcc.vnptmedia.vn
 ipccegov.vnptmedia.vn
 irduwhojas.ga
 itim.vn
@@ -1296,6 +1299,7 @@ s.homedy.com
 s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
+s1.zzz.vn
 s2.codon.vn
 s3.adpia.vn
 sacchaeleduk.com
