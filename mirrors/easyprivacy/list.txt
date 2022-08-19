@@ -19,6 +19,7 @@
 2022welcome.com
 2829i2p88jx.www.csaladinet.hu
 2efj.up.coop
+2l6ddsmnm.de
 2qqfxz5kecr4.www.eldorado.gg
 2tty.overstappen.nl
 2znp09oa.com
@@ -1033,6 +1034,7 @@ afi.ssl.gmobb.jp
 aficv.finebase.jp
 afoykb.ebook.de
 agcs-knowledge.allianz.com
+agent.contentsanalyst.com
 agkn.com
 agnes.waz.de
 agreeablestew.com
@@ -1120,6 +1122,7 @@ analytics-1.cavai.com
 analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
+analytics-coletor-site.ojc.com.br
 analytics-gw.games.wanmei.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
@@ -1280,6 +1283,7 @@ analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
 analytics.pagefly.io
+analytics.partcommunity.com
 analytics.pgatour.com
 analytics.pgncs.notion.so
 analytics.piksel.com
@@ -1337,6 +1341,7 @@ analytics.tiktok.com
 analytics.tio.ch
 analytics.tntdramma.com
 analytics.top10-charts.com
+analytics.touchnote.io
 analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
@@ -1568,6 +1573,7 @@ awesomeagreement.com
 awesomeattack.com
 awfzfs.kwantum.nl
 awogtl.1stopbedrooms.com
+ax.babe.today
 ax.idg.se
 axacqy.henderson.ru
 axikfy.dicksmith.com.au
@@ -1899,6 +1905,7 @@ c4dv.copinesdevoyage.com
 ca.creditacceptance.com
 ca.mattamyhomes.com
 cache2.delvenetworks.com
+cadsuta.net
 cahf4eed.mooo.com
 calculatingcircle.com
 calculatingtoothbrush.com
@@ -1978,6 +1985,7 @@ cdn-alliancegravity.s3.amazonaws.com
 cdn-channels-pixel.ex.co
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
+cdn.stroeerdigitalgroup.de
 cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
@@ -3619,6 +3627,7 @@ event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
+event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
 event.csdn.net
@@ -4048,7 +4057,6 @@ geobar.ziffdavisinternational.com
 geoedge.be
 geoip.ativo.com
 geoip.boredpanda.com
-geoip.cookieyes.com
 geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
@@ -5845,6 +5853,7 @@ mc.webvisor.com
 mc.webvisor.org
 mc.yandex.com
 mcad.mods-clinic.com
+mcangelus.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mcs-va.tiktokv.com
@@ -6436,6 +6445,7 @@ mqldrm.lgcity.ru
 mqs.ioam.de
 mqvyob.vidaxl.fi
 mrksmm.yumegazai.com
+mrpdata.net
 mrpjcd.tensunits.com
 mrqpcy.biggreensmile.nl
 ms-trackingapi.phenompeople.com
@@ -7182,6 +7192,7 @@ plsbl.edison.se
 pluckypocket.com
 pluckytaste.com
 pluto.r.powuta.com
+pm.boostintegrated.com
 pm.dailykos.com
 pm.redbull.com
 pnfkhu.hygi.de
@@ -7411,6 +7422,7 @@ quaintborder.com
 quantserve.com
 quarterbean.com
 qubitanalytics.appspot.com
+quesid.com
 questintegrity.actonservice.com
 questions.theanswerco.com
 quickanalytics.ca
@@ -7521,6 +7533,7 @@ report.novinky.cz
 reporting.cdndex.io
 reporting.singlefeed.com
 reports-api.sqreen.io
+reports-tsi.tangerine.io
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
 reports.tunein.com
@@ -7582,6 +7595,7 @@ richreceipt.com
 righteouscrayon.com
 rightfulfall.com
 rigidrobin.com
+rigill.com
 riluwt.voxcinemas.com
 rimxqx.slickdeals.net
 ringplant.com
@@ -8092,6 +8106,7 @@ seek.intel.com
 seg.sharethis.com
 selectionship.com
 selfishsnake.com
+selphiu.com
 sem.triboomedia.it
 send.preply.com
 sendgridlinks.neuroflowsolution.com
@@ -11256,6 +11271,7 @@ track.docusign.mx
 track.dws.de
 track.e7r.com.br
 track.eadv.it
+track.emerse.com
 track.emeza.ch
 track.emeza.com
 track.express.de
@@ -11302,6 +11318,7 @@ track.qoof.com
 track.ra.icast.cn
 track.realtimeboard.com
 track.recreativ.ru
+track.rheinpfalz.de
 track.roomster.com
 track.rundschau-online.de
 track.searchignite.com
@@ -11392,6 +11409,7 @@ tracker.uprinting.com
 tracker.wigzopush.com
 tracker.winload.de
 tracker.wpserveur.net
+tracker.xgen.dev
 trackerapi.truste.com
 tracking-explore.agilent.com
 tracking-opi.fonpit.de
@@ -11572,7 +11590,6 @@ tracking.miui.com
 tracking.mizuhogroup.com
 tracking.mkt-email.samsungsds.com
 tracking.mollyladies.de
-tracking.monsido.com
 tracking.motorolasolutions.com
 tracking.musixmatch.com
 tracking.myaupairinamerica.com
@@ -12769,6 +12786,7 @@ ymprove.web.de
 ynagqs.vidaxl.pl
 yoc.younited-credit.com
 yolo.phpliveregex.com
+yottlyscript.com
 youngmarble.com
 youthfulnoise.com
 ypcdbw.drive2.com
