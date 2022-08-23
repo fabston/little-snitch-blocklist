@@ -1991,6 +1991,7 @@ cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
 cdnhst.xyz
+cdtm.cdiscount.com
 ce.lijit.com
 celigo.actonservice.com
 cellstats.mako.co.il
@@ -2524,6 +2525,7 @@ crm.casabaca.com
 crowdedmass.com
 crs.actonservice.com
 crsspxl.com
+crta.and.co.uk
 crta.dailymail.co.uk
 crta.metro.co.uk
 crumbs.robinhood.com
@@ -3628,6 +3630,7 @@ event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
+event-logger.tagboard.com
 event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
@@ -6426,6 +6429,7 @@ mond.postauto.ch
 monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
+monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 more.groups.be
 mormont.gamer-network.net
