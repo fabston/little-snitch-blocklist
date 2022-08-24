@@ -3652,6 +3652,7 @@ eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.usj.es
+events-logs.doctolib.com
 events-prod.autolist.com
 events-service.coinbase.com
 events-tracker.deliveroo.net
@@ -7273,7 +7274,6 @@ pricklydebt.com
 pricklyplastic.com
 primary.hasegawa.jp
 primate.dmarcdigests.com
-prime.rambler.ru
 printerplasma.com
 prism.pandora.tv
 prism.raumgleiter.com
@@ -7347,7 +7347,6 @@ pv.kuaizhan.com
 pv.ltn.com.tw
 pv.partenaires-verisure.fr
 pv.pjtsu.com
-pv.sohu.com
 pv.udn.com
 pv.xcar.com.cn
 pvfbav.sportler.com
@@ -11917,6 +11916,7 @@ uhlagm.rakurakuseisan.jp
 uhm26jyr11zv.www.freecodecamp.org
 uhn9.up-france.fr
 uhytajrtpo-a.akamaihd.net
+uid.mediacorp.sg
 uie.data.cbc.ca
 ujvpma.infinitytools.com
 ukgfxw.satofull.jp
