@@ -27,6 +27,8 @@
 4info.com
 4seeresults.com
 4strokemedia.com
+4wmarketplace.com
+4wnetwork.com
 51.la
 51yes.com
 5min.com
@@ -49,6 +51,9 @@ aa-metrics.jalan.net
 aamapi.com
 aamsitecertifier.com
 aanqylta.com
+aarth.net
+aaxads.com
+aaxdetect.com
 abmr.net
 abtasty.com
 abtest.mistat.intl.xiaomi.com
@@ -97,6 +102,7 @@ ad6media.fr
 ad7.on.cc
 adacado.com
 adactive.cz
+adadapted.com
 adadvisor.net
 adage.com
 adalliance.io
@@ -188,6 +194,7 @@ adobetag.com
 adocean.pl
 adometry.com
 adomik.com
+adoric-om.com
 adotmob.com
 adplace.cz
 adpone.com
@@ -570,6 +577,7 @@ answerscloud.com
 antio-nar.com
 anyclip.com
 anythinktech.com
+anytrack.io
 apester.com
 api-analytics-de.huami.com
 api-analytics-ru.huami.com
@@ -958,6 +966,7 @@ convertro.com
 conviva.com
 convrse.media
 conyak.com
+cootlogix.com
 corp.aol.com
 counciladvertising.net
 count-us.rudo.video
@@ -1623,6 +1632,7 @@ jijpbehzw.com
 jisusaiche.com
 jivosite.com
 jivox.com
+jmgads.com
 jpgtrk.com
 jpush.cn
 jpush.io
@@ -1918,6 +1928,7 @@ microad.net
 midas-network.com
 millennialmedia.com
 mindbox.ru
+minutemedia-prebid.com
 mixpanel.com
 mkt001.com
 mkt005.com
@@ -3468,6 +3479,7 @@ mkt11423.com
 mkt11424.com
 mkt11425.com
 mkt11427.com
+mkt11428.com
 mkt1143.com
 mkt11431.com
 mkt11433.com
@@ -13387,6 +13399,7 @@ smetrics.aetn.com
 smetrics.aetnamedicare.com
 smetrics.agillink.com
 smetrics.aia.com
+smetrics.aida.de
 smetrics.airbank.cz
 smetrics.aircanada.com
 smetrics.aireserv.com
@@ -13477,6 +13490,7 @@ smetrics.bkstr.com
 smetrics.bloombergtax.com
 smetrics.bmc.com
 smetrics.bmo.com
+smetrics.bmscustomerconnect.com
 smetrics.bncollege.com
 smetrics.bnymellon.com
 smetrics.boehringer-ingelheim.com
@@ -13545,6 +13559,7 @@ smetrics.citibank.pl
 smetrics.citizensbank.com
 smetrics.cloudera.com
 smetrics.cnn.com
+smetrics.coca-cola.com
 smetrics.codan.dk
 smetrics.columbia.com
 smetrics.comenity.net
@@ -13566,6 +13581,7 @@ smetrics.costco.com
 smetrics.costcobusinesscentre.ca
 smetrics.costcobusinessdelivery.com
 smetrics.cottages.com
+smetrics.coulditbehcm.com
 smetrics.couponcabin.com
 smetrics.cox.com
 smetrics.crainsdetroit.com
@@ -13576,6 +13592,7 @@ smetrics.cru.org
 smetrics.crystalski.co.uk
 smetrics.csmonitor.com
 smetrics.csu.edu.au
+smetrics.ctmers.io
 smetrics.ctshirts.com
 smetrics.ctv.ca
 smetrics.cua.com.au
@@ -13589,7 +13606,6 @@ smetrics.default.com
 smetrics.dekalbasgrowdeltapine.com
 smetrics.delta.com
 smetrics.deltacargo.com
-smetrics.dfo.com.au
 smetrics.dhc.co.jp
 smetrics.dhl.de
 smetrics.dickssportinggoods.com
@@ -13667,6 +13683,7 @@ smetrics.fnac.ch
 smetrics.fnac.com
 smetrics.fnac.es
 smetrics.fnac.pt
+smetrics.force.com
 smetrics.ford.com
 smetrics.fortinos.ca
 smetrics.foxbusiness.com
@@ -13718,6 +13735,7 @@ smetrics.heartgard.com
 smetrics.heathrow.com
 smetrics.heathrowexpress.com
 smetrics.hebprepaid.com
+smetrics.hellbrunn.at
 smetrics.herbalife.com
 smetrics.hks-power.co.jp
 smetrics.hmhco.com
@@ -13916,6 +13934,7 @@ smetrics.nisbets.com.au
 smetrics.nissanusa.com
 smetrics.nofrills.ca
 smetrics.northernterritory.com
+smetrics.notimetowait.com
 smetrics.nowtv.com
 smetrics.nowtv.it
 smetrics.nvidia.com
@@ -13938,6 +13957,7 @@ smetrics.optimum.net
 smetrics.optum.com
 smetrics.orangetheory.com
 smetrics.orencia.com
+smetrics.orenciahcp.com
 smetrics.otsuka-us.com
 smetrics.pacsun.com
 smetrics.panasonic.net
@@ -14031,6 +14051,7 @@ smetrics.salomon.com
 smetrics.samedelman.com
 smetrics.samsung.com
 smetrics.santander.co.uk
+smetrics.santanderb.app
 smetrics.sap.com
 smetrics.sasktel.com
 smetrics.savethechildren.org
@@ -14190,6 +14211,7 @@ smetrics.vodafone.com.tr
 smetrics.vodafone.es
 smetrics.vodafone.gr
 smetrics.vodafone.in
+smetrics.volusion.com
 smetrics.vonage.com
 smetrics.vueling.com
 smetrics.vw.com
@@ -14200,6 +14222,7 @@ smetrics.walgreens.com
 smetrics.waseda-ac.co.jp
 smetrics.waters.com
 smetrics.webex.com
+smetrics.weedingwisely.com
 smetrics.wegmans.com
 smetrics.westelm.com
 smetrics.westernaustralia.com
@@ -14225,10 +14248,12 @@ smetrics.wyndhamhotels.com
 smetrics.yaencontre.com
 smetrics.ybs.co.uk
 smetrics.yellowpages.com.au
+smetrics.yervoy.com
 smetrics.ytv.com
 smetrics.zales.com
 smetrics.zalesoutlet.com
 smetrics1.experian.com
+smilewanted.com
 smpush.com
 smrk.io
 snackly.co
@@ -14418,6 +14443,7 @@ tags.johnlewis.com
 tags.news.com.au
 tagsrvcs.com
 tailtarget.com
+talkscreativity.com
 tangiblee.com
 tapad.com
 tapas.net
