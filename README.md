@@ -22,7 +22,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### ⚙️ Usage
 
-1. [Click here](x-littlesnitch:subscribe-rules?url=https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt) to add the list
+1. [Click here](https://little-snitch-blocklist.netlify.app/add-blocklist.html) to add the list
 2. Change `update` to daily
 3. Check the `active` checkbox
 4. Press `Subscribe`
