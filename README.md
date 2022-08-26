@@ -22,10 +22,24 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 ### ⚙️ Usage
 
-1. To subscribe to this blocklist, open Little Snitch Configuration and go to `File > New Rule Group Subscription (⇧+⌘+M)` and paste the following URL `https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt` into it.
+1. [Click here](x-littlesnitch:subscribe-rules?url=https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt) to add the list
+2. Change `update` to daily
+3. Check the `active` checkbox
+4. Press `Subscribe`
 
-2. Under `Preferences > Advanced (⌘+,)`, you can choose to `Approve rules automatically` as they are added to this repository or selectively enable/disable while subscribing a particular rule set.
+#### If the click and install doesn't work you can also add the list manually:
 
+1. Open `Little Snitch Rules...` from the Little Snitch icon in the menu bar
+2. In the sidebar look for `Rule Groups` when hovering on this a `+` button appears
+3. Click the `+` button
+4. Paste the URL from below:
+```
+https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt
+```
+5. Press `Subscribe...`
+6. Change `update` to daily
+7. Check the `active` checkbox
+8. Press `Subscribe`
 ---
 
 ### 🐞 Domain additions, removals, false positives 
