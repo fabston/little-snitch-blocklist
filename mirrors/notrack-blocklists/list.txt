@@ -251,7 +251,6 @@ ads.press24.mk
 ads.proboards.com
 ads.samba.tv
 ads.securityweek.com
-ads.shasha.ps
 ads.sportslocalmedia.com
 ads.superawesome.tv
 ads.the-sun.com
@@ -1176,7 +1175,6 @@ effectivecpmcontent.com
 effectivemeasure.com
 effectivemeasure.net
 effectiveperformancenetwork.com
-egeng.info
 ekomi-pl.com
 ekomi-us.com
 ekomi.com
@@ -1563,7 +1561,6 @@ infernotions.com
 infinity-tracking.net
 infolinks.com
 ingest.sentry.io
-injectlocum.com
 inmobi.com
 inmobiapis.com
 inmobicdn.net
@@ -13065,7 +13062,6 @@ qubitproducts.com
 queersodadults.com
 questback.com
 questionmarket.com
-questmedia.ru
 r.i0.cz
 r023m83skv5v.com
 r1-cdn.net
@@ -14515,7 +14511,6 @@ ticketswinning.com
 tidaltv.com
 tifbs.net
 tiller.co
-tinydm.com
 tinypass.com
 tiqcdn.com
 tiqcloud.com
