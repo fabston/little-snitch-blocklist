@@ -2413,7 +2413,6 @@ collector-6651.tvsquared.com
 collector-9306.us.tvsquared.com
 collector-main.trafficmanager.net
 collector-px8fcgygk4.px-cloud.net
-collector-pxuarm9b04.perimeterx.net
 collector.bughd.com
 collector.capturly.com
 collector.cdp.cnn.com
@@ -5089,7 +5088,6 @@ pushnami.com
 pushpin.pinsightmedia.com
 pushwoosh.g5e.com
 pw.analytics.console.aws.a2z.com
-px-conf.perimeterx.net
 px-eu.adhigh.net
 px.adhigh.net
 px.ads.linkedin.com
