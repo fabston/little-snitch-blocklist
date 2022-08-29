@@ -1908,7 +1908,6 @@ metrics.pico.tools
 metrics.plex.tv
 metrics.postoffice.co.uk
 metrics.raptr.com
-metrics.redgifs.com
 metrics.roblox.com
 metrics.royalmail.com
 metrics.spbtv.com
