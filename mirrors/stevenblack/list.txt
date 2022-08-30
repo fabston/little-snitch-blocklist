@@ -561,6 +561,7 @@ clearcovid19virus.com
 click.axiatraders.com
 click.googleanalytics.com
 click.union.ucweb.com
+clicktut.site
 client-analytics.braintreegateway.com
 clockskew.alphonso.tv
 clooinfor.cf
@@ -917,8 +918,11 @@ invitation.samsungiotcloud.com
 invoke.ml
 invol.co
 ioads.ero-advertising.com
+ip-info.ff.avast.com
 iplogger.com
 iplogger.ru
+ipm-provider.ff.avast.com
+ipmcdn.avast.com
 ipv6-wildcard.applovin.com.edgekey.net
 is.sh
 italiapagamen.com
@@ -1186,6 +1190,7 @@ nativesdks.mparticle.com
 navyfedara1.org
 navyfederai.org
 nbf9b5aurl.com
+ncc.avast.com
 ncjjfn.org
 ndjambo.com
 net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -1442,6 +1447,7 @@ sfo.thor.rtk.io
 sg.mmstat.com
 sgp.o2o.api.xiaomi.com
 shapez.gameads.io
+shepherd.ff.avast.com
 shop-rnib.org
 shopsplumbing.com
 sin.ero-advertising.com
