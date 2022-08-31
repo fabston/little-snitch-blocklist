@@ -1417,6 +1417,7 @@ secure-verify-info.ddns.info
 secure-verify-update.ddns.info
 secure.exoclick.com
 secure.livejasmin.com
+secureaddisplay.com
 security-info.zyns.com
 security-update.ddns.info
 security-update.ocry.com
@@ -1698,6 +1699,7 @@ wiki.ero-advertising.com
 wind.windmilldrops.com
 windowsphishingalert158.s3.amazonaws.com
 wizhumpgyros.com
+wiztube.xyz
 wks.ero-advertising.com
 woocommerce01.datatrics.com
 woodpecker.uc.cn
