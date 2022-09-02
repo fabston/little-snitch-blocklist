@@ -556,6 +556,7 @@ analytics.twitter.com
 analytics.typedream.com
 analytics.unibuddy.co
 analytics.valiuz.com
+analytics.volla.online
 analytics.webpushr.com
 analytics.xl.pt
 analytics.yahoo.com
@@ -718,6 +719,7 @@ betweendigital.com
 betweenx.com
 bevyup.com
 bid.glass
+bid.wikihow.com
 bidence.net
 bidgear.com
 bidr.io
@@ -1514,7 +1516,6 @@ hxtrack.com
 hyros.com
 i10c.net
 iadvize.com
-iamtelemetrycollector.microsoft.com
 iasds01.com
 ib-ibi.com
 ibclick.stream
@@ -1731,6 +1732,7 @@ linkbucks.com
 linkis.com
 linkpulse.com
 linksynergy.com
+linktrack.co.nz
 lipperhey.com
 liqwid.net
 listrakbi.com
@@ -14508,6 +14510,7 @@ textad.net
 the-ozone-project.com
 theadex.com
 thebtcuprofit.com
+thefastestdash.care
 thehut.net
 themoneytizer.com
 thescv.team
@@ -14658,6 +14661,7 @@ trk.nfl-online-streams.live
 trk.pinterest.com
 trk2.pinterest.com
 trkad.network
+trkbng.com
 trkme.net
 trkn.us
 trkr.duckdns.org
