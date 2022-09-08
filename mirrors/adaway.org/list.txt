@@ -4926,7 +4926,6 @@ pool-mediafin.adhese.com
 pool-pebblemedia.adhese.com
 pool.adizio.com
 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
-pop-iad-2.cf.dash.row.aiv-cdn.net
 popup.taboola.com
 post-log.pushwoosh.com
 post.iperceptions.com
@@ -5409,10 +5408,7 @@ s2s.adjust.com
 s2s.aniview.com
 s2s.mparticle.com
 s2s.singular.net
-s3-iad-2.cf.dash.row.aiv-cdn.net
-s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.lightboxcdn.com
-s3.ll.videorolls.row.aiv-cdn.net
 s3cf.flashtalking.com
 s3m.mediav.com
 s4i.histats.com
