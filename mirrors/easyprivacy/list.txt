@@ -2204,7 +2204,6 @@ cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.tech426.com
 cmp.tek.no
-cmp.telerama.fr
 cmp2.channelpartner.de
 cms.hardloopaanbiedingen.nl
 cmstool.youku.com
@@ -7068,6 +7067,7 @@ pingback.giphy.com
 pingback.issuu.com
 pingback.sogou.com
 pingjs.qq.com
+pingo.staticmoly.me
 pings.conviva.com
 pings.vidpulse.com
 pinpointpotato.com
@@ -11478,10 +11478,12 @@ tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
 tracker.jawcloud.co
+tracker.jkstremum.xyz
 tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.mrpfd.com
 tracker.mspy.com
+tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.providence.org

@@ -518,6 +518,7 @@ analytics.mkini.xyz
 analytics.mlstatic.com
 analytics.mobile.walmart.com
 analytics.move.ru
+analytics.netdirector.auto
 analytics.ngs.ru
 analytics.nike.com
 analytics.ninjakiwi.com
@@ -649,6 +650,7 @@ auditorius.ru
 auditude.com
 audtd.com
 augur.io
+auto.netdirector.co.uk
 autotrack.g.ebay.com
 avantisvideo.com
 avazunativeads.com
@@ -807,6 +809,7 @@ c3tag.com
 cadreon.com
 cadslims.com
 callrail.com
+calltracks.com
 calltrk.com
 campaignmonitor.com
 canddi.com
@@ -1054,6 +1057,7 @@ dc-storm.com
 de.coremetrics.com
 de17a.com
 dealer.com
+dealtale.com
 decencyjessiebloom.com
 decenthat.com
 decibelinsight.com
@@ -12690,7 +12694,6 @@ neodatagroup.com
 net.ar
 netcommunities.com
 netcpms.com
-netdirector.co.uk
 netline.com
 netlineads.com
 netmng.com
@@ -13231,6 +13234,7 @@ saunasupposedly.com
 saymedia.com
 sayu.co.uk
 sayutracking.co.uk
+sc.3xdb.com
 sc.smardroid.com
 scarabresearch.com
 scenepass.com
@@ -14352,6 +14356,7 @@ stats.curds.io
 stats.digitalcontactmails.net
 stats.ebay.com
 stats.elementary.io
+stats.emailsender.site
 stats.ft.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
