@@ -105,7 +105,6 @@ ads.businessstyle.vn
 ads.careerbuilder.vn
 ads.carmudi.vn
 ads.chanhtuoi.com
-ads.conlatatca.vn
 ads.cungcau.vn
 ads.fptplay.net.vn
 ads.gosu.vn
@@ -121,7 +120,6 @@ ads.laodongnghean.vn
 ads.markettimes.vn
 ads.marry.vn
 ads.metaconex.io
-ads.netlinkad.vn
 ads.nghenhinvietnam.vn
 ads.nhadatmoi.net
 ads.novanet.vn
@@ -262,7 +260,6 @@ analytics.bluemotionmedia.vn
 analytics.diamondstarfinancial.com.vn
 analytics.donglogs.com
 analytics.eclick.vn
-analytics.explus.vn
 analytics.fsoft.com.vn
 analytics.hub-js.com
 analytics.jamstackvietnam.com
@@ -279,7 +276,6 @@ analytics.rever.vn
 analytics.saas-vn.network
 analytics.sohatv.vn
 analytics.teko.vn
-analytics.thethao247.org
 analytics.tiki.vn
 analytics.tintuc.vn
 analytics.viblo.asia
@@ -360,7 +356,6 @@ app.subiz.com.vn
 app2.jeoway.net
 apps.ants.vn
 apps.haraads.com
-as.gamevui.com
 asg.phukienthoitranggiare.com
 asset.bidgear.com
 assets.harafunnel.com
@@ -455,7 +450,6 @@ cdn.bongdadem.net
 cdn.cityads.com
 cdn.comedia.coccoc.com
 cdn.contineljs.com
-cdn.doke.app
 cdn.ezca.asia
 cdn.fuseplatform.net
 cdn.hbplatform.com
@@ -700,7 +694,6 @@ f2.novanet.vn
 fa.fpt.shop
 facebookid.younetmedia.com
 facebookinbox-omni-onapp.haravan.com
-facebookz.co
 fbuser.ovp.vn
 fcd.autoads.asia
 feed.pushtimize.com
@@ -711,7 +704,6 @@ ff-membership-garena.com
 ff-membersship-garrena.com
 ff-memnber-garena.com
 ff-menber-garena.vn
-ff.garena.memmbershipp.com
 ff.imacdn.com
 ff.member.garenae.vn
 fgp.philacct.com
@@ -748,8 +740,6 @@ garena.mobi
 garenaa.vn
 garenaj.vn
 garenalqm.com
-garera.vn
-garrena.vn
 gcjs.genmonet.com
 genmonet.com
 geo.cityads.com
@@ -929,7 +919,6 @@ log.baodauthau.vn
 log.baomoi.com
 log.baonghean.vn
 log.baophapluat.vn
-log.batdongsan.com.vn
 log.beecost.com
 log.beecost.vn
 log.bizlive.vn
@@ -1006,9 +995,7 @@ logkm.dantocmiennui.vn
 logperf.vnexpress.net
 logru.vietnamplus.vn
 logs.docnhanh.com.vn
-logs.giaoducthoidai.vn
 logs.thethaovanhoa.vn
-logs1.reatimes.vn
 logsbin.dantri.com.vn
 logscafef.channelvn.net
 logv2.mp3.zing.vn
@@ -1082,7 +1069,6 @@ mediazcorp.com
 mega1.yeah1.com
 mega1app.yeah1publishing.com
 member-gaarena.com
-member-garena.vn
 member.ad.org.vn
 member.adnetwork.vn
 memberr-garenaa.com
@@ -1120,7 +1106,6 @@ nct1.logging.nextsmarty.com
 nct2-logging.nct.vn
 new.cityads.com
 newlog.daidoanket.vn
-news-good.net
 news.dable.io
 ng-vn-notice.gameitop.com
 nhanquaffob31.com
@@ -1250,7 +1235,6 @@ qcv5.blogtruyen.vn
 qualienquan.vn
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
-quangcao.eva.vn
 quangcao.fff.com.vn
 quangcao.phanquang.vn
 quangcao.thanhnien.vn
@@ -1286,7 +1270,6 @@ rituationscardb.info
 rnd.novanet.vn
 rp.codon.vn
 rss2.vietnamnetad.vn
-rsyslog.24h.com.vn
 rtb-useast.vidoomy.com
 rtb.eclick.vn
 ru-geo.cityads.com
@@ -1546,7 +1529,6 @@ track.adsota.com
 track.atdnetwork.com
 track.gammaplatform.com
 track.icheck.com.vn
-track.ivymoda.com
 track.kyna.vn
 track.lapa.pub
 track.lemonnovel.com
@@ -1558,7 +1540,6 @@ track.vio.edu.vn
 tracker-mw-zlivestream.zapps.vn
 tracker-zlivestream.zapps.vn
 tracker.anime47.com
-tracker.bongngo.bar
 tracker.edupia.vn
 tracker.fado.vn
 tracker.gigaphim.com
@@ -1598,16 +1579,13 @@ tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vietnamnetad.vn
 tracking.vnncdn.net
-tracking.vtc.vn
 tracking.vtcnew.com.vn
-tracking.yes24.vn
 tracking.yomedia.vn
 trackingapi.foody.vn
 trackingvn.zingplay.com
 trackity.tiki.vn
 transfer.urekamedia.com
 trenddigital.vn
-trending.vn
 trk-pcweb.api.zaloapp.com
 trk.123c.vn
 trk.ambientdsp.com
@@ -1657,11 +1635,9 @@ vietnamnetad.vn
 vinaads.vn
 viral.mediaz.vn
 vlxx.host
-vn-garena.vn
 vn-platform.bidgear.com
 vn.alexajstrack.com
 vnadssb.com
-vnd247.vn
 vnnayngaytin.vn
 vongquay-pubgmobilevn-zing.com
 vongquaymienphi.net
@@ -1715,7 +1691,6 @@ www.admicro.vn
 www.adnetwork.vn
 www.adpia.vn
 www.adrealclick.com
-www.adsnetonline.work
 www.adsota.com
 www.adsparc.com
 www.adsparc.net
@@ -1724,7 +1699,6 @@ www.adsweb.vn
 www.adt.com.vn
 www.adtima.vn
 www.advertisement-nhatanh.com
-www.alivar.vn
 www.ambient-platform.com
 www.ambientdsp.com
 www.anthill.vn
@@ -1732,12 +1706,10 @@ www.ants.vn
 www.atdnetwork.com
 www.autoads.asia
 www.avoadsservices.com
-www.banhtv.org
 www.bidgear-syndication.com
 www.bidgear.com
 www.cdp.asia
 www.cheap-ads.net
-www.chiasephim.xyz
 www.cityads.com
 www.cleverads.vn
 www.clevernet.vn
@@ -1746,7 +1718,6 @@ www.dable.io
 www.delecpuzz.com
 www.donglogs.com
 www.eclick.vn
-www.facebookz.co
 www.gammadsp.com
 www.gammaplatform.com
 www.gammassp.com

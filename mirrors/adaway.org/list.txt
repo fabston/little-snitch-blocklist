@@ -5260,7 +5260,6 @@ reporting.tutelatechnologies.com
 reports.ubimo.com
 req.startappservice.com
 res-push.ad.jiguang.cn
-res.cloudinary.com
 res.media.net
 res.mmstat.com
 res1.applovin.com
