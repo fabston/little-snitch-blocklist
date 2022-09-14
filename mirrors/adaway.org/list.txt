@@ -3097,7 +3097,6 @@ events.engageya.com
 events.foreseeresults.com
 events.influencemobile.com
 events.kumulos.com
-events.launchdarkly.com
 events.lbesecapi.com
 events.mobile.optimizely.com
 events.personali.com
@@ -4400,7 +4399,6 @@ mobile.confsettings.com
 mobile.controller.duokanbox.com
 mobile.eum-appdynamics.com
 mobile.ib.sin1.geoadnxs.com
-mobile.launchdarkly.com
 mobile.logs.roku.com
 mobile.measurelib.com
 mobile.mng-ads.com
