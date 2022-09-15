@@ -3243,7 +3243,6 @@ cdn-alliancegravity.s3.amazonaws.com
 cdn-channels-pixel.ex.co
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
-cdn.stroeerdigitalgroup.de
 cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
@@ -3329,6 +3328,7 @@ cl.promo.skf.com
 clamcelery.com
 clammytree.com
 clarium.global.ssl.fastly.net
+clearbitscripts.com
 clearbrands.actonservice.com
 clearcabbage.com
 clerks.doccheck.com
@@ -6771,6 +6771,7 @@ logging.prefixbox.com
 logging.wilmaa.com
 loggingapi.spingo.com
 loggychops.paulsmith.site
+logicanalytics.io
 loginlog.sdo.com
 logistics.osmworldwide.com
 loglady.skypicker.com
@@ -7296,6 +7297,7 @@ media.gotham.com
 media.pirtek.co.uk
 media.pirtek.nl
 mediametrics.mpsa.com
+mediapxv.com
 mediasolutions.netinsight.net
 mediasource.actonservice.com
 mediniku.viessmann.lt
@@ -8610,6 +8612,7 @@ pm.boostintegrated.com
 pm.dailykos.com
 pm.pmu.fr
 pm.redbull.com
+pmetrics.performancing.com
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 po.ponant.com
@@ -8958,7 +8961,6 @@ rimxqx.slickdeals.net
 ringplant.com
 ringsrecord.com
 riovdv.mustit.co.kr
-risk.clearbit.com
 ritzyveil.com
 riwkmo.spacemarket.com
 rjjynf.showcase-tv.com

@@ -13758,7 +13758,6 @@ smetrics.hollandamerica.com
 smetrics.hollisterco.com
 smetrics.home.kpmg
 smetrics.homeadvisor.com
-smetrics.homes.com
 smetrics.hossintropia.com
 smetrics.hotsy.com
 smetrics.hpe.com
@@ -14351,7 +14350,6 @@ stats.curds.io
 stats.digitalcontactmails.net
 stats.ebay.com
 stats.elementary.io
-stats.emailsender.site
 stats.ft.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
