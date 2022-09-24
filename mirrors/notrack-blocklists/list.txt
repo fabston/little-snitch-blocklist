@@ -1770,7 +1770,6 @@ log.popin.cc
 log.quora.com
 log.spotify.com
 log.strm.yandex.ru
-log.video.taobao.com
 log.zoom.us
 log16-platform-ycru.tiktokv.com
 logger.dailymotion.com
@@ -14288,7 +14287,6 @@ snigelweb.com
 sniperlog.ru
 snmmd.nl
 snoop.minecraft.net
-snorkletech.com
 snowplow-pixel.tradingview.com
 snt1.net
 social-discovery.io
