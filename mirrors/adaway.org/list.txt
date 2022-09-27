@@ -1639,7 +1639,6 @@ au.res.keymedia.com
 au.umeng.co
 au.umeng.com
 au.w.inmobi.com
-au1.gigya.com
 auctera.gotrackier.com
 auction-banner.unityads.unity3d.com
 auction-load.unityads.unity3d.com
@@ -2124,7 +2123,6 @@ cdn.flurry.com
 cdn.fqtag.com
 cdn.g5e.com
 cdn.geodns.tubemogul.com
-cdn.gigya.com
 cdn.gimbal.tech
 cdn.gladly.com
 cdn.gmossp-sp.jp
@@ -2188,7 +2186,6 @@ cdn.pushcrew.com
 cdn.pushwoosh.com
 cdn.quantummetric.com
 cdn.rebel.ai
-cdn.rebuyengine.com
 cdn.resonate.com
 cdn.revcontent.com
 cdn.revjet.com
@@ -2266,15 +2263,8 @@ cdne.cpmstar.com
 cdnimg.izooto.com
 cdnp1.yieldoptimizer.com
 cdnpixel.simpli.fi
-cdns.au1.gigya.com
-cdns.eu1.gigya.com
-cdns.eu2.gigya.com
 cdns.sdkconfig.site
 cdns.turn.com
-cdns.us1.gigya.com
-cdns1.gigya.com
-cdns2.gigya.com
-cdns3.gigya.com
 cdnsonata.taptapnetworks.com
 cdnssl.clicktale.net
 cdnstoremedia.com
@@ -3089,9 +3079,7 @@ eu.inmobi.koneomobiledsp.com
 eu.y.atwola.com
 eu01.nr-data.net
 eu1-spiky.wzrkt.com
-eu1.gigya.com
 eu1.wzrkt.com
-eu2.gigya.com
 euasync01.admantx.com
 eum-orange-saas.instana.io
 eus.rubiconproject.com
@@ -3192,9 +3180,6 @@ fam-ad.com
 fandangollc.demdex.net
 fanserv.us-east-1.stinger-ad.bidr.io
 fanserv.us-west-2.stinger-ad.bidr.io
-farm5.eu1.gigya.com
-farm5.gigya.com
-farm5.us1.gigya.com
 fast.a.klaviyo.com
 fast.mtvn.demdex.net
 fastapi.net
@@ -3481,8 +3466,6 @@ growlr.adsbynimbus.com
 grtb-de.lfstmedia.com
 grtb-nj.lfstmedia.com
 grtb-sc.lfstmedia.com
-gscounters.eu1.gigya.com
-gscounters.us1.gigya.com
 gslbeacon.lijit.com
 gtm04.nexac.com
 gtsdk.batmobi.net
@@ -4067,11 +4050,8 @@ lax1-ib.adnxs.com
 lazy.rayjump.com
 lb-adsdis.mng-ads.com
 lb-adsmob.mng-ads.com
-lb-d.us1.gigya.com
 lb.aatkit.com
 lb.affilae.com
-lb.au1.gigya.com
-lb.eu1.gigya.com
 lb3d.tj.ijinshan.com
 lbal.wowanalytics.co.uk
 lbdata.tj.ijinshan.com
@@ -6849,7 +6829,6 @@ us.y.atwola.com
 us01.rayjump.com
 us1-sdk.bluedot.io
 us1-spiky.wzrkt.com
-us1.gigya.com
 us1.wzrkt.com
 usasync01.admantx.com
 usc.adserver.snapads.com
