@@ -13,6 +13,7 @@
 247.ai
 247inc.net
 247realmedia.com
+24support.cc
 254a.com
 2mdnsys.com
 2nyan.org
@@ -60,6 +61,7 @@ abtest.mistat.xiaomi.com
 ac24horas.com
 acadiaanalytics.com
 accompanycollapse.com
+aceark.pro
 acexedge.com
 achievablecpmrevenue.com
 active-agent.com
@@ -72,11 +74,13 @@ ad-center.com
 ad-delivery.net
 ad-dev.globalnoticias.pt
 ad-maven.com
+ad-plus.com.tr
 ad-score.com
 ad-serverparc.nl
 ad-stir.com
 ad.12dt.com
 ad.daum.net
+ad.doganburda.com
 ad.ettoday.net
 ad.gt
 ad.investmap.pl
@@ -152,7 +156,9 @@ adizio.com
 adjug.com
 adjust.com
 adjust.net.in
+adjust.world
 adkernel.com
+adklik.com.tr
 adkmob.com
 adkontekst.pl
 adlabsnetworks.com
@@ -180,6 +186,7 @@ admo.tv
 admob.com
 admobile.top
 adnami.io
+adnet.com.tr
 adnet.de
 adnexus.net
 adnico.jp
@@ -203,6 +210,7 @@ adpushup.com
 adready.com
 adreadytractions.com
 adrecover.com
+adreq.vivo.com.cn
 adrequest.net
 adriver.ru
 adrolays.de
@@ -212,6 +220,7 @@ adrta.com
 adrtx.net
 adrunnr.com
 ads-d.viber.com
+ads-marketing-vivofs.vivo.com.cn
 ads.4x4brasil.com.br
 ads.adsolut.in
 ads.asccommunications.com
@@ -224,6 +233,7 @@ ads.chaturbate.com
 ads.clubz.bg
 ads.d3corp.com
 ads.digitalcaramel.com
+ads.dogusdigital.com
 ads.dreamteamfc.com
 ads.ebay.com
 ads.eurocom.bg
@@ -235,7 +245,6 @@ ads.gold
 ads.hearstmags.com
 ads.ign.com
 ads.interfax.ru
-ads.khoahocdoisong.vn
 ads.linkedin.com
 ads.mindfactory.de
 ads.msn.com
@@ -272,6 +281,7 @@ adsbookie.com
 adscale.de
 adscience.nl
 adsco.re
+adsdk.vivo.com.cn
 adserv.emh.ch
 adservd.com
 adserve.zone
@@ -310,6 +320,7 @@ adspeed.net
 adspsp.com
 adsrvr.org
 adsrvs.com
+adsstatic.vivo.com.cn
 adstdg.net
 adsterra.com
 adstir.com
@@ -346,6 +357,7 @@ adventive.com
 adventori.com
 adventurefeeds.com
 adversal.com
+advertise.ldplayer.net
 advertise.ru
 advertiserurl.com
 advertising.amazon.co.uk
@@ -362,9 +374,11 @@ advisor.api.2gis.ru
 adviva.net
 advolution.de
 adworldmedia.com
+adx-id-ads.realmemobile.com
 adx1.com
 adxadserv.com
 adxcel-ec2.com
+adxlog.vivo.com.cn
 adxpansion.com
 adxpose.com
 adzerk.com
@@ -447,6 +461,7 @@ analytics.archive.org
 analytics.arecontvision.com
 analytics.autodesk.com
 analytics.barnebys.sh
+analytics.bigdata.samsung.com
 analytics.binaryfortress.com
 analytics.bmj.com
 analytics.brave.com
@@ -568,6 +583,7 @@ analyticspixel.microsoft.com
 and.co.uk
 andmlb.kshwtj.com
 android-stat.acestream.net
+android.bugly.qq.com
 androidlog.ws.pho.to
 angorch-cdr7.com
 aniview.com
@@ -584,6 +600,9 @@ api-analytics-ru.huami.com
 api-analytics-us.huami.com
 api-telemetry.servers.getgo.com
 api.action-media.ru
+api.gateway.kik-live.com
+api16-access-sg.pangle.io
+apien.ldmnq.com
 apnanalytics.com
 app-analytics-cn.huami.com
 app-analytics-de.huami.com
@@ -613,9 +632,11 @@ appmetrika.yandex.ru
 appnexus.com
 appnexus.net
 appsflyer.com
+appsflyersdk.com
 appstat.petafuel.net
 apptelemetry.io
 apptimize.com
+apptjmp.com
 apptracker.gamedock.io
 appuniverseapplication.com
 aptrinsic.com
@@ -629,6 +650,14 @@ arg.redgiant.com
 arguerepetition.com
 arsonexchangefly.com
 asap.sindikata.org
+asia-adlog.vivoglobal.com
+asia-adsjssdk.vivoglobal.com
+asia-analyzer-appstore.vivoglobal.com
+asia-comonrt-stsdk.vivoglobal.com
+asia-ex-adlog.vivoglobal.com
+asia-monitor-stsdk.vivoglobal.com
+asia-static-p.vivoglobal.com
+asia-vcode-od.vivoglobal.com
 asianmedia.com
 astutemetrics.com
 atdmt.com
@@ -672,7 +701,6 @@ bal8ntrk.com
 bam-x.com
 banner.ws.pho.to
 bannerflow.com
-banners.evoluhcion.es
 banquetunarmedgrater.com
 bars.sapo.pt
 basebanner.com
@@ -683,6 +711,7 @@ batchgeo.com
 baynote.net
 bcloudhost.com
 bcovery.com
+bdapi-id-ads.realmemobile.com
 bdex.com
 beacon.cdnma.com
 beacon.direct.asda.com
@@ -751,6 +780,7 @@ bluecava.com
 bluekai.com
 bluelithium.com
 bnc.lt
+bngpt.com
 bnhtml.com
 bnserving.com
 bntrace.com
@@ -768,6 +798,7 @@ bounceads.net
 bounceexchange.com
 branch.io
 brand-display.com
+brandadsstatic.vivo.com.cn
 brandcrumb.com
 brandmetrics.com
 brandturbo.vip
@@ -782,6 +813,9 @@ brightedge.com
 brightinfo.com
 brightline.tv
 britepool.com
+bronrt.stsdk.vivo.com.cn
+brort.stsdk.vivo.com.cn
+brpnrt.stsdk.vivo.com.cn
 brpx.com
 bstats.org
 btrack.site
@@ -793,6 +827,7 @@ btttag.com
 budgetedbauer.com
 bugherd.com
 bugsnag.com
+bullionyield.com
 bumlam.com
 bunti.ng
 burt.io
@@ -903,6 +938,8 @@ client-event-reporter.twitch.tv
 client-stats.gaijin.net
 client-telemetry.roblox.com
 clientgear.com
+clientmetrics-augmentum.kik.com
+clientmetrics.kik.com
 clinch.co
 clixgalore.com
 clixmetrix.com
@@ -928,6 +965,8 @@ cmail4.com
 cmail5.com
 cmcore.com
 cmdspassets.com
+cname-ali-asia-stsdk.vivoglobal.com
+cname-asia-stsdk09.vivoglobal.com
 cnt-tm-1.com
 cntr-di5.com
 cntr-di7.com
@@ -948,12 +987,14 @@ condenastdigital.com
 condolencespicturesquetracks.com
 condolencessumcomics.com
 conductmassage.com
+config.uca.cloud.unity3d.com
 confirmsubscription.com
 connatix.com
 connct-9.com
 connectad.io
 connexity.net
 constant.co
+constructpoll.com
 content-loads.com
 content-square.net
 content.ad
@@ -1033,12 +1074,15 @@ custobar.com
 customer.io
 customize.cz
 custora.com
+cwqljsecvr.com
 cxaff.com
 cxense.com
 da-ads.com
 dadsimz.com
 data-analytics.top
 data-crypt.com
+data-id-ads.realmemobile.com
+data-private.samsunghealth.com
 data.coremetrics.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
@@ -1075,11 +1119,14 @@ deployads.com
 detmir-stats.ru
 devaccess.easy4ipcloud.com
 device-metrics-us.amazon.com
+devicelog.samsungcloudsolution.net
 devnxs.net
 dewrain.life
 dewrain.site
 dewrain.world
 dexpredict.com
+diagmon-policy.samsungdm.com
+diagmon-serviceapi.samsungdm.com
 dianomi.com
 digidip.net
 digital-metric.com
@@ -1158,6 +1205,7 @@ e-mark.nl
 e-planning.net
 e-volution.ai
 e-webtrack.net
+e.tapdb.net
 earlapspur.com
 easycounter.com
 easyresearch.se
@@ -1243,6 +1291,7 @@ epmads.com
 eprize.com
 eqads.com
 ero-advertising.com
+err-up.vivoglobal.com
 errorception.com
 esearchvision.com
 esm1.net
@@ -1268,7 +1317,9 @@ evergage.com
 evidon.com
 evyy.net
 evzhzppj5kel.com
+ew1.reg.bigdata.ssp.samsung.com
 exacttarget.com
+excfgfile-vivofs-asia.vivo.com.cn
 exdynsrv.com
 exe.bid
 exerciseundergone.com
@@ -1359,6 +1410,7 @@ forwardtomyfriend.com
 fqtag.com
 fredhopperservices.com
 freeskreen.com
+freesoftdrink.com
 freespee.com
 freestar.io
 freewayadventureexactly.com
@@ -1428,6 +1480,8 @@ goadservices.com
 goasrv.com
 goatcounter.com
 godatafeed.com
+godpvqnszo.com
+golead.de
 golittretre.info
 google-analytics.com
 googleadservices.com
@@ -1491,8 +1545,10 @@ highrevenuecpm.com
 hilltopads.net
 himediads.com
 hiprofitnetworks.com
+hisavana.com
 histats.com
 hit.skrz.cz
+hitbas.com
 hitbox.com
 hitcpm.com
 hitslink.com
@@ -1526,6 +1582,7 @@ huqindustries.co.uk
 hxtrack.com
 hyros.com
 i10c.net
+i18n-pglstatp.com
 iadvize.com
 iasds01.com
 ib-ibi.com
@@ -1561,6 +1618,11 @@ improvely.com
 improving.duckduckgo.com
 imrworldwide.com
 imshopping.com
+in-adreq.vivoglobal.com
+in-adsjssdk.vivoglobal.com
+in-apponrt-stsdk.vivoglobal.com
+in-apport-stsdk.vivoglobal.com
+in-ctdbonrt-stsdk.vivoglobal.com
 in-page-push.com
 inbenta.io
 incoming-telemetry.thunderbird.net
@@ -1694,6 +1756,7 @@ kooappslogs.com
 korrelate.net
 krxd.net
 ksmobile.com
+kz-onrt-stsdk.vivoglobal.com
 kzt2afc1rp52.com
 l9bjkkhaycw6f8f4.soundcloud.com
 labaz.vip
@@ -1702,7 +1765,6 @@ lanistaads.com
 latentcreeper.com
 latinon.com
 latinongroup.com
-lcprd1.samsungcloudsolution.net
 lduhtrp.net
 lead-analytics.biz
 leadboltmobile.net
@@ -1764,6 +1826,7 @@ lkqd.com
 lkqd.net
 locallogic.co
 localytics.com
+log-ingestion-eu.samsungacr.com
 log.core.cloud.vewd.com
 log.espn.com
 log.gns.go.com
@@ -1780,6 +1843,7 @@ log16-platform-ycru.tiktokv.com
 logger.dailymotion.com
 logger.foxitcloud.com
 logger.unsplash.com
+logger.virgul.com
 logger.zcoup.com
 loggly.com
 loginradius.com
@@ -1817,6 +1881,7 @@ lytics.io
 m-counter.ru
 m2.ai
 m6r.eu
+mabira.store
 madcpms.com
 madisonlogic.com
 madsips.com
@@ -1831,6 +1896,7 @@ mailerlite.com
 mailmunch.co
 mainad.com
 mainadv.com
+makeyourbabyhappy.com
 maltunfaithfulpredominant.com
 mam.netease.com
 mama.webvol.net
@@ -1842,6 +1908,7 @@ marchex.io
 marinegruffexpecting.com
 marinsm.com
 marketingautomation.services
+marketingcloudapis.com
 marketinghq.net
 marketizator.com
 marketo.com
@@ -1895,6 +1962,7 @@ meteora.us
 metric.ipv6test.com
 metric.ipv6test.net
 metrics-lxc136.aviasales.ru
+metrics.aetn.com
 metrics.aftonbladet.se
 metrics.articulate.com
 metrics.asos.com
@@ -1939,6 +2007,7 @@ microad.net
 midas-network.com
 millennialmedia.com
 mindbox.ru
+mintegral.net
 minutemedia-prebid.com
 mixpanel.com
 mkt001.com
@@ -12620,7 +12689,9 @@ moatads.com
 moatpixel.com
 mobclix.com
 mobfox.com
+mobidia.com
 mobile-tracking.aviasales.ru
+mobile-tracking.bloomberg.com
 mobileadexchange.net
 mobileads.msn.com
 mobileadstrk.com
@@ -12642,6 +12713,7 @@ mon-com-net.com
 monarchads.com
 mondiad.net
 monetate.net
+monitor-stsdk.vivo.com.cn
 monkeytracker.cz
 monsido.com
 mookie1.com
@@ -12708,12 +12780,14 @@ netcpms.com
 netline.com
 netlineads.com
 netmng.com
+netperform-is.vodafone.com.tr
 netseer.com
 netshelter.net
 networkadvertising.org
 newdisplayformats.com
 newrelic.com
 newrrb.bid
+news-abroad.vivo.com
 news.iadsdk.apple.com
 newscgp.com
 newscred.com
@@ -12746,6 +12820,7 @@ nowinteract.com
 npario-inc.net
 npcwfrohnshriw.com
 npttech.com
+nqs.nice264.com
 nr-data.net
 ns1p.net
 nsfwadds.com
@@ -12833,6 +12908,7 @@ optimizesrv.com
 optinmonster.com
 optnmnstr.com
 optnmstr.com
+ort-stsdk.vivo.com.cn
 os-code.shalltry.com
 ostlon.com
 otbuzvqq8fm5.com
@@ -12876,6 +12952,7 @@ peer39.net
 peerius.com
 pepperjam.com
 pepperjamnetwork.com
+perf-events.cloud.unity3d.com
 perfdrive.com
 perfectaudience.com
 perfectmarket.com
@@ -12899,6 +12976,7 @@ pf.newegg.com
 phluant.com
 phone.igexin.com
 photorank.me
+picanalysis.vivo.com.cn
 pictela.net
 piksel.com
 ping.ublock.org
@@ -12951,6 +13029,7 @@ plista.com
 plugerr.com
 plumposterity.com
 plymedia.com
+pnsdkapi.turktelekom.com.tr
 po.st
 pointmediatracker.com
 pointroll.com
@@ -12975,6 +13054,7 @@ powerlinks.com
 pp.ru
 ppchero.com
 ppjol.net
+prd.sca.samsung.com
 preanalytication.com
 prebid.org
 prf.hn
@@ -13022,6 +13102,7 @@ pub.network
 pubexchange.com
 pubfruitlesswording.com
 pubguru.com
+public.shtranssion.com
 publir.com
 publitas.com
 pubmatic.com
@@ -13097,6 +13178,7 @@ qubitproducts.com
 queersodadults.com
 questback.com
 questionmarket.com
+qutrmhwp.com
 r.i0.cz
 r023m83skv5v.com
 r1-cdn.net
@@ -13136,7 +13218,6 @@ regulationprivilegescan.top
 reklama.silnet.pl
 relay.bid
 remarketingpixel.com
-rename.net
 repixel.co
 report-metrics.essentials3.net
 res-x.com
@@ -13195,6 +13276,7 @@ rm0009.net
 rm02.net
 rm04.net
 rndmusharnar.com
+ro-up.vivoglobal.com
 rockabox.co
 roia.biz
 rollmeout.xyz
@@ -13210,6 +13292,8 @@ rtbimpression.com
 rtbtrackers.com
 rtmark.net
 rts.mobula.sdk.duapps.com
+ru-comonrt-stsdk.vivoglobal.com
+ru-monitor-stsdk.vivoglobal.com
 ru4.com
 rubberbeak.com
 rubiconproject.com
@@ -13262,12 +13346,14 @@ scorecardresearch.com
 scoutanalytics.net
 scramblerun.com
 scrapebust.com
+sctclick2.com
 sdkconfig.ad.intl.xiaomi.com
 sdsjweb.com
 se-core-pipe.com
 se05.biz
 se07.biz
 seaofads.com
+searchanalytics.turkcell.com.tr
 searchlinks.com
 searchmarketing.com
 seat.it
@@ -13279,6 +13365,7 @@ securemetrics.apple.com
 securemetrics.athletawell.com
 securemetrics.yeezygap.com
 securepaths.com
+seedownshow.live
 seedtag.com
 seeyoufarm.com
 segment.com
@@ -13312,6 +13399,7 @@ shareaholic.net
 shared1.ad-lister.co.uk
 sharethis.com
 sharethrough.com
+shealth-analytics-api.samsunghealth.com
 shemedia.com
 shinystat.com
 shop2market.com
@@ -13526,9 +13614,11 @@ smetrics.bmc.com
 smetrics.bmo.com
 smetrics.bms-onkologie.de
 smetrics.bmscustomerconnect.com
+smetrics.bmshealthcare.jp
 smetrics.bncollege.com
 smetrics.bnymellon.com
 smetrics.boehringer-ingelheim.com
+smetrics.boostinfinite.com
 smetrics.boostmobile.com
 smetrics.boozallen.com
 smetrics.boss.info
@@ -13596,6 +13686,7 @@ smetrics.citizensbank.com
 smetrics.cloudera.com
 smetrics.cnn.com
 smetrics.coca-cola.com
+smetrics.coca-colacanada.ca
 smetrics.codan.dk
 smetrics.columbia.com
 smetrics.comenity.net
@@ -13686,6 +13777,7 @@ smetrics.equitable.com
 smetrics.ernestjones.co.uk
 smetrics.etcanada.com
 smetrics.etihad.com
+smetrics.ets.org
 smetrics.eurekalert.org
 smetrics.europafm.com
 smetrics.eurowings.com
@@ -13725,6 +13817,7 @@ smetrics.foxnews.com
 smetrics.fpl.com
 smetrics.francosarto.com
 smetrics.franke.com
+smetrics.frasersproperty.com
 smetrics.frontier.com
 smetrics.frontline.com
 smetrics.ftd.com
@@ -13771,6 +13864,7 @@ smetrics.heathrow.com
 smetrics.heathrowexpress.com
 smetrics.hebprepaid.com
 smetrics.herbalife.com
+smetrics.heromotocorp.com
 smetrics.hks-power.co.jp
 smetrics.hmhco.com
 smetrics.hollandamerica.com
@@ -13955,7 +14049,6 @@ smetrics.newark.com
 smetrics.newbalance.com
 smetrics.newfoundlandgrocerystores.ca
 smetrics.newport.com
-smetrics.nexgardbrasil.com.br
 smetrics.nexmo.com
 smetrics.nfl.com
 smetrics.nfpa.org
@@ -14120,6 +14213,7 @@ smetrics.siriusxm.com
 smetrics.sivasdescalzo.com
 smetrics.sj.se
 smetrics.skipton.co.uk
+smetrics.skoda.nl
 smetrics.sky.com
 smetrics.sky.it
 smetrics.skyhighsecurity.com
@@ -14341,6 +14435,7 @@ srvpub.com
 ssacdn.com
 ssite.waitrose.com
 ssw.live.com
+st-ads-jssdk.vivo.com.cn
 sta.lachym.cz
 stackadapt.com
 startup.mobile.webvisor.com
@@ -14355,6 +14450,7 @@ stat.techtimes.com
 stat.torchbrowser.com
 statcounter.com
 static.ads-twitter.com
+static.cloudflareinsights.com
 stats.addsearch.com
 stats.api.xiaomi.net
 stats.bbc.co.uk
@@ -14424,6 +14520,8 @@ streamrail.net
 streamsend.com
 strikead.com
 struq.com
+stsdk.vivo.com.cn
+stsdk.vivoglobal.com
 styleszelife.com
 stylitics.com
 sub2tech.com
@@ -14481,6 +14579,7 @@ tapdaq.com
 tapfiliate.com
 tapjoy.com
 tapjoyads.com
+taplink.cc
 tapnative.com
 tappx.com
 target2sell.com
@@ -14555,6 +14654,7 @@ tmmkjvphbawgul.com
 tns-counter.ru
 tns-cs.net
 tonsilyearling.com
+toolmatrix.plus
 topaz-analytics.com
 topdisplaynetwork.com
 toprevenuecpmnetwork.com
@@ -14612,6 +14712,7 @@ trackerrysrv.com
 tracking-analytics.net
 tracking.aegpresents.com
 tracking.atreemo.com
+tracking.bloomberg.com
 tracking.cmjump.com.au
 tracking.csgipe.com
 tracking.epicgames.com
@@ -14678,6 +14779,7 @@ trk.celtx.com
 trk.homeaway.com
 trk.informationweek.com
 trk.justanswer.com
+trk.lcn.com
 trk.nfl-online-streams.live
 trk.pinterest.com
 trk2.pinterest.com
@@ -14687,6 +14789,7 @@ trkme.net
 trkn.us
 trkr.duckdns.org
 trkshark.cc
+trnox.com
 tru.am
 truehits.in.th
 truehits.net
@@ -14710,6 +14813,7 @@ turn.com
 tutoads.tv
 tvpixel.com
 tvsquared.com
+twibida.com
 twinrdsrv.com
 twisto.cz
 twndo77864.com
@@ -14720,6 +14824,7 @@ tyroodr.com
 uadx.com
 udmserve.net
 ugdturner.com
+uimetadata.samsungiotcloud.com
 ultimedia.com
 umbel.com
 umeng.com
@@ -14754,6 +14859,7 @@ uptilt.com
 uptownrecycle.com
 urbanairship.com
 urldelivery.com
+us-api.mcsvc.samsung.com
 usabilla.com
 useinsider.com
 useitbetter.com
@@ -14771,6 +14877,7 @@ vaicore.xyz
 valassisdigital.io
 varietyofdisplayformats.com
 variouscreativeformats.com
+vcardsdkservice.vivo.com.cn
 vcmedia.vn
 vcommission.com
 vdna-assets.com
@@ -14902,6 +15009,7 @@ widespace.com
 wingify.com
 wisepops.com
 wistia.net
+wkqcnkstso.com
 wmgroup.us
 wogaa.sg
 woopra.com
@@ -14925,6 +15033,7 @@ x-mediate.com
 xclicks.net
 xg4ken.com
 xiti.com
+xpu.samsungelectronics.com
 y-track.com
 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 yabidos.com
@@ -14960,6 +15069,7 @@ yr9n47004g.com
 ysance.com
 yuhuads.com
 yunjiasu-cdn.net
+zaglushkaaa.com
 zbuckz.com
 zdbb.net
 zedo.com

@@ -2149,6 +2149,7 @@ analytics-proxy.springboard.com
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
+analytics-zone-1.api.leadfamly.com
 analytics.126.net
 analytics.163.com
 analytics.30m.com
@@ -6195,6 +6196,7 @@ intent.macworld.co.uk
 intent.pcworld.idg.com.au
 intent.techadvisor.com
 interestsmoke.com
+internal-analytics.odoo.com
 internalsink.com
 interworks.cloud.actonservice.com
 intg.snapchat.com
@@ -8618,6 +8620,7 @@ pm.dailykos.com
 pm.pmu.fr
 pm.redbull.com
 pmetrics.performancing.com
+pnekru6pxrum-a.akamaihd.net
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 po.ponant.com
@@ -8977,7 +8980,6 @@ rlcdn.com
 rloddo.olx.bg
 rlog.popin.cc
 rmgdapfnccsharpprd.azurewebsites.net
-rndntpmgnj-a.akamaihd.net
 rnffgv.wemakeprice.com
 rnybul.gismeteo.kz
 rnybul.gismeteo.ru
@@ -9917,7 +9919,6 @@ sfpc.changehealthcare.com
 sftrack.searchforce.net
 sg.promo.skf.com
 sg3.notarize.com
-sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
 shaggytank.com
 shakegoldfish.com
@@ -13949,7 +13950,6 @@ ugdturner.com
 ugmarketing.smu.edu.sg
 uhm26jyr11zv.www.freecodecamp.org
 uhn9.up-france.fr
-uhytajrtpo-a.akamaihd.net
 uid.mediacorp.sg
 uie.data.cbc.ca
 uijciz.gunze.jp
@@ -14994,7 +14994,6 @@ zucks.net.zimg.jp
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
-zvsuhljiha-a.akamaihd.net
 zvvpcz.puravita.ch
 zvvsvr.kettner-edelmetalle.de
 zwatgf.megaknihy.cz
