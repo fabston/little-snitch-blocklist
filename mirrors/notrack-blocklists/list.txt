@@ -103,6 +103,7 @@ ad5.on.cc
 ad6.on.cc
 ad6media.fr
 ad7.on.cc
+adabdapi.ldmnq.com
 adacado.com
 adactive.cz
 adadapted.com
@@ -601,6 +602,7 @@ api-analytics-ru.huami.com
 api-analytics-us.huami.com
 api-telemetry.servers.getgo.com
 api.action-media.ru
+api.edgeoffer.microsoft.com
 api.gateway.kik-live.com
 api16-access-sg.pangle.io
 apien.ldmnq.com
@@ -870,6 +872,7 @@ ccemails.com
 ccmp.eu
 ccpmtrk.com
 cdn-net.com
+cdn.shalltry.com
 cdn4ads.com
 cdnads.com
 cdnativepush.com
@@ -952,6 +955,7 @@ clkmon.com
 clkpback3.com
 clkrev.com
 clksite.com
+clog.geniex.com
 closealert.com
 clothingsphere.com
 clottedpowerlessmade.com
@@ -1154,6 +1158,7 @@ displaynetworkprofit.com
 displayvertising.com
 disqusads.com
 disrespectpreceding.com
+dit.whatsapp.net
 dl-rms.com
 dlfvgndsdfsn.com
 dm.action-media.ru
@@ -1311,6 +1316,7 @@ eum-appdynamics.com
 evasiondemandedlearning.com
 eventcapture03.com
 eventcapture06.com
+events.gfe.nvidia.com
 eventstream.dodopizza.com
 ever-track-51.com
 everestads.net
@@ -1506,6 +1512,7 @@ graphiq.com
 gravity.com
 greengrowth.space
 greystripe.com
+growth-pa.googleapis.com
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
@@ -1516,6 +1523,7 @@ gscontxt.net
 gsecondscreen.com
 gslb-ns.net
 gslb.com
+gslb.shalltry.com
 gssprt.jp
 gu-web.net
 gumbolersgthb.com
@@ -1646,6 +1654,7 @@ inmobicdn.net
 inner-active.mobi
 innovid.com
 inq.com
+ins.shalltry.com
 inscname.net
 inside-graph.com
 insightexpressai.com
@@ -14655,6 +14664,7 @@ tl813.com
 tm-awx.com
 tm1-001.com
 tmmkjvphbawgul.com
+tms-api.shalltry.com
 tns-counter.ru
 tns-cs.net
 tonsilyearling.com
@@ -14664,7 +14674,6 @@ topdisplaynetwork.com
 toprevenuecpmnetwork.com
 touchcommerce.com
 touchstoneresearch.com
-tp1jcgl644jk.com
 tp88trk.com
 tpbid.com
 tqlkg.com

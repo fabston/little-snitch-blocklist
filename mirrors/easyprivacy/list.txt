@@ -3954,6 +3954,7 @@ d.image-ad.jp
 d.m-net.de
 d.nativendo.de
 d.omsnative.de
+d.rp-online.de
 d.shareaholic.com
 d.skk.moe
 d.sourcepoint.capitalfm.com
@@ -6772,6 +6773,7 @@ logger.uol.com.br
 logger.yp.ca
 logging.api.intuit.com
 logging.carambo.la
+logging.cmp-resources.link
 logging.je-apps.com
 logging.prefixbox.com
 logging.wilmaa.com
@@ -9866,6 +9868,7 @@ seed.bitcoinstats.com
 seed.btc.petertodd.org
 seedscissors.com
 seg.sharethis.com
+segmentor.snowfox-ai.com
 segra.actonservice.com
 selectionship.com
 selfishsea.com
@@ -12453,6 +12456,7 @@ tags.aljazeera.net
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
+tags.cmp.tail.digital
 tags.creativille.co.uk
 tags.esri.rw
 tags.fullcontact.com
