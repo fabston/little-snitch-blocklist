@@ -7563,6 +7563,7 @@ metrics.maxizoo.be
 metrics.maxizoo.fr
 metrics.maxizoo.ie
 metrics.maxizoo.pl
+metrics.mdstrm.com
 metrics.medical.roche.de
 metrics.meiers-weltreisen.de
 metrics.mein-dertour.de
@@ -8708,6 +8709,7 @@ pt.crossmediaservices.com
 pt.ispot.tv
 ptracker.nurturehq.com
 ptsc.shoplocal.com
+pub.servidoresge.com
 pub.sheknows.com
 pubtm.com
 puffypaste.com
@@ -12640,6 +12642,7 @@ test.shoppers.instacartemail.com
 test.vast
 testbed2labrepositorysystem01.lax.repobrandfw.lab2.net.zooplus.de
 testedtouch.com
+testingmetriksbre.ru
 teststocking.com
 tevzas.autoscout24.fr
 text.benefitsatwork.be

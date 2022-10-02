@@ -1,3 +1,4 @@
+03f128fb44.com
 1-cl0ud.com
 1000mercis.com
 1010data.com
@@ -55,6 +56,7 @@ aarth.net
 aaxads.com
 aaxdetect.com
 abmr.net
+absoluteroute.com
 abtasty.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
@@ -383,6 +385,7 @@ adxcel-ec2.com
 adxlog.vivo.com.cn
 adxpansion.com
 adxpose.com
+adxserve.com
 adzerk.com
 adzerk.net
 adzhub.com
@@ -437,6 +440,7 @@ alephd.com
 alertlogsemployer.com
 alexametrics.com
 algolia.com
+allvideometrika.com
 alooma.com
 alternativecpmgate.com
 alternativeprofitablegate.com
@@ -619,6 +623,7 @@ app-measurement.com
 app.link
 appads.com
 appanalytics.embarcadero.com
+appbaqend.com
 appdynamics.com
 appendixwarmingauthors.com
 appier.net
@@ -638,6 +643,7 @@ appsflyer.com
 appsflyersdk.com
 appstat.petafuel.net
 apptelemetry.io
+apptentive.com
 apptimize.com
 apptjmp.com
 apptracker.gamedock.io
@@ -687,6 +693,7 @@ avantisvideo.com
 avazunativeads.com
 avct.cloud
 avocet.io
+awcrpu.com
 aweber.com
 awembd.com
 awin.com
@@ -704,6 +711,7 @@ bal8ntrk.com
 bam-x.com
 banner.ws.pho.to
 bannerflow.com
+bannersnack.com
 banquetunarmedgrater.com
 bars.sapo.pt
 basebanner.com
@@ -819,9 +827,11 @@ brightline.tv
 britepool.com
 bronrt.stsdk.vivo.com.cn
 brort.stsdk.vivo.com.cn
+browser-intake-datadoghq.com
 brpnrt.stsdk.vivo.com.cn
 brpx.com
 bstats.org
+btloader.com
 btrack.site
 btrll.com
 btserve.com
@@ -835,6 +845,7 @@ bullionyield.com
 bumlam.com
 bunti.ng
 burt.io
+buyrange.top
 buysellads.com
 buysellads.net
 buysub.com
@@ -893,6 +904,7 @@ channeladvisor.com
 channelintelligence.com
 chartbeat.com
 chartbeat.net
+chartboost.com
 cheetahmail.com
 chfpgcbe.com
 chicdn.net
@@ -935,6 +947,7 @@ clickfuse.com
 clickio.com
 clickiocdn.com
 clickmeter.com
+clicks.hurriyet.com.tr
 clickshift.com
 clicktale.net
 clicktracks.com
@@ -942,6 +955,7 @@ clicktripz.com
 client-event-reporter.twitch.tv
 client-stats.gaijin.net
 client-telemetry.roblox.com
+client-uc.heytapmobi.com
 clientgear.com
 clientmetrics-augmentum.kik.com
 clientmetrics.kik.com
@@ -986,7 +1000,6 @@ colonistnobilityheroic.com
 comm100.com
 commander1.com
 company-target.com
-computebailiff.com
 comscore.com
 comscoreresearch.com
 condenastdigital.com
@@ -1321,6 +1334,7 @@ eventstream.dodopizza.com
 ever-track-51.com
 everestads.net
 everestjs.net
+everestop.io
 everesttech.net
 evergage.com
 evidon.com
@@ -1462,6 +1476,7 @@ geoedge.be
 geoedge.com
 geogslb.com
 geoiplookup.wikimedia.org
+geoloc.hurriyet.com.tr
 georiot.com
 getcarro.com
 getclicky.com
@@ -1478,8 +1493,10 @@ gigaonclick.com
 giosg.com
 girlbuffalo.com
 glenprejudice.com
+glersakr.com
 glimr.io
 glispa.com
+gloaphoo.net
 global.go.com
 globalemedia.net
 globaloffers.link
@@ -1688,6 +1705,8 @@ interstitial-07.com
 invitemedia.com
 invoc.us
 ioam.de
+iot-eu-logser.realme.com
+iot-logser.realme.com
 ipinfo.io
 ipredictive.com
 iprom.net
@@ -1696,6 +1715,7 @@ ipromote.com
 ir3.xyz
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
+irgayuwmhj.com
 iris.tv
 ironsrc.mobi
 irregularhumilityoptical.com
@@ -1707,6 +1727,7 @@ itineraryupper.com
 itomedia.co.za
 iwanttodeliver.com
 j6mn99mr0m2n.com
+jads.co
 jampp.com
 janitoraccrue.com
 jbm6c54upkui.com
@@ -1734,6 +1755,7 @@ justpremium.com
 justtrack.io
 justuno.com
 jwpltx.com
+jwuyjehlbndrkd.com
 k-analytix.com
 kaggle.io
 kaloo.ga
@@ -1876,6 +1898,7 @@ longabeach.com
 loopme.me
 lotteryhibernateauthorized.com
 louisaprocedureegoism.com
+loxitdat.com
 lp4.io
 lpsnmedia.net
 lpxtqptab.com
@@ -1940,11 +1963,17 @@ mc.yandex.ru
 mcstats.org
 mdotlabs.com
 mdotm.com
+mdp-appconf-id.heytapdl.com
+mdp-appconf-kh.heytapdl.com
+mdp-appconf-mm.heytapdl.com
+mdp-appconf-sg.heytapdl.com
+mdp-appconf-us.heytapdl.com
 measuread.com
 measurelib.com
 measurement-lab.org
 medals.bizrate.com
 medi-8.net
+media-lab.ai
 media.complex.com
 media.net
 media6degrees.com
@@ -1959,6 +1988,7 @@ mediavine.com
 mediavoice.com
 mediawhirl.net
 medleyads.com
+medyanetads.com
 meetrics.com
 meetrics.net
 mellowads.com
@@ -2006,6 +2036,7 @@ metrics.troweprice.com
 metrics.ubuntu.com
 metrics.washingtonpost.com
 metricsflow.com
+metricswpsh.com
 metrigo.com
 metrika.mos.ru
 metrika.myseldon.com
@@ -2022,19 +2053,13 @@ mindbox.ru
 mintegral.net
 minutemedia-prebid.com
 mixpanel.com
-mkt001.com
 mkt005.com
-mkt010.com
-mkt012.com
 mkt015.com
 mkt0203.com
 mkt030.com
 mkt038.com
 mkt042.com
 mkt044.com
-mkt046.com
-mkt047.com
-mkt055.com
 mkt059.com
 mkt062.com
 mkt063.com
@@ -2619,28 +2644,11 @@ mkt10514.com
 mkt10515.com
 mkt10516.com
 mkt1052.com
-mkt10523.com
-mkt10526.com
-mkt10527.com
-mkt10528.com
-mkt10529.com
 mkt1053.com
-mkt10530.com
-mkt10531.com
-mkt10532.com
 mkt10533.com
 mkt10534.com
 mkt10535.com
-mkt10536.com
-mkt10537.com
-mkt10538.com
-mkt10539.com
 mkt1054.com
-mkt10540.com
-mkt10541.com
-mkt10542.com
-mkt10543.com
-mkt10544.com
 mkt10545.com
 mkt10546.com
 mkt10547.com
@@ -3598,10 +3606,13 @@ mkt11448.com
 mkt11449.com
 mkt1145.com
 mkt11456.com
+mkt11459.com
 mkt1146.com
 mkt11462.com
+mkt11464.com
 mkt11465.com
 mkt1147.com
+mkt11471.com
 mkt1148.com
 mkt1149.com
 mkt1150.com
@@ -12791,6 +12802,7 @@ netcommunities.com
 netcpms.com
 netline.com
 netlineads.com
+netmera-web.com
 netmng.com
 netperform-is.vodafone.com.tr
 netseer.com
@@ -12920,6 +12932,7 @@ optimizesrv.com
 optinmonster.com
 optnmnstr.com
 optnmstr.com
+orangeclickmedia.com
 ort-stsdk.vivo.com.cn
 os-code.shalltry.com
 ostlon.com
@@ -12991,6 +13004,7 @@ photorank.me
 picanalysis.vivo.com.cn
 pictela.net
 piksel.com
+ping.staticmoly.me
 ping.ublock.org
 pingback.giphy.com
 pingdom.net
@@ -13065,7 +13079,9 @@ pow7.com
 powerlinks.com
 pp.ru
 ppchero.com
+ppcnt.pro
 ppjol.net
+pr-bh.ybp.yahoo.com
 prd.sca.samsung.com
 preanalytication.com
 prebid.org
@@ -13159,7 +13175,6 @@ px.spiceworks.com
 px.srvcs.tumblr.com
 px.staticfiles.at
 pxi.pub
-pxl.api-aws.dailymotion.com
 pxl.indeed.com
 pxl.iqm.com
 pxlad.io
@@ -13203,9 +13218,10 @@ radiumone.com
 raggedstriking.com
 rallyad-server.net
 rampanel.com
-rates1.com
+rat.rakuten.co.jp
 rayjump.com
 rbl.ms
+rbthre.work
 rcsmetrics.it
 reactful.com
 readnotify.com
@@ -13310,6 +13326,7 @@ ru4.com
 rubberbeak.com
 rubiconproject.com
 rubiconproject.net.akadns.net
+rum.kobo.com
 rum.minutemediaservices.com
 rum.ngenix.net
 rum20.a.trbcdn.net
@@ -13396,6 +13413,7 @@ sensic.net
 sentifi.com
 sentimenthypocrisy.com
 sentkey.com
+sentry.justwatch.com
 seoab.io
 servebom.com
 servedby-buysellads.com
@@ -13435,7 +13453,6 @@ sidekickopen13.com
 sidekickopen16.com
 sidekickopen24.com
 sidekickopen25.com
-sidekickopen29.com
 sidekickopen35.com
 sidekickopen36.com
 sidekickopen53.com
@@ -13628,6 +13645,7 @@ smetrics.bmo.com
 smetrics.bms-onkologie.de
 smetrics.bmscustomerconnect.com
 smetrics.bmshealthcare.jp
+smetrics.bmspaf.org
 smetrics.bncollege.com
 smetrics.bnymellon.com
 smetrics.boehringer-ingelheim.com
@@ -13654,6 +13672,7 @@ smetrics.calvinklein.us
 smetrics.camzyos.com
 smetrics.camzyoshcp.com
 smetrics.capitalone.com
+smetrics.car-t.jp
 smetrics.careplushealthplans.com
 smetrics.carfax.com
 smetrics.carolinacompletehealth.com
@@ -13859,6 +13878,7 @@ smetrics.groupama.fr
 smetrics.grundfos.com
 smetrics.guaranteedrate.com
 smetrics.ha.com
+smetrics.haemhq.com.au
 smetrics.hagerty.co.uk
 smetrics.harley-davidson.com
 smetrics.harmonfacevalues.com
@@ -13876,6 +13896,7 @@ smetrics.heartgard.com
 smetrics.heathrow.com
 smetrics.heathrowexpress.com
 smetrics.hebprepaid.com
+smetrics.hemapedia.jp
 smetrics.herbalife.com
 smetrics.heromotocorp.com
 smetrics.hks-power.co.jp
@@ -13989,6 +14010,7 @@ smetrics.marriottvacationclub.com
 smetrics.marshalls.com
 smetrics.marshandmclennan.com
 smetrics.mastercard.com
+smetrics.mastercardfoundation.com
 smetrics.mathworks.cn
 smetrics.mathworks.com
 smetrics.matlab.com
@@ -14103,6 +14125,7 @@ smetrics.pandora.net
 smetrics.payback.de
 smetrics.payback.it
 smetrics.payback.pl
+smetrics.pbteen.ca
 smetrics.pbteen.com
 smetrics.pcid.ca
 smetrics.pcoptimum.ca
@@ -14121,6 +14144,7 @@ smetrics.pfa.dk
 smetrics.pharmaintelligence.informa.com
 smetrics.platformservices.co.uk
 smetrics.playcard.com
+smetrics.playstation.com
 smetrics.plumbenefits.com
 smetrics.plumbingtoday.biz
 smetrics.politico.com
@@ -14159,6 +14183,7 @@ smetrics.reale.es
 smetrics.realestate.com.au
 smetrics.realpropertymgt.com
 smetrics.realtor.com
+smetrics.recurly.com
 smetrics.redbox.com
 smetrics.redcross.org
 smetrics.redcrossblood.org
@@ -14169,7 +14194,9 @@ smetrics.rejuvenation.com
 smetrics.rentprogress.com
 smetrics.repco.co.nz
 smetrics.repco.com.au
+smetrics.rinpashu.jp
 smetrics.riteaid.com
+smetrics.riumachitearoom.jp
 smetrics.robeco.com
 smetrics.roche.de
 smetrics.rockandpop.cl
@@ -14336,6 +14363,7 @@ smetrics.verisign.com
 smetrics.vermontcountrystore.com
 smetrics.vero.com.au
 smetrics.viceroyhotelsandresorts.com
+smetrics.viega.nl
 smetrics.viega.us
 smetrics.virginatlantic.com
 smetrics.virginmediabusiness.co.uk
@@ -14403,6 +14431,7 @@ sniperlog.ru
 snmmd.nl
 snoop.minecraft.net
 snowplow-pixel.tradingview.com
+snslqnfpxjrw.com
 snt1.net
 social-discovery.io
 socialhoney.co
@@ -14504,6 +14533,7 @@ stats.searchanise.com
 stats.unity3d.com
 stats.victoriaplum.com
 stats.videodelivery.net
+stats.videoseyred.in
 stats.vk-portal.net
 stats.wikimedia.org
 stats.windscribe.com
@@ -14603,6 +14633,7 @@ tdbtrk.com
 teads.tv
 tealiumiq.com
 teamsperilous.com
+techlab-cdn.com
 technorail.com
 technorati.com
 technoratimedia.com
@@ -14840,7 +14871,9 @@ ugdturner.com
 uimetadata.samsungiotcloud.com
 ultimedia.com
 umbel.com
+umeng.co
 umeng.com
+umengcloud.com
 unanimis.co.uk
 undertone.com
 undrininvereb.info
@@ -14879,6 +14912,7 @@ useitbetter.com
 user-api.com
 userreplay.net
 userreport.com
+usersnap.com
 userzoom.com
 utarget.ru
 v6lvs.com
@@ -15025,6 +15059,7 @@ wistia.net
 wkqcnkstso.com
 wmgroup.us
 wogaa.sg
+woollenthawewe.com
 woopra.com
 worldtable.co
 wowanalytics.co.uk
@@ -15042,6 +15077,7 @@ wvhba6470p.com
 www3.convergenciadigital.com.br
 wwwpromoter.com
 wywy.com
+wzrkt.com
 x-mediate.com
 xclicks.net
 xg4ken.com
