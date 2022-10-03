@@ -34,7 +34,6 @@
 51yes.com
 5min.com
 65twenty.com
-66e7b94f96.com
 6sense.com
 7eer.net
 89rscocasf.ru
@@ -282,6 +281,7 @@ ads5-adnow.com
 adsafeprotected.com
 adsafety.net
 adsbookie.com
+adsbynimbus.com
 adscale.de
 adscience.nl
 adsco.re
@@ -447,10 +447,12 @@ alternativeprofitablegate.com
 altitude-arena.com
 altmetric.com
 amgdgt.com
+amnyescsmgcagjj.com
 amobee.com
 amountdonutproxy.com
 amp.services
 amplience.com
+amplitude.com
 ampmetrics.techcrunch.com
 amptrack.bild.de
 amptrack.dailymail.co.uk
@@ -624,10 +626,12 @@ app.link
 appads.com
 appanalytics.embarcadero.com
 appbaqend.com
+appdump.nie.easebar.com
 appdynamics.com
 appendixwarmingauthors.com
 appier.net
 applift.com
+applog.matrix.easebar.com
 applog.zaycev.net
 applogs-v2.pixelfederation.com
 applovin.com
@@ -745,6 +749,7 @@ beacons5.gvt2.com
 beacons5.gvt3.com
 beaconsinspace.com
 beardfleet.com
+bebi.com
 beemray.com
 begun.ru
 behalfplead.com
@@ -876,6 +881,7 @@ carrottrack.io
 casalemedia.com
 cashlantis.com
 catgride.com
+cauly.co.kr
 cb-telemetry.academicmerit.com
 cbdatatracker.com
 cccampaigns.com
@@ -888,6 +894,7 @@ cdn4ads.com
 cdnads.com
 cdnativepush.com
 cdntrf.com
+cdp.cloud.unity3d.com
 cdxr53.com
 cedexis-radar.net
 cedexis-test.com
@@ -1006,6 +1013,8 @@ condenastdigital.com
 condolencespicturesquetracks.com
 condolencessumcomics.com
 conductmassage.com
+config.claspws.tv
+config.sdk.scopely.io
 config.uca.cloud.unity3d.com
 confirmsubscription.com
 connatix.com
@@ -1164,6 +1173,7 @@ directservices.it
 discovery.rudo.video
 dislanelibrar.top
 disparagethence.com
+display.io
 displaycontentprofit.com
 displayformatrevenue.com
 displaymarketplace.com
@@ -1619,12 +1629,14 @@ ibillboard.com
 ic-live.com
 id.aftenbladet.no
 id5-sync.com
+identity.api.wmcdp.io
 idg.com
 idio.co
 idqqimg.com
 idvert.cz
 ie3wisa4.com
 igodigital.com
+ikcyxcbqmoptk.com
 iljmp.com
 illuminatelocks.com
 imageadv.ccb.com
@@ -1727,6 +1739,7 @@ itineraryupper.com
 itomedia.co.za
 iwanttodeliver.com
 j6mn99mr0m2n.com
+ja2n2u30a6rgyd.com
 jads.co
 jampp.com
 janitoraccrue.com
@@ -1872,6 +1885,7 @@ log.popin.cc
 log.quora.com
 log.spotify.com
 log.strm.yandex.ru
+log.tapatalk.com
 log.zoom.us
 log16-platform-ycru.tiktokv.com
 logger.dailymotion.com
@@ -1887,6 +1901,7 @@ logs.autofi.com
 logs.boardkingsgame.com
 logs.dashlane.com
 logs.game.qq.com
+logs.psm.wmcdp.io
 logs.roku.com
 logs.unchecky.com
 logserver.hicloud.com
@@ -1960,6 +1975,7 @@ maxymiser.net
 mbvnclick4.com
 mbww.com
 mc.yandex.ru
+mcount.easebar.com
 mcstats.org
 mdotlabs.com
 mdotm.com
@@ -2010,6 +2026,7 @@ metrics.articulate.com
 metrics.asos.com
 metrics.beyondwords.io
 metrics.cbc.ca
+metrics.claspws.tv
 metrics.corus.ca
 metrics.data.hicloud.com
 metrics.dt.hicloud.com
@@ -12858,6 +12875,7 @@ nuniceberg.com
 nw-rail-03.com
 nyctrl32.com
 nyltx.com
+obashwmzrfofi.com
 obituaryfuneral.com
 oclaserver.com
 oclasrv.com
@@ -13242,6 +13260,7 @@ rees46.com
 reevoo.com
 refersion.com
 refinedads.com
+register.collector.scopely.io
 regulationprivilegescan.top
 reklama.silnet.pl
 relay.bid
@@ -13382,6 +13401,7 @@ se-core-pipe.com
 se05.biz
 se07.biz
 seaofads.com
+search-log-1.tapatalk.com
 searchanalytics.turkcell.com.tr
 searchlinks.com
 searchmarketing.com
@@ -13478,6 +13498,7 @@ sidekickopen87.com
 sidekickopen89.com
 sidekickopen90.com
 siftscience.com
+sigma-statistics-push.proxima.nie.easebar.com
 signaledue.com
 signaletre.com
 signauxcinq.com
@@ -14143,7 +14164,6 @@ smetrics.petco.com
 smetrics.pfa.dk
 smetrics.pharmaintelligence.informa.com
 smetrics.platformservices.co.uk
-smetrics.playcard.com
 smetrics.playstation.com
 smetrics.plumbenefits.com
 smetrics.plumbingtoday.biz
@@ -14445,6 +14465,7 @@ somewhatwideslimy.com
 somplo.com
 sonataplatform.com
 sonobi.com
+soom.la
 sophus3.com
 sortable.com
 sovrn.com
@@ -14718,7 +14739,6 @@ track.flexlinkspro.com
 track.freecallinc.com
 track.juno.com
 track.ktplay.com
-track.lexico.com
 track.libii.cn
 track.magictavern.com
 track.news.bg
@@ -14866,6 +14886,7 @@ tynt.com
 tyroo.com
 tyroodr.com
 uadx.com
+udc.yahoo.com
 udmserve.net
 ugdturner.com
 uimetadata.samsungiotcloud.com
@@ -14910,9 +14931,11 @@ usabilla.com
 useinsider.com
 useitbetter.com
 user-api.com
+usermetrics.lidlplus.com
 userreplay.net
 userreport.com
 usersnap.com
+uservoice.com
 userzoom.com
 utarget.ru
 v6lvs.com
@@ -14975,6 +14998,7 @@ vintagerespectful.com
 viqeo.tv
 viral782.com
 virtuoussoftware.com
+visariomedia.com
 visenze.com
 visiblejoseph.com
 visistat.com
@@ -15051,6 +15075,7 @@ webtrends.telegraph.co.uk
 webtrendslive.com
 webvisor.org
 weekli.systems
+who.nie.easebar.com
 whoisvisiting.com
 widespace.com
 wingify.com
