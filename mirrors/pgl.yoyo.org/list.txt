@@ -991,6 +991,7 @@ analytics.pointdrive.linkedin.com
 analytics.poolshool.com
 analytics.posttv.com
 analytics.samdd.me
+analytics.santander.co.uk
 analytics.siliconexpert.com
 analytics.swiggy.com
 analytics.tiktok.com
@@ -1873,6 +1874,7 @@ gml.email
 go-clicks.de
 go-mpulse.net
 go-rank.de
+go.dhs.gov
 go.eu.sparkpostmail1.com
 go.icann.org
 go.usa.gov
@@ -2699,6 +2701,7 @@ props.id
 prosper.on-line-casino.ca
 protectcrev.com
 protectsubrev.com
+protestcopy.com
 proton-tm.com
 protraffic.com
 provenpixel.com

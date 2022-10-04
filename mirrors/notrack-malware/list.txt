@@ -38,7 +38,6 @@ arklive.pro
 arkluck.tech
 arknew.org
 arkpromo.org
-arkrich.net
 arkrise.info
 arkspaces.net
 arkswell.com
@@ -55,6 +54,9 @@ biglinksrc.cool
 bingsearchlib.com
 biosagentplus.com
 bit-iq.co
+bitalpha-ai.io
+bitalpha-ai.nl
+bitalpha-ai.org
 bitcoin-era.live
 bitcoin-pro.live
 bitiqapp.com
@@ -63,8 +65,6 @@ brounelink.com
 browfileext.com
 browlinkdev.xyz
 bugdepromo.com
-buterin-merge.com
-buterin-vitalik.com
 buycritical.com
 byebyeads.org
 c8xwor.com
@@ -134,15 +134,12 @@ eth-stake.net
 eth-stake.org
 eth2022-merge.com
 eth22pos.com
-eth22pos.org
 eth2x.pro
-ethblockx2.com
 ethcapital.us
 ethcorp.io
 ether2x.pro
 ethereum2x.pro
 ethfree.pro
-ethgivepos.org
 ethmerge.gif
 ethmerge.gift
 ethmerge22.com
@@ -174,7 +171,6 @@ freshaudio.net
 gaineth.net
 gemius.pl
 genyhome.com
-getark.pro
 gettesla.org
 gg-bet-pl.com
 gg146.bet
@@ -236,6 +232,7 @@ killbot.org
 killssource.com
 kimane.xyz
 ktosdelaetskrintotpidor.com
+labsxrp.pro
 ladsblue.com
 langhort.com
 learnark.org
@@ -361,6 +358,7 @@ sohu.om
 solvusoft.com
 sourcelog.cool
 spaceluck.tech
+spacex2022.space
 spacexfund.com
 spacexluck.org
 spacexrich.com
@@ -377,11 +375,8 @@ tesla-promo22.com
 tesla2022go.com
 tesla22go.com
 tesla2event.com
-tesla4.net
 teslaelon2022.org
 teslaelon22.com
-teslaevent.club
-teslafound.com
 teslafounder.org
 teslaluck.org
 teslarise.com
@@ -419,12 +414,14 @@ winworker.club
 workdevapp.com
 worldmodel.biz
 wwwyoutube.com
+x2ether.pro
 x41.me
 xmlformats.com
 xn--gmail-bgd.com
 xrp-2x.info
 xrp-ev.site
 xrp2022.online
+xrpfound.org
 xrpstream.net
 xrpwork.org
 yahoo.om
