@@ -41,6 +41,7 @@
 9nl.com
 a-mo.net
 a.mobify.com
+a1.api.bbc.co.uk
 a1webstats.com
 a2dfp.net
 a8723.com
@@ -62,6 +63,7 @@ abtest.mistat.xiaomi.com
 ac24horas.com
 acadiaanalytics.com
 accompanycollapse.com
+accscdn.m.taobao.com
 aceark.pro
 acexedge.com
 achievablecpmrevenue.com
@@ -112,6 +114,7 @@ adage.com
 adalliance.io
 adalyser.com
 adap.tv
+adashx4ae.ut.taobao.com
 adbetnetwork.com
 adblade.com
 adblender.ru
@@ -312,6 +315,7 @@ adservice.google.ca
 adservice.google.co.in
 adservice.google.co.uk
 adservice.google.com
+adservice.google.com.pe
 adservice.google.com.pk
 adservice.google.pt
 adsessionserv.com
@@ -452,6 +456,7 @@ alternativecpmgate.com
 alternativeprofitablegate.com
 altitude-arena.com
 altmetric.com
+amdcopen.m.taobao.com
 amgdgt.com
 amnyescsmgcagjj.com
 amobee.com
@@ -469,6 +474,7 @@ analytics-api.samsunghealthcn.com
 analytics-egain.com
 analytics-static.ugc.bazaarvoice.com
 analytics.163.com
+analytics.300624.com
 analytics.74.ru
 analytics.api.vatominc.com
 analytics.archive.org
@@ -599,6 +605,7 @@ andmlb.kshwtj.com
 android-stat.acestream.net
 android.bugly.qq.com
 androidlog.ws.pho.to
+androidtvwatsonfe-pa.googleapis.com
 angorch-cdr7.com
 aniview.com
 anm.co.uk
@@ -615,11 +622,13 @@ api-analytics-ru.huami.com
 api-analytics-us.huami.com
 api-telemetry.servers.getgo.com
 api.action-media.ru
+api.ad.intl.xiaomi.com
 api.ahagamecenter.com
 api.edgeoffer.microsoft.com
 api.eu-west-1.aiv-delivery.net
 api.gateway.kik-live.com
 api.mediation.amberweather.com
+api.miwifi.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
 api16-access-sg.pangle.io
@@ -645,6 +654,7 @@ appendixwarmingauthors.com
 appier.net
 applift.com
 applog.matrix.easebar.com
+applog.uc.cn
 applog.zaycev.net
 applogs-v2.pixelfederation.com
 applovin.com
@@ -686,6 +696,7 @@ asia-monitor-stsdk.vivoglobal.com
 asia-vcode-od.vivoglobal.com
 asianmedia.com
 astutemetrics.com
+at-o.net
 atdmt.com
 atemda.com
 atgsvcs.com
@@ -721,6 +732,21 @@ ayads.co
 ayc0zsm69431gfebd.xyz
 azalead.com
 b42rracj.com
+backstory.ebay.ca
+backstory.ebay.co.uk
+backstory.ebay.com
+backstory.ebay.com.au
+backstory.ebay.com.hk
+backstory.ebay.com.my
+backstory.ebay.com.sg
+backstory.ebay.de
+backstory.ebay.es
+backstory.ebay.fr
+backstory.ebay.ie
+backstory.ebay.it
+backstory.ebay.nl
+backstory.ebay.ph
+backstory.ebay.pl
 badskates.com
 bae5tracker.com
 bakeronerousfollowing.com
@@ -735,6 +761,7 @@ basebanner.com
 basis.net
 bat.bing.com
 bat.r.msn.com
+batch.com
 batchgeo.com
 baynote.net
 bcloudhost.com
@@ -967,6 +994,7 @@ clickdimensions.com
 clickfrog.ru
 clickfunnels.com
 clickfuse.com
+clickhz.meizu.com
 clickio.com
 clickiocdn.com
 clickmeter.com
@@ -1119,6 +1147,7 @@ curulate.com
 cusperbid.com
 custobar.com
 customer.io
+customerevents.netflix.com
 customize.cz
 custora.com
 cwqljsecvr.com
@@ -1232,6 +1261,7 @@ dragonspontaneous.com
 drawingwheels.com
 dressipi.com
 drift.com
+driftt.com
 driv-analytics.com
 ds.shalltry.com
 dsch.ninja
@@ -1361,6 +1391,7 @@ eum-appdynamics.com
 evasiondemandedlearning.com
 eventcapture03.com
 eventcapture06.com
+eventlog.willow.tv
 events.gfe.nvidia.com
 eventstream.dodopizza.com
 ever-track-51.com
@@ -1427,6 +1458,7 @@ fastly-insights.com
 fatmedia.io
 faultspiano.com
 fbot.me
+federatedml-pa.googleapis.com
 feedbackify.com
 femetrics.grammarly.io
 ferventhoaxresearch.com
@@ -1480,6 +1512,7 @@ ftads.net
 ftd.agency
 ftjcfx.com
 fullstory.com
+functional.events.data.microsoft.com
 furstraitsbrowse.com
 futilereposerefreshments.com
 fwmrm.net
@@ -1526,6 +1559,7 @@ gettraff.com
 gigaonclick.com
 giosg.com
 girlbuffalo.com
+glassboxdigital.io
 glenprejudice.com
 glersakr.com
 glimr.io
@@ -1905,6 +1939,7 @@ locallogic.co
 localytics.com
 log-ingestion-eu.samsungacr.com
 log-va.tiktokv.com
+log.api.zaloapp.com
 log.core.cloud.vewd.com
 log.espn.com
 log.gns.go.com
@@ -1914,6 +1949,7 @@ log.olark.com
 log.pinterest.com
 log.popin.cc
 log.quora.com
+log.showmax.com
 log.spotify.com
 log.strm.yandex.ru
 log.tapatalk.com
@@ -2068,6 +2104,7 @@ metrics.gfycat.com
 metrics.hackerrank.com
 metrics.hitman.io
 metrics.icloud.com
+metrics.indazn.com
 metrics.ionos.com
 metrics.ionos.de
 metrics.kmsmep.com
@@ -12889,6 +12926,7 @@ nl02.net
 nl03.net
 nmp1.com
 nobeta.com.br
+norma-external-collect.meizu.com
 nosto.com
 notes-analytics-events.apple.com
 notifymetric.com
@@ -12901,6 +12939,7 @@ npcwfrohnshriw.com
 npttech.com
 nqs.nice264.com
 nr-data.net
+nrdp.nccp.netflix.com
 ns1p.net
 nsfwadds.com
 nster.net
@@ -13002,7 +13041,9 @@ owebanalytics.com
 owneriq.net
 ox.autolive.be
 ox.ghanasoccernet.com
+p-cg64-slinganalytics.movetv.com
 p-td.com
+p.typekit.net
 p.yotpo.com
 paas-vpc01-dms-edge-fk.easy4ipcloud.com
 padsims.com
@@ -13296,6 +13337,7 @@ realtime.email
 realytics.io
 rebelmouse.io
 rebrandly.com
+redevents-bigdata.redefine.pl
 redeye.international
 redir.metaservices.microsoft.com
 redirecting2.net
@@ -13402,6 +13444,7 @@ rundsp.com
 ruralstring.com
 rutpunishsnitch.com
 s-onetag.com
+s.deepl.com
 s01.riotpixels.net
 s3network1.com
 s3t3d2y8.ackcdn.net
@@ -13421,6 +13464,7 @@ salesmanago.pl
 salutationcheerlessdemote.com
 samsungadhub.com
 samsungads.com
+sanalytics.disneyplus.com
 sanalytics.verizon.com
 sanalytics.verizonwireless.com
 sas15k01.com
@@ -14489,6 +14533,7 @@ smilewanted.com
 smpush.com
 smrk.io
 snackly.co
+snap.licdn.com
 snapads.com
 snapengage.com
 snaplytics.io
@@ -14559,13 +14604,13 @@ stat.mixi.media
 stat.swedbank.se
 stat.techtimes.com
 stat.torchbrowser.com
+stat24.com
 statcounter.com
 static.clmbtech.com
 static.cloudflareinsights.com
 stats.addsearch.com
 stats.api.xiaomi.net
 stats.bbc.co.uk
-stats.bbc.net.uk
 stats.brave.com
 stats.captaincore.io
 stats.ctvnews.ca
@@ -14666,6 +14711,7 @@ survey-poll.com
 surveyi.com
 survicate.com
 survio.com
+svibeacon.onezapp.com
 sw-rail-7.com
 swallowcrockerybless.com
 switchadhub.com
@@ -14720,6 +14766,7 @@ telemetry-dce.gfe.nvidia.com
 telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
 telemetry-incoming.r53-2.services.mozilla.com
+telemetry.acronis.com
 telemetry.api.2kcoretech.online
 telemetry.api.playstation.com
 telemetry.api.swiftkey.com
@@ -14775,6 +14822,7 @@ tms-api.shalltry.com
 tnc16-useast1a.isnssdk.com
 tns-counter.ru
 tns-cs.net
+tongji.meizu.com
 tonsilyearling.com
 toolmatrix.plus
 topaz-analytics.com
@@ -14955,6 +15003,8 @@ umbel.com
 umeng.co
 umeng.com
 umengcloud.com
+umengjmacs.m.taobao.com
+unagi-na.amazon.com
 unanimis.co.uk
 undertone.com
 undrininvereb.info
@@ -15144,6 +15194,7 @@ wistia.net
 wkqcnkstso.com
 wmgroup.us
 wogaa.sg
+woodpecker.uc.cn
 woollenthawewe.com
 woopra.com
 worldtable.co
