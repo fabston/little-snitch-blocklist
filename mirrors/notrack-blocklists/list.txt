@@ -39,6 +39,7 @@
 89rscocasf.ru
 9mediaonline.com
 9nl.com
+a-ads.com
 a-mo.net
 a.mobify.com
 a1.api.bbc.co.uk
@@ -86,7 +87,10 @@ ad.daum.net
 ad.ettoday.net
 ad.gt
 ad.investmap.pl
+ad.logro.com.tr
+ad.mail.ru
 ad.ng.ru
+ad.particlenews.com
 ad.plus
 ad.popin.cc
 ad.rosszlanyok.hu
@@ -125,7 +129,6 @@ adbutter.net
 adbuzz.com.tr
 adc-srv.net
 adcash.com
-adclick.stuff.co.nz
 adcolony.com
 adcolony.xyz
 addeluxe.jp
@@ -331,6 +334,8 @@ adsonar.com
 adsoptimal.com
 adspdbl.com
 adspeed.net
+adspirit.com
+adspirit.de
 adspsp.com
 adsrvr.org
 adsrvs.com
@@ -341,7 +346,9 @@ adstrck.tutotoons.com
 adsupply.com
 adsupplyssl.com
 adswizz.com
+adsxyz.com
 adsymptotic.com
+adtarget.com.tr
 adtarget.me
 adtarget.tech
 adtcdn.com
@@ -592,6 +599,7 @@ analytics.twitter.com
 analytics.typedream.com
 analytics.unibuddy.co
 analytics.valiuz.com
+analytics.volla.online
 analytics.webpushr.com
 analytics.xl.pt
 analytics.yahoo.com
@@ -684,6 +692,7 @@ archyads.net
 arcpublishing.com
 arg.redgiant.com
 arguerepetition.com
+arithmeticshovel.com
 arsonexchangefly.com
 asap.sindikata.org
 ase.clmbtech.com
@@ -768,6 +777,7 @@ bcloudhost.com
 bcovery.com
 bdapi-id-ads.realmemobile.com
 bdex.com
+beacon-api.aliyuncs.com
 beacon.cdnma.com
 beacon.direct.asda.com
 beacon.dropbox.com
@@ -1044,6 +1054,7 @@ cntr-di7.com
 cnzz.com
 codigo.se
 cogocast.net
+collect.analytics.unity3d.com
 collective-media.net
 collective.com
 collector.githubapp.com
@@ -1058,6 +1069,7 @@ condolencespicturesquetracks.com
 condolencessumcomics.com
 conductmassage.com
 config.claspws.tv
+config.hiido.com
 config.sdk.scopely.io
 config.toto.zipoapps.com
 config.uca.cloud.unity3d.com
@@ -1108,6 +1120,7 @@ cpmprofitablecontent.com
 cpx.to
 cqcounter.com
 cquotient.com
+crash-reporting.duowan.com
 crashdump.spotify.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
@@ -1451,6 +1464,7 @@ face3media.com
 facetz.net
 facilitategovernor.com
 facilitatevoluntarily.com
+failover-telemetry-eu.tradingview.com
 faintestlogic.com
 fallingfalcon.com
 fancybar.net
@@ -1515,6 +1529,7 @@ fullstory.com
 functional.events.data.microsoft.com
 furstraitsbrowse.com
 futilereposerefreshments.com
+fwallwihsmjun.com
 fwmrm.net
 fyre.co
 g2afse.com
@@ -1564,6 +1579,7 @@ glenprejudice.com
 glersakr.com
 glimr.io
 glispa.com
+glizauvo.net
 gloaphoo.net
 global.go.com
 globalemedia.net
@@ -1653,6 +1669,7 @@ hitbox.com
 hitcpm.com
 hitslink.com
 hitsteps.net
+hlog.hiido.com
 hlserve.com
 hollercatastrophe.com
 hopefullyapricot.com
@@ -1745,6 +1762,7 @@ inmobicdn.net
 inner-active.mobi
 innovid.com
 inonegame.com
+inpage-push.com
 inq.com
 ins.shalltry.com
 inscname.net
@@ -1816,6 +1834,7 @@ jisusaiche.com
 jivosite.com
 jivox.com
 jmgads.com
+joowkijejv.com
 jpgtrk.com
 jpush.cn
 jpush.io
@@ -1865,7 +1884,9 @@ kontera.com
 kooappslogs.com
 korrelate.net
 krxd.net
+ksehinkitw.hair
 ksmobile.com
+ku2d3a7pa8mdi.com
 kz-onrt-stsdk.vivoglobal.com
 kzt2afc1rp52.com
 l9bjkkhaycw6f8f4.soundcloud.com
@@ -1937,7 +1958,9 @@ lkqd.com
 lkqd.net
 locallogic.co
 localytics.com
+log-config.samsungacr.com
 log-ingestion-eu.samsungacr.com
+log-ingestion-sa.samsungacr.com
 log-va.tiktokv.com
 log.api.zaloapp.com
 log.core.cloud.vewd.com
@@ -1946,6 +1969,7 @@ log.gns.go.com
 log.go.com
 log.kmplayer.com
 log.olark.com
+log.particlenews.com
 log.pinterest.com
 log.popin.cc
 log.quora.com
@@ -1979,6 +2003,7 @@ logtransform.hicloud.com
 longabeach.com
 loopme.me
 lotteryhibernateauthorized.com
+louchees.net
 louisaprocedureegoism.com
 loxitdat.com
 lp4.io
@@ -1998,7 +2023,6 @@ lytics.io
 m-counter.ru
 m2.ai
 m6r.eu
-mabira.store
 madcpms.com
 madisonlogic.com
 madsips.com
@@ -2013,7 +2037,6 @@ mailerlite.com
 mailmunch.co
 mainad.com
 mainadv.com
-makeyourbabyhappy.com
 maltunfaithfulpredominant.com
 mam.netease.com
 mama.webvol.net
@@ -2037,6 +2060,7 @@ masontotally.com
 matheranalytics.com
 mathtag.com
 matomo.cloud
+maxonclick.com
 maxtraffic.com
 maxymiser.net
 mbvnclick4.com
@@ -2139,6 +2163,7 @@ mintegral.com
 mintegral.net
 minutemedia-prebid.com
 mixpanel.com
+mkklcdnv6tempv4.com
 mkt005.com
 mkt015.com
 mkt0203.com
@@ -3687,6 +3712,7 @@ mkt11441.com
 mkt11442.com
 mkt11443.com
 mkt11445.com
+mkt11446.com
 mkt11447.com
 mkt11448.com
 mkt11449.com
@@ -3697,6 +3723,7 @@ mkt1146.com
 mkt11462.com
 mkt11464.com
 mkt11465.com
+mkt11466.com
 mkt1147.com
 mkt11471.com
 mkt1148.com
@@ -12806,6 +12833,7 @@ mobileadexchange.net
 mobileads.msn.com
 mobileadstrk.com
 mobileadtrading.com
+mobileanalytics.us-east-1.amazonaws.com
 mobileapptracking.com
 mobilegamestats.com
 mobiletech.no
@@ -12875,6 +12903,7 @@ myvisualiq.net
 myxheat.com
 n-core-pipe.com
 n214adserv.com
+nan46ysangt28eec.com
 nanigans.com
 nanogardens.tech
 nanorep.com
@@ -13022,6 +13051,7 @@ openxenterprise.com
 ophan.co.uk
 opinionbar.com
 opinionsquare.com
+optad360.io
 optilead.co.uk
 optimizely.com
 optimizely.wsj.com
@@ -13065,6 +13095,7 @@ parall.ax
 pardot.com
 parkingcrew.net
 parsely.com
+passedofferundertake.com
 passeura.com
 passionfruitads.com
 passtechusa.com
@@ -13149,6 +13180,7 @@ pixelunion.net
 pixfuture.net
 pixiedust.buzzfeed.com
 placed.com
+plausible.io
 playbuzz.com
 player-telemetry.vimeo.com
 playground.xyz
@@ -13251,6 +13283,7 @@ pupok.link
 purch.com
 purebushesprop.com
 purpleads.io
+push-link.duowan.com
 pushagim.com
 pushclk.com
 pushcrew.com
@@ -13320,6 +13353,7 @@ radiantskilled.com
 radiumone.com
 raggedstriking.com
 rallyad-server.net
+rallydisprove.com
 rampanel.com
 rat.rakuten.co.jp
 rayjump.com
@@ -13470,6 +13504,7 @@ sanalytics.verizonwireless.com
 sas15k01.com
 sascdn.com
 saunasupposedly.com
+saushoag.net
 saymedia.com
 sayu.co.uk
 sayutracking.co.uk
@@ -13546,6 +13581,7 @@ sharethrough.com
 shealth-analytics-api.samsunghealth.com
 shemedia.com
 shinystat.com
+shookcooperassociate.com
 shop2market.com
 shoppingshadow.com
 shore.uno
@@ -13621,6 +13657,7 @@ sitescoutadserver.com
 sitestat.com
 sitewit.com
 sjremetrics.java.com
+skassets.com
 skatestooped.com
 skimresources.com
 skyhookwireless.com
@@ -13715,6 +13752,7 @@ smetrics.aviationweek.com
 smetrics.aviva.co.uk
 smetrics.avnet.com
 smetrics.axs.com
+smetrics.bamboohr.com
 smetrics.bancomundial.org
 smetrics.bancsabadell.com
 smetrics.bankaustria.at
@@ -13801,7 +13839,6 @@ smetrics.cbc.ca
 smetrics.cbn.com
 smetrics.cdiscount.com
 smetrics.cdw.com
-smetrics.cdwg.com
 smetrics.cedars-sinai.org
 smetrics.celebritycruises.com
 smetrics.census.gov
@@ -13833,6 +13870,7 @@ smetrics.cloudera.com
 smetrics.cnn.com
 smetrics.coca-cola.com
 smetrics.coca-colacanada.ca
+smetrics.coca-colaentuhogar.com
 smetrics.codan.dk
 smetrics.columbia.com
 smetrics.comenity.net
@@ -13990,6 +14028,7 @@ smetrics.greatsouthernbank.com.au
 smetrics.greenflag.com
 smetrics.groupama.fr
 smetrics.grundfos.com
+smetrics.gs1us.org
 smetrics.guaranteedrate.com
 smetrics.ha.com
 smetrics.haemhq.com.au
@@ -14062,6 +14101,7 @@ smetrics.joules.com
 smetrics.jre-travel.com
 smetrics.kaercher.com
 smetrics.kaiserpermanente.org
+smetrics.kanen-net.info
 smetrics.kao.co.jp
 smetrics.kao.com
 smetrics.karcher.ru
@@ -14272,6 +14312,7 @@ smetrics.privilege.com
 smetrics.provigo.ca
 smetrics.provincial.com
 smetrics.publicissapient.com
+smetrics.pvh.com
 smetrics.qatarairways.com
 smetrics.quill.com
 smetrics.rac.co.uk
@@ -14307,6 +14348,7 @@ smetrics.rejuvenation.com
 smetrics.rentprogress.com
 smetrics.repco.co.nz
 smetrics.repco.com.au
+smetrics.revlimid-japan.jp
 smetrics.rinpashu.jp
 smetrics.riteaid.com
 smetrics.riumachitearoom.jp
@@ -14786,6 +14828,7 @@ telemetry.microsoft.com.nsatc.net
 telemetry.nvidia.com
 telemetry.servers.getgo.com
 telemetry.swe.quicinc.com
+telemetry.tradingview.com
 telemetry.urs.microsoft.com
 telize.com
 tellapart.com
@@ -14809,6 +14852,7 @@ tifbs.net
 tightendescendantcuddle.com
 tilanalytics.timesinternet.in
 tiller.co
+tingyun.com
 tinypass.com
 tiqcdn.com
 tiqcloud.com
@@ -14819,6 +14863,8 @@ tm1-001.com
 tml.clmbtech.com
 tmmkjvphbawgul.com
 tms-api.shalltry.com
+tnc16-alisg.byteoversea.com
+tnc16-useast1a.byteoversea.com
 tnc16-useast1a.isnssdk.com
 tns-counter.ru
 tns-cs.net
@@ -14980,6 +15026,7 @@ ttxm.co.uk
 tubemogul.com
 tumri.net
 tumultmarten.com
+tuplogpublic.bangcdn.net
 turmoilragcrutch.com
 turn.com
 tutoads.tv

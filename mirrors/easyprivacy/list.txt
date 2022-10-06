@@ -6807,6 +6807,7 @@ logs1257.at.pagesjaunes.fr
 logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
+logstash-3.radio-canada.ca
 logstat.caixin.com
 logtake.weidian.com
 logx.mtime.cn
@@ -9088,6 +9089,7 @@ s.clickiocdn.com
 s.crackedthecode.co
 s.cuoresportivo.no
 s.dc-tag.jp
+s.deepl.com
 s.durhamregion.com
 s.ergotherapieblog.de
 s.fission.codes
@@ -11555,6 +11557,7 @@ stat.tildacdn.com
 stat.tomdebruijn.com
 stat.turb.pw
 stat.tvigle.ru
+stat.u.sb
 stat.umsu.de
 stat.uuu9.com
 stat.valica.it
@@ -13910,7 +13913,6 @@ tsbkht.puritan.com
 tse.telerama.fr
 tshuxi.bbqguys.com
 tsj0.madeindesign.com
-tspmagic.tumblr.com
 tsppvi.amara.com
 tt.natwest.com
 tt.pluralsight.com
