@@ -21,6 +21,7 @@ cmp.playpilot.com
 cmp.smartadserver.mgr.consensu.org
 cmp.tori.fi
 cmp.tvspielfilm.de
+cmp.uniconsent.com
 consent-wrapper.jameda.de
 consent.23g.io
 consent.amateurphotographer.co.uk

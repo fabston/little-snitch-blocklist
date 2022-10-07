@@ -13945,6 +13945,7 @@ smetrics.eki-net.com
 smetrics.el-mundo.net
 smetrics.element14.com
 smetrics.elgallomasgallo.com.gt
+smetrics.eliquis.co.uk
 smetrics.eliquis.com
 smetrics.ellentube.com
 smetrics.elpais.com
@@ -14537,6 +14538,7 @@ smetrics.vueling.com
 smetrics.vw.com
 smetrics.vwfs-service-plans.io
 smetrics.vwfs.de
+smetrics.vwfs.pl
 smetrics.wacken.com
 smetrics.walgreens.com
 smetrics.waseda-ac.co.jp
