@@ -4214,6 +4214,7 @@ data1.virginplus.ca
 data2.gosquared.com
 datacollector-dra.dt.hicloud.com
 datadog-service.mvfglobal.com
+datadome.patreon.com
 datag.polo.com
 datanoticias.prisasd.com
 datatechonert.com
@@ -7629,6 +7630,7 @@ metrics.readme.io
 metrics.reallymoving.com
 metrics.realsimple.com
 metrics.recunia.de
+metrics.redgifs.com
 metrics.refinitiv.com
 metrics.regions.com
 metrics.restockit.com
@@ -8197,6 +8199,7 @@ onoztg.ultimate-guitar.com
 onuf69iegl2e.staging-lfg-app.alpacafinance.org
 op-drive-sto.carrefour.fr
 open.delivery.net
+openfpcdn.io
 operationkettle.com
 oph7o.montecarlosbm-corporate.com
 ophan.theguardian.com
@@ -8748,6 +8751,7 @@ px.marchex.io
 px.mountain.com
 px.owneriq.net
 px.pandora.com
+px.redgifs.com
 px.spiceworks.com
 px.staticfiles.at
 px.wp.pl
