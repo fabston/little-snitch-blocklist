@@ -257,6 +257,7 @@ ads-marketing-vivofs.vivo.com.cn
 ads-twitter.com
 ads.4x4brasil.com.br
 ads.adsolut.in
+ads.appsgeyser.com
 ads.asccommunications.com
 ads.baotainguyenmoitruong.vn
 ads.bid
@@ -510,6 +511,7 @@ analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-egain.com
 analytics-static.ugc.bazaarvoice.com
+analytics-tracker.thescore.com
 analytics.163.com
 analytics.300624.com
 analytics.74.ru
@@ -821,10 +823,12 @@ bat.bing.com
 bat.r.msn.com
 batch.com
 batchgeo.com
+batchlogging4-noneu.truecaller.com
 baynote.net
 bcloudhost.com
 bcovery.com
 bdapi-id-ads.realmemobile.com
+bdcore-apr-lb.bda.ndmdhs.com
 bdex.com
 beacon-api.aliyuncs.com
 beacon.cdnma.com
@@ -925,6 +929,7 @@ bosctrl32.com
 bounceads.net
 bounceexchange.com
 boxofficeliterally.com
+bpu.samsungelectronics.com
 branch.io
 brand-display.com
 brandadsstatic.vivo.com.cn
@@ -1023,6 +1028,7 @@ cdntrf.com
 cdp.cloud.unity3d.com
 cdxr53.com
 cedexis-radar.net
+cedexis-ssl.cdn.warpcache.net
 cedexis-test.com
 cedexis.com
 celtra.com
@@ -1143,6 +1149,7 @@ commander1.com
 company-target.com
 comscore.com
 comscoreresearch.com
+concertads-configs.vox-cdn.com
 concisepressing.com
 condenastdigital.com
 condolencespicturesquetracks.com
@@ -1183,6 +1190,8 @@ convertro.com
 conviva.com
 convrse.media
 conyak.com
+cookieless-data.com
+cookieseal.com
 cootlogix.com
 corp.aol.com
 corp.sts.microsoft.com
@@ -1252,6 +1261,7 @@ curulate.com
 cusperbid.com
 custobar.com
 customer.io
+customerevents.dradis.netflix.com
 customerevents.netflix.com
 customize.cz
 custora.com
@@ -1267,6 +1277,7 @@ data-private.samsunghealth.com
 data.coremetrics.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
+data.sec.intl.miui.com
 databreakers.com
 datacaciques.com
 datadoghq-browser-agent.com
@@ -1358,6 +1369,7 @@ dmtracker.com
 dmtrk.net
 dmtry.com
 dmvbdfblevxvx.com
+dmxleo.dailymotion.com
 dn360.net
 doctorpost.net
 dohi.se
@@ -1527,6 +1539,7 @@ eventcapture03.com
 eventcapture06.com
 eventlog.willow.tv
 events.gfe.nvidia.com
+events.mapbox.com
 eventstream.dodopizza.com
 ever-track-51.com
 everestads.net
@@ -2163,6 +2176,7 @@ lockdowncautionmentally.com
 log-config.samsungacr.com
 log-ingestion-eu.samsungacr.com
 log-ingestion-sa.samsungacr.com
+log-mediation.smartvisionapp.com
 log-va.tiktokv.com
 log.api.zaloapp.com
 log.core.cloud.vewd.com
@@ -2179,6 +2193,7 @@ log.showmax.com
 log.spotify.com
 log.strm.yandex.ru
 log.tapatalk.com
+log.uu.easebar.com
 log.zoom.us
 log16-platform-ycru.tiktokv.com
 logger.dailymotion.com
@@ -2189,6 +2204,7 @@ logger.zcoup.com
 loggly.com
 loginradius.com
 logmatic.io
+logrocket.io
 logs.amap.com
 logs.autofi.com
 logs.boardkingsgame.com
@@ -13398,6 +13414,7 @@ permissionresearch.com
 permutive.app
 permutive.com
 perryvolleyball.com
+personaclick.com
 personyze.com
 persoo.cz
 peruseinvitation.com
@@ -13788,6 +13805,7 @@ routecdn.com
 royalflora.pw
 royapp.com
 rqtrk.eu
+rtactivate.com
 rtbanalytics.com
 rtbidder.net
 rtbimpression.com
@@ -13817,6 +13835,7 @@ s01.riotpixels.net
 s3network1.com
 s3t3d2y8.ackcdn.net
 s3xified.com
+saa.paramountplus.com
 saas-eue-1.com
 sabavision.com
 safestcontentgate.com
@@ -13904,7 +13923,6 @@ sensic.net
 sentifi.com
 sentimenthypocrisy.com
 sentkey.com
-sentry.justwatch.com
 seoab.io
 separatecolonist.com
 servebom.com
@@ -14029,6 +14047,7 @@ smart.link
 smartadserver.com
 smartclip.net
 smarterclick.co.uk
+smartlook.com
 smartmetrics.co.uk
 smartmetrics.rocks
 smartology.co
@@ -14305,6 +14324,7 @@ smetrics.element14.com
 smetrics.elgallomasgallo.com.gt
 smetrics.eliquis.co.uk
 smetrics.eliquis.com
+smetrics.eliquis.de
 smetrics.ellentube.com
 smetrics.elpais.com
 smetrics.elsevier.com
@@ -14799,6 +14819,7 @@ smetrics.statestreet.com
 smetrics.statnews.com
 smetrics.stgeorge.com.au
 smetrics.stwater.co.uk
+smetrics.subaruofsaskatoon.ca
 smetrics.sumaiida.com
 smetrics.suncorp.com.au
 smetrics.sunglasshut.com
@@ -15020,9 +15041,11 @@ stackadapt.com
 stammerail.com
 stampsmindlessscrap.com
 starkshrewd.com
+startappservice.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
 stat.alibaba.com
+stat.appsgeyser.com
 stat.dealtime.com
 stat.domainrecover.com
 stat.media
@@ -15481,6 +15504,7 @@ umengjmacs.m.taobao.com
 unagi-na.amazon.com
 unanimis.co.uk
 unbuttontumorbaloney.com
+underdog.media
 underminesprout.com
 understoodreceivermisunderstand.com
 undertone.com
@@ -15716,6 +15740,7 @@ wrightsmedia.com
 wt-eu02.net
 wt-safetag.com
 wtp101.com
+wunderkind.co
 wup.browser.qq.com
 wup.imtt.qq.com
 wvhba6470p.com
