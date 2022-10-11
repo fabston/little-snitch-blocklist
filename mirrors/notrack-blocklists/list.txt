@@ -167,7 +167,6 @@ adfinis-sygroup.ch
 adform.com
 adform.net
 adformdsp.net
-adformnet.akadns.net
 adfox.ru
 adfront.org
 adgenie.co.uk
@@ -252,8 +251,10 @@ adrsp.net
 adrta.com
 adrtx.net
 adrunnr.com
+ads-brand-postback.unityads.unity3d.com
 ads-d.viber.com
 ads-marketing-vivofs.vivo.com.cn
+ads-sdk-configuration-gcp.unityads.unity3d.com
 ads-twitter.com
 ads.4x4brasil.com.br
 ads.adsolut.in
@@ -391,6 +392,7 @@ adunity.com
 adv.ccb.com
 adv.dlh.net
 adv.ettoday.net
+adv.sec.intl.miui.com
 advanced-web-analytics.com
 advantagesclotblend.com
 advcake.com
@@ -423,6 +425,7 @@ adxcel-ec2.com
 adxlog.vivo.com.cn
 adxpansion.com
 adxpose.com
+adxpremium.services
 adxserve.com
 adzerk.com
 adzerk.net
@@ -448,6 +451,7 @@ agentanalytics.com
 agkn.com
 agrarianbeepsensitivity.com
 ahalogy.com
+aidata.io
 aiir.net
 aimatch.com
 aimtell.com
@@ -640,6 +644,7 @@ analytics.yongjinbao.com.cn
 analytics.yugen.to
 analyticsmsp.com
 analyticspixel.microsoft.com
+analyticssystems.net
 and.co.uk
 andmlb.kshwtj.com
 android-stat.acestream.net
@@ -670,6 +675,7 @@ api.ahagamecenter.com
 api.edgeoffer.microsoft.com
 api.eu-west-1.aiv-delivery.net
 api.gateway.kik-live.com
+api.glb.samsung-gamelauncher.com
 api.mediation.amberweather.com
 api.miwifi.com
 api.us-east-1.aiv-delivery.net
@@ -755,6 +761,9 @@ attentivemobile.com
 attn.tv
 attributionapp.com
 atwola.com
+auction-banner.unityads.unity3d.com
+auction-load.unityads.unity3d.com
+auction.unityads.unity3d.com
 audaciousdefault.com
 audienceinsights.net
 audienceiq.com
@@ -764,6 +773,7 @@ auditorius.ru
 auditude.com
 audtd.com
 augur.io
+auiopt.unityads.unity3d.com
 auntietraumatizemobile.com
 auto.netdirector.co.uk
 autotrack.g.ebay.com
@@ -13293,7 +13303,6 @@ onclickgenius.com
 onclickmega.com
 onclickperformance.com
 onclicktop.com
-onecollector.cloudapp.aria.akadns.net
 onedmp.com
 onefeed.co.uk
 oneittelemetry.blob.core.windows.net
@@ -13643,6 +13652,7 @@ q4cdn.com
 q4web.com
 q4websystems.com
 q8ntfhfngm.com
+qcinternal.io
 qeryz.com
 qingcdn.com
 qmerce.com
@@ -13817,7 +13827,6 @@ ru-monitor-stsdk.vivoglobal.com
 ru4.com
 rubberbeak.com
 rubiconproject.com
-rubiconproject.net.akadns.net
 rum.kobo.com
 rum.minutemediaservices.com
 rum.ngenix.net
@@ -15050,7 +15059,6 @@ stat.dealtime.com
 stat.domainrecover.com
 stat.media
 stat.mixi.media
-stat.swedbank.se
 stat.techtimes.com
 stat.torchbrowser.com
 stat24.com
