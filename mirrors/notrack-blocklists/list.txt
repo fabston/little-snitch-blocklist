@@ -681,6 +681,7 @@ api.miwifi.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
 api16-access-sg.pangle.io
+api64.com
 apien.ldmnq.com
 apnanalytics.com
 app-analytics-cn.huami.com
@@ -722,6 +723,7 @@ apptelemetry.io
 apptentive.com
 apptimize.com
 apptjmp.com
+apptornado.com
 apptracker.gamedock.io
 appuniverseapplication.com
 aptrinsic.com
@@ -1638,6 +1640,7 @@ final-azr-01.com
 find-my-great-life.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
+firstpromoter.com
 fitanalytics.com
 fittingcentermonday.com
 flagcounter.com
@@ -2113,6 +2116,7 @@ latinon.com
 latinongroup.com
 lauriestatuestroll.com
 layingprocuregather.com
+lcs.naver.com
 lduhtrp.net
 lead-analytics.biz
 leadboltmobile.net
@@ -2307,6 +2311,7 @@ mbvnclick4.com
 mbww.com
 mc.yandex.ru
 mcount.easebar.com
+mcs-va.tiktokv.com
 mcstats.org
 mdotlabs.com
 mdotm.com
@@ -2342,6 +2347,7 @@ meetrics.net
 mellowads.com
 mention-me.email
 meproductive.com
+meson.ai
 messages1.com
 messages2.com
 messages3.com
@@ -2386,6 +2392,7 @@ metrics.spbtv.com
 metrics.troweprice.com
 metrics.ubuntu.com
 metrics.washingtonpost.com
+metrics2.data.hicloud.com
 metricsflow.com
 metricswpsh.com
 metrigo.com
@@ -13198,7 +13205,6 @@ neverthelessgrandchildren.com
 newdisplayformats.com
 newrelic.com
 newrrb.bid
-news-abroad.vivo.com
 news.iadsdk.apple.com
 newsatads.com
 newscgp.com
@@ -13236,6 +13242,7 @@ notifymetric.com
 notifyvisitors.com
 notsy.io
 noughttrustthreshold.com
+novemberassimilate.com
 nowinteract.com
 npario-inc.net
 npcwfrohnshriw.com
@@ -13350,6 +13357,7 @@ os-code.shalltry.com
 ostlon.com
 ota.lokalise.co
 otbuzvqq8fm5.com
+ottera.tv
 outbrain.com
 outbrainimg.com
 outlawchillpropose.com
@@ -13433,6 +13441,7 @@ pf.newegg.com
 phluant.com
 phone.igexin.com
 photorank.me
+piano.io
 picanalysis.vivo.com.cn
 pictela.net
 piksel.com
@@ -13486,6 +13495,7 @@ plaicecaught.com
 plaicestems.com
 planningunavoidablenull.com
 plantationexhaust.com
+platform.linkedin.com
 platformsrat.com
 platitudezeal.com
 plausible.io
@@ -13916,6 +13926,7 @@ seedownshow.live
 seedtag.com
 seeyoufarm.com
 segment.com
+segment.io
 seizedpenholdercranny.com
 sekindo.com
 sele.co
@@ -15070,6 +15081,7 @@ stats.api.xiaomi.net
 stats.bbc.co.uk
 stats.brave.com
 stats.captaincore.io
+stats.clover.co
 stats.ctvnews.ca
 stats.curds.io
 stats.digitalcontactmails.net
@@ -15639,6 +15651,7 @@ virtuoussoftware.com
 visariomedia.com
 visenze.com
 visiblejoseph.com
+visilabs.net
 visistat.com
 visitor-analytics.io
 visitortracklog.com
