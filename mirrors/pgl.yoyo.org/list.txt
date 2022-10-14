@@ -650,7 +650,6 @@ ads.virtual-nights.com
 ads.virtuopolitan.com
 ads.vnumedia.com
 ads.walkiberia.com
-ads.waps.cn
 ads.wapx.cn
 ads.watson.ch
 ads.weather.ca
@@ -1202,6 +1201,7 @@ bigbangmedia.com
 bigclicks.com
 bigreal.org
 billboard.cz
+biosda.com
 bitmedianetwork.com
 bizad.nikkeibp.co.jp
 bizarrebaseball.com
@@ -1649,6 +1649,7 @@ ecoupons.com
 edaa.eu
 edgexads.com
 educationdynamics.com
+effectivemeasure.com
 efficaciouscactus.com
 eiv.baidu.com
 ejyymghi.com
@@ -2553,7 +2554,6 @@ otto-images.developershed.com
 outbrain.com
 overconfidentfood.com
 overture.com
-owebanalytics.com
 owebmoney.ru
 owlsr.us
 owneriq.net
