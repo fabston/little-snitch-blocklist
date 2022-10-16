@@ -2881,6 +2881,7 @@ be.secure.sonosite.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdnma.com
+beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
 beacon.qq.com
@@ -5180,6 +5181,7 @@ event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
+event-collector.moviesanywhere.com
 event-listener.air.tv
 event-logger.tagboard.com
 event-service.letslinc.com
@@ -5542,6 +5544,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g9508048080.co
 g9706132415.co
 g990421675.co
 g990421676.co
@@ -9163,6 +9166,7 @@ s4.parkeren-haarlem.nl
 s4.parkeren-utrecht.nl
 s4e8.cascades.com
 s4s51f00a3o7.www.eldorado.gg
+s5.charliehebdo.fr
 sa.adidas.com
 sa.api.intl.miui.com
 sa.eurosport.com
@@ -12860,7 +12864,6 @@ top.skyzone.ro
 top.wn.com
 topichawaii.com
 topspin.npo.nl
-torimochi.line-apps.com
 torpidtongue.com
 torpidtoothpaste.com
 torropinto.viessmann.es
