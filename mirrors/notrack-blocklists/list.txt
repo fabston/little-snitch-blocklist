@@ -160,7 +160,6 @@ adbrn.com
 adbroker.mp.dse.microsoft.com
 adbutler-tachyon.com
 adbutter.net
-adbuzz.com.tr
 adc-srv.net
 adcash.com
 adcolony.com
@@ -385,7 +384,6 @@ adsrvs.com
 adstdg.net
 adsterra.com
 adstir.com
-adstrck.tutotoons.com
 adsupply.com
 adsupplyssl.com
 adswizz.com
@@ -669,6 +667,7 @@ analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yongjinbao.com.cn
 analytics.yugen.to
+analytics.zenly-app.com
 analyticsmsp.com
 analyticspixel.microsoft.com
 analyticssystems.net
@@ -693,6 +692,7 @@ anyclip.com
 anymoresentencevirgin.com
 anythinktech.com
 anytrack.io
+anzu.io
 apester.com
 apexinnotech.com
 api-analytics-de.huami.com
@@ -922,7 +922,6 @@ behavioralengine.com
 behavioralmailing.com
 beintoo.net
 believersheet.com
-belongedshark.com
 bendingalliance.com
 benevolencepair.com
 beop.io
@@ -941,6 +940,7 @@ bid.wikihow.com
 bidence.net
 bidgear.com
 bidr.io
+bidstack.com
 bidstreamserver.com
 bidswitch.com
 bidswitch.net
@@ -1181,6 +1181,7 @@ clickshift.com
 clicktale.net
 clicktracks.com
 clicktripz.com
+client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 client-stats.gaijin.net
 client-telemetry.roblox.com
@@ -1855,7 +1856,6 @@ gallup.eset.com
 gameanalytics.com
 gamegamb.com
 gamned.com
-garglingirony.com
 garmentsdraught.com
 gatetodisplaycontent.com
 gatetotrustednetwork.com
@@ -1955,6 +1955,7 @@ grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
 grs.dbankcloud.eu
+grs.platform.dbankcloud.ru
 grsm.io
 grumft.com
 grvmedia.com
@@ -2117,7 +2118,6 @@ inbenta.io
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 inconceivableascertained.com
-inconsistencyriskyan.com
 incrediblewoedysfunctional.com
 indefinitelytonsil.com
 indelicatepokedoes.com
@@ -13337,6 +13337,7 @@ movesickly.com
 movingos.com
 mp.twitch.tv
 mparticle.com
+mpianalytics.com
 mplxtms.com
 mpstat.us
 mr2cnjuh34jb.com
@@ -14067,6 +14068,8 @@ ru-monitor-stsdk.vivoglobal.com
 ru4.com
 rubberbeak.com
 rubiconproject.com
+rudderlabs.com
+rudderstack.com
 rum.kobo.com
 rum.minutemediaservices.com
 rum.ngenix.net
@@ -15780,6 +15783,7 @@ undooptimisticsuction.com
 undrininvereb.info
 unevenmankind.com
 unforgivablegrowl.com
+unid.go.com
 uniformheartlesssneaking.com
 uniqodo.com
 uniqueflatlysorting.com
@@ -15791,7 +15795,6 @@ unruly.systems
 unrulymedia.com
 unseenreport.com
 unspeakablepurebeings.com
-untsqltqqmtxg.com
 unusualbrainlessshotgun.com
 unwillingsnick.com
 uobsoe.com
@@ -15813,9 +15816,11 @@ upstory.it
 uptilt.com
 uptownrecycle.com
 urbanairship.com
+urioy.com
 urldelivery.com
 us-api.mcsvc.samsung.com
 usabilla.com
+usbla.net
 useinsider.com
 useitbetter.com
 usemessages.com
@@ -15912,9 +15917,9 @@ visualrevenue.com
 visualwebsiteoptimizer.com
 vizu.com
 vlitag.com
+vlogerads.com
 vmn.net
 voicefive.com
-voicegiddiness.com
 voltn.com
 voluumtrk.com
 voluumtrk2.com

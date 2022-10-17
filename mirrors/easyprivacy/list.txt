@@ -2373,6 +2373,7 @@ analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
+analytics.oyorooms.com
 analytics.paddle.com
 analytics.pagefly.io
 analytics.partcommunity.com
@@ -4523,6 +4524,7 @@ dkupaw9ae63a8.cloudfront.net
 dl-stage.zola.com
 dl.benefits.express-scripts.com
 dl.correspondence.evernorth.com
+dl.episerver.net
 dl.health-programs.express-scripts.com
 dl.mail.express-scripts.com
 dl.orders.express-scripts.com
@@ -6743,6 +6745,7 @@ log.hypebeast.com
 log.idnes.cz
 log.invodo.com
 log.kibboko.com
+log.kslogs.ru
 log.kuwo.cn
 log.m.sm.cn
 log.mappy.net
@@ -8760,6 +8763,7 @@ px.owneriq.net
 px.pandora.com
 px.redgifs.com
 px.spiceworks.com
+px.srvcs.tumblr.com
 px.staticfiles.at
 px.wp.pl
 pxc.otto.de
