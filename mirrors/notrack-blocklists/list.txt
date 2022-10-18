@@ -152,6 +152,7 @@ adage.com
 adalliance.io
 adalyser.com
 adap.tv
+adashx.m.taobao.com
 adashx4ae.ut.taobao.com
 adbetnetwork.com
 adblade.com
@@ -530,7 +531,6 @@ amplience.com
 amplitude.com
 ampmetrics.techcrunch.com
 amptrack.bild.de
-amptrack.dailymail.co.uk
 ampugi334f.com
 amusemystic.com
 an.yandex.ru
@@ -698,6 +698,7 @@ apexinnotech.com
 api-analytics-de.huami.com
 api-analytics-ru.huami.com
 api-analytics-us.huami.com
+api-analytics.prod.birdapp.com
 api-telemetry.servers.getgo.com
 api.action-media.ru
 api.ad.intl.xiaomi.com
@@ -708,7 +709,6 @@ api.gateway.kik-live.com
 api.glb.samsung-gamelauncher.com
 api.mediation.amberweather.com
 api.miwifi.com
-api.target.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
 api16-access-sg.pangle.io
@@ -1558,6 +1558,7 @@ eclkspsa.com
 ecpms.net
 ecustomeropinions.com
 ed-clr-01.com
+edge.adobedc.net
 edgeme.sh
 edigitalresearch.com
 edigitalsurvey.com
@@ -1814,6 +1815,7 @@ forter.com
 forwardtomyfriend.com
 fostereminent.com
 foundationhorny.com
+fourier.taobao.com
 fqtag.com
 fractureboyishherring.com
 fragmenteasygoingmass.com
@@ -13368,6 +13370,7 @@ mybbc-analytics.files.bbci.co.uk
 mybestdc.com
 mybuys.com
 mydas.mobi
+mydatamanagerapp.com
 myfinance.com
 mygoodlives.com
 mymarketingreports.com
@@ -13945,6 +13948,7 @@ rearedimmortal.com
 reasonablelandmark.com
 rebelmouse.io
 rebrandly.com
+rebuyengine.com
 reciteassemble.com
 recordingperky.com
 recordingshipping.com
@@ -14420,7 +14424,6 @@ smetrics.belairdirect.com
 smetrics.belk.com
 smetrics.beneplace.com
 smetrics.bestbuy.com
-smetrics.bestegg.com
 smetrics.bestinver.es
 smetrics.bet.com
 smetrics.beterhoren.nl
@@ -15509,7 +15512,6 @@ telemetry.art19.com
 telemetry.battle.net
 telemetry.dailymotion.com
 telemetry.dropbox.com
-telemetry.geo.dmcdn.net
 telemetry.gfe.nvidia.com
 telemetry.insights.video.a2z.com
 telemetry.intel.com
@@ -15528,6 +15530,7 @@ tellme.com
 temporarilyruinconsistent.com
 tend.io
 tendencysanction.com
+tenjin.com
 terminusbedsexchanged.com
 terraclicks.com
 terribledeliberate.com
