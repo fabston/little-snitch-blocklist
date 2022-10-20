@@ -14,7 +14,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 
 * Entries: **186,036**
 * Size: **6.8M**
-* Updated: **Oct 20, 2022, 10:34 AM (UTC)**
+* Updated: **Oct 20, 2022, 10:37 AM (UTC)**
 * Expires: 1 day (frequency)
 * Here's the [RAW file](https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt)
 
