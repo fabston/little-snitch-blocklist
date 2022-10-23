@@ -2401,8 +2401,14 @@ locallogic.co
 localytics.com
 lockdowncautionmentally.com
 locomotiveconvenientriddle.com
+log-collector.shopee.co.id
+log-collector.shopee.co.th
+log-collector.shopee.com.br
+log-collector.shopee.com.my
+log-collector.shopee.ph
 log-collector.shopee.sg
 log-collector.shopee.tw
+log-collector.shopee.vn
 log-config.samsungacr.com
 log-ingestion-eu.samsungacr.com
 log-ingestion-sa.samsungacr.com
@@ -15329,6 +15335,7 @@ ssw.live.com
 st-ads-jssdk.vivo.com.cn
 sta.lachym.cz
 stackadapt.com
+staggeredravehospitality.com
 stammerail.com
 stampsmindlessscrap.com
 starkshrewd.com
@@ -15736,7 +15743,6 @@ tremorhub.com
 tremorvideo.com
 tribalfusion.com
 triggit.com
-tritondigital.com
 triumphalconcentrateconfess.com
 trk-convenire.com
 trk.celtx.com
