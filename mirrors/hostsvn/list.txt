@@ -601,6 +601,7 @@ dco.urekamedia.com
 defaultdsp.admicro.vn
 defaultdsp.contineljs.com
 delecpuzz.com
+delivery-cloud.cdp.asia
 delivery-m.ambient-platform.com
 delivery.adnetwork.vn
 delivery.akadigital.vn
@@ -1583,6 +1584,8 @@ tracking.vietnamnetad.vn
 tracking.vnncdn.net
 tracking.vtcnew.com.vn
 tracking.yomedia.vn
+tracking2.vnncdn.net
+tracking3.vnncdn.net
 trackingapi.foody.vn
 trackingvn.zingplay.com
 trackity.tiki.vn
@@ -1641,6 +1644,7 @@ vlxx.host
 vn-platform.bidgear.com
 vn.alexajstrack.com
 vnadssb.com
+vnn-tracking.vnncdn.net
 vnnayngaytin.vn
 vongquay-pubgmobilevn-zing.com
 vongquaymienphi.net
