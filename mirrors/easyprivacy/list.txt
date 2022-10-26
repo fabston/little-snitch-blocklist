@@ -2718,6 +2718,7 @@ astat.nikkei.com
 asumi.shinobi.jp
 aswpsdkus.com
 at-cddc.actu-juridique.fr
+at.360.audion.fm
 at.badische-zeitung.de
 at.deutsche-bank.de
 at.mclaren.com
@@ -6704,6 +6705,7 @@ links2.chownowmail.com
 linktrace.diningcity.cn
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+lists.ccmbg.com
 lite-cdn.com
 literally-analytics.appspot.com
 literatelight.com
@@ -6883,6 +6885,7 @@ m.addthisedge.com
 m.delltechnologies.com
 m.irl.com
 m.photoshelter.com
+m.stripe.com
 m.trb.com
 m.vistaresourcegroup.com
 m1.stadiumgoods.com
@@ -8454,7 +8457,6 @@ pint-dev-branch.airship.com
 pio.wir-sehen-uns-im-juni.de
 pipe-collect.ebu.io
 pipedream.wistia.com
-pipeline.rd.nl
 piper.amocrm.ru
 pippio.com
 piquantpigs.com
@@ -8872,6 +8874,7 @@ r.kleertjes.com
 r.my.com
 r.sax.sina.com.cn
 r.skimresources.com
+r.stripe.com
 r1ztni.oui.sncf
 r42tag.com
 r4nds.absorba.com
@@ -12372,6 +12375,7 @@ t-s.allergicasthma.com
 t-s.gene.com
 t-s.xolairhcp.com
 t.10er-tagesticket.de
+t.360.audion.fm
 t.91syun.com
 t.9gag.com
 t.a3cloud.net
@@ -13860,6 +13864,7 @@ tracking.zierlicheladies.de
 tracking1.brandmentions.com
 tracking1.filemoon.sx
 tracking2.channeladvisor.com
+tracking3.vnncdn.net
 trackingaa.hitachienergy.com
 trackingapi.cloudapp.net
 trackingssl.aginsurance.be
