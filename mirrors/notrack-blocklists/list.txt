@@ -70,6 +70,7 @@ a.mobify.com
 a1.api.bbc.co.uk
 a1webstats.com
 a2dfp.net
+a3cloud.net
 a8723.com
 a9.com
 aa-metrics.beauty.hotpepper.jp
@@ -270,10 +271,8 @@ adrsp.net
 adrta.com
 adrtx.net
 adrunnr.com
-ads-brand-postback.unityads.unity3d.com
 ads-d.viber.com
 ads-marketing-vivofs.vivo.com.cn
-ads-sdk-configuration-gcp.unityads.unity3d.com
 ads-twitter.com
 ads.4x4brasil.com.br
 ads.adsolut.in
@@ -521,6 +520,7 @@ allotupwardmalicious.com
 allvideometrika.com
 almostspend.com
 alooma.com
+alphonso.tv
 alternativecpmgate.com
 alternativeprofitablegate.com
 altitude-arena.com
@@ -574,6 +574,7 @@ analytics.datasavannah.com
 analytics.dealmoon.com
 analytics.dominos.com
 analytics.eip.telegraph.co.uk
+analytics.enjoymobiserver.com
 analytics.evehome.com
 analytics.facebook.com
 analytics.faw.sky.com
@@ -774,6 +775,7 @@ arenalitteraccommodation.com
 arg.redgiant.com
 arguerepetition.com
 arithmeticshovel.com
+arity.com
 arkfacialdaybreak.com
 armisticeexpress.com
 arrivedeuropean.com
@@ -807,9 +809,6 @@ attn.tv
 attributedminded.com
 attributionapp.com
 atwola.com
-auction-banner.unityads.unity3d.com
-auction-load.unityads.unity3d.com
-auction.unityads.unity3d.com
 audienceinsights.net
 audienceiq.com
 audiencemanager.de
@@ -819,7 +818,6 @@ auditorius.ru
 auditude.com
 audtd.com
 augur.io
-auiopt.unityads.unity3d.com
 auntietraumatizemobile.com
 auto.netdirector.co.uk
 autotrack.g.ebay.com
@@ -1266,7 +1264,6 @@ config.hiido.com
 config.sdk.scopely.io
 config.toto.zipoapps.com
 config.uca.cloud.unity3d.com
-configv2.unityads.unity3d.com
 confirmsubscription.com
 confrontationdrunk.com
 congestit.com
@@ -1495,6 +1492,7 @@ divorceseed.com
 dl-rms.com
 dlfvgndsdfsn.com
 dm.action-media.ru
+dm.bytedance.com
 dmgmediaprivacy.co.uk
 dmpprof.com
 dmtracker.com
@@ -1707,6 +1705,7 @@ exitbee.com
 exoclick.com
 exosrv.com
 exoticads.com
+explorecomparison.com
 explorerpurity.com
 exponential.com
 exposuremixed.com
@@ -1862,6 +1861,7 @@ futilereposerefreshments.com
 futureocto.com
 fwallwihsmjun.com
 fwmrm.net
+fyber.com
 fyre.co
 g2afse.com
 g2crowd.com
@@ -1966,6 +1966,7 @@ greengrowth.space
 greworganizer.com
 greystripe.com
 gritaware.com
+groundtruth.com
 growsumo.com
 growth-pa.googleapis.com
 growthrx.in
@@ -2017,6 +2018,7 @@ hellobar.com
 hellosmpl.com
 helloworld.com
 hembrandsteppe.com
+hermichermicfurnished.com
 hexagon-analytics.com
 hf5rbejvpwds.com
 hgub2polye.com
@@ -2080,6 +2082,7 @@ humpdubious.com
 huqindustries.co.uk
 hurricaneabjection.com
 hxtrack.com
+hyperbid.com
 hyros.com
 i10c.net
 i18n-pglstatp.com
@@ -2210,6 +2213,7 @@ ipredictive.com
 iprom.net
 ipromcloud.com
 ipromote.com
+iqm.com
 ir3.xyz
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
@@ -2456,6 +2460,7 @@ logsss.com
 logtransform.hicloud.com
 longabeach.com
 loopme.me
+lotame.com
 lotteryhibernateauthorized.com
 louchees.net
 louisaprocedureegoism.com
@@ -2583,6 +2588,7 @@ metadsp.co.uk
 metalyzer.com
 metaxads.com
 meteora.us
+metrevaguewater.com
 metric.ipv6test.com
 metric.ipv6test.net
 metrics-lxc136.aviasales.ru
@@ -2615,6 +2621,7 @@ metrics.postoffice.co.uk
 metrics.raptr.com
 metrics.roblox.com
 metrics.royalmail.com
+metrics.sdkbox.com
 metrics.spbtv.com
 metrics.troweprice.com
 metrics.ubuntu.com
@@ -4209,6 +4216,7 @@ mkt11455.com
 mkt11456.com
 mkt11459.com
 mkt1146.com
+mkt11460.com
 mkt11462.com
 mkt11464.com
 mkt11465.com
@@ -4216,6 +4224,8 @@ mkt11466.com
 mkt1147.com
 mkt11471.com
 mkt1148.com
+mkt11480.com
+mkt11481.com
 mkt1149.com
 mkt1150.com
 mkt1151.com
@@ -13327,6 +13337,7 @@ mobileapptracking.com
 mobilegamestats.com
 mobiletech.no
 mobiletelemetry.ebay.com
+mobilewalla.com
 mobilexpression.com
 mobpartner.mobi
 mobytrks.com
@@ -13357,6 +13368,7 @@ mopub.com
 morrowfreezer.com
 mostlytreasure.com
 motdgd.com
+motrixi.com
 mountain.com
 mouseflow.com
 movcpm.com
@@ -13526,6 +13538,8 @@ offerstrack.net
 offerwall-adnative.com
 ogl.primorske.si
 ogle-0740lb.com
+ogury.co
+ogury.io
 ointmentaloofpincers.com
 ojrq.net
 okayarab.com
@@ -13899,6 +13913,7 @@ pushnow.net
 pushpad.xyz
 pushprofit.net
 pushprofit.ru
+pushspring.com
 pushub.net
 pushvault.com
 pushwoosh.com
@@ -14244,6 +14259,7 @@ sharethrough.com
 sharpphysicallyupcoming.com
 shealth-analytics-api.samsunghealth.com
 shemedia.com
+shepherd.ff.avast.com
 shinystat.com
 shitcustody.com
 shookcooperassociate.com
@@ -15324,6 +15340,7 @@ spynetalt.microsoft.com
 srvpub.com
 ssacdn.com
 ssite.waitrose.com
+ssl2anyone3.com
 ssp.rambler.ru
 ssw.live.com
 st-ads-jssdk.vivo.com.cn
@@ -15399,6 +15416,7 @@ stats2.jobs.bg
 statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 statsforads.com
+statsig.com
 statsproxy-public-service-live.ol.epicgames.com
 statsy.net
 statuscake.com
@@ -15472,6 +15490,7 @@ survio.com
 susm0q6jys.com
 svibeacon.onezapp.com
 sw-rail-7.com
+swa.vodafone.pt
 swallowcrockerybless.com
 swaptrap.live
 switchadhub.com
@@ -15497,6 +15516,7 @@ tags.johnlewis.com
 tags.news.com.au
 tagsrvcs.com
 tailtarget.com
+takepalpablenuisance.com
 talkscreativity.com
 tangiblee.com
 tapad.com
@@ -15511,6 +15531,7 @@ tappx.com
 tapresearch.com
 target2sell.com
 tbcdn.cn
+tcl5pjr3kqt7.com
 tctm.co
 tczzzlwpss.com
 tdbtrk.com
@@ -15794,6 +15815,8 @@ typescoordinate.com
 tyroo.com
 tyroodr.com
 uadx.com
+ubembed.com
+ubimo.com
 udc.yahoo.com
 udmserve.net
 ugdturner.com
@@ -15820,6 +15843,7 @@ unid.go.com
 uniformheartlesssneaking.com
 uniqodo.com
 uniqueflatlysorting.com
+unityads.unity3d.com
 univide.com
 unmovedoutsidertourist.com
 unoadsrv.com
@@ -15976,6 +16000,7 @@ walkingtutor.com
 walkme.com
 wandererbashful.com
 warilyaggregation.com
+was.vodafone.de
 wasap.my
 wasoffspring.com
 watcheezy.net
@@ -16026,6 +16051,7 @@ webtrendslive.com
 webvisor.org
 wednesdaynaked.com
 weekli.systems
+whackaggressive.com
 who.nie.easebar.com
 whoisvisiting.com
 widespace.com
