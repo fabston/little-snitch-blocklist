@@ -6,14 +6,18 @@ If you think there is a list missing [open a discussion](https://github.com/fabs
 
 ### ✅ Enabled input dada:
 
-| Name                                       | License                                             | Homepage                                        | Raw URL                                    |
-|:-------------------------------------------|:----------------------------------------------------|:------------------------------------------------|:-------------------------------------------|
-| EasyList                                   | (GPL-3.0-only OR CC-BY-SA-3.0)                      | [Link][homepage-easylist]                       | [Link][source-easylist]                    |
-| EasyPrivacy                                | (GPL-3.0-only OR CC-BY-SA-3.0)                      | [Link][homepage-easyprivacy]                    | [Link][source-easyprivacy]                 |
-| pgl.yoyo.org                               | [MCRAE][license-pgl.yoyo.org]                       | [Link][homepage-pgl.yoyo.org]                   | [Link][source-pgl.yoyo.org]                |  
-| Phishing Army                              | CC-BY-NC-4.0                                        | [Link][homepage-phishing.army]                  | [Link][source-phishing.army]               |
-| StevenBlack                                | MIT                                                 | [Link][homepage-stevenblack]                    | [Link][source-stevenblack]                 |
-| uBlock                                     | GPL-3.0-only                                        | [Link][homepage-ublock]                         | [Link][source-ublock]                      |
+| Name                              | License                                         | Homepage                                        | Raw URL                                    |
+|:----------------------------------|:------------------------------------------------|:------------------------------------------------|:-------------------------------------------|
+| AdGuard DNS filter                | GPL-3.0-only                                    | [Link][homepage-AdGuardSDNSFilter]              | [Link][source-AdGuardSDNSFilter]           |
+| AdGuard - Simplified              | GPL-3.0-only                                    | [Link][homepage-adguard-simplified]             | [Link][source-adguard-simplified]          |
+| adaway.org                        | CC-BY-3.0                                       | [Link][homepage-adaway.org]                     | [Link][source-adaway.org]                  |
+| EasyList                          | (GPL-3.0-only OR CC-BY-SA-3.0)                  | [Link][homepage-easylist]                       | [Link][source-easylist]                    |
+| EasyPrivacy                       | (GPL-3.0-only OR CC-BY-SA-3.0)                  | [Link][homepage-easyprivacy]                    | [Link][source-easyprivacy]                 |
+| pgl.yoyo.org                      | [MCRAE][license-pgl.yoyo.org]                   | [Link][homepage-pgl.yoyo.org]                   | [Link][source-pgl.yoyo.org]                |  
+| Phishing Army                     | CC-BY-NC-4.0                                    | [Link][homepage-phishing.army]                  | [Link][source-phishing.army]               |
+| someonewhocares.org               | ["non-commercial"][license-someonewhocares.org] | [Link][homepage-someonewhocares.org]            | [Link][source-someonewhocares.org]         |
+| StevenBlack                       | MIT                                             | [Link][homepage-stevenblack]                    | [Link][source-stevenblack]                 |
+| uBlock                            | GPL-3.0-only                                    | [Link][homepage-ublock]                         | [Link][source-ublock]                      |
 
 ### ❌ Disabled input data:
 
@@ -33,9 +37,6 @@ If you think there is a list missing [open a discussion](https://github.com/fabs
 | NoTrack Tracker Blocklist          | GPL-3.0-only                                        | [Link][homepage-notrack-blocklist]              | [Link][source-notrack-blocklist]           |   
 | KADhosts                           | CC-BY-SA-4.0                                        | [Link][homepage-kadhosts]                       | [Link][source-kadhosts]                    |
 | 1Hosts                             | [Dandelicence][license-1hosts]                      | [Link][homepage-1hosts]                         | [Link][source-1hosts]                      |
-| adaway.org                         | CC-BY-3.0                                           | [Link][homepage-adaway.org]                     | [Link][source-adaway.org]                  |
-| AdGuard - Simplified               | GPL-3.0-only                                        | [Link][homepage-adguard-simplified]             | [Link][source-adguard-simplified]          |
-| AdGuard DNS filter                 | GPL-3.0-only                                        | [Link][homepage-AdGuardSDNSFilter]              | [Link][source-AdGuardSDNSFilter]           |
 | anudeepND                          | MIT                                                 | [Link][homepage-anudeepND]                      | [Link][source-anudeepND]                   |
 | DigitalSide Threat-Intel           | MIT                                                 | [Link][homepage-digitalside-threat-intel]       | [Link][source-digitalside-threat-intel]    |
 | Geoffrey Frogeye - 1st trackers    | MIT                                                 | [Link][homepage-gfrogeye-1st-trackers]          | [Link][source-gfrogeye-1st-trackers]       |
