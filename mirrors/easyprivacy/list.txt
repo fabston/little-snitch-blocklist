@@ -2899,6 +2899,7 @@ beacon.s.llnwi.net
 beacon.samsclub.com
 beacon.searchspring.io
 beacon.securestudies.com
+beacon.sftoaa.com
 beacon.shazam.com
 beacon.shutterfly.com
 beacon.sina.com.cn
@@ -5596,6 +5597,7 @@ gemius.mgr.consensu.org
 genesis.malwarebytes.com
 gentian-frd.hjapi.com
 geo.bluedot.io
+geo.brobible.com
 geo.emol.cl
 geo.ertya.com
 geo.gfycat.com

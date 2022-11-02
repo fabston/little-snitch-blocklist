@@ -75,7 +75,9 @@ a2dfp.net
 a3cloud.net
 a8723.com
 a9.com
+aa-metrics.airrsv.net
 aa-metrics.beauty.hotpepper.jp
+aa-metrics.golf-jalan.net
 aa-metrics.hotpepper.jp
 aa-metrics.jalan.net
 aamapi.com
@@ -379,6 +381,7 @@ adsmoloco.com
 adsnative.com
 adsonar.com
 adsoptimal.com
+adsp.haberturk.com
 adspdbl.com
 adspeed.net
 adspirit.com
@@ -408,6 +411,7 @@ adtelligent.com
 adtheorent.com
 adthrive.com
 adtilt.com
+adtimaserver.vn
 adtng.com
 adtoma.com
 adtomafusion.net
@@ -545,6 +549,7 @@ ampugi334f.com
 amusemystic.com
 an.yandex.ru
 analysing.email
+analysis.polarisoffice.com
 analyticlister.com
 analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
@@ -554,6 +559,7 @@ analytics-tracker.thescore.com
 analytics.163.com
 analytics.300624.com
 analytics.74.ru
+analytics.adcanvas.com
 analytics.api.vatominc.com
 analytics.archive.org
 analytics.arecontvision.com
@@ -577,7 +583,9 @@ analytics.convertlanguage.com
 analytics.credible.com
 analytics.datasavannah.com
 analytics.dealmoon.com
+analytics.dev.azure.com
 analytics.dominos.com
+analytics.ecosia.org
 analytics.eip.telegraph.co.uk
 analytics.enjoymobiserver.com
 analytics.evehome.com
@@ -590,12 +598,15 @@ analytics.freemake.com
 analytics.functionofbeauty.com
 analytics.gandi.net
 analytics.generalmills.com
+analytics.getpostman.com
 analytics.getshogun.com
 analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
 analytics.htmedia.in
 analytics.ihg.com
+analytics.insendi.com
+analytics.intelliscapesolutions.com
 analytics.jibecdn.com
 analytics.jjshouse.com
 analytics.kaltura.com
@@ -611,6 +622,7 @@ analytics.livestream.com
 analytics.loopassets.net
 analytics.lucid.app
 analytics.m32.media
+analytics.map.qq.com
 analytics.mercadolibre.cl
 analytics.mercadolibre.co.cr
 analytics.mercadolibre.com
@@ -642,20 +654,28 @@ analytics.ovh.com
 analytics.pinterest.com
 analytics.playinfinity.cn
 analytics.plex.tv
+analytics.poperblocker.com
 analytics.prod.mybuddy.ai
 analytics.qiqiuyun.net
 analytics.query.yahoo.com
 analytics.quizizz.com
+analytics.qumucloud.com
+analytics.realestate.com.au
+analytics.recastsoftware.com
 analytics.regex101.com
 analytics.rodpub.com
 analytics.samsungknox.com
+analytics.santander.co.uk
 analytics.schoolwires.com
 analytics.sem-track.com
 analytics.site123.io
+analytics.sketchup.com
+analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
 analytics.socialcube.me
+analytics.speckle.systems
 analytics.spotify.com
 analytics.ssense.com
 analytics.starz.com
@@ -673,12 +693,16 @@ analytics.unibuddy.co
 analytics.valiuz.com
 analytics.volla.online
 analytics.webpushr.com
+analytics.xcal.tv
 analytics.xl.pt
 analytics.yahoo.com
+analytics.yinxiang.com
+analytics.yiyouliao.com
 analytics.yolacdn.net
 analytics.yongjinbao.com.cn
 analytics.yugen.to
 analytics.zenly-app.com
+analytics.zpbt.uk
 analyticsmsp.com
 analyticspixel.microsoft.com
 analyticssystems.net
@@ -1007,6 +1031,7 @@ bounceexchange.com
 boxofficeliterally.com
 bpu.samsungelectronics.com
 branch.io
+branch.wallet.bitcoin.com
 brand-display.com
 brandadsstatic.vivo.com.cn
 brandcrumb.com
@@ -1076,6 +1101,7 @@ c-ctrip.com
 c.hit.ua
 c0cd2idcl5.com
 c1exchange.com
+c3metrics.com
 c3tag.com
 cadreon.com
 cadslims.com
@@ -1089,6 +1115,7 @@ canddi.download
 canddi.io
 canoevaguely.com
 capricetheme.com
+captcha-display.com
 captifymedia.com
 captivatepestilentstormy.com
 carambo.la
@@ -1153,6 +1180,7 @@ circulate.com
 circumstantialeltondirtiness.com
 citruserve.com
 civiccomputing.com
+civicscience.com
 civilizationperspirationhoroscope.com
 cj.com
 clarity.ms
@@ -1323,6 +1351,7 @@ counter.tengrinews.kz
 counter.theconversation.com
 counter.yandro.ru
 countess.twitch.tv
+countly.turktelekom.com.tr
 couplestupidity.com
 coveritlive.com
 cpex.cz
@@ -1370,6 +1399,7 @@ crumblerefunddiana.com
 crumbtypewriterhome.com
 crwdcntrl.net
 cryorganichash.com
+ct.pinterest.com
 cten10010.com
 ctnsnet.com
 cuckooretire.com
@@ -1712,6 +1742,7 @@ exe.bid
 exerciseundergone.com
 exileinstinct.com
 exitbee.com
+exmarketplace.com
 exoclick.com
 exosrv.com
 exoticads.com
@@ -2052,6 +2083,7 @@ hippocoins.com
 hiprofitnetworks.com
 hisavana.com
 histats.com
+hit.gemius.pl
 hit.skrz.cz
 hitbas.com
 hitbox.com
@@ -2267,6 +2299,7 @@ jivox.com
 jmgads.com
 jnrtavp2x66u.com
 jobfilletfortitude.com
+join.rune.ai
 jollyembodyclassified.com
 joowkijejv.com
 jpgtrk.com
@@ -2442,6 +2475,7 @@ log.gns.go.com
 log.go.com
 log.internetat.tv
 log.kmplayer.com
+log.mgtv.com
 log.olark.com
 log.particlenews.com
 log.pinterest.com
@@ -2454,6 +2488,8 @@ log.tapatalk.com
 log.uu.easebar.com
 log.zoom.us
 log16-platform-ycru.tiktokv.com
+logauth.polarisoffice.com
+logconfig.polarisoffice.com
 logger.dailymotion.com
 logger.foxitcloud.com
 logger.unsplash.com
@@ -2473,6 +2509,7 @@ logs.roku.com
 logs.unchecky.com
 logserver.hicloud.com
 logservice-dra.platform.hicloud.com
+logservice-dre.platform.hicloud.com
 logservice-drru.dt.hicloud.com
 logsss.com
 logtransform.hicloud.com
@@ -13356,6 +13393,7 @@ mobileadtrading.com
 mobileanalytics.us-east-1.amazonaws.com
 mobileapptracking.com
 mobilegamestats.com
+mobilestats.ask.fm
 mobiletech.no
 mobiletelemetry.ebay.com
 mobilewalla.com
@@ -13379,6 +13417,7 @@ mon.tiktokv.com
 monarchads.com
 mondiad.net
 monetate.net
+monetizer.com
 monitor-stsdk.vivo.com.cn
 monitor.azure.com
 monkeytracker.cz
@@ -13413,6 +13452,7 @@ mtrace.wetvinfo.com
 mtrcs.samba.tv
 mtrl.me
 multi-feeds.com
+multispaces.net
 munchenviableski.com
 muvmobile.com
 mw19c3mi5a.com
@@ -13734,6 +13774,7 @@ pghub.io
 pglstatp-toutiao.com
 phluant.com
 phone.igexin.com
+phonograph2.voxmedia.com
 photorank.me
 piano.io
 picanalysis.vivo.com.cn
@@ -13846,6 +13887,7 @@ pricespider.com
 priestboundsay.com
 prijspakkertje.nl
 primis.tech
+privacity.se
 privacy.aol.com
 privacymanager.io
 privacytrck.com
@@ -15402,6 +15444,7 @@ stats.glb.paypal.com
 stats.iobit.com
 stats.jobs.bg
 stats.kaltura.com
+stats.klevu.com
 stats.kollective.app
 stats.ksearchnet.com
 stats.mbamupdates.com
