@@ -5,15 +5,11 @@
 24h-ipad-ad.24hstatic.com
 360.anatic.net
 480.zaloapp.ads.zdn.vn
-a.adsplay.xyz
 a.ants.vn
 a.cdp.asia
 a.ladipage.com
 a.t.sieu-viet.com
 a.vtvdigital.vn
-a1.adsplay.xyz
-a3.adsplay.xyz
-a4.adsplay.xyz
 abs.ants.vn
 ac.adpia.vn
 academy.myad.vn
@@ -64,7 +60,6 @@ admicro4.vcmedia.vn
 admicro5.vcmedia.vn
 admicro6.vcmedia.vn
 admin.adsplay.net
-admin.adsplay.xyz
 admin.dable.io
 admin.iad.eclick.vn
 admin.lavanetwork.net
@@ -162,7 +157,6 @@ adsota.com
 adsparc.com
 adsparc.net
 adsplay.net
-adsplay.xyz
 adsplus.vn
 adsservices.urekamedia.com
 adstracking.apps.zing.vn
@@ -302,7 +296,6 @@ api-ldp.novaonx.com
 api-player.urekamedia.com
 api.adbro.me
 api.adfly.vn
-api.adsplay.xyz
 api.adtima.vn
 api.adtimaserver.vn
 api.affmates.com
@@ -329,7 +322,6 @@ api.unibots.in
 api.widget.zalo.me
 api.wiinvent.tv
 api2.boclinkads.com
-api4report.adsplay.xyz
 apia.headlines.pw
 apilog.mytvnet.vn
 apilogduration.mytvnet.vn
@@ -442,7 +434,6 @@ cdn-player.urekamedia.com
 cdn-qc.coccoc.com
 cdn.adbro.me
 cdn.adflex.vn
-cdn.adsplay.xyz
 cdn.ambientplatform.vn
 cdn.api-connect.io
 cdn.autoads.asia
@@ -550,14 +541,11 @@ counter.24h.com.vn
 counter.ntdvn.com
 counter.ntdvn.net
 countervov.emitech.vn
-cp.adsplay.xyz
 cp.novanet.vn
 cp.polyad.net
 cp.qc.coccoc.com
-cp1.adsplay.xyz
 cpa-tracking.mclick.mobi
 cpcclick.novanet.vn
-cpd.adsplay.xyz
 cpi.adflex.vn
 cpm.d.eclick.vn
 cpm.eclick.vn
@@ -582,7 +570,6 @@ csmads.gameclick.vn
 customers.fptad.com
 cworth.smartconvert.co
 d.adsplay.net
-d.adsplay.xyz
 d.anthill.vn
 d.ants.vn
 d.eclick.vn
@@ -594,7 +581,6 @@ d3.adsplay.net
 d4.adsplay.net
 d5.adsplay.net
 d6.adsplay.net
-d7.adsplay.xyz
 dable.io
 daleriki.com
 dco.urekamedia.com
@@ -763,7 +749,6 @@ grand-prix.cityads.com
 growth.smartconvert.co
 gs.cococx.com
 gtmjs.com
-gw01.adsplay.xyz
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 haraads.com
 harafunnel.com
@@ -790,7 +775,6 @@ i0.anthill.vn
 iad.eclick.vn
 iads.staticscdn.net
 id.adsplay.net
-id.adsplay.xyz
 id.anthill.vn
 ignite.adtima.vn
 iki.daleriki.com
@@ -827,7 +811,6 @@ inapi.flygame.io
 indo.autoads.asia
 infiniti.cityads.com
 ingame.flygame.io
-ingress.adsplay.xyz
 insight.ants.vn
 insight.mediaz.vn
 interactive.brand.zing.vn
@@ -913,7 +896,6 @@ log-collector.shopee.vn
 log-vietnamplus-vn.cdn.ampproject.org
 log.adflex.vn
 log.adsplay.net
-log.adsplay.xyz
 log.adtimaserver.vn
 log.anninhthudo.vn
 log.api.zaloapp.com
@@ -986,7 +968,6 @@ log2.adsplay.net
 log3.adsplay.net
 log4.adsplay.net
 log4x.nixcdn.com
-log7.adsplay.xyz
 logapi.misa.com.vn
 logen.vietnamplus.vn
 loges.vietnamplus.vn
@@ -1023,9 +1004,7 @@ marketing.hub-js.com
 marketing.itgeek.vn
 marketingai.admicro.vn
 matomo.ecoe.vn
-matomo.energyfacility.vn
 matomo.hicity.vn
-matomo.magicmarketing.vn
 matomo.quan.hoabinh.vn
 matomo.shac.vn
 matomo.vepg.vn
@@ -1034,8 +1013,6 @@ mautic.akhoe.vn
 mautic.casso.vn
 mautic.chetaomaysaigon.vn
 mautic.cloudify.vn
-mautic.datium.vn
-mautic.dongdomedia.vn
 mautic.easygroup.vn
 mautic.educa.vn
 mautic.educe.vn
@@ -1043,7 +1020,6 @@ mautic.haproinfo.vn
 mautic.hicity.vn
 mautic.hubs.vn
 mautic.icsc.vn
-mautic.itnavi.com.vn
 mautic.jagodo.vn
 mautic.paa.vn
 mautic.serverhub.vn
@@ -1051,7 +1027,6 @@ mautic.sts.vn
 mautic.teky.edu.vn
 mautic.thietkexaynhadep.vn
 mautic.vmax.vn
-mautic.yte-suckhoe.vn
 mb.logging.admicro.vn
 mclick.mobi
 media.adasiaholdings.com
@@ -1132,7 +1107,6 @@ offer.mediaz.vn
 offerwall.headlines.pw
 ogs.ants.vn
 ohchat.net
-omo.adsplay.xyz
 oms-t.ants.vn
 onapp.haravan.com
 oncustomer.asia
@@ -1260,7 +1234,6 @@ redirect.dable.io
 redmine.cityads.com
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 report.adsplay.net
-report.adsplay.xyz
 report.mediahub.vn
 report.mediaz.vn
 report.novaon.asia
@@ -1303,7 +1276,6 @@ scripts.donglogs.com
 sda.tamdiem247.com
 sdk-cdn.aiactiv.io
 sdk.adflex.vn
-sdk.adsplay.xyz
 sdk.pushdi.com
 searcher.qc.coccoc.com
 sellers.urekamedia.com
@@ -1345,8 +1317,6 @@ smtp6.younetmedia.com
 socialheat.younetmedia.com
 socialloginplus-apps.haravan.com
 solution.urekamedia.com
-sony.adsplay.xyz
-sony1.adsplay.xyz
 sop.urekamedia.com
 source.bidgear.com
 sourcetobin.com
@@ -1676,12 +1646,6 @@ widget.subiz.net
 widget.subiz.xyz
 widget.vietnamnetad.vn
 widgetv4.subiz.com
-wifi-api.adsplay.xyz
-wifi-api1.adsplay.xyz
-wifi-api2.adsplay.xyz
-wifi-api3.adsplay.xyz
-wifi-api4.adsplay.xyz
-wifi.adsplay.xyz
 wifiads.cleverads.vn
 wiinvent.com.vn
 wiinvent.tv
