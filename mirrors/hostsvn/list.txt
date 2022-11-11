@@ -12,7 +12,6 @@ a.t.sieu-viet.com
 a.vtvdigital.vn
 abs.ants.vn
 ac.adpia.vn
-academy.myad.vn
 academy.urekamedia.com
 ad-admin.vnay.vn
 ad-log.dable.io
@@ -45,7 +44,6 @@ adchoice.com
 adclient.vietnamnetjsc.vn
 addlog.thuvienphapluat.vn
 addtop.trangvangvietnam.com
-adfill.fuseplatform.net
 adflex.vn
 adfly.vn
 adi.admicro.vn
@@ -79,7 +77,6 @@ ads-backend.nhadatmoi.net
 ads-cdn.fptplay.net
 ads-thanhnien-vn.cdn.ampproject.org
 ads.1thegioi.vn
-ads.247phim.com
 ads.568play.vn
 ads.adflex.vn
 ads.admatrix.vn
@@ -104,7 +101,7 @@ ads.cungcau.vn
 ads.fptplay.net.vn
 ads.gosu.vn
 ads.home.vn
-ads.homedy.com
+ads.homedy.net
 ads.ictnews.vn
 ads.kabbmedia.com
 ads.khoahocdoisong.vn
@@ -114,7 +111,6 @@ ads.laodongbinhduong.org.vn
 ads.laodongnghean.vn
 ads.markettimes.vn
 ads.marry.vn
-ads.metaconex.io
 ads.nghenhinvietnam.vn
 ads.nhadatmoi.net
 ads.novanet.vn
@@ -147,7 +143,6 @@ adscare.myad.vn
 adserver.atdnetwork.com
 adserver.lag.vn
 adserver.muaban.net
-adserver.sudo.vn
 adserver.trangphim.net
 adserving.urekamedia.com
 adsgo.nhipcaudautu.vn
@@ -392,7 +387,6 @@ blogstatistics.sapoapps.vn
 bloodleian.club
 bluemaulpuffs.com
 bluvenie.com
-bm.stats.vng.com.vn
 bongdadem.net
 boxpr.admicro.vn
 boxpr.aiservice.vn
@@ -415,7 +409,6 @@ c4.gostats.vn
 c5.gostats.vn
 campaign.brand.zing.vn
 campaign.gitiho.com
-campaign.myad.vn
 campaigns.ambient-platform.com
 campaigns.ambientplatform.vn
 campxanh.info
@@ -487,7 +480,6 @@ chatbox.urekamedia.com
 cheap-ads.net
 checker.cityads.com
 chiasephim.xyz
-chin-adnetwork.com
 cityads.com
 cityadstrack.com
 cjm.mytv.vn
@@ -715,6 +707,7 @@ game-static.hotngay.vn
 game.flygame.io
 game.hotngay.vn
 games.cityads.com
+gamma.cachefly.net
 gammadsp.com
 gammaplatform.com
 gammassp.com
@@ -836,7 +829,6 @@ jeoway.com
 jira.novaon.asia
 join.cityads.com
 js.aiservice.vn
-js.chin-adnetwork.com
 js.mediaz.asia
 jslog.zapps.vn
 jsons.urekamedia.com
@@ -852,7 +844,6 @@ ketquaxosotoancau.org
 kh.suno.vn
 kiemtien.adflex.vn
 klick.vn
-kpi.stats.vng.com.vn
 kv-analytics.kiotviet.vn
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 l.a.eclick.vn
@@ -930,7 +921,6 @@ log.oto.com.vn
 log.plo.vn
 log.pv.eclick.vn
 log.pv1.eclick.vn
-log.saleup88.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
 log.smoney.vn
@@ -1089,7 +1079,6 @@ news.dable.io
 ng-vn-notice.gameitop.com
 nhanquaffob31.com
 nl-geo.cityads.com
-notebook.stats.vng.com.vn
 notify-service.admicro.vn
 novanet.vn
 novaon.asia
@@ -1116,11 +1105,9 @@ openx.motgame.vn
 opt.proadscdn.com
 optimize.serving-system.com
 optimize.urekamedia.com
-org.zaloapp.ads.zdn.vn
 origin-c0.anthill.vn
 origin-e.anthill.vn
 origin-st-a.anthill.vn
-oss.stats.vng.com.vn
 out1.cityads.com
 out2.cityads.com
 out3.cityads.com
@@ -1178,6 +1165,7 @@ prp.adtima.vn
 pson.logging.admicro.vn
 pub-dev.novaonx.com
 pub.adflex.vn
+pub.akadigital.vn
 pub.lavamedia.vn
 pub.lavanetwork.net
 pub.metaconex.io
@@ -1327,7 +1315,6 @@ sporttv.today
 sr.opencoccoc.com
 ss.yomedia.vn
 sslstatic.yomedia.vn
-sso.stats.vng.com.vn
 ssp.qc.coccoc.com
 ssp.urekamedia.com
 sspapi.admicro.vn
@@ -1477,7 +1464,6 @@ thongke.24h.com.vn
 thongke.arttimes.vn
 thongke.baotintuc.vn
 thongke.bookingcare.vn
-thongke.khampha.vn
 thongke.opencps.vn
 thongke.tcdulichtphcm.vn
 thongke.vui.vn
@@ -1528,7 +1514,6 @@ tracking.api.media.zapps.vn
 tracking.appwifi.com
 tracking.autoads.asia
 tracking.banner.g6.zing.vn
-tracking.cleverads.vn
 tracking.cystack.net
 tracking.dantri.com.vn
 tracking.eclick.vn
@@ -1731,7 +1716,6 @@ www.pushtimize.com
 www.realclick.vn
 www.sbbanner.com
 www.slimads.vn
-www.smartadnetwork.net
 www.smartconvert.co
 www.sporttv.today
 www.subiz-cdn.com
@@ -1759,7 +1743,6 @@ yoads.net
 yoads.network
 yomedia.vn
 younetmedia.com
-youtube.cleverads.vn
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 za.baomoi.com
 za.zapps.vn
