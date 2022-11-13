@@ -313,7 +313,6 @@ api.sdk.zadn.vn
 api.subiz.com.vn
 api.subiz.net
 api.subiz.xyz
-api.unibots.in
 api.widget.zalo.me
 api.wiinvent.tv
 api2.boclinkads.com
@@ -450,7 +449,6 @@ cdn.serving.ad.org.vn
 cdn.starseed.fr
 cdn.surfcountor.com
 cdn.tpmedia.online
-cdn.unibots.in
 cdn.urekamedia.com
 cdn01.pushtimize.com
 cdn1.tpmedia.online
@@ -1272,6 +1270,7 @@ sendy.adpia.vn
 sentry-track.vietnamworks.com
 seo.mediaz.vn
 september.cityads.com
+server.zmedia.vn
 service-api.accesstrade.vn
 serving-ad.tv24.vn
 serving-system.com
@@ -1560,7 +1559,6 @@ u-dmp.urekamedia.com
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 ucesreferre.club
 ulead.urekamedia.com
-unibots.in
 update.adflex.vn
 upfile16.mediaphim.com
 uptime.adpia.vn
@@ -1581,7 +1579,6 @@ v9banners.com
 vads.net.vn
 vads.vn
 vcdn.anthill.vn
-vdo.unibots.in
 vena.native-ad.net
 verycheap.cheap-ads.net
 viam.com.vn
@@ -1745,7 +1742,6 @@ younetmedia.com
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 za.baomoi.com
 za.zapps.vn
-za.zdn.vn
 za.zingmp3.vn
 za.zingnews.vn
 zabbix.bidgear.com
