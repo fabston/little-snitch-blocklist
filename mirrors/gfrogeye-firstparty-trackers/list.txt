@@ -1739,6 +1739,8 @@ ea.centerparcs.nl
 ea.comptoirdelhomme.com
 ea.dcshoes-europe.com
 ea.deguisetoi.fr
+ea.directours.com
+ea.easyparapharmacie.com
 ea.ecotour.com
 ea.entradas.com
 ea.etam.de
@@ -2271,6 +2273,7 @@ eulerian.canal-plus.com
 eulerian.darty.com
 eulerian.digitalrefresh.fr
 eulerian.homebox-suisse.ch
+eulerian.love2recycle.fr
 eulerian.madeindesign.com
 eulerian.malakoffmederic.com
 eulerian.mathon.fr
@@ -2638,6 +2641,7 @@ fvw-de01.wt-eu02.net
 fvw01.webtrekk.net
 fw-am5.criteo.com
 fw-par.criteo.com
+fxa0.ekosport.fr
 fxj6.aireuropa.com
 fxyvcz.thecompanystore.com
 fzb5.laboratoire-giphar.fr
@@ -2658,6 +2662,7 @@ gbc1.jp2.as.criteo.com
 gbc1.nl.eu.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
+gbc2.nl.eu.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.jp2.as.criteo.com
@@ -2831,6 +2836,7 @@ go.arrowpointe.com
 go.aruplab.com
 go.asicentral.com
 go.askattest.com
+go.assist-tokyo.asia
 go.associaonline.com
 go.astech.com
 go.asurint.com
@@ -5188,6 +5194,8 @@ mboxedge34-02.tt.omtrdc.net
 mboxedge34.tt.omtrdc.net
 mboxedge35-02.tt.omtrdc.net
 mboxedge35.tt.omtrdc.net
+mboxedge37-02.tt.omtrdc.net
+mboxedge37.tt.omtrdc.net
 mc.eulerian.com
 mc.eulerian.eu
 mc.eulerian.fr
@@ -5257,6 +5265,7 @@ mm.eulerian.com
 mm.eulerian.eu
 mm.eulerian.fr
 mm.eulerian.net
+mm.masmovil.es
 mm1.eulerian.net
 mm2.eulerian.net
 mm3.eulerian.net
@@ -10605,6 +10614,7 @@ pix.da1.vip.prod.criteo.net
 pix.jp2.vip.prod.criteo.net
 pix.par.vip.prod.criteo.net
 pix.va1.vip.prod.criteo.net
+pjh7.us.chantelle.com
 pjm4.heikanarioyene.com
 pk8n57.fnac.com
 pkc5.hardrockhoteltenerife.com
@@ -13527,6 +13537,7 @@ upz1.destinia.lt
 urj6.iberojet.es
 us-plz-as19750.anchors.atlas.ripe.net
 us-qas-as19750.anchors.atlas.ripe.net
+us.chantelle-com.eulerian.net
 usa.pgbrands.com
 ut.actonsoftware.com
 uue2.destinia.ir
