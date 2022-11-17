@@ -4508,6 +4508,7 @@ dioqto.totaljobs.com
 direct-events-collector.spot.im
 direct.colfondos.co
 direct.t-mobile.com
+directavenue.tech
 disabled.owa-paywall.net.zooplus.fr
 disabled.owa.betaarketing.net.zooplus.fr
 disabled.owa.prod.net.zooplus.fr
@@ -12417,6 +12418,7 @@ t.bimvid.com
 t.birchlane.com
 t.blablacar.com
 t.brand-server.com
+t.buyist.app
 t.c4tw.net
 t.castle.io
 t.cfjump.com
@@ -12854,6 +12856,7 @@ tm.urssaf.fr
 tm.vendemore.com
 tmetrics.hdfcbank.com
 tmetrics.webex.com
+tmetrix.my.chick-fil-a.com
 tmrhpl.nurse-agent.com
 tms-st.cdn.ngenix.net
 tms.dmp.wi-fi.ru

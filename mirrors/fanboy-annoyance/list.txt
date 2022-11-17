@@ -35,6 +35,7 @@ consent.prismamedia.com
 consent.t-mobile.cz
 consent.themeteocompany.com
 consentement.ouest-france.fr
+content22.bmoharris.com
 cookie.aerostatonet.it
 cookie.consents.app
 cookie.gazeta.pl
@@ -63,8 +64,10 @@ d5k6iufjynyu8.cloudfront.net
 d9etzk30b05yg.cloudfront.net
 data.reachplc.com
 dhpikd1t89arn.cloudfront.net
+drfdisvc.walmart.com
 ds-recommender.styria.hr
 emailing.rfi.fr
+event.evtm.53.com
 gdpr-settings.s3.amazonaws.com
 gdpr.internetbrands.com
 gdpr.laxd.com
@@ -111,9 +114,11 @@ sourcepoint.theroot.com
 sourcepoint.thetakeout.com
 sp.knowyourmeme.com
 t13.9to5google.com
+tmetrix.my.chick-fil-a.com
 traffic.styria.hr
 twitter-badges.s3.amazonaws.com
 up-cookiemon.wavecdn.net
+w-profiling.simplii.com
 webcache-eu.datareporter.eu
 webcache.datareporter.eu
 widget.beop.io
@@ -121,4 +126,5 @@ widget.justwatch.com
 widgets.openli.com
 widgets.recruitology.com
 widgets.sprinkletxt.com
+wup-content23.bmoharris.com
 zgody.infor.pl
