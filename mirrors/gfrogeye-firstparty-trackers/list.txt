@@ -644,6 +644,7 @@ association.locktonaffinity.net
 assurandme-fr.eulerian.net
 astm.actonsoftware.com
 astroway.eulerian.net
+at.alltricks.de
 at.alltricks.it
 atconnect.npo.nl
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
@@ -700,6 +701,7 @@ b.fox.com
 b.foxsports.com
 b.fxnetworks.com
 b.hlserve.com
+b.jp2.vip.prod.criteo.com
 b.koodomobile.com
 b.law.com
 b.lyst.com
@@ -916,6 +918,7 @@ cas.da1.vip.prod.criteo.com
 cas.eu.criteo.com
 cas.jp2.vip.prod.criteo.com
 cas.par.vip.prod.criteo.com
+cas.sg1.vip.prod.criteo.com
 cas.us.criteo.com
 cas.va1.vip.prod.criteo.com
 casaneo.postaffiliatepro.com
@@ -2676,6 +2679,7 @@ gbc4.sg1.as.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.nl.eu.criteo.com
+gbc5.sg1.as.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
 gbc6.fr.eu.criteo.com
