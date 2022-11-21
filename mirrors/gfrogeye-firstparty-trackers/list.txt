@@ -2685,6 +2685,7 @@ gbc4.nl.eu.criteo.com
 gbc4.sg1.as.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
+gbc5.jp2.as.criteo.com
 gbc5.nl.eu.criteo.com
 gbc5.sg1.as.criteo.com
 gbc5.va.us.criteo.com
