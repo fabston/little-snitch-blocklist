@@ -783,6 +783,7 @@ bidder.criteo.com
 bidder.da1.vip.prod.criteo.com
 bidder.jp2.vip.prod.criteo.com
 bidder.par.vip.prod.criteo.com
+bidder.sg1.vip.prod.criteo.com
 bidder.va1.vip.prod.criteo.com
 big.srax.com
 bigfishgamesinc.tt.omtrdc.net
@@ -2685,6 +2686,7 @@ gbc4.nl.eu.criteo.com
 gbc4.sg1.as.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
+gbc5.fr.eu.criteo.com
 gbc5.jp2.as.criteo.com
 gbc5.nl.eu.criteo.com
 gbc5.sg1.as.criteo.com
@@ -4223,6 +4225,7 @@ lkm4.hejkanariskeoer.com
 llrc.smartravelbox.com
 lmoda01.webtrekk.net
 locationdevoiture01.wt-eu02.net
+login.actonsoftware.com
 loisirsencheres-com.eulerian.net
 lotoquebec-com.eulerian.net
 loyalty.qantas.com
@@ -5215,6 +5218,7 @@ mboxedge35-02.tt.omtrdc.net
 mboxedge35.tt.omtrdc.net
 mboxedge37-02.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
+mboxedge38-02.tt.omtrdc.net
 mboxedge38.tt.omtrdc.net
 mc.eulerian.com
 mc.eulerian.eu
