@@ -406,6 +406,7 @@ ads.genieessp.com
 ads.imbc.com
 ads.jp2.vip.prod.criteo.com
 ads.par.vip.prod.criteo.com
+ads.sg1.vip.prod.criteo.com
 ads.spacenine.biz
 ads.us.criteo.com
 ads.va1.vip.prod.criteo.com
@@ -2673,6 +2674,7 @@ gbc1.nl.eu.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
 gbc2.nl.eu.criteo.com
+gbc2.sg1.as.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.jp2.as.criteo.com
