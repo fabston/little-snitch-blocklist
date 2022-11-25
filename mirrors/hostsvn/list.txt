@@ -414,6 +414,7 @@ ccxp.opencoccoc.com
 cd.cococx.com
 cdn-ads.thesaigontimes.vn
 cdn-bongdadem-net.cdn.ampproject.org
+cdn-embed.wiinvent.tv
 cdn-js.urekamedia.com
 cdn-media-m.ambient-platform.com
 cdn-media.ambient-platform.com
@@ -684,6 +685,7 @@ game-static.hotngay.vn
 game.flygame.io
 game.hotngay.vn
 games.cityads.com
+games.wiinvent.tv
 gamma.cachefly.net
 gammadsp.com
 gammaplatform.com
@@ -1337,6 +1339,7 @@ static.urekamedia.com
 static.yomedia.vn
 static.younetmedia.com
 static01.atdnetwork.com
+static1.wiinvent.tv
 static2.adflex.vn
 static2.adtimaserver.vn
 static3.urekamedia.com

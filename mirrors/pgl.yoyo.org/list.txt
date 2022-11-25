@@ -104,7 +104,6 @@ ad.anuntis.com
 ad.auditude.com
 ad.bitmedia.io
 ad.bizo.com
-ad.bnmla.com
 ad.bondage.com
 ad.centrum.cz
 ad.cgi.cz
@@ -489,7 +488,6 @@ ads.ibryte.com
 ads.icq.com
 ads.ign.com
 ads.imagistica.com
-ads.img.co.za
 ads.imgur.com
 ads.independent.com.mt
 ads.infi.net
@@ -1092,7 +1090,6 @@ banner.elisa.net
 banner.eurogrand.com
 banner.finzoom.ro
 banner.goldenpalace.com
-banner.img.co.za
 banner.inyourpocket.com
 banner.linux.se
 banner.media-system.de
@@ -2617,6 +2614,7 @@ picadmedia.com
 piet2eix3l.com
 pietexture.com
 pimproll.com
+ping.ublock.org
 pipedream.wistia.com
 pippio.com
 piquantpigs.com
