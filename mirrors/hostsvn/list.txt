@@ -104,7 +104,6 @@ ads.home.vn
 ads.homedy.net
 ads.ictnews.vn
 ads.kabbmedia.com
-ads.khoahocdoisong.vn
 ads.kiemsat.vn
 ads.lamchame.vn
 ads.laodongbinhduong.org.vn
@@ -147,7 +146,6 @@ adserver.trangphim.net
 adserving.urekamedia.com
 adsgo.nhipcaudautu.vn
 adsmt1.adsparc.net
-adsnetonline.work
 adsota.com
 adsparc.com
 adsparc.net
@@ -358,7 +356,6 @@ b.logging.admicro.vn
 b.serving-system.com
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 babe.ants.vn
-banhtv.org
 banner.5giay.vn
 banner.brand.zing.vn
 banner.etargeting.mobifone.vn
@@ -382,7 +379,6 @@ bi.vhost.vn
 bidgear-syndication.com
 bidgear.com
 blogstatistics.sapoapps.vn
-bluemaulpuffs.com
 bongdadem.net
 boxpr.admicro.vn
 boxpr.aiservice.vn
@@ -603,6 +599,7 @@ demopage.me
 deqik.com
 dest.modestsunf.com
 dev.adflex.vn
+dev.embed.wiinvent.tv
 dev.mobilead.vn
 developers.ants.vn
 developers.cityads.com

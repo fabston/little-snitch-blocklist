@@ -402,6 +402,7 @@ adobetp.chegg.com
 adobetps.chegg.com
 ads.am5.vip.prod.criteo.com
 ads.as.criteo.com
+ads.da1.vip.prod.criteo.com
 ads.eu.criteo.com
 ads.genieessp.com
 ads.imbc.com
