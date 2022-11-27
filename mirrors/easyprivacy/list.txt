@@ -2525,6 +2525,7 @@ analytics.yola.net
 analytics.yolacdn.net
 analytics.yomedia.vn
 analytics.yourbankcard.com
+analytics.yugen.to
 analytics.ziftsolutions.com
 analytics00.meride.tv
 analytics2-meride-tv.akamaized.net
@@ -8781,6 +8782,7 @@ pulse.delta.com
 pumpkin.abine.com
 punyplant.com
 purchasesuggestion.com
+push-sdk.net
 pushmaster-cdn.xyz
 puzzlingproperty.com
 pv.hd.sohu.com
