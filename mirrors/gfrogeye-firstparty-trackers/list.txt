@@ -2673,6 +2673,7 @@ gbc1.da.us.criteo.com
 gbc1.fr.eu.criteo.com
 gbc1.jp2.as.criteo.com
 gbc1.nl.eu.criteo.com
+gbc1.sg1.as.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
 gbc2.nl.eu.criteo.com

@@ -2528,6 +2528,7 @@ analytics.yourbankcard.com
 analytics.yugen.to
 analytics.ziftsolutions.com
 analytics00.meride.tv
+analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev-karriereblog.de
@@ -13830,6 +13831,7 @@ tracking.lg.com
 tracking.listhub.net
 tracking.live.wetter.at
 tracking.livingsocial.com
+tracking.lqm.io
 tracking.magnetmail.net
 tracking.markethero.io
 tracking.massierendeladies.de
