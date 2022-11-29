@@ -347,7 +347,6 @@ ads.yahoo.com
 ads.yap.yahoo.com
 ads1.knxs.net
 ads1.msn.com
-ads2.focus-news.net
 ads2.jenite.bg
 ads2.msn.com
 ads5-adnow.com
@@ -370,7 +369,6 @@ adserver.diariodosertao.com.br
 adserver.doccheck.com
 adserver.html.it
 adserver.lenouvelliste.com
-adserver.logisticaprofesional.com
 adserver.mk
 adserver.pandora.com
 adserver.pressboard.ca
