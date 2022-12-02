@@ -2289,6 +2289,7 @@ analytics.geekyminds.net
 analytics.getshogun.com
 analytics.givealittle.co
 analytics.global.sky.com
+analytics.googlepeer.cloud
 analytics.greenmountainenergy.com
 analytics.groupe-seb.com
 analytics.growthphysics.com
@@ -2922,6 +2923,7 @@ beam.giraffe360.com
 beam.mjhlifesciences.com
 beamincrease.com
 beastbeef.com
+beat.yourtv.jp
 beaumont.actonservice.com
 beautifulhobbies.com
 becanium.com
@@ -3973,6 +3975,9 @@ cz-mktg.vodafone.com
 czvdlp.hgregoire.com
 czx5eyk0exbhwp43ya.biz
 d-kint.d-kintetsu.co.jp
+d-log.asahi.co.jp
+d-log.bs-asahi.tv
+d-log.tv-asahi.co.jp
 d.adlpo.com
 d.finative.eu
 d.getpocket.com
@@ -3985,6 +3990,7 @@ d.rp-online.de
 d.shareaholic.com
 d.skk.moe
 d.sourcepoint.capitalfm.com
+d.tv-asahi.co.jp
 d.uni-medias.com
 d.wi-fi.ru
 d0f.le-dauphin.com
@@ -8965,6 +8971,8 @@ recommenddoor.com
 reconditeprison.com
 reconditerespect.com
 recordbutter.com
+recv-entry.tbs.co.jp
+recv-jnn.tbs.co.jp
 reddwarf.till-sanders.de
 reeokx.reima.com
 reeyzk.momq.co.kr
@@ -9929,6 +9937,7 @@ securedata.mijnspar.be
 securedata.monspar.be
 securedata.solucious.be
 securedata.unsw.edu.au
+securedvisit.com
 securemetrics.apple.com
 securemetrics.athletawell.com
 securemetrics.blackrock.com
@@ -13654,6 +13663,7 @@ track.mituo.cn
 track.mp4.center
 track.mrgugu.com
 track.mycliplister.com
+track.myli.io
 track.netzero.net
 track.noddus.com
 track.nopaperforms.com
@@ -13690,7 +13700,6 @@ track.roomster.com
 track.rundschau-online.de
 track.searchignite.com
 track.searchiq.co
-track.securedvisit.com
 track.shop2market.com
 track.sitetag.us
 track.slickinbox.com
@@ -14272,6 +14281,7 @@ videostat-new.index.hu
 videostat.index.hu
 videostats.kakao.com
 vidstat.taboola.com
+view.fujitv.co.jp
 views.arabnews.com
 views.b1tv.ro
 views.cancan.ro
