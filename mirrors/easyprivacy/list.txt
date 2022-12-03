@@ -2146,7 +2146,6 @@ analytic.underarmour.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
-analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
@@ -2330,6 +2329,7 @@ analytics.m7g.twitch.tv
 analytics.macklin.me
 analytics.mail-corp.com
 analytics.mailmunch.co
+analytics.makeitmeme.com
 analytics.mambaui.com
 analytics.matchbin.com
 analytics.mbga.jp
