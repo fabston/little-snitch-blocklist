@@ -2667,6 +2667,7 @@ gazette-news-gb.gazette-news.co.uk
 gbc.criteo.com
 gbc0.da.us.criteo.com
 gbc0.fr.eu.criteo.com
+gbc0.jp2.as.criteo.com
 gbc0.nl.eu.criteo.com
 gbc0.sg1.as.criteo.com
 gbc0.va.us.criteo.com
@@ -2682,6 +2683,7 @@ gbc2.nl.eu.criteo.com
 gbc2.sg1.as.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
+gbc3.fr.eu.criteo.com
 gbc3.jp2.as.criteo.com
 gbc3.nl.eu.criteo.com
 gbc3.sg1.as.criteo.com
