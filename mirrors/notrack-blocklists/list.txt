@@ -775,7 +775,6 @@ api.mediation.amberweather.com
 api.miwifi.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
-api16-access-sg.pangle.io
 api64.com
 apien.ldmnq.com
 apnanalytics.com
@@ -1058,6 +1057,7 @@ boomads.com
 boostable.com
 borderoffenseantenna.com
 boredactress.com
+borrowdefeat.com
 borrowmarmotforester.com
 bounceads.net
 bounceexchange.com
@@ -1236,6 +1236,7 @@ clean.gg
 cleanedglistenwhite.com
 clear-reports.com
 clearbit.com
+clearbitjs.com
 clearbitscripts.com
 clearcode.cc
 clenchedyouthmatching.com
@@ -1633,7 +1634,6 @@ droopberch.com
 dropkickmedia.com
 ds.shalltry.com
 dsch.ninja
-dsf4t5jfds34j.com
 dsply.com
 dstillery.com
 dthvdr9.com
@@ -2209,6 +2209,7 @@ hsleadflows.net
 hsms04.com
 hsms08.com
 hsstatic.net
+hstats.hepsiburada.com
 html5-ads.vk-apps.com
 hubapi.com
 hubspot.com
@@ -2372,12 +2373,14 @@ irregularhumilityoptical.com
 isboost.co.jp
 isn.nl
 isnssdk.com
+ispot.tv
 ist-track.com
 itemperrycreek.com
 iterable.com
 itinerarycarter.com
 itineraryupper.com
 itomedia.co.za
+ivitrack.com
 iwanttodeliver.com
 j6mn99mr0m2n.com
 ja2n2u30a6rgyd.com
@@ -2678,6 +2681,7 @@ mantis-prod-reach.cdn.appdomain.cloud
 manualcasketlousy.com
 map2.ssl.hwcdn.net
 marchex.io
+marfeel.com
 margarinereverend.com
 marinegruffexpecting.com
 marinsm.com
@@ -13692,6 +13696,7 @@ newsatads.com
 newscgp.com
 newscred.com
 newsinc.com
+newsroom.bi
 newsunads.com
 nex8.net
 nexac.com
@@ -13911,6 +13916,7 @@ pathfactory.com
 payingnoodlescam.com
 pc20160301.com
 pcapredict.com
+pcrl.co
 pdxor02.com
 pebed.dm-event.net
 peer39.net
@@ -13953,9 +13959,9 @@ photorank.me
 physicallysuddenassail.com
 piano.io
 picanalysis.vivo.com.cn
+picreel.com
 pictela.net
 piksel.com
-pillarvolcano.com
 ping.staticmoly.me
 ping.ublock.org
 pingback.giphy.com
@@ -14074,6 +14080,8 @@ privacy.aol.com
 privacymanager.io
 privacytrck.com
 privatestats.whatsapp.net
+privy.com
+privymktg.com
 prmtracking3.com
 prmutv.co
 prnx.net
@@ -14198,6 +14206,7 @@ qoevjugu.com
 qos-api.ott.yandex.net
 qservz.com
 qthxnjcwhk.xyz
+qualaroo.com
 qualitydestructionhouse.com
 quantcast.com
 quantcount.com
@@ -16023,6 +16032,7 @@ treasureravenvulgar.com
 treehouse.wwoz.org
 tremorhub.com
 tremorvideo.com
+tresensa.com
 trffccmpny.com
 tribalfusion.com
 triedfavourable.com
@@ -16250,6 +16260,7 @@ visibleopenlycaprice.com
 visilabs.net
 visistat.com
 visitor-analytics.io
+visitorqueue.com
 visitortracklog.com
 visualrevenue.com
 visualwebsiteoptimizer.com
