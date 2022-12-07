@@ -2713,6 +2713,7 @@ gbc7.sg1.as.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
 gbc8.fr.eu.criteo.com
+gbc8.jp2.as.criteo.com
 gbc8.nl.eu.criteo.com
 gbc8.sg1.as.criteo.com
 gbc8.va.us.criteo.com

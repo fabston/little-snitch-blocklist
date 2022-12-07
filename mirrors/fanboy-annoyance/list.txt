@@ -7,6 +7,7 @@ cc.labu24.de
 ccm1.dlr.de
 ccpa-script.psg.nexstardigital.net
 cdn259.talksport.com
+cfa.fidelity.com
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
 cmp.deondernemer.nl
@@ -36,6 +37,7 @@ consent.t-mobile.cz
 consent.themeteocompany.com
 consentement.ouest-france.fr
 content22.bmoharris.com
+content22.citibank.com.au
 contents2.00110.citi.com
 cookie.aerostatonet.it
 cookie.consents.app
@@ -73,7 +75,10 @@ gdpr-settings.s3.amazonaws.com
 gdpr.internetbrands.com
 gdpr.laxd.com
 gdpr.studybreakmedia.com
+gfp.intuit.com
 gn-flagpoles.api.bbci.co.uk
+idstatus.sky.com
+imgs.signifyd.com
 jobs.mobilemarketingreads.com
 mailmunch.s3.amazonaws.com
 mdsngpush.finanzen.net
@@ -100,6 +105,7 @@ push.getbeamer.com
 push.knd.ro
 push.neko-san.fr
 push.newscraft.io
+rba-screen.healthsafe-id.com
 rodo.agora.pl
 share.baidu.com
 sm-sp.followfollow.com
@@ -116,6 +122,7 @@ sourcepoint.thetakeout.com
 sp.knowyourmeme.com
 t13.9to5google.com
 tmetrix.my.chick-fil-a.com
+tmx.td.com
 traffic.styria.hr
 twitter-badges.s3.amazonaws.com
 u44.pnc.com
