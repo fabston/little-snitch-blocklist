@@ -2577,6 +2577,7 @@ apcinfo.motorolasolutions.com
 ape-tagit.timeinc.net
 apeagle.io
 apenterprise.io
+api-js.mixpanel.com
 api.autopilothq.com
 api.bunzlaucastle.com
 api.decentralize.today
@@ -3565,6 +3566,7 @@ collect.iteam-dress.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
+collect.thunder-io.com
 collect.tianya.cn
 collect.usefathom.com
 collect.vans.com.cn
