@@ -2349,6 +2349,7 @@ analytics.metro.pk
 analytics.metro.ua
 analytics.mhpod.gov.au
 analytics.midwesternmac.com
+analytics.ml.homedepot.ca
 analytics.mlstatic.com
 analytics.mobile.yandex.net
 analytics.mondotv.jp
@@ -4063,6 +4064,7 @@ d2t77mnxyo7adj.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2u.dauphinquebec.com
+d2wa5sea6guof0.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2zjlj1vewrxcj.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
@@ -6817,6 +6819,7 @@ log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
+log.nordot.jp
 log.olark.com
 log.outbrain.com
 log.outbrainimg.com
@@ -7937,6 +7940,7 @@ mp.huangye.miui.com
 mpglie.apartmentguide.com
 mqsicr.smiggle.co.uk
 mqvyob.vidaxl.fi
+mr.homedepot.ca
 mradx.net
 mrpdata.net
 ms-trackingapi.phenompeople.com
@@ -8152,6 +8156,7 @@ obbtix.eolo.it
 obfrok.partyking.no
 obscenesidewalk.com
 observantice.com
+observe.metarouter.io
 observer.ip-label.net
 obtfhl.bellemaison.jp
 ocjeg2ca9uh9.mailfloss.com
@@ -14589,6 +14594,7 @@ writewealth.com
 wrongpotato.com
 wryfinger.com
 ws.audioeye.com
+ws3.smartp.com
 wsmcdn.audioeye.com
 wspeed.qq.com
 wssgmstats.vibbo.com
