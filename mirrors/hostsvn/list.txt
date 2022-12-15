@@ -66,6 +66,9 @@ admin.phunusuckhoe.vn
 admin.sothuchi.vn
 admin.voh.com.vn
 adms.phunusuckhoe.vn
+adnetwork-adserver.aiactiv.io
+adnetwork-core-lb7.aiactiv.io
+adnetwork-core.aiactiv.io
 adnetwork.adasiaholdings.com
 adnetwork.vn
 adp.vnecdn.net
@@ -253,6 +256,7 @@ analytics.donglogs.com
 analytics.eclick.vn
 analytics.evgcdn.net
 analytics.fsoft.com.vn
+analytics.hebela.vn
 analytics.hub-js.com
 analytics.jamstackvietnam.com
 analytics.jeoway.com
@@ -739,6 +743,7 @@ iad.eclick.vn
 iads.staticscdn.net
 id.adsplay.net
 id.anthill.vn
+identify.aiactiv.io
 ignite.adtima.vn
 iki.daleriki.com
 image-static.adflex.vn
@@ -1317,6 +1322,7 @@ static.adsota.com
 static.adsplay.net
 static.adtima.vn
 static.adtimaserver.vn
+static.aiactiv.io
 static.ambient-platform.com
 static.ambientdsp.com
 static.amcdn.vn

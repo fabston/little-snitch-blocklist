@@ -13420,6 +13420,7 @@ sstats.vizergy.com
 ssy7.destinia.com.ua
 static.am5.vip.prod.criteo.net
 static.criteo.com
+static.criteo.net
 static.da1.vip.prod.criteo.net
 static.jp2.vip.prod.criteo.net
 static.par.vip.prod.criteo.net
