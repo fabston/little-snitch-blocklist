@@ -852,6 +852,7 @@ lmsreport.systems.vn
 local-media.ambient-platform.com
 local-media.m.ambient-platform.com
 log-collector.shopee.vn
+log-giaoducthoidai.epicdn.me
 log-vietnamplus-vn.cdn.ampproject.org
 log.adflex.vn
 log.adsplay.net
@@ -875,6 +876,7 @@ log.dubaotiente.com
 log.eclick.vn
 log.giacngo.vn
 log.giaoduc.net.vn
+log.giaoducthoidai.vn
 log.hemera.com.vn
 log.infonet.vn
 log.kaka.me
@@ -1162,6 +1164,7 @@ qcao.happyskin.vn
 qccoccocmedia.vn
 qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
+quangcao-thanhnien.epicdn.me
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
 quangcao.fff.com.vn
