@@ -546,7 +546,6 @@ alecclause.com
 alephd.com
 alertlogsemployer.com
 alexametrics.com
-algolia.com
 alightbornbell.com
 allawnos.com
 alleviatepracticableaddicted.com
@@ -572,7 +571,6 @@ amplitude.com
 ampmetrics.techcrunch.com
 amptrack.bild.de
 ampugi334f.com
-amusemystic.com
 an.yandex.ru
 analitycs.net
 analysing.email
@@ -588,6 +586,7 @@ analytics.163.com
 analytics.300624.com
 analytics.74.ru
 analytics.adcanvas.com
+analytics.algolia.com
 analytics.api.vatominc.com
 analytics.archive.org
 analytics.arecontvision.com
@@ -715,6 +714,7 @@ analytics.trovit.com
 analytics.twitter.com
 analytics.typedream.com
 analytics.unibuddy.co
+analytics.us.algolia.com
 analytics.valiuz.com
 analytics.webpushr.com
 analytics.xcal.tv
@@ -873,6 +873,7 @@ audioeye.com
 auditioningborder.com
 auditorius.ru
 auditude.com
+audrte.com
 audtd.com
 augur.io
 auntietraumatizemobile.com
@@ -926,6 +927,7 @@ bakeronerousfollowing.com
 bal8ntrk.com
 balconypeer.com
 bam-x.com
+bambarmedia.com
 bande2az.com
 bandsaislevow.com
 bankerconcludeshare.com
@@ -1499,6 +1501,7 @@ datacaciques.com
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+dataroid.com
 datatracking.ru
 datatracking.zeddit.com
 datawrapper.de
@@ -2739,6 +2742,7 @@ mediaiqdigital.com
 medialytics.com
 mediamond.it
 mediaplex.com
+mediarithmics.com
 mediative.com
 mediavine.com
 mediavoice.com
@@ -13751,6 +13755,7 @@ nt.vc
 ntv.io
 nuffnang.com.sg
 nuggad.net
+nullsrefilliron.com
 numerino.cz
 nuniceberg.com
 nursecompellingsmother.com
@@ -13764,7 +13769,6 @@ o333o.com
 oatmealaspectpulp.com
 oatmeallump.com
 obashwmzrfofi.com
-obedientrock.com
 obituaryfuneral.com
 objectionsdomesticatednagging.com
 obnoxiouspatrolassault.com
@@ -13786,6 +13790,7 @@ okayarab.com
 olapic.com
 oldrrb.bid
 om.au
+omeda.com
 omessage.com
 ometria.com
 ometria.email
@@ -14366,7 +14371,6 @@ rm02.net
 rm04.net
 rndmusharnar.com
 ro-up.vivoglobal.com
-roadmappenal.com
 robberyinscription.com
 rockabox.co
 roia.biz
@@ -14533,7 +14537,6 @@ shared1.ad-lister.co.uk
 sharepaoint.com
 sharethis.com
 sharethrough.com
-sharpphysicallyupcoming.com
 shealth-analytics-api.samsunghealth.com
 shemedia.com
 shepherd.ff.avast.com
@@ -15826,6 +15829,7 @@ telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.acronis.com
+telemetry.algolia.com
 telemetry.api.2kcoretech.online
 telemetry.api.playstation.com
 telemetry.api.swiftkey.com
@@ -16129,12 +16133,10 @@ undooptimisticsuction.com
 undrininvereb.info
 unevenmankind.com
 unid.go.com
-uniformheartlesssneaking.com
 uniqodo.com
 uniqueflatlysorting.com
 unityads.unity3d.com
 univide.com
-unmovedoutsidertourist.com
 unoadsrv.com
 unresolveddrama.com
 unruly.co
