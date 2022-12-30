@@ -9514,7 +9514,6 @@ api.browsee.io
 api.browser.intl.miui.com
 api.browser.miui.com
 api.brs.intl.miui.com
-api.bufferapp.com
 api.buysellads.com
 api.c-launcher.com
 api.c.avazunativeads.com
@@ -15522,7 +15521,6 @@ d2tgfbvjf3q6hn.cloudfront.net
 d2vig74li2resi.cloudfront.net
 d2xxq4ijfwetlm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
-d2zcpk7yfyf2dq.cloudfront.net
 d3.btttag.com
 d3.sc.omtrdc.net
 d3.sv.omtrdc.net
@@ -17130,7 +17128,6 @@ e.l.admob.com
 e.mouseflow.com
 e.mtraction.com
 e.onthe.io
-e.reddit.com
 e.serverbid.com
 e.serverdomain.adk2x.com
 e.skimresources.com
@@ -19062,7 +19059,6 @@ finanzen100.de.d1.sc.omtrdc.net
 finanznachrichten.de.intellitxt.com
 finanzportal20.112.2o7.net
 finanztreff.de.intellitxt.com
-find.api.micloud.xiaomi.net
 find.keywordblocks.com
 findmystay.qgr.ph
 findprices.t.domdex.com
@@ -19740,7 +19736,6 @@ gallery.sharethrough.com
 gallery.smartadserver.com
 gallery.taboola.com
 gallery.tubemogul.com
-galleryapi.micloud.xiaomi.net
 gallerydirectir.7eer.net
 gam-ad-unit-inspector.s-onetag.com
 gambling-pro.g2afse.com
@@ -22653,14 +22648,11 @@ in.cur.lv
 in.dodowind.com
 in.eu.adopexchange.com
 in.freewebs.getclicky.com
-in.galleryapi.micloud.xiaomi.net
 in.getclicky.com
 in.gmads.mookie1.com
 in.hear.com
 in.info.lgsmartad.com
 in.o2o.api.xiaomi.com
-in.phonecallapi.micloud.xiaomi.net
-in.smsapi.micloud.xiaomi.net
 in.stat.appmifile.com
 in.stat.mi.com
 in.tags.vizury.com
@@ -38535,8 +38527,6 @@ us.device.insert.io
 us.event.cmp.advertising.com
 us.evergage.com
 us.evyy.net
-us.find.api.micloud.xiaomi.net
-us.galleryapi.micloud.xiaomi.net
 us.gmads.mookie1.com
 us.heisenberg.inmobi.com
 us.info.lgsmartad.com
@@ -38549,13 +38539,9 @@ us.micardapi.micloud.xiaomi.net
 us.mouseflow.com
 us.optimove.net
 us.pdc.micloud.xiaomi.net
-us.phonecallapi.micloud.xiaomi.net
 us.pxf.io
 us.rmcontent.advertising.com
 us.rmevent.advertising.com
-us.sfsapi.micloud.xiaomi.net
-us.smsapi.micloud.xiaomi.net
-us.statusapi.micloud.xiaomi.net
 us.themoneytizer.com
 us.tracking.justpremium.com
 us.unidingcom.com
