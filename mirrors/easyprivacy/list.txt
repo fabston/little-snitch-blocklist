@@ -3235,7 +3235,6 @@ cars.smartleasing.com.au
 carte.fleet-page.total.fr
 carzbz.braincandy.net
 carzbz.triviatoday.com
-casalemedia.com
 cashbeet.com
 caspionlog.appspot.com
 catalogdiscovery.com
@@ -5160,7 +5159,6 @@ erp.qwic.nl
 err.ifengcloud.ifeng.com
 erraticreaction.com
 error-collector.ted.com
-error.fc2.com
 error.videonow.ru
 errors.snackly.co
 ert5.rmcsport.tv
@@ -5975,6 +5973,7 @@ hs-analytics.net
 hsadspixel.net
 hsleadflows.net
 hspbotdetection.azurewebsites.net
+hstats.hepsiburada.com
 htmgrl.jollyroom.no
 hub.firestonecompleteautocare.com
 hub.hubinternational.com
@@ -6781,6 +6780,7 @@ lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
 log-api.newrelic.com
+log-global.aliyuncs.com
 log.51cto.com
 log.adplex.co.kr
 log.aimtell.com
@@ -7912,7 +7912,6 @@ mond.postauto.ch
 monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
-monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 monu.delivery
 moomooz.co.kr
@@ -10114,6 +10113,7 @@ sm.delltechnologies.com
 sm.edweek.org
 sm.stjude.org
 smallbeginner.com
+smashquartz.com
 smashshoe.com
 smashsurprise.com
 smatning.volkswagen.se
@@ -14176,6 +14176,7 @@ uploadsmanagement.idsdata-apiaws.gwswebapialpha-disabled.net.zooplus.de
 upstats.yadro.ru
 upwwgd.zentempel.com
 upz1.destinia.lt
+uqd.io
 urbanairship.com
 urc.taboolasyndication.com
 ureoaw.netthandelen.no
