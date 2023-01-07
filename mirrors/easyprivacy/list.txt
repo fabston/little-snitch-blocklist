@@ -2456,6 +2456,7 @@ analytics.surfline.com
 analytics.surov.fi
 analytics.sweep.net
 analytics.sydney.edu.au
+analytics.synchrony.com
 analytics.synedat.com
 analytics.tabichan.jp
 analytics.tbs.com
@@ -9108,6 +9109,7 @@ rs.mail.ru
 rs.sinajs.cn
 rs.smc.tf
 rsc.lepoint.fr
+rsx.afterpay.com
 rt.bunte.de
 rt.flix360.com
 rt.newswire.ca
