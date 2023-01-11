@@ -12588,6 +12588,7 @@ tag.elevaate.io
 tag.flagship.io
 tag.goldenbees.fr
 tag.leadplace.fr
+tag.lexer.io
 tag.mtrcs.samba.tv
 tag.myplay.com
 tag.rightmessage.com
@@ -13780,6 +13781,7 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.providence.org
 tracker.publico.pt
+tracker.ranker.com
 tracker.roitesting.com
 tracker.services.vaix.ai
 tracker.shopclues.com
