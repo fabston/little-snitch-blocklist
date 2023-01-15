@@ -2317,6 +2317,7 @@ analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
 analytics.kerns.co
+analytics.kkb.com.tr
 analytics.kraken.com
 analytics.krieselreihe.com
 analytics.kukla.club
@@ -3566,6 +3567,7 @@ collect.cloudsponge.com
 collect.elvia.ch
 collect.helsana-preprod.ch
 collect.helsana.ch
+collect.hollisterco.com
 collect.iteam-dress.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
@@ -8785,6 +8787,7 @@ private.roche.com
 privatebackendsntor-data.signed.search.authtoolbar-elasticbeanstalk.net.zooplus.de
 processor.asccommunications.com
 procroanalytics.com
+prod-events.nykaa.com
 prod.ew.srp.navigacloud.com
 proditor.sparda.de
 productivepear.com
