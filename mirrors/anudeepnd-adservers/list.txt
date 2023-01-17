@@ -19922,7 +19922,6 @@ geoinfo.i2w.io
 geoinfo.intowow.com
 geoip.fing.io
 geoip.propellerads.com
-geoip.tnt-ea.com
 geopolitics-of-the-world.mirtesen.ru
 geoproxy.criteo.net
 geoservice.webengage.com
@@ -38535,10 +38534,8 @@ us.lgsmartad.com
 us.linkury.com
 us.metrics.adswizz.com
 us.mgid.com
-us.micardapi.micloud.xiaomi.net
 us.mouseflow.com
 us.optimove.net
-us.pdc.micloud.xiaomi.net
 us.pxf.io
 us.rmcontent.advertising.com
 us.rmevent.advertising.com
