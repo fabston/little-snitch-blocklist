@@ -37,6 +37,7 @@ consent.faz.net
 consent.gutefrage.net
 consent.nationalworld.com
 consent.prismamedia.com
+consent.prointernet.com
 consent.t-mobile.cz
 consent.thegreatoutdoorsmag.com
 consent.themeteocompany.com
@@ -80,6 +81,7 @@ emailing.rfi.fr
 event.evtm.53.com
 eventbus.intuit.com
 f775.thehour.com
+fc.vodafone.de
 gdpr-settings.s3.amazonaws.com
 gdpr.internetbrands.com
 gdpr.laxd.com
