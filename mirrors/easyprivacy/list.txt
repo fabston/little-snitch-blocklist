@@ -2446,6 +2446,7 @@ analytics.southjerseyquakers.org
 analytics.spark.co.nz
 analytics.springboardvideo.com
 analytics.sprint.com
+analytics.spun.com.br
 analytics.ss88.us
 analytics.staticiv.com
 analytics.stg.springboardvideo.com
@@ -8387,7 +8388,6 @@ p.placed.com
 p.pmu.fr
 p.ryanhalliday.com
 p.tencentmind.com
-p.typekit.net
 p.versacommerce.de
 p.victoria.dev
 p.wren.co
@@ -12948,6 +12948,7 @@ tkppvr.freshfarm.it
 tkvxdj.cars.com
 tkykzv.polisorb.com
 tl.tradetracker.net
+tla.traderlink.com
 tls.thelibrarystore.com
 tm.tradetracker.net
 tm.uol.com.br
