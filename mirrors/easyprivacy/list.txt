@@ -6796,7 +6796,6 @@ lntvby.banggood.com
 lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
-log-api.newrelic.com
 log-global.aliyuncs.com
 log.51cto.com
 log.adplex.co.kr
@@ -12605,6 +12604,7 @@ tag.cribnotes.jp
 tag.elevaate.io
 tag.flagship.io
 tag.goldenbees.fr
+tag.imagino.com
 tag.leadplace.fr
 tag.lexer.io
 tag.mtrcs.samba.tv
