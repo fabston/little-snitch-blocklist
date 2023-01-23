@@ -590,6 +590,7 @@ cdn.moengage.com
 cdn.mxpnl.com
 cdn.prod.uidapi.com
 cdn.purpleads.io
+cdn.rates.consumertrack.com
 cdn.speakol.com
 cdn.tsyndicate.com
 cdn.tubecorp.com
@@ -1429,6 +1430,7 @@ privatproxy-schnellvpn.com
 privatproxy-schnellvpn.xyz
 prod.zenkube.com
 prodealscenter.com
+products.gobankingrates.com
 profile.localytics.com
 prombid.com
 promo.buzzclicks.com
