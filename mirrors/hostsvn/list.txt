@@ -320,6 +320,7 @@ api.sdk.zadn.vn
 api.subiz.com.vn
 api.subiz.net
 api.subiz.xyz
+api.tjme.io
 api.widget.zalo.me
 api.wiinvent.tv
 api2.boclinkads.com
@@ -657,9 +658,11 @@ erp.novaon.asia
 erp2.novaon.asia
 euro.klick.vn
 eva-ad.24hstatic.com
+event-action.popinfo.jp
 event.adpia.vn
 event.filum.ai
 event.headlines.pw
+events.popinfo.jp
 ezca.asia
 f-emc.ngsp.gov.vn
 f.novanet.vn
@@ -771,6 +774,7 @@ imp.m.ambientplatform.vn
 imp2.gammaplatform.com
 imp8.bidgear.com
 imp9.bidgear.com
+impactify.media
 imps.urekamedia.com
 in-view.gammaplatform.com
 inapi.flygame.io
@@ -981,6 +985,7 @@ mautic.thietkexaynhadep.vn
 mautic.vmax.vn
 mb.logging.admicro.vn
 mclick.mobi
+mda.zadn.vn
 media.adasiaholdings.com
 media.adnetwork.vn
 media.adtimaserver.vn
@@ -1012,6 +1017,7 @@ metrics.gammadsp.com
 metrics.m.ambientplatform.vn
 microad.vn
 mkt.hoanghamobile.com
+mme.zedcdn.me
 mobile.novanet.vn
 mobilead.vn
 mobileads.dieuviet.com
@@ -1204,6 +1210,7 @@ s.homedy.com
 s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
+s.zzcdn.me
 s1.zzz.vn
 s2.codon.vn
 s3.adpia.vn
@@ -1429,6 +1436,7 @@ thongke99.baogiaothong.vn
 thumb.dable.io
 tiki.ants.vn
 tinkoff.cityads.com
+tjme.io
 tkpopup.asia
 tkpopup.vn
 tmp.adflex.vn
@@ -1511,7 +1519,9 @@ trk.staging.123c.vn
 truoctran.com
 ttus.tructiepbongda.me
 tuyendung.mediaz.vn
+tv360-gametet.wiinvent.tv
 tvnotice.kg.garena.vn
+txx.tjme.io
 u-connect.urekamedia.com
 u-dmp.urekamedia.com
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
@@ -1555,11 +1565,13 @@ vnadssb.com
 vnn-tracking.vnncdn.net
 vnnayngaytin.vn
 vp.cdnstoremedia.com
+vpaid.impactify.media
 wakeup.klick.vn
 wakeup247.klick.vn
 wallet.mediaz.vn
 wcc.admicro.vn
 web-analytic.ghtk.vn
+web-api.tjme.io
 web.api.adtimaserver.vn
 webbot.oncustomer.asia
 webchat.caresoft.vn
@@ -1714,3 +1726,4 @@ zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
 ztevents.zaloapp.com
+ztrck.me
