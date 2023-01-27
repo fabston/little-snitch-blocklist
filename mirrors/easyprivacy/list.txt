@@ -3572,6 +3572,7 @@ collect.vans.com.cn
 collection.saga.co.uk
 collector-api.99designs.com
 collector-px0py5pczn.octopart.com
+collector.api.video
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
@@ -14398,6 +14399,7 @@ wbtrkk.teufelaudio.it
 wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 wco.crownpeak.com
+wct-2.com
 wdatatats.net.zooplus.com
 wearbasin.com
 weare.ballymoregroup.com
