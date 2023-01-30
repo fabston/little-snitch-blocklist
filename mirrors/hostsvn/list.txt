@@ -658,11 +658,9 @@ erp.novaon.asia
 erp2.novaon.asia
 euro.klick.vn
 eva-ad.24hstatic.com
-event-action.popinfo.jp
 event.adpia.vn
 event.filum.ai
 event.headlines.pw
-events.popinfo.jp
 ezca.asia
 f-emc.ngsp.gov.vn
 f.novanet.vn
@@ -774,7 +772,6 @@ imp.m.ambientplatform.vn
 imp2.gammaplatform.com
 imp8.bidgear.com
 imp9.bidgear.com
-impactify.media
 imps.urekamedia.com
 in-view.gammaplatform.com
 inapi.flygame.io
@@ -1566,7 +1563,6 @@ vnadssb.com
 vnn-tracking.vnncdn.net
 vnnayngaytin.vn
 vp.cdnstoremedia.com
-vpaid.impactify.media
 wakeup.klick.vn
 wakeup247.klick.vn
 wallet.mediaz.vn
