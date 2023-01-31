@@ -454,6 +454,8 @@ cdn.starseed.fr
 cdn.surfcountor.com
 cdn.tpmedia.online
 cdn.urekamedia.com
+cdn.viraads.com
+cdn.wataads.com
 cdn01.pushtimize.com
 cdn1.tpmedia.online
 cdn2.adflex.vn
@@ -562,6 +564,7 @@ d.ants.vn
 d.eclick.vn
 d.gammaplatform.com
 d.t.sieu-viet.com
+d.watanet.work
 d1.adsplay.net
 d2.adsplay.net
 d3.adsplay.net
@@ -1555,6 +1558,7 @@ vietbuzzad.com
 vietdorje.com
 vietnamnetad.vn
 vinaads.vn
+viraads.com
 viral.mediaz.vn
 vlxx.host
 vn-platform.bidgear.com
@@ -1566,6 +1570,8 @@ vp.cdnstoremedia.com
 wakeup.klick.vn
 wakeup247.klick.vn
 wallet.mediaz.vn
+wataads.com
+watanet.work
 wcc.admicro.vn
 web-analytic.ghtk.vn
 web-api.tjme.io
