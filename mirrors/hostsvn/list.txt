@@ -138,6 +138,7 @@ ads.vishare.vn
 ads.vkool.info
 ads.vlr.vn
 ads.vovlive.vn
+ads.vtc.vn
 ads.xedoisong.vn
 ads.xemphimso.com
 ads.xemtivisohd.net
@@ -593,6 +594,7 @@ delivery.senvangvn.com
 delivery.smartadnetwork.net
 delivery.vtc.vn
 delivery.vtcnew.com.vn
+delivery.vtcnews.vn
 delivery.yomedia.vn
 delivery1.lavamedia.vn
 delivery1.lavanetwork.net
@@ -1421,6 +1423,7 @@ tags.fly-ads.net
 tags.native-ad.net
 tebrand.asia
 tebrand.vn
+tech.zapps.me
 test-places.gammassp.com
 testcentre.vn
 text1.klick.vn
@@ -1503,6 +1506,7 @@ tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vietnamnetad.vn
 tracking.vnncdn.net
+tracking.vtc.vn
 tracking.vtcnew.com.vn
 tracking.yomedia.vn
 tracking2.vnncdn.net
