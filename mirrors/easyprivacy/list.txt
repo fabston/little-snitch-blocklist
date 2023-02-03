@@ -3554,6 +3554,7 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
+collect.alphastream.io
 collect.asics.com
 collect.banggood.com
 collect.cap.ch
@@ -6786,6 +6787,7 @@ lntvby.banggood.com
 lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
+log-gateway.zoom.us
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
@@ -9986,6 +9988,7 @@ seoab.io
 sep02.hinagiku-life.jp
 separateshow.com
 sephora-qa.branchstaging.com
+serpentshampoo.com
 serv1swork.com
 servcliente.marathon-sports-ec.com
 servedby.o2.co.uk
