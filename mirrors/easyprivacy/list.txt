@@ -1574,6 +1574,7 @@ ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
 ad-log.dable.io
 ad-track.paravi.jp
+ad-tracker-api.luizalabs.com
 ad.aloodo.com
 ad.aucfan.com
 ad.aucview.com
@@ -7464,6 +7465,7 @@ metrics.baitoru.com
 metrics.baitorupro.com
 metrics.bakeryandsnacks.com
 metrics.bakeryinfo.co.uk
+metrics.bankmonitor.hu
 metrics.barclaycardus.com
 metrics.bcbsnc.com
 metrics.beatsbydre.com
