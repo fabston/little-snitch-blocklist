@@ -6,18 +6,19 @@ If you think there is a list missing [open a discussion](https://github.com/fabs
 
 ### ✅ Enabled input dada:
 
-| Name                              | License                                         | Homepage                                        | Raw URL                                    |
-|:----------------------------------|:------------------------------------------------|:------------------------------------------------|:-------------------------------------------|
-| AdGuard DNS filter                | GPL-3.0-only                                    | [Link][homepage-AdGuardSDNSFilter]              | [Link][source-AdGuardSDNSFilter]           |
-| AdGuard - Simplified              | GPL-3.0-only                                    | [Link][homepage-adguard-simplified]             | [Link][source-adguard-simplified]          |
-| adaway.org                        | CC-BY-3.0                                       | [Link][homepage-adaway.org]                     | [Link][source-adaway.org]                  |
-| EasyList                          | (GPL-3.0-only OR CC-BY-SA-3.0)                  | [Link][homepage-easylist]                       | [Link][source-easylist]                    |
-| EasyPrivacy                       | (GPL-3.0-only OR CC-BY-SA-3.0)                  | [Link][homepage-easyprivacy]                    | [Link][source-easyprivacy]                 |
-| pgl.yoyo.org                      | [MCRAE][license-pgl.yoyo.org]                   | [Link][homepage-pgl.yoyo.org]                   | [Link][source-pgl.yoyo.org]                |  
-| Phishing Army                     | CC-BY-NC-4.0                                    | [Link][homepage-phishing.army]                  | [Link][source-phishing.army]               |
-| someonewhocares.org               | ["non-commercial"][license-someonewhocares.org] | [Link][homepage-someonewhocares.org]            | [Link][source-someonewhocares.org]         |
-| StevenBlack                       | MIT                                             | [Link][homepage-stevenblack]                    | [Link][source-stevenblack]                 |
-| uBlock                            | GPL-3.0-only                                    | [Link][homepage-ublock]                         | [Link][source-ublock]                      |
+| Name                              | License                                            | Homepage                                        | Raw URL                                    |
+|:----------------------------------|:---------------------------------------------------|:------------------------------------------------|:-------------------------------------------|
+| AdGuard DNS filter                | GPL-3.0-only                                       | [Link][homepage-AdGuardSDNSFilter]              | [Link][source-AdGuardSDNSFilter]           |
+| AdGuard - Simplified              | GPL-3.0-only                                       | [Link][homepage-adguard-simplified]             | [Link][source-adguard-simplified]          |
+| adaway.org                        | CC-BY-3.0                                          | [Link][homepage-adaway.org]                     | [Link][source-adaway.org]                  |
+| EasyList                          | (GPL-3.0-only OR CC-BY-SA-3.0)                     | [Link][homepage-easylist]                       | [Link][source-easylist]                    |
+| EasyPrivacy                       | (GPL-3.0-only OR CC-BY-SA-3.0)                     | [Link][homepage-easyprivacy]                    | [Link][source-easyprivacy]                 |
+| NoTracking                        | CC-BY-SA-4.0                                       | [Link][homepage-notracking]                     | [Link][source-notracking]                  |
+| pgl.yoyo.org                      | [MCRAE][license-pgl.yoyo.org]                      | [Link][homepage-pgl.yoyo.org]                   | [Link][source-pgl.yoyo.org]                |  
+| Phishing Army                     | CC-BY-NC-4.0                                       | [Link][homepage-phishing.army]                  | [Link][source-phishing.army]               |
+| someonewhocares.org               | ["non-commercial"][license-someonewhocares.org]    | [Link][homepage-someonewhocares.org]            | [Link][source-someonewhocares.org]         |
+| StevenBlack                       | MIT                                                | [Link][homepage-stevenblack]                    | [Link][source-stevenblack]                 |
+| uBlock                            | GPL-3.0-only                                       | [Link][homepage-ublock]                         | [Link][source-ublock]                      |
 
 ### ❌ Disabled input data:
 
@@ -33,7 +34,6 @@ If you think there is a list missing [open a discussion](https://github.com/fabs
 | NoTrack Tracker Malware            | GPL-3.0-only                                        | [Link][homepage-notrack-malware]                | [Link][source-notrack-malware]             |   
 | lightswitch05 - Ads & Tracking     | Apache-2.0                                          | [Link][homepage-lightswitch05]                  | [Link][source-lightswitch05]               |
 | mitchellkrogza - Badd-Boyz-Hosts   | MIT                                                 | [Link][homepage-mitchellkrogza-badd-boyz]       | [Link][source-mitchellkrogza-badd-boyz]    |   
-| NoTracking                         | CC-BY-SA-4.0                                        | [Link][homepage-notracking]                     | [Link][source-notracking]                  |   
 | NoTrack Tracker Blocklist          | GPL-3.0-only                                        | [Link][homepage-notrack-blocklist]              | [Link][source-notrack-blocklist]           |   
 | KADhosts                           | CC-BY-SA-4.0                                        | [Link][homepage-kadhosts]                       | [Link][source-kadhosts]                    |
 | 1Hosts                             | [Dandelicence][license-1hosts]                      | [Link][homepage-1hosts]                         | [Link][source-1hosts]                      |
@@ -88,7 +88,7 @@ If you think there is a list missing [open a discussion](https://github.com/fabs
 [homepage-mitchellkrogza-badd-boyz]: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 [source-mitchellkrogza-badd-boyz]: https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 
-[homepage-notracking]: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+[homepage-notracking]: https://github.com/notracking/hosts-blocklists
 [source-notracking]: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 
 [homepage-notrack-blocklist]: https://gitlab.com/quidsup/notrack-blocklists
