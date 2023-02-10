@@ -7918,6 +7918,7 @@ monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
 monitoring.iraiser.eu
+monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 monu.delivery
 moomooz.co.kr
@@ -11628,6 +11629,7 @@ stat-ssl.tabelog.com
 stat-ssl.tasclap.jp
 stat.24liveplus.com
 stat.5-tv.ru
+stat.absolutist.com
 stat.acca.it
 stat.altalex.com
 stat.api.2gis.ru
