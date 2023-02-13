@@ -2240,6 +2240,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.corusent.com
 analytics.daasrv.net
+analytics.dashboard.fingerprint.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
 analytics.dephibank.com
@@ -10042,6 +10043,7 @@ shared.65twenty.com
 sheeta.nrj-play.fr
 shinesavage.com
 shinestuart.com
+shiveringspot.com
 shockingship.com
 shop.iwantclips.com
 shopbreakfast.com
@@ -14578,7 +14580,6 @@ wkctj.baidu.com
 wknd.ai
 wl-analytics.tsp.li
 wl-pixel.index.digital
-wl.jd.com
 wmgroup.us
 womanear.com
 woodpeckerlog.com
