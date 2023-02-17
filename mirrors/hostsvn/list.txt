@@ -885,6 +885,7 @@ log.adsplay.net
 log.adtimaserver.vn
 log.anninhthudo.vn
 log.api.zaloapp.com
+log.baobackan.com.vn
 log.baocaobang.vn
 log.baodatviet.vn
 log.baodauthau.vn
@@ -914,6 +915,7 @@ log.kinhtedouong.vn
 log.mp3.zing.vn
 log.news.zing.vn
 log.ngaynay.vn
+log.nhandan.vn
 log.nhipcaudautu.vn
 log.oto.com.vn
 log.plo.vn
@@ -948,6 +950,7 @@ log.vneconomy.vn
 log.vnfinance.vn
 log.vov.vn
 log.vovplus.vn
+log.vovworld.vn
 log.xoso.com.vn
 log.zamba.vn
 log.zingmp3.vn
@@ -987,6 +990,7 @@ m-a.ants.vn
 m.ads.zalo.me
 m.cityads.com
 m.clevernet.vn
+m.zedcdn.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 ma.ants.vn
 manage.adtima.vn
@@ -1023,6 +1027,7 @@ mautic.vmax.vn
 mb.logging.admicro.vn
 mclick.mobi
 mda.zadn.vn
+me.zedcdn.me
 media-ads.zaloapp.com
 media.adasiaholdings.com
 media.adnetwork.vn

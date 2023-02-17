@@ -407,6 +407,7 @@ ads.eu.criteo.com
 ads.genieessp.com
 ads.imbc.com
 ads.jp2.vip.prod.criteo.com
+ads.nl3.vip.prod.criteo.com
 ads.par.vip.prod.criteo.com
 ads.sg1.vip.prod.criteo.com
 ads.spacenine.biz
@@ -939,6 +940,7 @@ cat.fr.eu.criteo.com
 cat.hlserve.com
 cat.jp2.vip.prod.criteo.com
 cat.nl.eu.criteo.com
+cat.nl3.vip.prod.criteo.com
 cat.par.vip.prod.criteo.com
 cat.sg1.vip.prod.criteo.com
 cat.va.us.criteo.com
@@ -955,6 +957,7 @@ cbn.hb.omtrdc.net
 cbs.hb-api.omtrdc.net
 cbsd.am5.vip.prod.criteo.com
 cbsd.da1.vip.prod.criteo.com
+cbsd.nl3.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
 cbsd.va1.vip.prod.criteo.com
 cbsdigitalmedia.hb.omtrdc.net
