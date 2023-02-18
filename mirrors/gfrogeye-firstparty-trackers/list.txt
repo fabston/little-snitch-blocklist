@@ -1704,6 +1704,7 @@ dynamic.am5.vip.prod.criteo.com
 dynamic.criteo.com
 dynamic.da1.vip.prod.criteo.com
 dynamic.jp2.vip.prod.criteo.com
+dynamic.nl3.vip.prod.criteo.com
 dynamic.par.vip.prod.criteo.com
 dynamic.sg1.vip.prod.criteo.com
 dynamic.va1.vip.prod.criteo.com
@@ -2682,6 +2683,7 @@ gbc1.da.us.criteo.com
 gbc1.fr.eu.criteo.com
 gbc1.jp2.as.criteo.com
 gbc1.nl.eu.criteo.com
+gbc1.nl3.eu.criteo.com
 gbc1.sg1.as.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
@@ -7130,6 +7132,7 @@ mug.am5.vip.prod.criteo.com
 mug.criteo.com
 mug.da1.vip.prod.criteo.com
 mug.jp2.vip.prod.criteo.com
+mug.nl3.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
 mug.sg1.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
@@ -13768,6 +13771,7 @@ widget.am5.vip.prod.criteo.com
 widget.as.criteo.com
 widget.da1.vip.prod.criteo.com
 widget.jp2.vip.prod.criteo.com
+widget.nl3.vip.prod.criteo.com
 widget.par.vip.prod.criteo.com
 widget.sg1.vip.prod.criteo.com
 widget.us.criteo.com
