@@ -2708,6 +2708,7 @@ gbc5.da.us.criteo.com
 gbc5.fr.eu.criteo.com
 gbc5.jp2.as.criteo.com
 gbc5.nl.eu.criteo.com
+gbc5.nl3.eu.criteo.com
 gbc5.sg1.as.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
@@ -2720,6 +2721,7 @@ gbc7.da.us.criteo.com
 gbc7.fr.eu.criteo.com
 gbc7.jp2.as.criteo.com
 gbc7.nl.eu.criteo.com
+gbc7.nl3.eu.criteo.com
 gbc7.sg1.as.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
