@@ -710,6 +710,7 @@ b.koodomobile.com
 b.law.com
 b.lyst.com
 b.medtronic.com
+b.nl3.vip.prod.criteo.com
 b.par.vip.prod.criteo.com
 b.publicmobile.ca
 b.sg1.vip.prod.criteo.com
@@ -2677,6 +2678,7 @@ gbc0.da.us.criteo.com
 gbc0.fr.eu.criteo.com
 gbc0.jp2.as.criteo.com
 gbc0.nl.eu.criteo.com
+gbc0.nl3.eu.criteo.com
 gbc0.sg1.as.criteo.com
 gbc0.va.us.criteo.com
 gbc1.da.us.criteo.com
@@ -2690,12 +2692,14 @@ gbc2.da.us.criteo.com
 gbc2.fr.eu.criteo.com
 gbc2.jp2.as.criteo.com
 gbc2.nl.eu.criteo.com
+gbc2.nl3.eu.criteo.com
 gbc2.sg1.as.criteo.com
 gbc2.va.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.fr.eu.criteo.com
 gbc3.jp2.as.criteo.com
 gbc3.nl.eu.criteo.com
+gbc3.nl3.eu.criteo.com
 gbc3.sg1.as.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
