@@ -182,6 +182,7 @@ adtima.brand.zing.vn
 adtima.net.vn
 adtima.org
 adtima.vn
+adtimabot.brand.zing.vn
 adtimabox.brand.zing.vn
 adtimaserver.vn
 adv.adflex.vn
@@ -921,6 +922,7 @@ log.oto.com.vn
 log.plo.vn
 log.pv.eclick.vn
 log.pv1.eclick.vn
+log.saigondautu.com.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
 log.smoney.vn
