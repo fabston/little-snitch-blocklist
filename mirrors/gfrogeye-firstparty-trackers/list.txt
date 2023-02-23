@@ -958,6 +958,7 @@ cbn.hb.omtrdc.net
 cbs.hb-api.omtrdc.net
 cbsd.am5.vip.prod.criteo.com
 cbsd.da1.vip.prod.criteo.com
+cbsd.eu.criteo.com
 cbsd.nl3.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
 cbsd.va1.vip.prod.criteo.com
