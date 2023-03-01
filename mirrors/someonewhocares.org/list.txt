@@ -5933,7 +5933,6 @@ mail-en-marche.fr
 mail.bangla.net
 mail.cyberh.fr
 mail.hallym.ac.kr
-mail.hz.zh.cn
 mail.imamu.edu.sa
 mail.interq.or.jp
 mail.ioc.ac.ru
@@ -5942,12 +5941,10 @@ mail.pmo.ac.cn
 mail.radar.imgsmail.ru
 mail.siom.ac.cn
 mail.tropmet.res.in
-mail.tsinghua.edu.cn
 mail1.371.net
 mailcheckisp.biz
 mailfoogae.appspot.com
 maillots-ffoot-actu.fr
-mails.cneic.com.cn
 mailtrack.fr
 mailtrack.me
 mailtribune.112.2o7.net
@@ -10896,7 +10893,6 @@ www.simplecounter.net
 www.simpli.fi
 www.simplyhelper.com
 www.sinera.org
-www.siom.ac.cn
 www.skattabrain.com
 www.skegness.net
 www.skvarsani.plus.com
