@@ -2244,6 +2244,7 @@ analytics.daasrv.net
 analytics.dashboard.fingerprint.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
+analytics.dealer.com
 analytics.dephibank.com
 analytics.designspiration.com
 analytics.deutscher-apotheker-verlag.de
@@ -9419,6 +9420,7 @@ sadbmetrics.womennow.es
 sadbmetrics.worldcanic.com
 sadbmetrics.xlsemanal.com
 sadbmetrics.zendalibros.com
+sadloaf.com
 sadobe.autoscout24.de
 sadobe.autoscout24.it
 sadobe.autoscout24.lu
