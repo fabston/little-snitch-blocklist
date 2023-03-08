@@ -215,6 +215,7 @@
 a.faymobi.com
 a.stat.xiaomi.com
 a.tvpage.com
+a125375509.cdn.optimizely.com
 a9v8.cn
 aata.ero-advertising.com
 aax-dtb-cf.amazon-adsystem.com
@@ -581,12 +582,14 @@ cdn.bitmedianetwork.com
 cdn.castoola.com
 cdn.cloudimagesb.com
 cdn.confiant-integrations.net
+cdn.cookielaw.org
 cdn.creative-bars1.com
 cdn.discoveryad.castoola.tv
 cdn.gameads.io
 cdn.googletoolservices.com
 cdn.hadronid.net
 cdn.id5-sync.com
+cdn.indexww.com
 cdn.insurads.com
 cdn.mirror-codes.net
 cdn.moengage.com
@@ -772,6 +775,7 @@ embed.sendtonews.com
 en.xachinaproject.fun
 enabler.datalake.mediaset.it
 enatimedia.com
+encrypted-tbn1.gstatic.com
 engine.bitmedianetwork.com
 environmentalist.com
 eom-nv.com
