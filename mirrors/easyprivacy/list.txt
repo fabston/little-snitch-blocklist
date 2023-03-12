@@ -4020,6 +4020,7 @@ d0f.le-dauphin.com
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
+d11bdev7tcn7wh.cloudfront.net
 d15kdaxu5c0hfw.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
@@ -8850,6 +8851,7 @@ ptracker.nurturehq.com
 ptsc.shoplocal.com
 pub.servidoresge.com
 pub.sheknows.com
+pubgw.yahoo.com
 pubtm.com
 puffypaste.com
 puiwrs.misterspex.de
@@ -12103,6 +12105,7 @@ stats.redlabelsports.com
 stats.reisemobil.pro
 stats.remotebear.io
 stats.revit-content.com
+stats.rocketbeans.tv
 stats.rocketvalidator.com
 stats.russellstover.com
 stats.sa-as.com
