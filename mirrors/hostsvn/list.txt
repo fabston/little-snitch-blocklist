@@ -804,6 +804,7 @@ jenkins.younetmedia.com
 jeoway.com
 jira.novaon.asia
 join.cityads.com
+jp.zaloapp.com
 jr.ads.zalo.me
 jr.ads.zaloapp.com
 jr.stg.ads.zalo.me
@@ -1783,6 +1784,7 @@ zlog.zingmp3.vn
 zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
+zpsocial-f52-org.zadn.vn
 zt.me.zing.vn
 zt1.me.zing.vn
 ztevents.zaloapp.com
