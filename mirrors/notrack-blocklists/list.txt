@@ -652,7 +652,6 @@ analytics.kaltura.com
 analytics.khmerload.com
 analytics.kidoz.net
 analytics.kongregate.io
-analytics.kovah.de
 analytics.krisp.ai
 analytics.languagetoolplus.com
 analytics.lbry.com
@@ -2541,7 +2540,6 @@ leadinfo.net
 leady.com
 leanplum.com
 leaveundo.com
-leechplanes.com
 legacy-telemetry.malwarebytes.com
 legolas-media.com
 leiki.com
@@ -14708,7 +14706,6 @@ significantoperativeclearance.com
 siliconanalytics.com
 silktide.com
 silldisappoint.com
-sillyflowermachine.com
 silverpop.com
 silverundergofold.com
 simpleanalytics.io
@@ -15462,7 +15459,6 @@ smetrics.sj.se
 smetrics.skipton.co.uk
 smetrics.sky.com
 smetrics.sky.it
-smetrics.skyhighsecurity.com
 smetrics.skype.com
 smetrics.sleepnumber.com
 smetrics.sling.com
