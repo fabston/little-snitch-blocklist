@@ -2116,6 +2116,7 @@ amp-error-reporting.appspot.com
 amplify.strategic-i.com
 amplifypixel.outbrain.com
 ampltd.top.gg
+ampltd2.medal.tv
 ams-pageview-public.s3.amazonaws.com
 amusementmorning.com
 amusinggirls.com
@@ -2538,6 +2539,7 @@ analytics.ziftsolutions.com
 analytics00.meride.tv
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
+analyticsehnwe.servicebus.windows.net
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev-karriereblog.de
 analyticsresults.datev-magazin.de
@@ -5830,6 +5832,7 @@ gsbygc.clarks.eu
 gsp1.baidu.com
 gsyegj.shatura.com
 gtgvze.chintai.net
+gtm.wise.com
 gtreus.aliexpress.com
 gtrk.s3.amazonaws.com
 guaranteelamp.com
@@ -6078,6 +6081,7 @@ ig.igmarkets.com
 ig.nadex.com
 igorsgtest.branch.rocks
 igrid.org
+ih.newegg.com
 ihmnnz.flo.com.tr
 iiajtl.zeit.de
 iidoys.wearpact.com
@@ -6549,6 +6553,7 @@ kzsicw.chip.de
 kzsicw.focus.de
 kzsicw.tvspielfilm.de
 kzsicw.tvtoday.de
+l.bfmtv.com
 l.create.canva.com
 l.ctrl.blog
 l.email.livingsocial.co.uk
@@ -6865,7 +6870,6 @@ log.rutube.ru
 log.seekda.com
 log.sina.cn
 log.snapdeal.com
-log.suumo.jp
 log.tagtic.cn
 log.targetpush.co.kr
 log.ttbc-hcm.gov.vn
@@ -7705,6 +7709,7 @@ metrics.nab.com.au
 metrics.nba.com
 metrics.nero.com
 metrics.nespresso.com
+metrics.newegg.com
 metrics.news.com.au
 metrics.nfl.com
 metrics.nfm.com
@@ -12739,6 +12744,7 @@ target.visitsingapore.com
 target.walgreens.com
 target.zeiss.com
 targetab.t-mobile.com
+targetemsecure.blob.core.windows.net
 targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
@@ -13712,6 +13718,7 @@ tracer.autoscout24.ch
 track-mail.homage.co
 track-srv.vietnamnet.vn
 track-visit.monday.com
+track.360playvid.info
 track.91app.io
 track.99acres.com
 track.bannedcelebs.com

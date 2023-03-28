@@ -165,6 +165,7 @@ a.weareknitters.dk
 a.weareknitters.fr
 a0ib.ebs-geneve.com
 a1.api.bbc.co.uk
+a10053.actonservice.com
 a10053.actonsoftware.com
 a10222.actonsoftware.com
 a10255.actonsoftware.com
@@ -2284,6 +2285,7 @@ etc3.eulerian.net
 etc4.eulerian.net
 etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
+eu.bidswitch.net
 eu.eolcdn.com
 eu.euleriancdn.net
 eu.global-cdn.net
