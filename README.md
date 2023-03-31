@@ -55,5 +55,7 @@ If you are using my blocklist and you'd like to test it, you can do so [here](ht
 ---
 
 <p align="center">
+    If you'd like to support my work, you can buy me a coffee ☕️. Thank you!
+    <br><br>
     <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://github.com/fabston/little-snitch-blocklist/blob/main/assets/bmac.png?raw=true" width=200px></a>
 </p>
