@@ -38,7 +38,6 @@ consent.amateurphotographer.co.uk
 consent.berliner-kurier.de
 consent.canalboat.co.uk
 consent.digiapi.com
-consent.faz.net
 consent.gutefrage.net
 consent.nationalworld.com
 consent.perry-rhodan.net
@@ -109,6 +108,7 @@ jobs.mobilemarketingreads.com
 l936.expressnews.com
 mailmunch.s3.amazonaws.com
 mdsngpush.finanzen.net
+message.maven.io
 mms.cmpsky.com
 newsletter.bdnews24.com
 newsletter.beautydea.it
