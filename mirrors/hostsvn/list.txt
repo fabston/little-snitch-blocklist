@@ -9,6 +9,7 @@ a.cdp.asia
 a.ladipage.com
 a.t.sieu-viet.com
 a.vtvdigital.vn
+aanetwork.vn
 abs.ants.vn
 ac.adpia.vn
 academy.urekamedia.com
@@ -434,6 +435,7 @@ cdn-media.ambient-platform.com
 cdn-media.m.ambient-platform.com
 cdn-player.urekamedia.com
 cdn-qc.coccoc.com
+cdn.aanetwork.vn
 cdn.adbro.me
 cdn.adflex.vn
 cdn.ambientplatform.vn
@@ -770,6 +772,7 @@ img.polyad.net
 img.vietnamnetad.vn
 imgcdnbet.com
 imgportal.eclick.vn
+imgs2.aanetwork.vn
 imp-dsp.bidgear.com
 imp-m.ambient-platform.com
 imp.adnetwork.vn
@@ -1177,6 +1180,7 @@ proof.sudo.vn
 prp.adtima.vn
 pson.logging.admicro.vn
 pub-dev.novaonx.com
+pub.aanetwork.vn
 pub.adflex.vn
 pub.akadigital.vn
 pub.lavamedia.vn
@@ -1564,6 +1568,7 @@ tracking3.vnncdn.net
 trackingapi.foody.vn
 trackingvn.zingplay.com
 trackity.tiki.vn
+traffic.vietnhan.co
 transfer.urekamedia.com
 trenddigital.vn
 trk-pcweb.api.zaloapp.com
@@ -1783,7 +1788,10 @@ zlog.zingmp3.vn
 zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
+zpsocial-f50-org.zadn.vn
+zpsocial-f51-org.zadn.vn
 zpsocial-f52-org.zadn.vn
+zpsocial-f53-org.zadn.vn
 zt.me.zing.vn
 zt1.me.zing.vn
 ztevents.zaloapp.com

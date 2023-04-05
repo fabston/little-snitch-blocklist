@@ -401,6 +401,7 @@ api.datatrics.com
 api.doubles.click
 api.eqmob.com
 api.fouanalytics.com
+api.fpjs.io
 api.gameads.io
 api.moengage.com
 api.pubnative.net
@@ -865,6 +866,7 @@ found.ee
 fp-analytics.hotstar.com
 fp.metricswpsh.com
 fpa.ero-advertising.com
+fpjscdn.net
 free-dating-girls.online
 free.livejasmin.com
 freeadult.games
@@ -1803,6 +1805,8 @@ urldelivery.com
 us-west-2.kinesis.hpanalytics.net
 us.btmods.net
 usapglobal.usapglobal.org
+use1.fptls.com
+use1.fptls3.com
 users.ero-advertising.com
 users.quantumgraph.com
 usersync.datatrics.com
