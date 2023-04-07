@@ -405,6 +405,7 @@ ads.am5.vip.prod.criteo.com
 ads.as.criteo.com
 ads.da1.vip.prod.criteo.com
 ads.eu.criteo.com
+ads.fr3.vip.prod.criteo.com
 ads.genieessp.com
 ads.imbc.com
 ads.jp2.vip.prod.criteo.com
@@ -2373,6 +2374,7 @@ extranets.jp2.vip.prod.criteo.com
 extranets.nl3.vip.prod.criteo.com
 extranets.par.vip.prod.criteo.com
 extranets.sg1.vip.prod.criteo.com
+extranets.va1.vip.prod.criteo.com
 eyefinity.actonsoftware.com
 f1.mailperf.com
 f1.mailperformance.com
@@ -2747,6 +2749,7 @@ gbc7.sg1.as.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
 gbc8.fr.eu.criteo.com
+gbc8.fr3.eu.criteo.com
 gbc8.jp2.as.criteo.com
 gbc8.nl.eu.criteo.com
 gbc8.nl3.eu.criteo.com
