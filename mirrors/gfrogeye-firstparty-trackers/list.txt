@@ -928,6 +928,7 @@ cas.as.criteo.com
 cas.criteo.com
 cas.da1.vip.prod.criteo.com
 cas.eu.criteo.com
+cas.fr3.vip.prod.criteo.com
 cas.jp2.vip.prod.criteo.com
 cas.nl3.vip.prod.criteo.com
 cas.par.vip.prod.criteo.com
@@ -2728,6 +2729,7 @@ gbc4.sg1.as.criteo.com
 gbc4.va.us.criteo.com
 gbc5.da.us.criteo.com
 gbc5.fr.eu.criteo.com
+gbc5.fr3.eu.criteo.com
 gbc5.jp2.as.criteo.com
 gbc5.nl.eu.criteo.com
 gbc5.nl3.eu.criteo.com
@@ -2742,6 +2744,7 @@ gbc6.sg1.as.criteo.com
 gbc6.va.us.criteo.com
 gbc7.da.us.criteo.com
 gbc7.fr.eu.criteo.com
+gbc7.fr3.eu.criteo.com
 gbc7.jp2.as.criteo.com
 gbc7.nl.eu.criteo.com
 gbc7.nl3.eu.criteo.com
@@ -7160,6 +7163,7 @@ mud4.destinia.com.eg
 mug.am5.vip.prod.criteo.com
 mug.criteo.com
 mug.da1.vip.prod.criteo.com
+mug.fr3.vip.prod.criteo.com
 mug.jp2.vip.prod.criteo.com
 mug.nl3.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
@@ -13466,6 +13470,7 @@ static.am5.vip.prod.criteo.net
 static.criteo.com
 static.criteo.net
 static.da1.vip.prod.criteo.net
+static.fr3.vip.prod.criteo.net
 static.jp2.vip.prod.criteo.net
 static.nl3.vip.prod.criteo.net
 static.par.vip.prod.criteo.net

@@ -2516,6 +2516,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.wavebox.io
 analytics.webgains.io
 analytics.webpushr.com
 analytics.websolute.it
@@ -2927,6 +2928,7 @@ beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beacon2.indieclick.com
+beaconcdn.qq.com
 beacons.mediamelon.com
 beadbears.com
 beafdf.restaupro.com
@@ -3829,6 +3831,7 @@ counter.megaindex.ru
 counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
+counter.powr.io
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
@@ -4251,6 +4254,7 @@ data.skistar1.test.cjmadobe.com
 data.smartinfo.future.smart.com
 data.smartmkt.future.smart.com
 data.socio.realmadrid.net
+data.sportdeutschland.tv
 data.srf.ch
 data.stepstone.be
 data.stepstone.de
@@ -5183,6 +5187,7 @@ enviousthread.com
 eofwfj.ria.com
 eokzre.jd-sports.com.au
 eozwcp.jetex.com
+epimetheus.navigator.web.de
 epm.mailperformance.com
 epro.sogou.com
 eproof.drudgereport.com
@@ -7130,7 +7135,6 @@ marketing.discoversaratoga.org
 marketing.discoverx.com
 marketing.diverseco.com.au
 marketing.dnacenter.com
-marketing.dropbox.com
 marketing.dryvit.com
 marketing.egsifinancial.com
 marketing.electroquip.co.nz
@@ -8863,6 +8867,7 @@ przucu.elkjop.no
 pseptk.kueski.com
 psqsjg.coach.com
 pstat.akathists.com
+pstt.mtb-news.de
 psychedelicchess.com
 pt.crossmediaservices.com
 pt.ispot.tv
@@ -14326,7 +14331,6 @@ us.promo.skf.com
 usedexample.com
 useg.nextdigital.com.hk
 user-metrics.onthemarket.com
-user.userguiding.com
 userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
