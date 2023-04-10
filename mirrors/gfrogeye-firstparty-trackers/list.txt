@@ -790,6 +790,7 @@ bidder.7xbid.com
 bidder.am5.vip.prod.criteo.com
 bidder.criteo.com
 bidder.da1.vip.prod.criteo.com
+bidder.fr3.vip.prod.criteo.com
 bidder.jp2.vip.prod.criteo.com
 bidder.nl3.vip.prod.criteo.com
 bidder.par.vip.prod.criteo.com
