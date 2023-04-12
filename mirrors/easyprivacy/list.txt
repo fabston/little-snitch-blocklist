@@ -5318,7 +5318,6 @@ events.shareably.net
 events.sk.ht
 events.splash-screen.net
 events.split.io
-events.statsigapi.net
 events.tubecup.org
 events.turbosquid.com
 events.ubembed.com
