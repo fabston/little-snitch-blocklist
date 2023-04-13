@@ -1714,6 +1714,7 @@ dw7u.hotelsbarriere.com
 dynamic.am5.vip.prod.criteo.com
 dynamic.criteo.com
 dynamic.da1.vip.prod.criteo.com
+dynamic.fr3.vip.prod.criteo.com
 dynamic.jp2.vip.prod.criteo.com
 dynamic.nl3.vip.prod.criteo.com
 dynamic.par.vip.prod.criteo.com
@@ -2708,6 +2709,7 @@ gbc1.sg1.as.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
 gbc2.fr.eu.criteo.com
+gbc2.fr3.eu.criteo.com
 gbc2.jp2.as.criteo.com
 gbc2.nl.eu.criteo.com
 gbc2.nl3.eu.criteo.com
@@ -2739,6 +2741,7 @@ gbc5.sg1.as.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
 gbc6.fr.eu.criteo.com
+gbc6.fr3.eu.criteo.com
 gbc6.jp2.as.criteo.com
 gbc6.nl.eu.criteo.com
 gbc6.nl3.eu.criteo.com
