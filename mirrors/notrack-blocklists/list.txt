@@ -9,7 +9,6 @@
 10nvejhblhha.com
 116bea31bf.com
 123count.com
-134tr4ck.com
 152media.com
 1push.io
 1r8435gsqldr.com
@@ -596,6 +595,7 @@ analytics.barnebys.sh
 analytics.bigdata.samsung.com
 analytics.binaryfortress.com
 analytics.bmj.com
+analytics.bookstackapp.com
 analytics.brave.com
 analytics.cappasity.com
 analytics.ccgateway.net
@@ -1305,6 +1305,7 @@ clientmetrics.kik.com
 clinch.co
 clixgalore.com
 clixmetrix.com
+clk.asia
 clkads.com
 clkdeals.com
 clkfeed.com
@@ -1435,6 +1436,7 @@ counciladvertising.net
 count-us.rudo.video
 count.wenxuecity.com
 counter.dsp.groupminteraction.ru
+counter.lifesitenews.com
 counter.nv.ua
 counter.pushauction.com
 counter.rambler.ru
@@ -1910,7 +1912,6 @@ falsifylilac.com
 faltercollection.com
 familiarkindlyshuffle.com
 fancybar.net
-fashionablegangsterexplosion.com
 fastly-insights.com
 fatmedia.io
 faultspiano.com
@@ -14094,7 +14095,6 @@ picreel.com
 pictela.net
 pierremarkeraffliction.com
 piksel.com
-pillarvolcano.com
 ping.staticmoly.me
 ping.ublock.org
 pingback.giphy.com
@@ -14199,7 +14199,6 @@ ppchero.com
 ppcnt.pro
 pr-bh.ybp.yahoo.com
 prd.sca.samsung.com
-preachribbonsummoned.com
 preanalytication.com
 prebid.org
 premiumads.com.br
@@ -14578,6 +14577,7 @@ saymedia.com
 sayu.co.uk
 sayutracking.co.uk
 sc-analytics.appspot.com
+sc-static.net
 sc.3xdb.com
 sc.smardroid.com
 scallionfib.com
@@ -15716,7 +15716,6 @@ stackla.com
 staggeredravehospitality.com
 stainclout.com
 stampsmindlessscrap.com
-starkshrewd.com
 startappservice.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
@@ -16092,6 +16091,7 @@ tracking.aegpresents.com
 tracking.atreemo.com
 tracking.bloomberg.com
 tracking.csgipe.com
+tracking.digitalocean.com
 tracking.epicgames.com
 tracking.forbetterforworse.co.uk
 tracking.hawksearch.com
@@ -16578,7 +16578,6 @@ zbuckz.com
 zdbb.net
 zedo.com
 zemanta.com
-zencdn.net
 zeotap.com
 zeusclicks.com
 zingyads.com
