@@ -320,7 +320,6 @@ api.ozui.vn
 api.piads.vn
 api.pushdi.com
 api.qc.coccoc.com
-api.sbz.vn
 api.sdk.zadn.vn
 api.subiz.com.vn
 api.subiz.net
@@ -1649,7 +1648,6 @@ widget.cleverads.vn
 widget.headlines.pw
 widget.kyna.vn
 widget.oncustomer.asia
-widget.sbz.vn
 widget.subiz.com
 widget.subiz.net
 widget.subiz.xyz
