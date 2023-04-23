@@ -1,6 +1,7 @@
 alerts.ndtv.com
 alerts.thedailystar.net
 analytics-consent-manager.azureedge.net
+banner.cookiescan.com
 bbc7dcd54670499dbd3ba50c33600830.pages.ubembed.com
 browser-updater.yandex.net
 bup.bankofamerica.com
@@ -37,6 +38,7 @@ consent.23g.io
 consent.amateurphotographer.co.uk
 consent.berliner-kurier.de
 consent.canalboat.co.uk
+consent.dadoslegais.com
 consent.digiapi.com
 consent.gutefrage.net
 consent.nationalworld.com
