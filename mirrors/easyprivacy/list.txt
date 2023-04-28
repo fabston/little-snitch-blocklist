@@ -4302,7 +4302,6 @@ bronxvanilla.openapp.link
 brothersbucket.com
 browser-intake-datadoghq.com
 browser-updater.yandex.net
-browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 brrecordgo.eccocar.com
 brrentalservicefinland.eccocar.com
@@ -7764,6 +7763,9 @@ godlygeese.com
 gogovapps.actonservice.com
 gomerchant.groupon.com
 gondolagnome.com
+google-analytics-cn.com
+googleoptimize-cn.com
+googletagmanager-cn.com
 gorgeousedge.com
 gotest.onefc.com
 gotie.tunein.com
@@ -13966,6 +13968,7 @@ st.picshuffle.com
 st.preciousamber.com
 st.sawlive.tv
 st1.lg.avendrealouer.fr
+sta.zone-telechargement.day
 stack-sonar.com
 stadig.ifeng.com
 stadiumigt.actonservice.com
@@ -16672,6 +16675,7 @@ track.emeza.com
 track.entegris.com
 track.eurogirlsescort.com
 track.evertondirect.evertonfc.com
+track.exame.com
 track.express.de
 track.ferrari.com
 track.ferraridealers.com
