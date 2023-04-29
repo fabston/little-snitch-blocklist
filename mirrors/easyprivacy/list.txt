@@ -2681,6 +2681,7 @@ analytics.nrg.com
 analytics.oceanengine.com
 analytics.okazii.ro
 analytics.onlyonlinemarketing.com
+analytics.ooyala.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
@@ -3763,7 +3764,6 @@ audsoa.narumiya-online.jp
 auforex.americanexpress.com
 aumarketing.sedgwick.com
 auntants.com
-auriro.net
 aurora-d3.herokuapp.com
 aus.amexforbusiness.com.au
 ausclh.castlery.com
@@ -3976,6 +3976,7 @@ beadbears.com
 beagle.prod.tda.link
 beam.bankrate.com
 beam.mjhlifesciences.com
+beam.telex.hu
 beamincrease.com
 beamvolcano.com
 beastbeef.com
@@ -5613,6 +5614,7 @@ data.gosquared.com
 data.guide.photobucket.com
 data.inbank.it
 data.janvanderstorm.de
+data.kameleoon.io
 data.leipzig.de
 data.main-ding.de
 data.mainpost.de
@@ -8967,6 +8969,7 @@ kqscrl.bonprix.nl
 kqzbph.zerohedge.com
 kraken.rambler.ru
 kristechwire.actonservice.com
+kropka.onet.pl
 krxd.net
 kryptonitenews.allegion.com
 ks.walkq.com
@@ -14094,6 +14097,7 @@ stat.stheadline.com
 stat.super.cz
 stat.tiara.daum.net
 stat.tiara.kakao.com
+stat.tiara.tistory.com
 stat.tildacdn.com
 stat.tomdebruijn.com
 stat.turb.pw
@@ -15404,6 +15408,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tagcommander.laredoute.co.uk
 tagger.ope.scmp.com
+tagger.opecloud.com
 tagm.eduscho.at
 tagm.tchibo.de
 tags.aljazeera.com
