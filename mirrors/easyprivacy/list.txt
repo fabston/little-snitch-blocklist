@@ -2473,6 +2473,7 @@ analytics-api.samsunghealthcn.com
 analytics-beacon.p.uliza.jp
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
+analytics-consent-manager-v2-prod.azureedge.net
 analytics-gw.games.wanmei.com
 analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
@@ -4529,7 +4530,6 @@ ccpa.psg.nexstardigital.net
 cdfhpj.automobile.it
 cdl.booksy.com
 cdl.lvsafe.io
-cdn-alliancegravity.s3.amazonaws.com
 cdn-channels-pixel.ex.co
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
@@ -6844,9 +6844,6 @@ eumeainfo.motorolasolutions.com
 euqsfp.belluna.jp
 eureka-app.eurekaplatform.org
 eurofiber.actonservice.com
-eurogamer-it.eurogamer.it
-eurogamer-pl.eurogamer.pl
-eurogamer-pt.eurogamer.pt
 eurogamer-uk.eurogamer.net
 eurotax-es.autovistagroup.com
 eurotax-pl.autovistagroup.com
@@ -10238,6 +10235,7 @@ massivebasket.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
 mat.lgdisplay.com
+mat.socy.es
 materialexample.com
 materialisticfan.com
 materialisticmark.com
@@ -10709,7 +10707,6 @@ mm-api.agency
 mm.melia.com
 mmi.bemobile.ua
 mms.cnn.com
-mms.wwe.com
 mmwlwm.autoscout24.pl
 mnbyto.goo-net.com
 mnrddc.journeys.com
@@ -11799,6 +11796,7 @@ pv.kuaizhan.com
 pv.ltn.com.tw
 pv.partenaires-verisure.fr
 pv.pjtsu.com
+pv.sohu.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
 pw.gigazine.net
@@ -13823,6 +13821,7 @@ ssmr.so-net.ne.jp
 ssmr.sonynetwork.co.jp
 ssmr2.so-net.ne.jp
 ssp.hinet.net
+ssp.rambler.ru
 ssp.seznam.cz
 ssr.streamrail.net
 ssrlot.lotoquebec.com
@@ -17434,7 +17433,6 @@ twjobq.sixt.com
 twn36gx4109r.loveisblank.com
 twoeej.carrefour.fr
 twsdne.petenkoiratarvike.com
-twus-mms.theweek.com
 txkipz.bellacor.com
 txmmdl.lampy.pl
 txrx.bol.com
@@ -17455,7 +17453,6 @@ u44.pnc.com
 u47.pnc.com
 u652.myplainview.com
 u927.sfgate.com
-u989.theweek.com
 ua.indianexpress.com
 uaemarketing.sedgwick.com
 uarrdg.landsofamerica.com
@@ -17579,7 +17576,6 @@ user-metrics.onthemarket.com
 userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
-usgamer-us.usgamer.net
 usgzei.vidaxl.ch
 usivbt.qoo10.com
 usmetric.rediff.com
@@ -17642,6 +17638,7 @@ vfo4.carrefour-banque.fr
 vfqhvr.hearing-aid-advice.com
 vfzxaz.bloomingdales.ae
 vg247-p2.vg247.com
+vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vge-business.vodafone.com
 vge-mktg.vodafone.com
@@ -17841,6 +17838,7 @@ wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 wchjfv.apartmenttherapy.com
 wco.crownpeak.com
+wcs.naver.com
 wct-2.com
 wdukge.midwayusa.com
 we-love-privacy.humane.club
