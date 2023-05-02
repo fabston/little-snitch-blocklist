@@ -5593,6 +5593,7 @@ data.aik.in
 data.alexa.com
 data.all-in.de
 data.allgaeuer-zeitung.de
+data.allstate.com
 data.avid.com
 data.bilibili.com
 data.blog.swicket.io
@@ -7098,7 +7099,6 @@ feedback.citynationalarena.com
 feedback.ignite.gleague.nba.com
 feedback.vegasgoldenknights.com
 fek1.fnactickets.com
-felix.data.tm-awx.com
 feqvzt.myareadesign.com
 festo.actonservice.com
 feuqzl.woolrich.com
@@ -11979,6 +11979,7 @@ recommenddoor.com
 reconditeprison.com
 reconditerespect.com
 recordbutter.com
+recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
 redditstream.arborapps.io
@@ -14241,7 +14242,6 @@ stats.bookingbuddy.com
 stats.booncon.com
 stats.bordspel.org
 stats.boscabeatha.ie
-stats.bouyguestelecom.fr
 stats.breathly.app
 stats.brennholzauktion.com
 stats.briskoda.net
@@ -16643,6 +16643,7 @@ traccoon.intellectsoft.net
 trace.insead.edu
 trace.qq.com
 tracer.autoscout24.ch
+track-dark-bz.b-cdn.net
 track-e.infineon.com
 track-selectmedia.com
 track-srv.vietnamnet.vn
