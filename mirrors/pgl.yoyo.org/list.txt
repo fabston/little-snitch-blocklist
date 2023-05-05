@@ -1014,6 +1014,7 @@ api.intensifier.de
 api.iterable.com
 api.kameleoon.com
 api.lab.amplitude.com
+api.rudderlabs.com
 api2.amplitude.com
 apolloprogram.io
 app-analytics-v2.snapchat.com
@@ -1719,6 +1720,7 @@ epom.com
 epp.bih.net.ba
 eqads.com
 eqy.link
+erne.co
 ero-advertising.com
 estat.com
 esty.com
@@ -2019,7 +2021,6 @@ hyprmx.com
 hystericalcloth.com
 hystericalhelp.com
 i-i.lt
-i1img.com
 i1media.no
 i305175.net
 ia.iinfo.cz
@@ -3352,7 +3353,6 @@ top100-images.rambler.ru
 top100.mafia.ru
 top123.ro
 top20free.com
-topbucks.com
 topforall.com
 topgamesites.net
 toplist.cz
