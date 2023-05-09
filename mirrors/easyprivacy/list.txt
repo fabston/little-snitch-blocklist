@@ -2740,6 +2740,7 @@ analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
+analytics.similarweb.com
 analytics.simplii.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
@@ -5986,7 +5987,6 @@ download.virtual-shopping.klarna.com
 download.withu.fit
 downloads.coface.com
 downtowndirection.com
-dp.coinbase.com
 dp.mymix.mixtel.com
 dp.shoprunner.com
 dp.tuex.ca
@@ -6891,7 +6891,6 @@ eventlog.inspsearchapi.com
 eventlog.jackpot.de
 events-logs.doctolib.com
 events-prod.autolist.com
-events-service.coinbase.com
 events-tracker.deliveroo.net
 events.air.tv
 events.apester.com
@@ -15853,6 +15852,7 @@ tkppvr.freshfarm.it
 tl.tradetracker.net
 tla.traderlink.com
 tltpyy.saatchiart.com
+tm-eps.neutrino.nu
 tm.swp.de
 tm.tradetracker.net
 tm.uol.com.br
