@@ -7087,6 +7087,7 @@ fcmatch.google.com
 fcmatch.youtube.com
 fcpszk.telestream.net
 fculcz.joann.com
+fd.bawag.at
 fdbs.actonservice.com
 fdedcz.helenkirchhofer.ch
 fdixsh.platypusshoes.com.au
@@ -7847,7 +7848,6 @@ gyradiko.openapp.link
 gyvcwd.cdiscount.com
 gyvyoc.dermoeczanem.com
 gzlxvg.papy.co.jp
-h.imedia.cz
 h00c.sfr.fr
 h353.ncadvertiser.com
 h559.stamfordadvocate.com
@@ -10510,6 +10510,7 @@ metrics.creit.tech
 metrics.ctvdigital.net
 metrics.damart.fr
 metrics.datapipe.com
+metrics.doppiocdn.org
 metrics.drsfostersmith.com
 metrics.earrieta.dev
 metrics.eiu.com
@@ -16848,6 +16849,7 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.novage.com.ua
+tracker.openwebtorrent.com
 tracker.providence.org
 tracker.publico.pt
 tracker.ranker.com
@@ -17618,6 +17620,7 @@ uyhxjy.jdsports.se
 uylodc.ecosa.com.au
 uzd1.madeindesign.com
 uzevnf.realtystore.com
+v.adblockultimate.net
 v.angha.me
 v.cameo.com
 v.oui.sncf
