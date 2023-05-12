@@ -41,6 +41,7 @@ cmp.telerama.fr
 cmp.tori.fi
 cmp.tvspielfilm.de
 cmp.uniconsent.com
+cmp.vg.no
 collector.appconsent.io
 consent-wrapper.jameda.de
 consent.23g.io
@@ -99,6 +100,7 @@ data.reachplc.com
 dhpikd1t89arn.cloudfront.net
 drfdisvc.walmart.com
 ds-recommender.styria.hr
+embeds.beehiiv.com
 event.evtm.53.com
 eventbus.intuit.com
 f775.thehour.com
