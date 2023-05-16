@@ -201,6 +201,7 @@ a.iiro.dev
 a.intercall.com
 a.intercityhotel.com
 a.ipoque.com
+a.itsmore.cn
 a.jaz-hotel.com
 a.jenshenrikthomsen.dk
 a.kryptonitewp.com
@@ -3718,6 +3719,7 @@ ast-en.adp.ca
 ast-fr.adp.ca
 astage.dailynumber.app
 astat.nikkei.com
+astral.nicovideo.jp
 asttcp.vatera.hu
 asumi.shinobi.jp
 aswpsdkus.com
@@ -5556,6 +5558,8 @@ d3l3lkinz3f56t.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
+d3oodlxb1rw3kg.cloudfront.net
+d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
@@ -6754,6 +6758,7 @@ enthusiastgaming.net
 enthusiasticdad.com
 enthusiasticring.com
 entryhit.wp.pl
+envato.market
 enviousshape.com
 enviousthread.com
 eogflx.bodyluv.kr
@@ -7284,6 +7289,7 @@ fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsz1.francoisesaget.com
 ft.groc.press
+ftm.fluencyinc.co
 ftysya.aboutyou.de
 fudezz.bolasport.com
 fudezz.grid.id
@@ -8102,6 +8108,7 @@ ibbmly.moneymetals.com
 ibkups.rci.com
 ibmtechnology.arrow.com
 icebergindigo.com
+iconnode.com
 icu.getstorybox.com
 id5-sync.com
 iddu1vvb7sk8-a.akamaihd.net
@@ -10743,6 +10750,7 @@ mon.us.tiktokv.com
 mond.post.ch
 mond.postauto.ch
 monetsoftware.actonservice.com
+monicaatron.com
 monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
@@ -12176,6 +12184,7 @@ rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
 rtactivate.com
+rtc.multiscreensite.com
 rtg-adroute.focas.jp
 rtxpx-a.akamaihd.net
 ruddycast.com
@@ -15088,6 +15097,7 @@ t.9gag.com
 t.a3cloud.net
 t.ac.pandora.com
 t.adlpo.com
+t.adx.opera.com
 t.afry.com
 t.allmodern.com
 t.antalis.be
@@ -15302,6 +15312,7 @@ tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
 tag.cribnotes.jp
+tag.digops.sincro.io
 tag.elevaate.io
 tag.flagship.io
 tag.goldenbees.fr
@@ -17152,7 +17163,6 @@ travel.onlinevacationcenter.com
 travelmarketreport.actonservice.com
 traxex.gannettdigital.com
 trc.gpcdn.pl
-trc.pushnami.com
 trc.solution.resonac.com
 trck.aeon.co.jp
 trck.atnenga.com
