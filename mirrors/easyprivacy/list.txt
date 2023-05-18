@@ -4328,7 +4328,6 @@ c.vrt.be
 c.wen.ru
 c.werally.com
 c.wort-suche.com
-c.x.oanda.com
 c.xbox.com
 c0012.brsimg.com
 c0i.ckoi.com
@@ -4610,7 +4609,6 @@ click.sinx.com
 click.totallymoney.com
 click.transactional.carousell.com
 click.tv.repubblica.it
-click.udimg.com
 click.uol.com.br
 click.vgnett.no
 click.vocus.com
@@ -4792,7 +4790,6 @@ collector.pi.spectrum.net
 collector.rn.de
 collector.schibsted.io
 collector.sspinc.io
-collector.statowl.com
 collector.wawlabs.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -5652,14 +5649,11 @@ demdex.net
 demo3.management.testandtarget.omniture.com
 dep.hmgroup.com
 des.me.coact.org.au
-desa.fkapi.net
-desb.fkapi.net
 desertedbreath.com
 desertedrat.com
 designsforhealth.actonservice.com
 desirebucket.com
 deskdecision.com
-desr.fkapi.net
 detailedglue.com
 detailedgovernment.com
 detailedkitten.com
@@ -6619,7 +6613,6 @@ engine.traceparts.com
 engineertrick.com
 eniobs.moncler.com
 enlbus.casavo.com
-enlightenment.secureshoppingbasket.com
 enormousearth.com
 ens.luzernerzeitung.ch
 ens.tagblatt.ch
@@ -10138,6 +10131,7 @@ mcc-tags.cisco.com
 mcdmetrics2.aaa.com
 mckbpe.united-arrows.co.jp
 mcs-va.tiktokv.com
+mcs.us.tiktokv.com
 mczpco.darty.com
 mdhv.io
 mdm.hibinobi-mandom.jp
@@ -10572,7 +10566,6 @@ mlweb.dmlab.hu
 mm-api.agency
 mm.melia.com
 mmi.bemobile.ua
-mms.cnn.com
 mmwlwm.autoscout24.pl
 mnbyto.goo-net.com
 mnrddc.journeys.com
@@ -12608,7 +12601,6 @@ serioussuit.com
 serpentshampoo.com
 serv1swork.com
 servcliente.marathon-sports-ec.com
-servedby.o2.co.uk
 server.japanbyrivercruise.com
 server.olliehorn.com
 service.athlon.com
@@ -14000,7 +13992,6 @@ stats.chronoslabs.net
 stats.cinqsecondes.fr
 stats.citizenos.com
 stats.clavisaurea.xyz
-stats.clear-media.com
 stats.cleverdiabetic.com
 stats.clickforknowledge.com
 stats.cloud-backup-for-podio.com
@@ -14375,7 +14366,6 @@ stats.owre.se
 stats.oxygem.com
 stats.ozwebsites.biz
 stats.p42.ai
-stats.pandora.com
 stats.pascalafleur.com
 stats.passwordyeti.com
 stats.paste2.org
@@ -15029,6 +15019,7 @@ t.rainide.com
 t.ramblinwreck.com
 t.raptorsmartadvisor.com
 t.regionsjob.com
+t.rentcafe.com
 t.richmondspiders.com
 t.rituxan.com
 t.rolltide.com
@@ -15576,6 +15567,7 @@ tongji.xinmin.cn
 toothbrushnote.com
 toothpasterabbits.com
 top-fwz1.mail.ru
+top-staging.mail.ru
 top.elec.ru
 top.skyzone.ro
 top.wn.com
@@ -16547,7 +16539,6 @@ tracker.tolvnow.com
 tracker.tubecj.com
 tracker.tv.sohu.com
 tracker.unbxdapi.com
-tracker.uprinting.com
 tracker.upstreamintel.com
 tracker.wigzopush.com
 tracker.winload.de
@@ -16635,6 +16626,7 @@ tracking.corteva.ca
 tracking.cranepi.com
 tracking.csob.cz
 tracking.cspire.com
+tracking.dealeranalytics.com
 tracking.deutscheladies.de
 tracking.devoteladies.de
 tracking.dfinsolutions.com
@@ -17262,7 +17254,6 @@ use.lunos.app
 usedexample.com
 user-metrics.onthemarket.com
 userexperience.thehut.net
-userfly.com
 usersegment.wpdigital.net
 usgzei.vidaxl.ch
 usivbt.qoo10.com
@@ -17373,7 +17364,6 @@ visit.xchina.pics
 visite.scambi.org
 visitor-microservice.ext.p-a.im
 visitors.asadis.net
-visitors.sourcingmap.com
 visitors.winecountrygiftbaskets.com
 visitping.rossel.be
 visits.quitsocialmedia.club
@@ -17634,7 +17624,6 @@ webinars.att.com
 webinars.coface.com
 weblog.eseoul.go.kr
 weblog.flyasiana.com
-weblog.strawberrynet.com
 weblog2.eseoul.go.kr
 webmet.creditreform.de
 webmetrics.zebra.com
