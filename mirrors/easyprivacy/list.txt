@@ -6214,6 +6214,8 @@ ed.emp.fi
 ed.emp.ie
 ed.large.be
 ed.large.nl
+edge-hls.doppiocdn.com
+edge-hls.doppiocdn.org
 edge.staging.fullstory.com
 edm.med.hku.hk
 ednqjm.magnanni.com
@@ -6652,6 +6654,8 @@ epm.mailperformance.com
 epro.sogou.com
 eproof.drudgereport.com
 epwa.europarl.europa.eu
+eq-beacon.stream.co.jp
+eq-player-log.cdnext.stream.ne.jp
 eq.userneeds.com
 eqclicks.movember.com
 eqingl.ivet.bg
