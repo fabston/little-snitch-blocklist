@@ -3906,6 +3906,7 @@ beacon.cdnma.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
+beacon.klm.com
 beacon.qq.com
 beacon.riskified.com
 beacon.s.llnwi.net
@@ -6214,8 +6215,6 @@ ed.emp.fi
 ed.emp.ie
 ed.large.be
 ed.large.nl
-edge-hls.doppiocdn.com
-edge-hls.doppiocdn.org
 edge.staging.fullstory.com
 edm.med.hku.hk
 ednqjm.magnanni.com
