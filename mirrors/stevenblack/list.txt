@@ -459,6 +459,7 @@ assets-jpcust.jwpsrv.com
 assets.alphonso.tv
 assets.bilsyndication.com
 assets.vlitag.com
+assistant-chronopost.com
 ata.ero-advertising.com
 atlas-upd.com
 attr.union.ucweb.com
@@ -2391,6 +2392,7 @@ zekiatagur.com
 zer9g.com
 zeus.ad.xiaomi.com
 zh.yomobi.net
+zhihu-web-analytics.zhihu.com
 zippyfiles.nocoshop.ru
 zippyfiles.topupload.ru
 zipservice.adalliance.io
