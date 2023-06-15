@@ -1314,6 +1314,7 @@ cdn.branch.io
 cdn.freshmarketer.com
 cdn.heapanalytics.com
 cdn.keywee.co
+cdn.mouseflow.com
 cdn.onesignal.com
 cdn.segment.com
 cdnondemand.org
@@ -2414,7 +2415,6 @@ monsterpops.com
 mookie1.com
 mopub.com
 motionspots.com
-mouseflow.com
 mousestats.com
 movad.net
 movemeal.com
@@ -2452,6 +2452,7 @@ mystat.pl
 mysteriousmonth.com
 mytop-in.net
 myvisualiq.net
+n2.mouseflow.com
 n69.com
 naj.sk
 naj22.proasdf.com
@@ -2513,6 +2514,7 @@ ntvk1.ru
 nuseek.com
 nuttyorganization.com
 nzaza.com
+o2.mouseflow.com
 o333o.com
 oafishobservation.com
 oas.benchmark.fr
