@@ -373,7 +373,6 @@ ads.amigos.com
 ads.annabac.com
 ads.apn.co.nz
 ads.appsgeyser.com
-ads.apteka254.ru
 ads.as4x.tmcs.net
 ads.as4x.tmcs.ticketmaster.com
 ads.asiafriendfinder.com
@@ -1469,7 +1468,6 @@ consensu.org
 contadores.miarroba.com
 contaxe.de
 content.acc-hd.de
-content.ad
 content22.online.citi.com
 contextweb.com
 converge-digital.com
@@ -2946,6 +2944,7 @@ sadloaf.com
 sail-horizon.com
 samsungacr.com
 samsungads.com
+sanalytics.disneyplus.com
 sanity-dataplane.rudderstack.com
 savoryorange.com
 saysidewalk.com
