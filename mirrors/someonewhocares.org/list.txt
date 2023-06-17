@@ -1942,7 +1942,6 @@ app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
 app-measurement.com
 app.datafastguru.info
-app.getresponse.com
 app.monetizze.com.br
 app.scanscout.com
 app.yesware.com
