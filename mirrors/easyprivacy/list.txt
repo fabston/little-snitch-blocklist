@@ -2169,9 +2169,7 @@ adbsmetrics.kia.com
 adbsmetrics.koreanair.com
 adbsmetrics.kt.com
 adbsmetrics.lotterentacar.net
-adc.9news.com.au
-adc.api.nine.com.au
-adc.nine.com.au
+adc-js.nine.com.au
 adcontroll.com
 adebis-52667624.wowma.jp
 adebis-dojyo.dojyo.jp
@@ -2300,7 +2298,6 @@ affiliate.k-uno.co.jp
 affiliate.kgcshop.jp
 affiliate.petitwedding.com
 affiliates.minglematch.com
-affiliates.treasureisland.com
 affiliates.vpn.ht
 affvantage.com
 afhjxb.flaconi.de
@@ -2327,7 +2324,6 @@ ahhrtt.pixnet.net
 ahima.coniferhealth.com
 ahjucs.loberon.de
 ai.idg.se
-ai.iol.io
 ai.thermo.com
 ai.thermofisher.com
 aiddut.particleformen.com
@@ -2537,7 +2533,6 @@ analytics.directenergy.com
 analytics.discountpowertx.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
-analytics.ecosia.org
 analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
@@ -4738,7 +4733,6 @@ cnt.iol.it
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nov.ru
-cnt.nuvid.com
 cnt.rambler.ru
 cnt.rate.ru
 cnt.trvdp.com
@@ -4883,6 +4877,7 @@ conditionchange.com
 conditioncrush.com
 conf.optum.com
 conferences.cigna.com
+confiant-integrations.global.ssl.fastly.net
 confiant-integrations.net
 confiant.msn.com
 confirm.aon.com
@@ -6178,6 +6173,7 @@ ec.thredup.com
 ec.walkme.com
 ecefyu.geox.com
 eclick.360doc.com
+eclick.baidu.com
 ecomm.atea.com
 ecomm.events
 ecommhpi.ext.hp.com
@@ -6806,6 +6802,7 @@ events.onet.pl
 events.practo.com
 events.prd.api.max.com
 events.privy.com
+events.qortex.ai
 events.realgravity.com
 events.reclamefolder.nl
 events.reddit.com
@@ -7276,7 +7273,6 @@ gct.americanexpress.com
 gda1.coworkimmo.com
 gdm1.toner.fr
 gefkkw.cyberport.de
-gekko.spiceworks.com
 gemius.mgr.consensu.org
 genesis.malwarebytes.com
 genesishealth.hrm.healthgrades.com
@@ -7303,7 +7299,6 @@ geoip.hmageo.com
 geoip.ifunny.co
 geoip.instiengage.com
 geoip.nekudo.com
-geoip.viamichelin.com
 geolocation.forbes.com
 geolocation.outreach.com
 geoservice.curse.com
@@ -7710,6 +7705,7 @@ gullibleguitar.com
 gundersenhealth.hrm.healthgrades.com
 guq9.vente-unique.it
 gurgle.pcmag.com
+gurgle.spiceworks.com
 gvsivx.multinet.com.tr
 gwtc.sfr.fr
 gx.idg.se
@@ -8473,6 +8469,7 @@ infos.whitepages.com.au
 infos.yellow.com.au
 infos.yellowpages.com.au
 ingest.make.rvapps.io
+ingest.make.rvohealth.com
 ingress.linktr.ee
 inhalt.bild.de
 innerskinresearch.com
@@ -8499,6 +8496,7 @@ insights.bodog.co.uk
 insights.bodoglife.co.uk
 insights.cdt.ch
 insights.compagnon.com
+insights.decathlon.net
 insights.documill.com
 insights.frenchtogether.com
 insights.golubcapital.com
@@ -10418,7 +10416,6 @@ metrics.mzstatic.com
 metrics.n-tv.de
 metrics.nationalgeographic.com
 metrics.nba.com
-metrics.newegg.com
 metrics.nissanusa.com
 metrics.northwesternmutual.com
 metrics.nu.nl
@@ -10426,6 +10423,7 @@ metrics.nycgo.com
 metrics.oanda.com
 metrics.ogilvy.com
 metrics.omniture.com
+metrics.onewegg.com
 metrics.onshape.com
 metrics.optimum.net
 metrics.oreilly.com
@@ -10784,7 +10782,6 @@ nljjem.honeys-onlineshop.com
 nlp-japan.life-and-mind.com
 nltihf.fashiondays.ro
 nm.hrm.healthgrades.com
-nm.newegg.com
 nmetrics.samsungmobile.com
 nmiodk.promiflash.de
 nmo1.orpi.com
@@ -10985,7 +10982,6 @@ opti-digital.com
 optimallimit.com
 optimeeze.appspot.com
 optimisation.co-oplegalservices.co.uk
-optimize-stats.voxmedia.com
 optistats.ovh
 oqgrax.sissy-boy.com
 oqr4.destinia.in
@@ -11215,6 +11211,7 @@ pet-recycling.husky.ca
 pets.channeladvisor.com
 pf.a23.in
 pf.intuit.com
+pf.newegg.com
 pgs.aviationweek.com
 pgt1.voyage-prive.es
 ph-scphotographer.m-shop.me
@@ -11287,6 +11284,7 @@ pixel.facebook.com
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
+pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
 pixel.kknews.cc
@@ -11759,7 +11757,6 @@ r.getcopper.com
 r.guggy.com
 r.kleertjes.com
 r.lafamo.com
-r.my.com
 r.powuta.com
 r.rover.com
 r.sax.sina.com.cn
@@ -12036,6 +12033,7 @@ ruthlessmilk.com
 ruthlessrobin.com
 ruvdkw.turk.net
 rvbqze.albamoda.de
+rvo-cohesion.healthline.com
 rvv.emol.com
 rvz9.destinia.co.ro
 rw.marchex.io
@@ -13357,6 +13355,7 @@ sp.aviasales.ru
 sp.cargurus.co.uk
 sp.data.funkedigital.de
 sp.dpgmedia.net
+sp.ecosia.org
 sp.gameomatic.fr
 sp.jrklein.com
 sp.logicforte.com
@@ -13980,7 +13979,6 @@ stats.cable.tech
 stats.cafepress.com
 stats.callnowbutton.com
 stats.canadapost-postescanada.ca
-stats.cardschat.com
 stats.carecredit.com
 stats.carrot2.org
 stats.carrotsearch.com
@@ -14378,7 +14376,6 @@ stats.ozwebsites.biz
 stats.p42.ai
 stats.pascalafleur.com
 stats.passwordyeti.com
-stats.paste2.org
 stats.pasteapp.io
 stats.pastorwagner.com
 stats.patout.dev
@@ -17374,7 +17371,6 @@ visit.donateblood.com.au
 visit.hypertherm.com
 visit.lifeblood.com.au
 visit.tafensw.edu.au
-visit.theglobeandmail.com
 visit.webhosting.yahoo.com
 visit.xchina.pics
 visite.scambi.org
@@ -17471,7 +17467,6 @@ wa.planet-wissen.de
 wa.postnl.nl
 wa.postoffice.co.uk
 wa.quarks.de
-wa.ui-portal.de
 wa.vodafone.pt
 wa.wdr.de
 wa.wdrmaus.de
@@ -17784,7 +17779,6 @@ wtbevents.pricespider.com
 wtgnmr.golfdigest.co.jp
 wthugv.sportpro.co
 wtjijs.sidestep-shoes.com
-wtk.db.com
 wttd.douglas.at
 wttd.douglas.ch
 wttd.douglas.de
