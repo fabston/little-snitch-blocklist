@@ -876,6 +876,7 @@ log-giaoducthoidai.epicdn.me
 log-giaoducthoidai.zadn.vn
 log-kienthucnet.epicdn.me
 log-kienthucnet.zadn.vn
+log-mekongasean.epicdn.me
 log-nhandan.epicdn.me
 log-nhandan.zadn.vn
 log-plo.zadn.vn
@@ -920,6 +921,7 @@ log.kaka.me
 log.kienthuc.net.vn
 log.kinhdoanhhoinhap.vn
 log.kinhtedouong.vn
+log.mekongasean.vn
 log.mp3.zing.vn
 log.news.zing.vn
 log.ngaynay.vn
@@ -1484,6 +1486,7 @@ tech.zapps.me
 test-places.gammassp.com
 testcentre.vn
 text1.klick.vn
+textlink.vn
 thapi.flygame.io
 thgame.flygame.io
 thongke.24h.com.vn
