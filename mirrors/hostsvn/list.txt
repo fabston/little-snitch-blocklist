@@ -870,6 +870,12 @@ log-baonghean.zadn.vn
 log-baophapluat.zadn.vn
 log-bizlive.zadn.vn
 log-collector.shopee.vn
+log-dttc-sggp.epicdn.me
+log-dttc.sggp.org.vn
+log-en-nhandan.epicdn.me
+log-en-sggp.epicdn.me
+log-en.nhandan.vn
+log-en.sggp.org.vn
 log-giacngo.zadn.vn
 log-giaoduc.epicdn.me
 log-giaoduc.zadn.vn
