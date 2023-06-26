@@ -1284,6 +1284,7 @@ s.zzcdn.me
 s1.zzz.vn
 s2.codon.vn
 s3.adpia.vn
+s6.textlink.vn
 sbbanner-com.cdn.ampproject.org
 sbbanner.com
 scdn.eclick.vn
@@ -1495,7 +1496,6 @@ tech.zapps.me
 test-places.gammassp.com
 testcentre.vn
 text1.klick.vn
-textlink.vn
 thapi.flygame.io
 thgame.flygame.io
 thongke.24h.com.vn
