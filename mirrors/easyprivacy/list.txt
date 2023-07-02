@@ -2509,6 +2509,7 @@ analytics.brave.com
 analytics.brickaward.com
 analytics.carambatv.ru
 analytics.carambo.la
+analytics.carbaselive.com
 analytics.ceneo.pl
 analytics.certifriedit.com
 analytics.chase.com
@@ -4517,6 +4518,7 @@ cdfhpj.automobile.it
 cdl.booksy.com
 cdl.lvsafe.io
 cdn-channels-pixel.ex.co
+cdn-pci.optimizely.com
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
 cdn.experience.globalsources.com
@@ -6865,6 +6867,7 @@ events.apester.com
 events.api.godaddy.com
 events.attentivemobile.com
 events.audiate.me
+events.auth.gid.ru
 events.avaya.com
 events.bgrs.com
 events.brightline.tv
@@ -7890,6 +7893,7 @@ heap.drop.com
 hearinglizards.com
 hearob.klix.ba
 heartbeat.pmd.444.hu
+heartbreakingmind.com
 hearthorn.com
 heavyplayground.com
 heb-metrics.heb.com
@@ -12787,7 +12791,6 @@ seed.bitcoin.wiz.biz
 seed.bitcoinstats.com
 seed.btc.petertodd.org
 seedscissors.com
-seek.intel.com
 seek.uwa.edu.au
 seg.sharethis.com
 segmentor.snowfox-ai.com
