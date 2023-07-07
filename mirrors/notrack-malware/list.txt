@@ -49,7 +49,6 @@ api.logpartition.com
 api.lookupmanager.com
 api.masterprotocols.com
 api.rotatornet.com
-api.standarteng.com
 api.trustedmode.com
 apprefaculty.pro
 appslinker.net

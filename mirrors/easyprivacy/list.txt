@@ -2781,6 +2781,7 @@ analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
+analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
 analytics.skinit.com
@@ -11442,6 +11443,7 @@ optimeeze.appspot.com
 optimisation.co-oplegalservices.co.uk
 optimisation.coop.co.uk
 optimisation.data.lloydsbankinggroup.com
+optimizely.techtarget.com
 optis-world.actonservice.com
 optistats.ovh
 oqidne.itaka.pl
