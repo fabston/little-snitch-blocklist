@@ -2364,7 +2364,6 @@ metrics.gfycat.com
 metrics.govexec.com
 metrics.icloud.com
 metrics.mzstatic.com
-metricswave.com
 metrilo.com
 mfadsrvr.com
 mg2connext.com
@@ -3392,6 +3391,7 @@ tracker.bannerflow.com
 tracker.cdnbye.com
 tracker.comunidadmarriott.com
 tracker.icerocket.com
+tracker.metricswave.com
 tracker.mmdlv.it
 tracker.samplicio.us
 tracker.vgame.us
