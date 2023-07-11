@@ -112,7 +112,6 @@ gdpr-settings.s3.amazonaws.com
 gdpr.internetbrands.com
 gdpr.laxd.com
 gdpr.studybreakmedia.com
-gfp.intuit.com
 gn-flagpoles.api.bbci.co.uk
 h353.ncadvertiser.com
 h559.stamfordadvocate.com
@@ -132,6 +131,7 @@ notify.hindustantimes.com
 o398.trumbulltimes.com
 optanon.blob.core.windows.net
 pf.intuit.com
+pfp.intuit.com
 platform.loyaltylion.com
 plugin.management
 privacy-cdn.sixfifty.com
