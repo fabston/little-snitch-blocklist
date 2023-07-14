@@ -78,7 +78,6 @@ adpostback.headlines.pw
 adrealclick.com
 ads-admin.hubs.vn
 ads-api.playfun.vn
-ads-backend.nhadatmoi.net
 ads-cdn.fptplay.net
 ads-thanhnien-vn.cdn.ampproject.org
 ads.1thegioi.vn
@@ -86,7 +85,6 @@ ads.568play.vn
 ads.6svn.com
 ads.adflex.vn
 ads.admatrix.vn
-ads.alophim.org
 ads.ants.vn
 ads.appota.com
 ads.autonet.com.vn
@@ -137,7 +135,6 @@ ads.ultraviewer.net
 ads.vidoomy.com
 ads.vietbao.vn
 ads.vishare.vn
-ads.vkool.info
 ads.vlr.vn
 ads.vovlive.vn
 ads.vtc.vn
@@ -203,7 +200,6 @@ adv.urekamedia.com
 adv.vnnshop.vn
 adver.24h.com.vn
 advert-admin.vnay.vn
-advertisement-nhatanh.com
 advertisers.adasiaholdings.com
 advertising.gammassp.com
 advserver.cgv.vn
@@ -214,8 +210,6 @@ adx.baolongan.vn
 adx.chinmedia.vn
 adx.dable.io
 adx.edutimes.com.vn
-adx.golfnews.vn
-adx.hoanggia.net
 adx.hoanggia.net.vn
 adx.hongtinnhanh.com
 adx.kul.vn
@@ -459,7 +453,6 @@ cdn.nanda.vn
 cdn.proadscdn.com
 cdn.pushdy.com
 cdn.qc.coccoc.com
-cdn.rongzhouxing.com
 cdn.serving.ad.org.vn
 cdn.starseed.fr
 cdn.surfcountor.com
@@ -715,7 +708,6 @@ gandalf.younetmedia.com
 gcjs.genmonet.com
 genmonet.com
 geo.cityads.com
-ghimc.vn
 git.younetmedia.com
 gl.genmonet.com
 gluco.native-ad.net
@@ -927,7 +919,6 @@ log.hemera.com.vn
 log.infonet.vn
 log.kaka.me
 log.kienthuc.net.vn
-log.kinhdoanhhoinhap.vn
 log.kinhtedouong.vn
 log.mekongasean.vn
 log.mp3.zing.vn
@@ -953,7 +944,6 @@ log.tieudungthoinay.vn
 log.tinnhac.com
 log.tinnhanhchungkhoan.vn
 log.tinxe.vn
-log.toss.vn
 log.trithuctructuyen.com.vn
 log.trithuctructuyen.vn
 log.tv.zing.vn
@@ -1161,7 +1151,6 @@ pixel-dsp.bidgear.com
 pixel.adasiaholdings.com
 pixel.adsparc.net
 pixel.autoads.asia
-pixel.chotot.com
 pixel.coccoc.com
 pixel.vidoomy.com
 platform.atdnetwork.com
@@ -1210,7 +1199,6 @@ pushdi.com
 pushdy.com
 pushdy.vn
 pushtimize.com
-px-cdn.saostar.vn
 px.dmp.zaloapp.com
 px.saostar.vn
 px.za.zalo.me
@@ -1445,7 +1433,6 @@ stats.dongphim.net
 stats.hc.score.dmp.zalo.me
 stats.hstatic.net
 stats.lab.zalo.ai
-stats.muasamcong.gov.vn
 stats.petrotimes.vn
 stats.stg.zaloapp.com
 stats.tamdiem247.com
@@ -1543,7 +1530,6 @@ tracker.anime47.com
 tracker.edupia.vn
 tracker.fado.vn
 tracker.gigaphim.com
-tracker.nhandaovadoisong.vn
 tracker.phunusuckhoe.vn
 tracker.phunuvagiadinh.vn
 tracker.thichxemphim.net
@@ -1695,10 +1681,8 @@ www.adsota.com
 www.adsparc.com
 www.adsparc.net
 www.adsplay.net
-www.adsweb.vn
 www.adt.com.vn
 www.adtima.vn
-www.advertisement-nhatanh.com
 www.ambient-platform.com
 www.ambientdsp.com
 www.anthill.vn
@@ -1706,7 +1690,6 @@ www.ants.vn
 www.atdnetwork.com
 www.autoads.asia
 www.avoadsservices.com
-www.bidgear-syndication.com
 www.bidgear.com
 www.cdp.asia
 www.cheap-ads.net
@@ -1725,11 +1708,9 @@ www.gostats.vn
 www.haraads.com
 www.harafunnel.com
 www.haraloyalty.com
-www.hexapinow.xyz
 www.jeoway.com
 www.ketquaxosotoancau.org
 www.klick.vn
-www.landingpagelagi.vn
 www.lavanetwork.net
 www.mclick.mobi
 www.mediad.asia
