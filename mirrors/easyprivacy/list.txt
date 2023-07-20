@@ -2690,6 +2690,7 @@ analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
 analytics.kongregate.io
+analytics.kooapp.com
 analytics.krieselreihe.com
 analytics.laregione.ch
 analytics.lifestyledemocracy.com
@@ -4409,6 +4410,7 @@ collector.api.video
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
+collector.dmp.cnna.io
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -6658,6 +6660,7 @@ fourfork.com
 fourier.taobao.com
 fourmtagservices.appspot.com
 fp-cdn.azureedge.net
+fp.heavybit.com
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
@@ -10754,6 +10757,7 @@ metrics.yellowbook.com
 metrics1.thankyou.com
 metricsishare.rediff.com
 metricssecure.northwesternmutual.com
+metrika.kontur.ru
 metrix.emagister.com
 metrix.publix.com
 metroaverage.com
@@ -10827,6 +10831,7 @@ mix-omniture.rbs.com
 mixedreading.com
 mixomniture.rbs.com
 mixpanel-proxy.ted.com
+mj-snowplow-static-js.s3.amazonaws.com
 mjca-yijws.global.ssl.fastly.net
 mjnpya.marktplaats.nl
 mjwnxc.julbie.com
@@ -11556,6 +11561,7 @@ p.kolplay.com
 p.logbox.io
 p.marqueplace.com
 p.meilentrio.de
+p.metrilo.com
 p.milliyet.com.tr
 p.neil.gg
 p.nqueue.io
@@ -17468,6 +17474,7 @@ t.lsusports.net
 t.mashable.com
 t.meangreensports.com
 t.menepe.com
+t.metrilo.com
 t.mgoblue.com
 t.miamihurricanes.com
 t.msuspartans.com
@@ -19416,6 +19423,7 @@ tracking.dealeranalytics.com
 tracking.deutscheladies.de
 tracking.devoteladies.de
 tracking.dfinsolutions.com
+tracking.diginetica.net
 tracking.digitalocean.com
 tracking.direxion.com
 tracking.dominanteladies.de
