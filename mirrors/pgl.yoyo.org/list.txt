@@ -347,7 +347,6 @@ ads-twitter.com
 ads.365.mk
 ads.4tube.com
 ads.5ci.lt
-ads.5min.at
 ads.73dpi.com
 ads.a-snag-smartmoney.fyi
 ads.aavv.com
@@ -960,7 +959,6 @@ analytics.algoepico.net
 analytics.bitrix.info
 analytics.cloudron.io
 analytics.cohesionapps.com
-analytics.dashboard.fingerprint.com
 analytics.emarketer.com
 analytics.ext.go-tellm.com
 analytics.google.com
@@ -1461,6 +1459,7 @@ consensu.org
 contadores.miarroba.com
 contaxe.de
 content.acc-hd.de
+content.ad
 content22.online.citi.com
 contextweb.com
 converge-digital.com
@@ -2074,7 +2073,6 @@ instinctiveads.com
 instrumentsponge.com
 intelliads.com
 intelligenceadx.com
-intellitxt.com
 interactive.forthnet.gr
 intercom-clicks.com
 intergi.com
@@ -2305,7 +2303,6 @@ measure.office.com
 measuremap.com
 meatydime.com
 media-adrunner.mycomputer.com
-media-servers.net
 media.funpic.de
 media.net
 media01.eu
@@ -2639,7 +2636,6 @@ phoenix-adrunner.mycomputer.com
 photographpan.com
 physicalbikes.com
 piano.io
-picadmedia.com
 piet2eix3l.com
 pietexture.com
 pimproll.com
@@ -2822,6 +2818,7 @@ reachjunction.com
 reactx.com
 readgoldfish.com
 readingguilt.com
+readingopera.com
 readserver.net
 readymoon.com
 realcastmedia.com
@@ -3092,6 +3089,7 @@ speedshiftmedia.com
 spezialreporte.de
 spidersboats.com
 spiffymachine.com
+spikyslave.com
 spinbox.techtracker.com
 spinbox.versiontracker.com
 spinnaker-js.com
@@ -3553,7 +3551,6 @@ viglink.com
 virtualvincent.com
 visiblemeasures.com
 visistat.com
-visit.webhosting.yahoo.com
 visitbox.de
 visual-pagerank.fr
 visualrevenue.com
