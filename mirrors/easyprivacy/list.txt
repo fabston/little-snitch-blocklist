@@ -2629,7 +2629,6 @@ analytics.deutscher-apotheker-verlag.de
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
-analytics.digitalpfizer.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
 analytics.eggoffer.com
@@ -3309,6 +3308,7 @@ audsoa.narumiya-online.jp
 auforex.americanexpress.com
 auntants.com
 aurora-d3.herokuapp.com
+aurum.tirto.id
 aus.amexforbusiness.com.au
 ausclh.castlery.com
 auspiciousyard.com
@@ -4943,6 +4943,7 @@ d.santemagazine.fr
 d.shareaholic.com
 d.shopprecouriers.com
 d.skk.moe
+d.sondakika.com
 d.sourcepoint.capitalfm.com
 d.tv-asahi.co.jp
 d.uni-medias.com
@@ -17341,6 +17342,7 @@ t-pan.triodos.com
 t-test.esvdigital.com
 t.12thman.com
 t.360.audion.fm
+t.360playvid.info
 t.3hentai.net
 t.91syun.com
 t.9gag.com
@@ -19903,6 +19905,7 @@ trk.thebatteryshow.eu
 trk.thebenchfactory.com
 trk.themspsummit.com
 trk.thomaspumps.com
+trk.tirto.id
 trk.trashcontainers.com
 trk.treetopproducts.com
 trk.tricontinent.com
