@@ -4406,6 +4406,7 @@ collect.usefathom.com
 collections.equifax.com
 collector-api.99designs.com
 collector-px0py5pczn.octopart.com
+collector-soompi.viki.io
 collector-videoplayer.5centscdn.net
 collector.api.video
 collector.automote.co.nz
@@ -11737,6 +11738,7 @@ pear.youzful-by-ca.fr
 pedropanther.com
 pegasus.unifygroup.com
 pegasusplate.com
+peiq.de
 pemskb.unitedcinemas.jp
 penspade.com
 people.mbtionline.com
@@ -19491,6 +19493,7 @@ tracking.hivecloud.net
 tracking.hobbyladies.de
 tracking.hsn.com
 tracking.hyros.com
+tracking.immobilienscout24.de
 tracking.info.jeffersonhealth.org
 tracking.info.methodisthealthsystem.org
 tracking.info.zetes.com
@@ -19949,6 +19952,7 @@ trx-cdn.zip.co
 trx-hub.com
 trx.zip.co
 trx3.famousfix.com
+try-snowplow.com
 try.abtasty.com
 try.ecisecurepay.com
 try.jaranda.kr
