@@ -297,6 +297,7 @@ adservice.google.be
 adservice.google.co.in
 adservice.google.com.vn
 adsflame.com
+adsninjacdn.b-cdn.net
 adspacds.ero-advertising.com
 adspaces.ero-ades.ero-advertising.com
 adspaces.ero-apaces.ero-advertising.com
@@ -409,6 +410,7 @@ api.eqmob.com
 api.fouanalytics.com
 api.fpjs.io
 api.gameads.io
+api.ibeat-analytics.com
 api.moengage.com
 api.pubnative.net
 api.purpleads.io
@@ -590,6 +592,7 @@ cdn-jp.gsecondscreen.com
 cdn-settings.segment.com
 cdn.ad.xiaomi.com
 cdn.admitad-connect.com
+cdn.adsninja.ca
 cdn.adviad.com
 cdn.auditude.com
 cdn.barscreative1.com
@@ -1221,6 +1224,7 @@ ma1310-r.analytics.edgekey.net
 ma312-r.analytics.edgesuite.net
 mackeeperapp.zeobit.com
 macro.adnami.io
+mads.amazon.com
 magejavascripts.com
 magento01.datatrics.com
 magescripts.pw
@@ -1296,6 +1300,7 @@ montrealgazette.stats.com
 movbmog.ga
 movieads.ero-advertising.com
 mrvineforum.pk
+ms4.applvn.com
 msdtcupdate.com
 msmetrics.ws.sonos.com
 mt.rtmark.net
@@ -1363,6 +1368,7 @@ nl2.ero-advertising.com
 nlocalhost.wordtheminer.com
 nners.ero-advertising.com
 node.gameads.io
+nom.telemetrydeck.com
 norulless.com
 novmintservices.com
 ns.zdbb.net
