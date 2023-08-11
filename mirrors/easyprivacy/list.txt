@@ -3548,6 +3548,7 @@ bi.irisdating.com
 bi.medscape.com
 biberukalap.com
 bidder.mediams.mb.softbank.jp
+bidgx.com
 bidswitch.net
 biergartenapp.customsites.de
 bierlanz-test.till-koppers.de
@@ -4972,6 +4973,7 @@ d1r55yzuc1b1bw.cloudfront.net
 d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
+d1tbj6eaenapdy.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
@@ -6251,6 +6253,7 @@ err.ifengcloud.ifeng.com
 erraticreaction.com
 error-collector.ted.com
 error.videonow.ru
+errorreports.couponcabin.com
 errors.snackly.co
 ert5.rmcsport.tv
 es-es.siemensplmevents.com
@@ -9379,6 +9382,7 @@ logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
 logstash-3.radio-canada.ca
+logtail.com
 logtake.weidian.com
 logx.optimizely.com
 lokalwerben.t-online.de
@@ -14189,6 +14193,7 @@ smetrics.costcobusinesscentre.ca
 smetrics.costcobusinessdelivery.com
 smetrics.coulditbehcm.com
 smetrics.countryfinancialsecurityblog.com
+smetrics.couponcabin.com
 smetrics.covance.com
 smetrics.cpaaustralia.com.au
 smetrics.cpsenergy.com
