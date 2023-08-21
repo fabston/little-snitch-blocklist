@@ -1677,6 +1677,7 @@ email-link.adtidy.org
 email-links.crowdfireapp.com
 email-open.adtidy.net
 email-open.adtidy.org
+email.mg1.substack.com
 emaillinks.soundiiz.com
 emebo.io
 emerse.com
@@ -3279,6 +3280,7 @@ teethfan.com
 telaria.com
 telemetrics.klaviyo.com
 telemetry.dropbox.com
+telemetry.malwarebytes.com
 telemetry.v.dropbox.com
 temelio.com
 tend.io
