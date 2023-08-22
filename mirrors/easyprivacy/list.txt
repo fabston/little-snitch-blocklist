@@ -3301,6 +3301,7 @@ audio-ak-spotify-com.akamaized.net.iberostar.com
 audioarctic.com
 audit.303br.net
 audit.median.hu
+audit.qiuwen.net.cn
 audit.shaa.it
 audsoa.narumiya-online.jp
 auforex.americanexpress.com
@@ -12257,7 +12258,6 @@ ptw-i.actonservice.com
 pu.pretunique.fr
 pub.servidoresge.com
 pub.sheknows.com
-pubgw.yahoo.com
 publicidad.daviviendaintl.com
 publicschoolworks.actonservice.com
 publish.tagstorm.com
