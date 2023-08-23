@@ -1008,6 +1008,7 @@ api2.amplitude.com
 apolloprogram.io
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
+app-measurement.com
 app.pendo.io
 appboycdn.com
 appsflyer.com
@@ -1158,6 +1159,8 @@ bbelements.com
 bbn.img.com.ua
 beachfront.com
 beacon.gu-web.net
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beamincrease.com
 bebi.com
 beemray.com
