@@ -109,6 +109,7 @@ eventbus.intuit.com
 f775.thehour.com
 fc.vodafone.de
 fuse.forbes.com
+gdpr-api.sharethis.com
 gdpr-settings.s3.amazonaws.com
 gdpr.internetbrands.com
 gdpr.laxd.com
