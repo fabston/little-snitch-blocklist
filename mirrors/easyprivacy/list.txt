@@ -4403,11 +4403,13 @@ collect.ezidox.com
 collect.hollisterco.com
 collect.iteam-dress.com
 collect.meilleurtaux.com
+collect.reagroupdata.com.au
 collect.rebelmouse.io
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.thunder-io.com
 collect.usefathom.com
+collections-api.realestate.com.au
 collections.equifax.com
 collector-api.99designs.com
 collector-px0py5pczn.octopart.com
@@ -4721,6 +4723,7 @@ counter.wikiwiki.jp
 counter.yadro.ru
 counter2.blog.livedoor.com
 counters.freewebs.com
+countervov.emitech.vn
 courageousbaby.com
 coverapparatus.com
 cowscrayon.com
@@ -5252,6 +5255,7 @@ dcs.esprit.tw
 dcs.plussizetech.com
 dcspil.hifiklubben.nl
 dd.auspost.com.au
+dd.leboncoin.fr
 dd.nytimes.com
 dd6zx4ibq538k.cloudfront.net
 ddlbr.timesclub.co
@@ -8684,6 +8688,7 @@ lettucecopper.com
 lettucelimit.com
 level.badlandgame.com
 levelbehavior.com
+lexa.realestate.com.au
 leynqj.newport.se
 lfmhcb.sefamerve.com
 lgzkzp.bauhaus.at
@@ -10988,6 +10993,7 @@ mrpdata.net
 ms-trackingapi.phenompeople.com
 ms.topschooljobs.org
 ms1.morganstanley.com
+msadsscale.azureedge.net
 mseeru.faz.net
 msg.71.am
 msg.qy.net
@@ -20643,6 +20649,7 @@ webtracking.oncourselearning.com
 webtrackingvet.rossu.edu
 webtraffic.mastercontrol.com
 webts.adac.de
+webvitals.luxnet.ua
 wejpuy.factor75.com
 welcome.item24.be
 welcome.item24.cz
