@@ -5580,6 +5580,7 @@ domino.flycl.ps
 donjigrad.viessmann.rs
 donkeyleaf.com
 doorbrazil.com
+doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 doublestat.info
@@ -6414,6 +6415,7 @@ events.newsroom.bi
 events.nuance.com
 events.ocdn.eu
 events.onet.pl
+events.paramount.tech
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -12605,6 +12607,7 @@ reporting.cdndex.io
 reporting.singlefeed.com
 reports-api.sqreen.io
 reports-tsi.tangerine.io
+reports.hibu.com
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
 reports.tunein.com
@@ -19449,6 +19452,7 @@ tracking.cerdmann.com
 tracking.changehealthcare.com
 tracking.chem-agilent.com
 tracking.chilipiper.com
+tracking.christianpost.com
 tracking.coldspringusa.com
 tracking.compactappliance.com
 tracking.connect.nicklaushealth.org
