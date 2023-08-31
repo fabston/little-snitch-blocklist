@@ -2556,6 +2556,7 @@ analytics-scripts.cablelabs.com
 analytics-sg.tiktok.com
 analytics-ssl.allconnect.com
 analytics-ssl.bradyid.com
+analytics-stamp.confi.com.vc
 analytics-tracking.meetup.com
 analytics-zone-1.api.leadfamly.com
 analytics.126.net
@@ -2782,6 +2783,7 @@ analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
+analytics.shorte.st
 analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
@@ -5551,6 +5553,7 @@ dm-target.fishersci.com
 dm-target.thermofisher.com
 dmkt.solutions.cas.org
 dmpcdn.el-mundo.net
+dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmtgo.upc.biz
 dmvbpz.swimoutlet.com
@@ -6596,6 +6599,7 @@ filament-stats.herokuapp.com
 filmoljupci.com
 fimyxg.haberturk.com
 finalizeforce.com
+financefear.com
 findthetruth.allergyai.com
 fingerprinter-production.herokuapp.com
 fire.solutions.jci.com
