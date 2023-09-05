@@ -6892,7 +6892,6 @@ gentian-frd.hjapi.com
 geo.brobible.com
 geo.emol.cl
 geo.ertya.com
-geo.gfycat.com
 geo.gorillanation.com
 geo.mezr.com
 geo.mtvnn.com
@@ -16350,6 +16349,7 @@ statistics.jfmedier.dk
 statistics.klicktel.de
 statistics.rbi-nl.com
 statistics.riskommunal.net
+statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.wibiya.com
@@ -20723,9 +20723,13 @@ wknd.ai
 wkympu.agnesb.co.jp
 wl-analytics.tsp.li
 wl-pixel.index.digital
+wlct-one.de
+wlct-two.de
 wlkojk.orange.ro
 wlp3.aegon.es
 wlptux.habitaclia.com
+wlt-alice.de
+wlt-jupiter.de
 wlwtcr.toptoon.com
 wmgroup.us
 wmizdm.relax-job.com
