@@ -237,6 +237,7 @@ a.munters.jp
 a.nelo.mx
 a.o2u.jp
 a.oney.es
+a.opumo.net
 a.parfumsclub.de
 a.perfumesclub.co.uk
 a.perfumesclub.com
@@ -2916,6 +2917,7 @@ ape-tagit.timeinc.net
 apeagle.io
 apenterprise.io
 api-analytics-prd.pelcro.com
+api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 api.autopilothq.com
 api.bunzlaucastle.com
@@ -7697,6 +7699,7 @@ icu.getstorybox.com
 id5-sync.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
+identification.hotmart.com
 idg1.idgarages.com
 idianw.warmteservice.nl
 idndlc.kango-oshigoto.jp
@@ -9363,6 +9366,7 @@ lnk.welthee.com
 lnk2.patpat.com
 lntvby.banggood.com
 loader.zeroform.com
+log-ads.r7.com
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log.adplex.co.kr
@@ -19469,6 +19473,7 @@ tracker.wpserveur.net
 tracker.xgen.dev
 trackerapi.truste.com
 tracking-api-4lasu2nlcq-ew.a.run.app
+tracking-api.hotmart.com
 tracking-explore.agilent.com
 tracking-live.kr3m.com
 tracking-secure.csob.cz

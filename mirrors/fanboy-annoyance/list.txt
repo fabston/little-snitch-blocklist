@@ -139,6 +139,7 @@ platform.loyaltylion.com
 plugin.management
 privacy-cdn.sixfifty.com
 privacy.claytonhomes.com
+privacy.digimedia.com
 privacy.footmercato.net
 privacy.schibsted.com
 privacypolicy.trgr.be
