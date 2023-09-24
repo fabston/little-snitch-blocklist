@@ -112,6 +112,7 @@ fc.vodafone.de
 fuse.forbes.com
 gdpr-api.sharethis.com
 gdpr-settings.s3.amazonaws.com
+gdpr.api.bcdn.jp
 gdpr.internetbrands.com
 gdpr.laxd.com
 gdpr.studybreakmedia.com
