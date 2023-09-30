@@ -2548,6 +2548,7 @@ analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
 analytics-api.samsunghealthcn.com
+analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
@@ -7034,7 +7035,6 @@ get.sakay.ph
 get.schoolbuddy.app
 get.seedly.sg
 get.sidekick.health
-get.smart-guide.org
 get.snapask.com
 get.somontreal.ca
 get.speaky.com
@@ -20216,6 +20216,7 @@ uhm26jyr11zv.www.freecodecamp.org
 uhn9.up-france.fr
 ui.service.belboon.com
 uid.mediacorp.sg
+uidapi.com
 uinpmz.iichi.com
 uiwock.epantofi.ro
 ujq1.destinia.is

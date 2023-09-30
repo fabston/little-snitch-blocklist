@@ -713,7 +713,6 @@ analytics.tripwireinteractive.com
 analytics.trovit.com
 analytics.twitter.com
 analytics.typedream.com
-analytics.unibuddy.co
 analytics.us.algolia.com
 analytics.usecorner.io
 analytics.valiuz.com
@@ -1203,7 +1202,6 @@ celeryisolatedproject.com
 celtra.com
 center.io
 centertrack.com
-central-core-7.com
 centurybending.com
 certifiedstarveeminent.com
 certona.net
@@ -1274,7 +1272,6 @@ clickmeter.com
 clicks.hurriyet.com.tr
 clickshift.com
 clicktale.net
-clickterra.net
 clicktracks.com
 clicktripz.com
 client-analytics.braintreegateway.com
@@ -1729,7 +1726,6 @@ ekomi-us.com
 ekomi.com
 ekomi.de
 ekomi.fr
-ela-3-tnk.com
 elabs10.com
 elabs11.com
 elabs12.com
@@ -1987,7 +1983,6 @@ freespee.com
 freestar.io
 freewayadventureexactly.com
 freewheel.tv
-freezeanything.com
 frequencyfeelhoneymoon.com
 freshpops.net
 friendbuy.com
@@ -14552,7 +14547,6 @@ revenuenetworkcpm.com
 revive.agenda.ge
 revive.thebusinessjournal.com
 revive.workmedia.pt
-revivechill.com
 revjet.com
 revolvermaps.com
 revotas.com
