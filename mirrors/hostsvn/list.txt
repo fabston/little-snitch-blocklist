@@ -963,6 +963,7 @@ log.vov.vn
 log.vovplus.vn
 log.vovworld.vn
 log.xoso.com.vn
+log.zalo.video
 log.zamba.vn
 log.zingmp3.vn
 log.zingnews.com.vn
@@ -1017,6 +1018,8 @@ matomo.hicity.vn
 matomo.quan.hoabinh.vn
 matomo.shac.vn
 matomo.vepg.vn
+matomo.vietlottsms.vn
+mautic-learn.teky.edu.vn
 mautic.200lab.io
 mautic.akhoe.vn
 mautic.casso.vn
@@ -1575,6 +1578,7 @@ tracking.yomedia.vn
 tracking2.vnncdn.net
 tracking3.vnncdn.net
 trackingapi.foody.vn
+trackingsea.zingplay.com
 trackingvn.zingplay.com
 trackity.tiki.vn
 traffic.vietnhan.co
@@ -1651,6 +1655,7 @@ webbot.oncustomer.asia
 webchat.caresoft.vn
 webpush.bizfly.vn
 webpush.todo.vn
+webpush.vn
 webstag.kplus.vn
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 wg.zaloapp.com
