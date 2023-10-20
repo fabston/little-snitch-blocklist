@@ -15053,7 +15053,6 @@ smetrics.citibank.com.hk
 smetrics.citibank.com.my
 smetrics.citibank.com.ph
 smetrics.citibank.com.sg
-smetrics.citibank.com.tw
 smetrics.citibank.com.vn
 smetrics.citibank.pl
 smetrics.citizensbank.com
