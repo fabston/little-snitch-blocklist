@@ -4133,6 +4133,7 @@ cdn1.skrill.com
 cdn7.baunetz.de
 cdnhst.xyz
 cdnral.com
+cdp.yna.co.kr
 cdrive.compellent.com
 cdtm.cdiscount.com
 ceciliavenus.com
@@ -10394,6 +10395,7 @@ mcdmetrics2.aaa.com
 mchtna.fashionplus.co.kr
 mcs-va.tiktokv.com
 mcs.us.tiktokv.com
+mcs.zijieapi.com
 mczpco.darty.com
 mdhv.io
 mdm.hibinobi-mandom.jp
@@ -11046,6 +11048,7 @@ momotaro.walkkumano.com
 mon.domdog.io
 mon.ingservices.nl
 mon.us.tiktokv.com
+mon.zijieapi.com
 mond.post.ch
 mond.postauto.ch
 money.clerkie.io
@@ -11890,6 +11893,7 @@ permission.au.actonservice.com
 permutive.app
 perpetualpail.com
 perr.h-cdn.com
+perr.hola.org
 perso.aws.arc.pub
 personal.sonicwall.com
 persuadesock.com
@@ -12439,6 +12443,7 @@ pvx.xcar.com.cn
 pw.gigazine.net
 px-intl.ucweb.com
 px.derstandard.at
+px.dmp.zaloapp.com
 px.effirst.com
 px.marchex.io
 px.mountain.com
@@ -12725,6 +12730,7 @@ renting.aldautomotive.es
 repeatsweater.com
 replaceroute.com
 reply.osv.com
+report.botm.transparentedge.io
 report.meituan.com
 report.novinky.cz
 reporting-api.gannettinnovation.com
@@ -12876,6 +12882,7 @@ rnffgv.wemakeprice.com
 rnnstu.rentbeforeowning.com
 rnybul.gismeteo.kz
 rnybul.gismeteo.lv
+ro.aiwan4399.com
 robotflowermobile.com
 robustbelieve.com
 rochelle.wantsext.me
@@ -12910,6 +12917,7 @@ rslgzz.lance.com.br
 rstat.rockmostbet.com
 rsx.afterpay.com
 rt.bunte.de
+rt.cdnmedia.tv
 rt.flix360.com
 rt.newswire.ca
 rt.prnewswire.com
@@ -13157,6 +13165,7 @@ sales.virtualpbx.com
 saleslists.inform.equifax.com
 salsify-ecdn.com
 salto.freeto.jp
+saluton.cizion.com
 salzwerk.viessmann.de
 samc.buero-zueri.ch
 samc.frankly.ch
@@ -16322,6 +16331,7 @@ sswmetrics.ethiopianairlines.com
 sswmetrics.firstair.ca
 sswmetrics.omanair.com
 ssy7.destinia.com.ua
+st-a.cdp.asia
 st-a8.tscubic.com
 st-nlyss1.plala.or.jp
 st.anastasija.lt
@@ -18125,6 +18135,7 @@ tiredthroat.com
 tiresomethunder.com
 titomacia.net.anwalt.de
 tittendestages.net.anwalt.de
+tj.img4399.com
 tjyrup.templeandwebster.com.au
 tk.abt.com
 tk.agrizone.net
@@ -20818,6 +20829,7 @@ website-usage.knorr-bremse.com
 webstat.channel4.com
 webstat.garanti.com.tr
 webstat.kuwo.cn
+webstat.qiumibao.com
 webstats.americanbar.org
 webstats.channel4.com
 webstats.garanti.com.tr
@@ -21500,6 +21512,7 @@ z492.ctinsider.com
 z680.beaumontenterprise.com
 z737.thestar.com
 za.qeeq.com
+za.zalo.me
 za.zdn.vn
 zagrabiti.viessmann.hr
 zahlen.olereissmann.de
