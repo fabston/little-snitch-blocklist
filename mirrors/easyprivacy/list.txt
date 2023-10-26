@@ -2193,6 +2193,7 @@ act.soneticscorp.com
 act.wynk.in
 actie.milieudefensie.nl
 activation.depop.com
+activity-flow.vtex.com
 activity.fiverr.com
 activity.wisepops.com
 acton.brightspeed.com
@@ -6447,6 +6448,7 @@ eventapi.libring.com
 eventbus.intuit.com
 eventexistence.com
 eventgateway.soundcloud.com
+eventlog.chatlead.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.cihac.com
@@ -6508,6 +6510,7 @@ events.splash-screen.net
 events.split.io
 events.splunk.com
 events.squarespace.com
+events.storifyme.com
 events.tafensw.edu.au
 events.tubecup.org
 events.turbosquid.com
@@ -6657,6 +6660,7 @@ feedback.nslsc-csnpe.ca
 feedme.use-beez.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+femetrics.grammarly.io
 fetch.gethuan.com
 fewjuice.com
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
@@ -7142,7 +7146,6 @@ glossysense.com
 glxdlf.tickets.ua
 gmxcdm.vestel.com.tr
 gn.informaengage.com
-gnar.grammarly.com
 gnh2.destinia.lv
 gnreyt.toom.de
 go-mpulse.net
@@ -7542,6 +7545,7 @@ hd.pe.fr
 hdicsm.autoscout24.be
 hdmtools.com
 hdxdhu.zumnorde.de
+headydegree.com
 headyhook.com
 healflowers.com
 health-metrics-api.setapp.com
@@ -17993,6 +17997,7 @@ telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telemetry.vtex.com
 telephoneapparatus.com
 telsmith.actonservice.com
 tempertrick.com
