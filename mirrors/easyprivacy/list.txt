@@ -2801,6 +2801,7 @@ analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
 analytics.skinit.com
+analytics.skroutz.gr
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -4441,6 +4442,7 @@ collect.alipay.com
 collect.alphastream.io
 collect.asics.com
 collect.banggood.com
+collect.bannercrowd.net
 collect.chaordicsystems.com
 collect.cloudsponge.com
 collect.ezidox.com
@@ -7597,6 +7599,7 @@ hit.skrz.cz
 hits.antena3.com
 hits.cyberdrop.me
 hits.dealer.com
+hits.getelevar.com
 hits.informer.com
 hits.letras.mus.br
 hits.porn.fr
@@ -10376,6 +10379,7 @@ matheranalytics.com
 matrix.elecle.bike
 matsubun.matsubun.com
 matt.mercadolivre.com.br
+maxepv.com
 maxtrafixx.tech
 maz.zba.jp
 mb-tracking.com
@@ -11060,6 +11064,7 @@ mond.post.ch
 mond.postauto.ch
 money.clerkie.io
 monicaatron.com
+monitor-api.blackcrow.ai
 monitor-frontend-collector.a.bybit-aws.com
 monitor.azure.com
 monitor.channel4.com
@@ -19502,6 +19507,7 @@ track.uc.cn
 track.ultimate-guitar.com
 track.unidata.ai
 track.untd.com
+track.uppromote.com
 track.veedio.it
 track.venatusmedia.com
 track.vscash.com
@@ -19584,6 +19590,7 @@ tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking-explore.agilent.com
 tracking-live.kr3m.com
+tracking-na.hawksearch.com
 tracking-secure.csob.cz
 tracking-test.esearchvision.com
 tracking-uat.veritas.com
@@ -21458,6 +21465,7 @@ xgatpk.latosttravellink.se
 xjq5.belambra.be
 xlvvy4msxr.coolinastore.com
 xovq5nemr.com
+xp2023-pix.s3.amazonaws.com
 xray.mail.ru
 xseedwealth.actonservice.com
 xuc.monteleone.fr
