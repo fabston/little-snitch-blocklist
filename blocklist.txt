@@ -1,6 +1,6 @@
 {
     "name": "Fabston's Malicious Blocklist",
-    "description": "==================================\n                  Malicious URL Blocklist\n---------------------------------------------\nEntries:         121,597\nUpdated:      Oct 30, 2023, 07:36 AM (UTC)\nSize:             3.5M\nMaintainer:   fabston\nExpires:        1 day (update frequency)\nLicense:       GPL-3.0\n==================================",
+    "description": "==================================\n                  Malicious URL Blocklist\n---------------------------------------------\nEntries:         121,597\nUpdated:      Oct 30, 2023, 07:38 AM (UTC)\nSize:             3.5M\nMaintainer:   fabston\nExpires:        1 day (update frequency)\nLicense:       GPL-3.0\n==================================",
     "denied-remote-domains": [
         "0-000.store",
         "0.0.0.0.creative.hpyrdr.com",
