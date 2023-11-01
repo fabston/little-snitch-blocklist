@@ -1007,6 +1007,7 @@ app-analytics.snapchat.com
 app-measurement.com
 app.pendo.io
 appboycdn.com
+appmetrica.yandex.ru
 appsflyer.com
 aps.hearstnp.com
 apsalar.com
@@ -1193,7 +1194,6 @@ bkrtx.com
 blingbucks.com
 blis.com
 blockadblock.com
-blockthrough.com
 blogads.com
 blogcounter.de
 blogherads.com
