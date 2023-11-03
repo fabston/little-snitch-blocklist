@@ -1159,6 +1159,8 @@ live-cams-2.livejasmin.com
 live-cams-3.livejasmin.com
 live-cams-4.livejasmin.com
 live-cams-5.livejasmin.com
+live-manifests-aka.warnermediacdn.com
+live-manifests-lln.warnermediacdn.com
 live.rezync.com
 livechatinc.org
 livejasmin-hack.com
@@ -1200,6 +1202,7 @@ login.yahoo.com.id451295.com
 login.yahoo.com.id6589.com
 loginwebmailnic.dynssl.com
 logitechlogitechglobal.112.2o7.net
+logs.browser-intake-datadoghq.com
 logs.gaana.com
 logs.hotstar.com
 logs1407.xiti.com
@@ -1552,6 +1555,7 @@ ruhrboudoir.de
 rukalebi.ru
 rules.quantcount.com
 rumadel.com
+run.cntxtfl.com
 runative-syndicate.com
 runionv62ul3roit.onion.pet
 rutorc6mqdinc4cz.onion.pet
