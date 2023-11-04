@@ -474,6 +474,7 @@ autodiscover.livejasmin.com
 aws-update.net
 b.zabbixx.com
 b174.s240.meetrics.net
+b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
 b69kq.com
 b95.s79.research.de.com
 backend-ssp.adstudio.cloud
@@ -673,6 +674,7 @@ convlatbmp.taboola.com
 coronabreath.com
 corp-github.com
 cosiloon.com
+cpm.didna.io
 cradver.livejasmin.com
 crawler.speakol.com
 crcom.livejasmin.com
@@ -973,6 +975,7 @@ hata.ero-advertising.com
 haus-pesjak.at
 hb-analytics.hotstar.com
 hb.brainlyads.com
+hb.minutemedia-prebid.com
 hbbtv.mediaset.net
 hdnewporn.com
 heixbai.com
@@ -1409,6 +1412,8 @@ orion.iad.appboy.com
 orzk.net
 osb-ussvc.samsungqbe.com
 osheoufhusheoghuesd.ru
+ox-rtb-us-east1.openx.net
+ox-rtb-us-east4.openx.net
 p.s.360.cn
 p.vtracy.de
 packsdechicas.online
@@ -1423,6 +1428,7 @@ paypaypay.org
 pbndswdswyhdjfn.com
 pbnkcnjfnikjserv.org
 pbnncdnkcnncjikj.org
+pbs.nextmillmedia.com
 pdupdate.organiccrap.com
 pdw-usr.userreport.com
 peacelist.ignorelist.com
@@ -1525,6 +1531,7 @@ remove-ads.xyz
 renovatesystem.com
 report.adviad.com
 report.hb.brainlyads.com
+report2.hb.brainlyads.com
 reporting-api.gannettinnovation.com
 req.startappservice.com
 rereddit.com
@@ -1682,8 +1689,10 @@ ssl.googleanalytics.com
 ssl.newsofnp.com
 ssl.widgets.webengage.com
 sso-github.com
+ssp-sync.criteo.com
 ssp.adviad.com
 sstats.adobe.com
+st.pubmatic.com
 stage.tvpage.com
 stagolk.com
 stat-c.maxthon.com

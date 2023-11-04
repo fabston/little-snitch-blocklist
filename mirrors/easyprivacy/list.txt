@@ -2420,6 +2420,7 @@ agentcomm.mercuryinsurance.com
 agexpo.americanexpress.com
 aggelakia.openapp.link
 agkn.com
+agma-analytics.de
 agnes.waz.de
 agreeablestew.com
 agreeabletouch.com
@@ -4304,6 +4305,7 @@ clicks.tyuwq.com
 clicks.variis.com
 clicks2.hqo.co
 clickserver.libero.it
+clicktalecdn.sslcs.cdngc.net
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
@@ -16983,6 +16985,7 @@ stats.navedislam.com
 stats.nddmed.com
 stats.nebula.fi
 stats.netbopdev.co.uk
+stats.netdriven.com
 stats.newsweek.com
 stats.nexagon.dk
 stats.nhk.or.jp
@@ -20523,6 +20526,7 @@ view.nucorbuildingsystems.com
 viewer.pandasuite.io
 views.arabnews.com
 views.asura.gg
+views.asurascans.com
 views.b1tv.ro
 views.cancan.ro
 views.romaniatv.net
