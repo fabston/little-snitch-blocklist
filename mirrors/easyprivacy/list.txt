@@ -4460,6 +4460,7 @@ collect.thunder-io.com
 collect.usefathom.com
 collections.equifax.com
 collector-api.99designs.com
+collector-api.frspecifics.com
 collector-px0py5pczn.octopart.com
 collector-soompi.viki.io
 collector-videoplayer.5centscdn.net
