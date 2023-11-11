@@ -11,6 +11,7 @@ cc.anytrack.de
 cc.diewebsitemacherei.de
 cc.labu24.de
 cc.mpa-web.de
+ccm.npo.nl
 ccm1.dlr.de
 ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
@@ -129,6 +130,7 @@ integrate.thrive.today
 j198.registercitizen.com
 jobs.mobilemarketingreads.com
 l936.expressnews.com
+macaron-cookie-data.decms.eu
 mailmunch.s3.amazonaws.com
 mdsngpush.finanzen.net
 mms.cmpsky.com
