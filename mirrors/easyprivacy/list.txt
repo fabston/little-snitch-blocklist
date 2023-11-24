@@ -4758,6 +4758,7 @@ counter.bloke.com
 counter.cam-content.com
 counter.cnw.cz
 counter.cropvid.com
+counter.darkreader.app
 counter.drom.ru
 counter.hackers.lv
 counter.hyipexplorer.com
@@ -5673,6 +5674,7 @@ donkeyleaf.com
 doorbrazil.com
 doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
+doppler-client-events.cbsivideo.com
 doppler-reporting.cbsivideo.com
 doublestat.info
 doubtdrawer.com
