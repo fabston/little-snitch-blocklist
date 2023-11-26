@@ -1001,6 +1001,7 @@ app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
 app-measurement.com
 app.pendo.io
+app2.salesmanago.pl
 appboycdn.com
 appmetrica.yandex.ru
 appsflyer.com
@@ -3228,6 +3229,7 @@ t.leady.com
 t.mmtrkr.com
 t.news.browns-restaurants.co.uk
 t.notif-colissimo-laposte.info
+t.podcast.co
 t.salesmatemail.com
 t.vacations.disneydestinations.com
 t.visit.disneydestinations.com
@@ -3417,6 +3419,7 @@ tradedoubler.com
 traffic-exchange.com
 traffic-redirecting.com
 traffic.focuusing.com
+traffic.hyteck.de
 trafficfactory.biz
 trafficforce.com
 trafficholder.com

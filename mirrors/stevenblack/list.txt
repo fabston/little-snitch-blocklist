@@ -199,6 +199,7 @@
 78276.ussdns02.heketwe.com
 8.110.206.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 8.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
 84.56.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 84.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 85.10.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -214,9 +215,11 @@
 99.182.35.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 9ata.ero-advertising.com
 a.faymobi.com
+a.jsrdn.com
 a.stat.xiaomi.com
 a.tvpage.com
 a125375509.cdn.optimizely.com
+a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a9v8.cn
 aata.ero-advertising.com
 aax-dtb-cf.amazon-adsystem.com
@@ -464,6 +467,7 @@ assets.vlitag.com
 assistant-chronopost.com
 ata.ero-advertising.com
 atlas-upd.com
+atom.warnermedia.com
 attr.union.ucweb.com
 auspost-input.com
 auspost-record.com
@@ -555,6 +559,7 @@ browserservice.zzux.com
 bs.direct
 btc8886.com
 btw.ero-advertising.com
+bucket.cdnwebcloud.com
 bucket.rtk.io
 bueromoebelservice.com
 bunnyland.cc
@@ -569,6 +574,7 @@ c-123milhas.shop
 c.adskeeper.co.uk
 c.hrzn-nxt.com
 c.webengage.com
+c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
 c2i-cdn.startappnetwork.com
 c2shb.pubgw.yahoo.com
 c2shb.ssp.yahoo.com
@@ -578,6 +584,7 @@ c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 c752sa3k9oeb2egpgc8fnhkeyyyyy.domsearch.net
 c752sa3k9oeb2ehgpgc8fnhkeyyyyy.domsearch.net
 cachecdn.moegoo.com
+cadmus.script.ac
 camsoda.com
 camteens.to
 candygirls.cc
@@ -622,6 +629,7 @@ cdn.prod.uidapi.com
 cdn.purpleads.io
 cdn.rates.consumertrack.com
 cdn.speakol.com
+cdn.topsrvimp.com
 cdn.tsyndicate.com
 cdn.tubecorp.com
 cdn.usefathom.com
@@ -675,6 +683,7 @@ consumerproductsusa.com
 contatoonline1.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
+cookies.nextmillmedia.com
 coronabreath.com
 corp-github.com
 cosiloon.com
@@ -718,8 +727,10 @@ d-stuff.cfd
 d.applovin.com
 d2uap9jskdzp2.cloudfront.net
 d2wzkjnj9pfptq.cloudfront.net
+d32ajg1ye8vnl9.cloudfront.net
 d3dkhq0wwdwodv.cloudfront.net
 d3lvir7538n0oi.cloudfront.net
+d9esmwyn3ffr1.cloudfront.net
 da032opzasz.appspot.com
 daaa.ero-advertising.com
 dabmaster.wm01.to
@@ -765,6 +776,7 @@ dfgdgertdvdf.xyz
 dfkcnyhd.nl
 dgyu536ds.appspot.com
 didna-d.openx.net
+didna.b-cdn.net
 digitaltextile.com.ru
 dimaria.alphonso.tv
 dimoradellapizzuta.it
@@ -783,6 +795,7 @@ dolodos.top
 domsearch.net
 doublepimpads.com
 down.sqlnetcat.com
+dqif5bl25s0bf.cloudfront.net
 dreadditevelidot.onion.pet
 dreamlist.top
 dsp.adviad.com
@@ -790,6 +803,7 @@ dsw44z5igdmmbo.com
 dts.startappservice.com
 dtta.ero-advertising.com
 duologinsupersdk.ewan.cn
+dvqcs4w0eo35b.cloudfront.net
 dw.adyboh.com
 e-hpaces.ero-advertising.com
 e-ssl.apsalar.com
@@ -839,9 +853,11 @@ events3.adcolony.com
 events3alt.adcolony.com
 evri-package-gb.web.app
 exchange.dumb1.com
+exchange.kueezrtb.com
 exchange.longmusic.com
 exp100.strangled.net
 ext.privacyassistant.net
+facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
 facilitategovernor.com
 fairu-blog.com
 fairu-blog.xyz
@@ -982,6 +998,7 @@ hb.brainlyads.com
 hb.minutemedia-prebid.com
 hbbtv.mediaset.net
 hdnewporn.com
+healthguides.cnn.com
 heixbai.com
 hexagram.rtk.io
 hg76ytsdas.appspot.com
@@ -1009,6 +1026,7 @@ hsdps.cc
 hwqloan.com
 i-sharecloud.com
 i.cdnkimg.com
+i.jsrdn.com
 i1.dl-ad.com
 ibancalculator-com.preview-domain.com
 ibeat.indiatimes.com
@@ -1062,6 +1080,7 @@ iplogger.com
 iplogger.ru
 ipm-provider.ff.avast.com
 ipmcdn.avast.com
+ipv4.cws.conviva.com
 ipv6-wildcard.applovin.com.edgekey.net
 is.sh
 italiapagamen.com
@@ -1123,6 +1142,7 @@ last.tax-lab.net
 latamdcs.com
 lay.dubya.us
 layers.ero-advertising.com
+lb.eu-1-id5-sync.com
 lb13.s400.meetrics.net
 lb30.s400.meetrics.net
 lb49.s400.meetrics.net
@@ -1148,6 +1168,7 @@ ledampenergy.net
 lemmingro.com
 libjs.inquirerjs.com
 libjss.inquirerjs.com
+licensing.bitmovin.com
 link.datatrics.com
 link.getmailspring.com
 link.info.livejasmin.com
@@ -1168,6 +1189,8 @@ live-cams-4.livejasmin.com
 live-cams-5.livejasmin.com
 live-manifests-aka.warnermediacdn.com
 live-manifests-lln.warnermediacdn.com
+live-media-aka.warnermediacdn.com
+live-media-lln.warnermediacdn.com
 live.rezync.com
 livechatinc.org
 livejasmin-hack.com
@@ -1282,6 +1305,7 @@ media.complex.com
 media.rtk.io
 mediadirectx.com
 mediasama.com
+medium.ngtv.io
 medsource.top
 megasena1.duckdns.org
 merchandise.opera-api.com
@@ -1355,6 +1379,7 @@ net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 netc.sfr.fr
 netcatkit.com
 network.datatrics.com
+neural40.cdnwebcloud.com
 new.915yzt.cn
 new.livejasmin.com
 new.mmtimes.org
@@ -1531,6 +1556,7 @@ recommendation.speakol.com
 redirect.ero-advertising.com
 redivosrl.it
 register.appsflyer.com
+registry.api.cnn.io
 relay.livejasmin.com
 remove-ads.xyz
 renovatesystem.com
@@ -1560,6 +1586,7 @@ rs2.ero-advertising.com
 rsa.pub
 rstmir.com
 rt.applovin.com
+rt.marphezis.com
 rtb-adsterra.flshtrk.store
 rtbdev4.alphonso.tv
 ru.mst.dns-cloud.net
@@ -1573,6 +1600,7 @@ runionv62ul3roit.onion.pet
 rutorc6mqdinc4cz.onion.pet
 ruw82qpzxas.appspot.com
 s-img.adskeeper.com
+s.cdn.turner.com
 s.clcktrax.com
 s.dmmew.com
 s.ero-advertising.com
@@ -1731,10 +1759,13 @@ supload.com
 sweetchicks.net
 sylviagreen.club
 sync.adviad.com
+sync.colossusssp.com
+sync.kueezrtb.com
 sync.livejasmin.com
 sync.rtk.io
 syndication-evo.exoclick.com
 sys.jave.xyz
+t.adx.opera.com
 t.appsflyer.com
 tab.dellrescue.com
 taboola-d.openx.net
@@ -1834,6 +1865,7 @@ ttwitter.com
 tu4dff-reflective-shark.eu-gb.mybluemix.net
 turbobit.nocoshop.ru
 turbobit.topupload.ru
+turnip.cdn.turner.com
 tv.livejasmin.com
 tvads.alphonso.tv
 tvmds.tvpassport.com
@@ -1894,6 +1926,7 @@ ventanasyaluminios.com.mx
 vep.hautnah-kosmetik-grafenau.de
 verywellfitnesse.com
 vhguyeu.ml
+vi.ml314.com
 video.alxbgo.com
 videoads.hotstar.com
 videos-bleepingcomputers-com.tvpagecdn.com
@@ -1907,6 +1940,7 @@ virtuallaughing.com
 vitlescaux.com
 vkcache.com
 vkphotofqgmmu63j.onion.pet
+vod-media-aka.warnermediacdn.com
 vor.ngo
 vor.ong
 vosmas.icu
@@ -1918,11 +1952,13 @@ w61.1piecemanga.com
 waaw.to
 walletgear.org
 warehousesale.shop
+warnermediagroup-com.videoplayerhub.com
 watson.telemetry.microsoft.com
 wawa.cleansite.us
 wc-tracking.lavasoft.com
 wdata.ero-advertising.com
 web-trackers.com
+web.hb.ad.cpe.dotomi.com
 web.vortex.data.microsoft.com
 web2.alphonso.tv
 webmail-who-int.000webhostapp.com
@@ -2152,6 +2188,7 @@ www.forums.data2.ero-advertising.com
 www.forums.ero-advertising.com
 www.fpa.ero-advertising.com
 www.freeadult.games
+www.freecodecamp.org
 www.gamblerush.com
 www.gameitlive.com
 www.gaming-adult.com
@@ -2169,6 +2206,7 @@ www.hata.ero-advertising.com
 www.hitcpm.com
 www.hostingfreelife.com
 www.hotstar.pubnub.net
+www.i.cdn.cnn.com
 www.idspaces.ero-advertising.com
 www.imads.ero-advertising.com
 www.imeds.ero-advertising.com
@@ -2410,6 +2448,7 @@ zer9g.com
 zeus.ad.xiaomi.com
 zh.yomobi.net
 zhihu-web-analytics.zhihu.com
+zion.api.cnn.io
 zippyfiles.nocoshop.ru
 zippyfiles.topupload.ru
 zipservice.adalliance.io
