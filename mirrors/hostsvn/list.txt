@@ -343,6 +343,7 @@ app.cdp.asia
 app.gammaplatform.com
 app.harafunnel.com
 app.haraloyalty.com
+app.harasocial.com
 app.hstatic.net
 app.mobio.vn
 app.ohchat.net
@@ -678,6 +679,7 @@ f-emc.ngsp.gov.vn
 f.novanet.vn
 f2.novanet.vn
 fa.fpt.shop
+facebook-ads.hara.vn
 facebookid.younetmedia.com
 facebookinbox-omni-onapp.haravan.com
 fbuser.ovp.vn
@@ -718,6 +720,7 @@ gluco.native-ad.net
 go.mediaz.vn
 go.polyad.net
 go.vnecdn.com
+google-ads.hara.vn
 google-shopping-v2.sapoapps.vn
 google-shopping.sapoapps.vn
 googleshopping.sapoapps.vn
@@ -730,9 +733,6 @@ gs.cococx.com
 gtm.saostar.vn
 gtmjs.com
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
-haraads.com
-harafunnel.com
-haraloyalty.com
 hb.gammaplatform.com
 hbplatform.com
 hc.viam.com.vn
@@ -970,8 +970,8 @@ log.xoso.com.vn
 log.zalo.video
 log.zamba.vn
 log.zingmp3.vn
-log.zingnews.com.vn
 log.zingnews.vn
+log.znews.vn
 log1.adsplay.net
 log2.adsplay.net
 log3.adsplay.net
@@ -1442,6 +1442,7 @@ stats.bizweb.vn
 stats.cityadstrack.com
 stats.dev.zaloapp.com
 stats.dongphim.net
+stats.hara.vn
 stats.hc.score.dmp.zalo.me
 stats.hstatic.net
 stats.lab.zalo.ai
@@ -1510,6 +1511,7 @@ thongke.vui.vn
 thongke99.baogiaothong.vn
 thumb.dable.io
 tiki.ants.vn
+tiktok-ads.hara.vn
 tinkoff.cityads.com
 tjme.io
 tkpopup.asia
@@ -1720,9 +1722,6 @@ www.gammadsp.com
 www.gammaplatform.com
 www.gammassp.com
 www.gostats.vn
-www.haraads.com
-www.harafunnel.com
-www.haraloyalty.com
 www.jeoway.com
 www.ketquaxosotoancau.org
 www.klick.vn
@@ -1787,8 +1786,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 za.baomoi.com
 za.zapps.vn
 za.zingmp3.vn
-za.zingnews.com.vn
-za.zingnews.vn
 zabbix.bidgear.com
 zads.me.zing.vn
 zalo-ads-240-td.zadn.vn

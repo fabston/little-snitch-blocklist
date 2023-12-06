@@ -4307,6 +4307,7 @@ click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
 click360.io
 click360v2-ingest.azurewebsites.net
+clickcount.cnool.net
 clicks.6thstreet.com
 clicks.burgerking.co.uk
 clicks.dealer.com
@@ -9504,6 +9505,7 @@ lntvby.banggood.com
 loader.zeroform.com
 loadsurprise.com
 log-ads.r7.com
+log-api.cli.im
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log.adplex.co.kr
@@ -13295,7 +13297,6 @@ sales.disneylandparis.com
 sales.pandasuite.io
 sales.virtualpbx.com
 saleslists.inform.equifax.com
-salsify-ecdn.com
 salto.freeto.jp
 saluton.cizion.com
 salzwerk.viessmann.de
