@@ -131,6 +131,7 @@ ads.thanhnien.vn
 ads.thegioitiepthi.vn
 ads.thesaigontimes.vn
 ads.thitruongtaichinhtiente.vn
+ads.thvli.vn
 ads.tiki.vn
 ads.ultraviewer.net
 ads.vidoomy.com
@@ -246,19 +247,24 @@ amcdn.vn
 an.dongphim.net
 an.xemvtv.net
 analytic.baodantoc.vn
+analytic.thuanbui.me
 analytic.vnanet.vn
 analytics.admon.com.vn
 analytics.aita.gov.vn
 analytics.ambient-platform.com
+analytics.amedigital.vn
 analytics.anthill.vn
 analytics.bachtuongphat.com
 analytics.bkav.com
 analytics.bkav.com.vn
 analytics.diamondstarfinancial.com.vn
+analytics.digi8.vn
 analytics.donglogs.com
 analytics.eclick.vn
 analytics.evgcdn.net
 analytics.fsoft.com.vn
+analytics.gotama.link
+analytics.hapo.vn
 analytics.hebela.vn
 analytics.hub-js.com
 analytics.jamstackvietnam.com
@@ -1165,6 +1171,7 @@ pixel.vidoomy.com
 platform.atdnetwork.com
 platform.bidgear.com
 platform.jeoway.com
+plausible.vucar.vn
 play.adsparc.com
 player.urekamedia.com
 plo.smartconvert.co
@@ -1536,6 +1543,7 @@ track.lapa.pub
 track.lemonnovel.com
 track.mclick.mobi
 track.pnj.com.vn
+track.popsww.com
 track.sendo.vn
 track.vio.edu.vn
 track.vtcnews.vn
@@ -1578,6 +1586,7 @@ tracking.vegaid.vn
 tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vietnamnetad.vn
+tracking.viez.vn
 tracking.vnncdn.net
 tracking.vtc.vn
 tracking.vtcnew.com.vn
@@ -1585,6 +1594,8 @@ tracking.yomedia.vn
 tracking2.vnncdn.net
 tracking3.vnncdn.net
 trackingapi.foody.vn
+trackingbr.zingplay.com
+trackingin.zingplay.com
 trackingsea.zingplay.com
 trackingvn.zingplay.com
 trackity.tiki.vn
