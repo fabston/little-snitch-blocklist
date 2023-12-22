@@ -10546,6 +10546,7 @@ mcdmetrics.aaa.com
 mcdmetrics2.aaa.com
 mchtna.fashionplus.co.kr
 mcs-va.tiktokv.com
+mcs.tiktokv.us
 mcs.us.tiktokv.com
 mcs.zijieapi.com
 mczpco.darty.com
@@ -17819,6 +17820,7 @@ t.antalisperu.com
 t.ao.argyleforum.com
 t.ao.consumerfinancereport.com
 t.appsflyer.com
+t.arcade.show
 t.arizonawildcats.com
 t.arkansasrazorbacks.com
 t.arts.uci.edu
