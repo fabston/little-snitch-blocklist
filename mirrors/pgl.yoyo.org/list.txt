@@ -52,7 +52,6 @@ aa-metrics.trip-ai.jp
 aaddzz.com
 aax-eu-dub.amazon.com
 aaxads.com
-aaxdetect.com
 abacho.net
 abackafterthought.com
 abackchain.com
@@ -562,7 +561,7 @@ ads.pni.com
 ads.pof.com
 ads.powweb.com
 ads.ppvmedien.de
-ads.praguetv.cz
+ads.primissima.it
 ads.printscr.com
 ads.prisacom.com
 ads.program3.com
@@ -689,6 +688,7 @@ adsby.bidtheatre.com
 adsbydelema.com
 adscale.de
 adscholar.com
+adscience.nl
 adsco.re
 adscpm.com
 adsdaq.com
@@ -931,6 +931,7 @@ algorix.co
 aliasanvil.com
 alikeaddition.com
 alipromo.com
+all4spy.com
 allosponsor.com
 alluringbucket.com
 aloofmetal.com
@@ -1529,7 +1530,6 @@ crwdcntrl.net
 crypto-loot.org
 crystalboulevard.com
 cs.co
-ctnetwork.hu
 culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
@@ -1933,10 +1933,8 @@ greyinstrument.com
 greystripe.com
 groundtruth.com
 gscontxt.net
-gstaticx.com
 guardeddirection.com
 guardedschool.com
-guffawdecipher.com
 gunggo.com
 h-bid.com
 h0.t.hubspotemail.net
@@ -2505,6 +2503,8 @@ newads.bangbros.com
 newnet.qsrch.com
 newnudecash.com
 newopenx.detik.com
+newsadsppush.com
+newsletter-link.com
 newstarads.com
 newt1.adultadworld.com
 newt1.adultworld.com
@@ -3309,7 +3309,6 @@ tailsweep.se
 takethatad.com
 talentedsteel.com
 tamgrt.com
-tangerinenet.biz
 tangibleteam.com
 tangyamount.com
 tapad.com
@@ -3351,7 +3350,6 @@ tendertest.com
 terriblethumb.com
 text-link-ads.com
 textad.sexsearch.com
-textads.biz
 textlinks.com
 tfag.de
 the-ozone-project.com
@@ -3454,7 +3452,6 @@ tracking.28-91473-wbm.co.uk
 tracking.39-bb4a9-osm.co.uk
 tracking.42-01pr5-osm-secure.co.uk
 tracking.5-47737-bi.co.uk
-tracking.emilyclarkconsulting.com
 tracking.epicgames.com
 tracking.exipure.com
 tracking.hyros.com
