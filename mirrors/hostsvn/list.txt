@@ -192,6 +192,7 @@ adtimaserver.vn
 adv.adflex.vn
 adv.anhsangvacuocsong.vn
 adv.autosurf.vn
+adv.baoangiang.com.vn
 adv.baotintuc.vn
 adv.baovemoitruong.org.vn
 adv.cityads.com
@@ -891,6 +892,7 @@ log-plo.zadn.vn
 log-sggp.zadn.vn
 log-thanhnien.epicdn.me
 log-thanhnien.zadn.vn
+log-thuonggiaonline.epicdn.me
 log-tienphong.zadn.vn
 log-tinnhanhchungkhoan.epicdn.me
 log-tinnhanhchungkhoan.zadn.vn
@@ -947,6 +949,7 @@ log.tapchimattran.vn
 log.tapchitaichinh.vn
 log.thanhnien.vn
 log.theleader.vn
+log.thuonggiaonline.vn
 log.tienphong.vn
 log.tieudungthoinay.vn
 log.tinnhac.com
