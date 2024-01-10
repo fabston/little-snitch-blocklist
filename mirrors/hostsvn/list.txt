@@ -292,6 +292,7 @@ analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.yomedia.vn
 analytics.yts.vn
+analytics.zapps.me
 analytics.zapps.vn
 analytics.zim.vn
 antalyser.ants.vn
@@ -939,6 +940,7 @@ log.infonet.vn
 log.kaka.me
 log.kienthuc.net.vn
 log.kinhtedouong.vn
+log.lichviet.org
 log.mekongasean.vn
 log.mp3.zing.vn
 log.news.zing.vn
@@ -1057,6 +1059,7 @@ mb.logging.admicro.vn
 mclick.mobi
 mda.zadn.vn
 me.zedcdn.me
+measure.vndirect.com.vn
 media-ads.zaloapp.com
 media.adasiaholdings.com
 media.adnetwork.vn
@@ -1314,6 +1317,7 @@ sellers.urekamedia.com
 sen02.younetmedia.com
 send.mediaz.vn
 sendy.adpia.vn
+sentry.mediacdn.vn
 seo.mediaz.vn
 september.cityads.com
 server.zmedia.vn
