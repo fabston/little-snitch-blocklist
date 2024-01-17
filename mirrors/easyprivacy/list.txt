@@ -2956,6 +2956,7 @@ aa.dyson.co.uk
 aa.dyson.com
 aa.dyson.de
 aa.dyson.dk
+aa.dyson.es
 aa.maxblue.de
 aa.norisbank.de
 aa.postbank.de
@@ -3369,6 +3370,7 @@ adat.travelo.hu
 adat.veol.hu
 adat.videa.hu
 adb-analytics.live-now.com
+adbmetrics.koreanair.com
 adbmetrics.larioja.com
 adbmetrics.lasprovincias.es
 adbmetrics.laverdad.es
@@ -6720,8 +6722,6 @@ cmp.nouvelobs.com
 cmp.tech426.com
 cmp.tek.no
 cmp2.channelpartner.de
-cmpworker.dotesports.com
-cmpworker.primagames.com
 cmr.customer.americanexpress.de
 cmrcustomer.americanexpress.co.uk
 cms.hardloopaanbiedingen.nl
@@ -8480,6 +8480,7 @@ dii3.zooplus.gr
 dii3.zooplus.hr
 dii3.zooplus.hu
 dii3.zooplus.ie
+dii3.zooplus.it
 dikhsb.vividseats.com
 dimensions.mappy.com
 din1j0su0u99.artwallstreet.io
@@ -11873,6 +11874,8 @@ images.constellation.quintiles.com
 images.contact.cigna.com
 images.contact.princess.com
 images.contact.staubli.com
+images.contacto.unis.edu.gt
+images.e.seagate.com
 images.e.skandia.pl
 images.e.tcichemicals.com
 images.e.transunion.com
@@ -14884,6 +14887,7 @@ mail.dolce-gusto.com.au
 mail.dolce-gusto.com.my
 mail.dolce-gusto.com.sg
 mail.dolce-gusto.com.tw
+mail.dolce-gusto.cz
 mail.fathomdelivers.com
 mail.finwellgroup.com
 mail.firsthome.com
@@ -17007,6 +17011,7 @@ metrics.fressnapf.ch
 metrics.friskies.com
 metrics.ftd.com
 metrics.futureplc.engineering
+metrics.galicia.ar
 metrics.gap.com
 metrics.genesis.es
 metrics.gengraf.com
@@ -17392,6 +17397,7 @@ metrics.rbcgam.com
 metrics.rci.com
 metrics.rcsmetrics.it
 metrics.realclearpolitics.com
+metrics.reallymoving.com
 metrics.realpropertymgt.com
 metrics.realsimple.com
 metrics.realtor.com
@@ -18850,6 +18856,9 @@ overconfidentfood.com
 overratedchalk.com
 ovmrti.sassyclassy.de
 owlsr.us
+owp-hk.americanexpress.com
+owp-sg-prop.americanexpress.com
+owp-tw.americanexpress.com
 owss.ihs.com
 oxbskt.autotrader.com.au
 oxifwsabgd.nzz.ch
@@ -29821,6 +29830,7 @@ trk.designcon.com
 trk.designnews.com
 trk.digitaltveurope.com
 trk.dosatron.com
+trk.drdobbs.com
 trk.du-darfst.de
 trk.dvsystems.com
 trk.e.chooseumpquabank.com
