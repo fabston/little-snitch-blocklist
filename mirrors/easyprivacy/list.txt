@@ -3862,6 +3862,7 @@ analytics-consent-manager-v2-prod.azureedge.net
 analytics-gw.games.wanmei.com
 analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
+analytics-prd.aws.wehaa.net
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
 analytics-scripts.cablelabs.com
@@ -18265,6 +18266,7 @@ nnvtvx.chegg.com
 no9pldds1lmn3.soundcloud.com
 noa0.compteczam.fr
 nocaadobefpc.optus.com.au
+nocturnalloom.com
 noeyeon.click
 noeyeon.com
 noflake-aggregator-http.narvar.com
