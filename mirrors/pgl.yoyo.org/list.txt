@@ -2,6 +2,7 @@
 101com.com
 101order.com
 180hits.de
+180searchassistant.com
 1link2020.com
 1rx.io
 207.net
@@ -1080,12 +1081,10 @@ banner.mindshare.de
 banner.nixnet.cz
 banner.noblepoker.com
 banner.northsky.com
-banner.penguin.cz
 banner.rbc.ru
 banner.reinstil.de
 banner.tanto.de
 banner.titan-dsl.de
-banner.webmersion.com
 banner10.zetasystem.dk
 bannerads.de
 bannerboxes.com
@@ -1594,7 +1593,6 @@ digestiondrawer.com
 digital-ads.s3.amazonaws.com
 digitalmerkat.com
 direct-events-collector.spot.im
-direct-xxx-access.com
 directaclick.com
 directleads.com
 directorym.com
@@ -1666,6 +1664,7 @@ efficaciouscactus.com
 eiv.baidu.com
 ejyymghi.com
 elasticchange.com
+elasticducks.com
 elderlyscissors.com
 elderlytown.com
 elephantqueue.com
@@ -2951,7 +2950,6 @@ rta.dailymail.co.uk
 rtb.gumgum.com
 rtbadzesto.com
 rtbflairads.com
-rtbidhost.com
 rtbplatform.net
 rtbpop.com
 rtbpopd.com
@@ -3351,6 +3349,7 @@ tendertest.com
 terriblethumb.com
 text-link-ads.com
 textad.sexsearch.com
+textads.biz
 textlinks.com
 tfag.de
 the-ozone-project.com
@@ -3454,7 +3453,6 @@ tracking.39-bb4a9-osm.co.uk
 tracking.42-01pr5-osm-secure.co.uk
 tracking.5-47737-bi.co.uk
 tracking.epicgames.com
-tracking.exipure.com
 tracking.hyros.com
 tracking.ibxlink.com
 tracking.intentsify.io
