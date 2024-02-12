@@ -268,6 +268,7 @@ ad8.banners.ero-advertising.com
 adaptivecss.org
 addatamarket.net
 addresseepaper.com
+adexp.liftoff.io
 adf.ero-advertising.com
 adfpaces.ero-advertising.com
 admobclick.com
@@ -370,6 +371,7 @@ analytics.binaryfortress.com
 analytics.ero-advertising.com
 analytics.ff.avast.com
 analytics.inlinemanual.com
+analytics.liftoff.io
 analytics.lk.api.ditto.com
 analytics.logsss.com
 analytics.modul.ac.at
@@ -439,6 +441,10 @@ app.storage.yunvm.com
 appcdn.tvpage.com
 applog.camera360.com
 applog.uc.cn
+applovin-europe-rtb.liftoff.io
+appodeal-asia-rtb.liftoff.io
+appodeal-europe-rtb.liftoff.io
+appodeal-rtb.liftoff.io
 apps.id.net
 apps.livejasmin.com
 arabianpdfbooks.info
@@ -521,6 +527,7 @@ betpromo247.com
 bid.axiatraders.com
 bid.sxp.smartclip.net
 bidder.rtk.io
+biddingmax.apse.trk.rixserv.com
 bideo-blog.com
 bideo-blog.xyz
 bideo-cdn.com
@@ -532,6 +539,9 @@ bideo-endpoint.xyz
 bideo-schnellvpn.com
 bideo-schnellvpn.xyz
 bidgear.com
+bigo-asia-rtb.liftoff.io
+bigo-europe-rtb.liftoff.io
+bigo-rtb.liftoff.io
 bigsharkmedia.com
 bigtus.com
 biltag.bilsyndication.com
@@ -562,6 +572,7 @@ btw.ero-advertising.com
 bucket.cdnwebcloud.com
 bucket.rtk.io
 bueromoebelservice.com
+build-cdn.liftoff.io
 bunnyland.cc
 bur.vueleslie.com
 businessvideonews.com
@@ -622,6 +633,8 @@ cdn.hadronid.net
 cdn.id5-sync.com
 cdn.indexww.com
 cdn.insurads.com
+cdn.liftoff-creatives.io
+cdn.liftoff.io
 cdn.mirror-codes.net
 cdn.moengage.com
 cdn.mxpnl.com
@@ -652,7 +665,9 @@ claudfront.net
 clearcovid19virus.com
 click.axiatraders.com
 click.googleanalytics.com
+click.liftoff.io
 click.union.ucweb.com
+click4.liftoff.io
 clicktut.site
 client-analytics.braintreegateway.com
 clockskew.alphonso.tv
@@ -832,6 +847,7 @@ equilibrios.ga
 ergensu.com
 ers.ero-advertising.com
 es.ero-advertising.com
+et-l.w.inmobi.com
 etetdc4ed-exhausted-lizard-tc.mybluemix.net
 etradesupply.org
 eu-commercialb.com
@@ -1028,6 +1044,7 @@ hwqloan.com
 i-sharecloud.com
 i.cdnkimg.com
 i.jsrdn.com
+i.l-new.inmobicdn.net
 i1.dl-ad.com
 ibancalculator-com.preview-domain.com
 ibeat.indiatimes.com
@@ -1046,6 +1063,9 @@ imdns.hpplay.cn
 imeds.ero-advertising.com
 img3.usefathom.com
 imp.startappservice.com
+impression-asia.liftoff.io
+impression-east.liftoff.io
+impression-europe.liftoff.io
 imprhkmp.taboola.com
 imprlatbmp.taboola.com
 in-gmtdmp.mookie1.com
@@ -1144,6 +1164,7 @@ last.tax-lab.net
 latamdcs.com
 lay.dubya.us
 layers.ero-advertising.com
+lb-rtb-europe.liftoff.io
 lb.eu-1-id5-sync.com
 lb13.s400.meetrics.net
 lb30.s400.meetrics.net
@@ -1506,7 +1527,9 @@ ppjs.alphonso.tv
 pr-bh.ybp.yahoo.com
 prd-lender.cdp.internal.unity3d.com
 prebid.adnxs.com
+preview.liftoff-creatives.io
 primecaviar.com
+privacy.liftoff.io
 privacyassistant.net
 privatproxy-blog.com
 privatproxy-blog.xyz
@@ -1521,6 +1544,7 @@ privatproxy-schnellvpn.xyz
 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 prod.zenkube.com
 prodealscenter.com
+product-cdn.liftoff-creatives.io
 products.gobankingrates.com
 profile.localytics.com
 prombid.com
@@ -1591,6 +1615,7 @@ rt.applovin.com
 rt.marphezis.com
 rtb-adsterra.flshtrk.store
 rtbdev4.alphonso.tv
+rtbnotify.liftoff.io
 rtnl.bxcl.de
 ru.mst.dns-cloud.net
 ruhrboudoir.de
@@ -1737,6 +1762,7 @@ static.emsservice.de
 static.livejasmin.com
 static.vliplatform.com
 static.youappi.com
+statistik.changing-cities.org
 stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.jpush.cn
