@@ -745,7 +745,6 @@ adserver.tupolska.com
 adserver.twitpic.com
 adserver.virginmedia.com
 adserver.waggonerguide.com
-adserver.yahoo.com
 adserver01.de
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -1041,6 +1040,7 @@ audienceinsights.com
 audit.median.hu
 audit.webinform.hu
 augur.io
+auto-bannertausch.de
 automaticflock.com
 avalonalbum.com
 avazutracking.net
@@ -1826,7 +1826,6 @@ free-counter.co.uk
 freebanner.com
 freecounterstat.com
 freelogs.com
-freeonlineusers.com
 freepay.com
 freeskreen.com
 freestats.com
@@ -2126,6 +2125,7 @@ js.iterable.com
 js.users.51.la
 jsecoin.com
 jsrdn.com
+jubilantglimmer.com
 juicyads.com
 juicyads.me
 jumptap.com
@@ -2831,7 +2831,6 @@ r3.visualwebsiteoptimizer.com
 raac33.net
 rabbitrifle.com
 radar.cedexis.com
-radarurl.com
 radiate.com
 radiateprose.com
 rads.realadmin.pl
@@ -3495,6 +3494,7 @@ trafic.ro
 traildelsfars.com
 traktrafficflow.com
 tranquilcanyon.com
+tranquilplume.com
 tranquilside.com
 travis.bosscasinos.com
 traytouch.com
