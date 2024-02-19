@@ -466,6 +466,7 @@ cdn.nanda.vn
 cdn.proadscdn.com
 cdn.pushdy.com
 cdn.qc.coccoc.com
+cdn.qc24h.com
 cdn.serving.ad.org.vn
 cdn.starseed.fr
 cdn.surfcountor.com
@@ -1005,6 +1006,7 @@ logperf.vnexpress.net
 logru.vietnamplus.vn
 logs.1cdn.vn
 logs.docnhanh.com.vn
+logs.sanchoikns.vn
 logs.thethaovanhoa.vn
 logsbin.dantri.com.vn
 logscafef.channelvn.net
