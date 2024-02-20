@@ -821,3 +821,9 @@ track.hubspot.com
 hubspot.com
 hubspotfeedback.com
 vimeo.com
+salesiq.zoho.com
+salesiq.zoho.eu
+salesiq.zoho.ca
+analytics.zoho.com
+analytics.zoho.eu
+analytics.zoho.ca
