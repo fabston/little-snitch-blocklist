@@ -72,6 +72,7 @@ adnetwork-core-lb7.aiactiv.io
 adnetwork-core.aiactiv.io
 adnetwork.adasiaholdings.com
 adnetwork.vn
+adop.asia
 adp.vnecdn.net
 adpia.vn
 adpostback.headlines.pw
@@ -413,6 +414,7 @@ brand.admicro.vn
 brand.zing.vn
 brief.mediaz.vn
 btrack.homedy.com
+bubblyzucchini.com
 business.cleverads.vn
 button-call.zalo.me
 button-follow.zalo.me
@@ -448,6 +450,7 @@ cdn-qc.coccoc.com
 cdn.aanetwork.vn
 cdn.adbro.me
 cdn.adflex.vn
+cdn.adop.asia
 cdn.ambientplatform.vn
 cdn.api-connect.io
 cdn.autoads.asia
@@ -912,6 +915,7 @@ log-tinnhanhchungkhoan.zadn.vn
 log-vietnamdaily.zadn.vn
 log-vietnamplus-vn.cdn.ampproject.org
 log-vovworld.zadn.vn
+log.247post.vn
 log.adflex.vn
 log.adsplay.net
 log.adtimaserver.vn
@@ -1068,6 +1072,7 @@ measure.vndirect.com.vn
 media-ads.zaloapp.com
 media.adasiaholdings.com
 media.adnetwork.vn
+media.adop.asia
 media.adtimaserver.vn
 media.ambientplatform.vn
 media.bidgear.com
@@ -1716,6 +1721,7 @@ www.adflex.vn
 www.adfly.vn
 www.admicro.vn
 www.adnetwork.vn
+www.adop.asia
 www.adpia.vn
 www.adrealclick.com
 www.adsota.com
@@ -1807,6 +1813,7 @@ yoads.network
 yomedia.vn
 younetmedia.com
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
+za.agiay.vn
 za.baomoi.com
 za.zapps.vn
 za.zingmp3.vn
