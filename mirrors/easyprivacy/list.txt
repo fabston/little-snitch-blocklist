@@ -4321,6 +4321,7 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.avis.de
 analytics.aweber.com
+analytics.b2.ai
 analytics.banksneveraskthat.com
 analytics.basistheory.com
 analytics.belgacom.be
@@ -24178,6 +24179,7 @@ reply.osv.com
 report.appmetrica.yandex.net.iberostar.com
 report.meituan.com
 report.mitsubishicars.com
+reportic.app
 reporting-api.gannettinnovation.com
 reporting.autographapp.me
 reporting.cdndex.io
