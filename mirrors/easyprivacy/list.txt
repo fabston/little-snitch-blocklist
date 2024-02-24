@@ -17238,7 +17238,6 @@ log.mofa.go.kr
 log.nordot.jp
 log.olark.com
 log.outbrain.com
-log.outbrainimg.com
 log.pinterest.com
 log.pipeline.datarize.io
 log.popin.cc
@@ -22874,6 +22873,7 @@ payqjd.subito.it
 pb.i.sogou.com
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
+pbjs-stream.bydata.com
 pbm-email.rightwayhealthcare.com
 pbox.no.photobox.com
 pbox.photobox.at
@@ -37016,6 +37016,7 @@ vibranthaven.com
 vibrantsundown.com
 victoriousrequest.com
 video-ad-stats.googlesyndication.com
+video-analytics-api.cloudinary.com
 video.bzfd.it
 video.funnelbox.com
 video.verintsystemsinc.com
