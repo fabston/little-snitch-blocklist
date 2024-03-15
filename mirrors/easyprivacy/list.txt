@@ -4392,6 +4392,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.cookiefirst.dev
 analytics.corusent.com
+analytics.crazygames.com
 analytics.crowdkeep.com
 analytics.cycleworld.com
 analytics.cyrillus.be
@@ -11487,6 +11488,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+events-ingestion.services.gorgias.com
 events-logs.doctolib.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
