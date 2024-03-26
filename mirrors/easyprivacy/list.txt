@@ -7828,6 +7828,7 @@ collect.usefathom.com
 collect.vans.com.cn
 collect.verify.lnearn.com
 collect2.allianz.ch
+collection.e-satisfaction.com
 collection.saga.co.uk
 collections.equifax.com
 collector-api.99designs.com
@@ -11500,7 +11501,6 @@ events-prod.autolist.com
 events-tracker.deliveroo.net
 events.accuity.com
 events.air.tv
-events.apester.com
 events.api.godaddy.com
 events.attentivemobile.com
 events.audiate.me
