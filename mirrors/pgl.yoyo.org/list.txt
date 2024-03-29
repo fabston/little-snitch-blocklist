@@ -559,7 +559,6 @@ ads.printscr.com
 ads.prisacom.com
 ads.program3.com
 ads.psd2html.com
-ads.quasaraffiliates.com
 ads.quoka.de
 ads.radialserver.com
 ads.radio1.lv
@@ -824,7 +823,6 @@ adv.cooperhosting.net
 adv.donejty.pl
 adv.freeonline.it
 adv.hwupgrade.it
-adv.livedoor.com
 adv.mpvc.it
 adv.nexthardware.com
 adv.webmd.com
@@ -3245,6 +3243,7 @@ supertop.ru
 supertop100.com
 supply.colossusssp.com
 supportwaves.com
+surfmusik-adserver.de
 surveygizmobeacon.s3.amazonaws.com
 sw88.espn.com
 swan-swan-goose.com
