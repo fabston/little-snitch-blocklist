@@ -1340,6 +1340,7 @@ click.email.bbc.com
 click.email.microsoftemail.com
 click.email.sonos.com
 click.email.strawberry.no
+click.emails.argos.co.uk
 click.fool.com
 click.hookupinyourcity.com
 click.hooligapps.com
