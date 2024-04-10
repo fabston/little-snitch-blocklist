@@ -20,6 +20,7 @@ cmp-static.nature.com
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
 cmp.courrierinternational.com
+cmp.datasign.co
 cmp.deondernemer.nl
 cmp.finn.no
 cmp.gemius.com
