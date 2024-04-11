@@ -414,6 +414,7 @@ ads.par.vip.prod.criteo.com
 ads.sg1.vip.prod.criteo.com
 ads.spacenine.biz
 ads.us.criteo.com
+ads.us5.vip.prod.criteo.com
 ads.va1.vip.prod.criteo.com
 adt.com.102.112.2o7.net
 adtd.douglas.de
@@ -972,6 +973,7 @@ cbsd.eu.criteo.com
 cbsd.fr3.vip.prod.criteo.com
 cbsd.nl3.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
+cbsd.us5.vip.prod.criteo.com
 cbsd.va1.vip.prod.criteo.com
 cbsdigitalmedia.hb.omtrdc.net
 cbsinteractive.hb.omtrdc.net
@@ -2748,6 +2750,7 @@ gbc5.jp2.as.criteo.com
 gbc5.nl.eu.criteo.com
 gbc5.nl3.eu.criteo.com
 gbc5.sg1.as.criteo.com
+gbc5.us5.us.criteo.com
 gbc5.va.us.criteo.com
 gbc6.da.us.criteo.com
 gbc6.fr.eu.criteo.com
@@ -13839,6 +13842,7 @@ widget.nl3.vip.prod.criteo.com
 widget.par.vip.prod.criteo.com
 widget.sg1.vip.prod.criteo.com
 widget.us.criteo.com
+widget.us5.vip.prod.criteo.com
 widget.va1.vip.prod.criteo.com
 wirtschaftskammer01.webtrekk.net
 wjji.villagroupresorts.com
