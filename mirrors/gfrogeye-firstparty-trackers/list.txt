@@ -721,6 +721,7 @@ b.publicmobile.ca
 b.sg1.vip.prod.criteo.com
 b.snow.com
 b.telus.com
+b.us5.vip.prod.criteo.com
 b.va1.vip.prod.criteo.com
 b2b.angieslist.com
 b2b.automotive-mediaventions.nl
@@ -2385,6 +2386,7 @@ extranets.jp2.vip.prod.criteo.com
 extranets.nl3.vip.prod.criteo.com
 extranets.par.vip.prod.criteo.com
 extranets.sg1.vip.prod.criteo.com
+extranets.us5.vip.prod.criteo.com
 extranets.va1.vip.prod.criteo.com
 eyefinity.actonsoftware.com
 f1.mailperf.com
@@ -2767,6 +2769,7 @@ gbc7.jp2.as.criteo.com
 gbc7.nl.eu.criteo.com
 gbc7.nl3.eu.criteo.com
 gbc7.sg1.as.criteo.com
+gbc7.us5.us.criteo.com
 gbc7.va.us.criteo.com
 gbc8.da.us.criteo.com
 gbc8.fr.eu.criteo.com
