@@ -2720,6 +2720,7 @@ gbc1.jp2.as.criteo.com
 gbc1.nl.eu.criteo.com
 gbc1.nl3.eu.criteo.com
 gbc1.sg1.as.criteo.com
+gbc1.us5.us.criteo.com
 gbc1.va.us.criteo.com
 gbc2.da.us.criteo.com
 gbc2.fr.eu.criteo.com
