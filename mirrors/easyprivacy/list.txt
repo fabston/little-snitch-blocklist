@@ -17374,6 +17374,7 @@ log-ads.r7.com
 log-api.cli.im
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
+log-pq.shopfully.cloud
 log.adplex.co.kr
 log.aimtell.com
 log.bitauto.com
@@ -37340,6 +37341,7 @@ vhrbxb.vidaxl.nl
 vi.adviso.ca
 vibranthaven.com
 vibrantsundown.com
+vibrantvale.com
 victoriousrequest.com
 video-ad-stats.googlesyndication.com
 video-analytics-api.cloudinary.com

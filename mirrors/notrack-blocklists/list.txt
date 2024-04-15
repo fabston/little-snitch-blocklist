@@ -695,9 +695,6 @@ analytics.yinxiang.com
 analytics.yiyouliao.com
 analytics.yolacdn.net
 analytics.yongjinbao.com.cn
-analytics.zenly-app.com
-analytics.zpbt.uk
-analyticsdcs.ccs.mcafee.com
 analyticsmsp.com
 analyticspixel.microsoft.com
 analyticssystems.net
@@ -741,11 +738,8 @@ api.us-west-2.aiv-delivery.net
 api64.com
 apien.ldmnq.com
 apnanalytics.com
-app-analytics-cn.huami.com
 app-analytics-de.huami.com
-app-analytics-in.huami.com
 app-analytics-ru.huami.com
-app-analytics-sg.huami.com
 app-analytics-us.huami.com
 app-analytics-v2.snapchat.com
 app-analytics.huami.com
