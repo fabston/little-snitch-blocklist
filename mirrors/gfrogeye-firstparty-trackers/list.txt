@@ -7207,6 +7207,7 @@ mug.jp2.vip.prod.criteo.com
 mug.nl3.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
 mug.sg1.vip.prod.criteo.com
+mug.us5.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 mutualofomahaemail.com
 mva1.maeva.com

@@ -656,6 +656,7 @@ analytics.qumucloud.com
 analytics.realestate.com.au
 analytics.recastsoftware.com
 analytics.regex101.com
+analytics.renderbetter.net
 analytics.rodpub.com
 analytics.rover.io
 analytics.samsungknox.com
@@ -686,6 +687,7 @@ analytics.twitter.com
 analytics.typedream.com
 analytics.us.algolia.com
 analytics.valiuz.com
+analytics.voissa.fr
 analytics.webpushr.com
 analytics.wildlifestudios.com
 analytics.xcal.tv
@@ -14297,6 +14299,7 @@ petrolgraphcredibility.com
 pf.newegg.com
 pghub.io
 pglstatp-toutiao.com
+pgteu1-excel-telemetry-vip.officeapps.live.com
 phluant.com
 phone.igexin.com
 phonograph2.voxmedia.com
