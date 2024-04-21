@@ -223,6 +223,7 @@ adlegend.com
 adlightning.com
 adlook.me
 adlooxtracking.com
+adlooxtracking.ru
 adlucent.com
 admailtiser.com
 admanmedia.com
@@ -14297,6 +14298,9 @@ pf.newegg.com
 pghub.io
 pglstatp-toutiao.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
+pgteu2-word-telemetry-vip.officeapps.live.com
+pgteu3-powerpoint-telemetry-vip.officeapps.live.com
+pgteu4-excel-telemetry-vip.officeapps.live.com
 phluant.com
 phone.igexin.com
 phonograph2.voxmedia.com
@@ -16081,6 +16085,7 @@ telemetry.api.wmcdp.io
 telemetry.appex.bing.net
 telemetry.art19.com
 telemetry.battle.net
+telemetry.canva.com
 telemetry.dropbox.com
 telemetry.gfe.nvidia.com
 telemetry.intel.com
