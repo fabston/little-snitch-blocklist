@@ -2785,6 +2785,7 @@ gbc8.jp2.as.criteo.com
 gbc8.nl.eu.criteo.com
 gbc8.nl3.eu.criteo.com
 gbc8.sg1.as.criteo.com
+gbc8.us5.us.criteo.com
 gbc8.va.us.criteo.com
 gblock.greenhousedata.com
 gbr.pg.com
