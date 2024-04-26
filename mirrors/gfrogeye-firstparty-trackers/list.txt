@@ -2741,6 +2741,7 @@ gbc3.jp2.as.criteo.com
 gbc3.nl.eu.criteo.com
 gbc3.nl3.eu.criteo.com
 gbc3.sg1.as.criteo.com
+gbc3.us5.us.criteo.com
 gbc3.va.us.criteo.com
 gbc4.da.us.criteo.com
 gbc4.fr.eu.criteo.com
