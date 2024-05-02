@@ -8492,6 +8492,7 @@ creatives.sunmedia.tv
 creator.zmags.com
 creatorcherry.com
 creatorpassenger.com
+creaturecabbage.com
 creditcreature.com
 crepemania.openapp.link
 crew-qa.zubie.com
@@ -39353,6 +39354,7 @@ zhyeqw.mercury.ru
 zieyeq.intent24.fr
 zimadifirenze.net.anwalt.de
 zio.xcar.com.cn
+zion-telemetry-nonprod.api.cnn.io
 zion-telemetry.api.cnn.io
 zion.qbo.intuit.com
 zipperxray.com
