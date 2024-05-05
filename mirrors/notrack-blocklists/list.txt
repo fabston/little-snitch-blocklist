@@ -935,7 +935,6 @@ bongacash.com
 bonzai.co
 boo-box.com
 books-analytics-events.apple.com
-books-analytics-events.news.apple-dns.net
 boomads.com
 boostable.com
 bounceads.net
@@ -978,7 +977,6 @@ brpx.com
 brunettemattersrefused.com
 bstats.org
 btloader.com
-btrace.wetvinfo.com
 btrll.com
 btserve.com
 btstatic.com
@@ -1055,7 +1053,6 @@ cdp.cloud.unity3d.com
 cdxr53.com
 cedeimprovise.com
 cedexis-radar.net
-cedexis-ssl.cdn.warpcache.net
 cedexis-test.com
 cedexis.com
 celeryisolatedproject.com
@@ -1074,7 +1071,6 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 cheetahmail.com
-chfpgcbe.com
 chicdn.net
 chimpstatic.com
 chipspasteprowl.com
@@ -4759,10 +4755,13 @@ mkt12014.com
 mkt1202.com
 mkt12022.com
 mkt12024.com
+mkt12025.com
 mkt12028.com
+mkt12029.com
 mkt1203.com
 mkt12032.com
 mkt12033.com
+mkt12034.com
 mkt1204.com
 mkt1205.com
 mkt1206.com
