@@ -100,8 +100,10 @@ ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
 ads.botbanhang.vn
 ads.businessstyle.vn
+ads.cadovn.biz
 ads.careerbuilder.vn
 ads.carmudi.vn
+ads.cdvn.vip
 ads.chanhtuoi.com
 ads.cungcau.vn
 ads.fpt.vn
@@ -885,6 +887,7 @@ log-anninhthudo.zadn.vn
 log-baobackan.zadn.vn
 log-baodauthau.epicdn.me
 log-baogialai.epicdn.me
+log-baolaocai.epicdn.me
 log-baonghean.zadn.vn
 log-baophapluat.zadn.vn
 log-bizlive.zadn.vn
