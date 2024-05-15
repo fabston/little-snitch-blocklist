@@ -1501,7 +1501,6 @@ stportal.eclick.vn
 stream.adtimaserver.vn
 stream.org.adtimaserver.vn
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
-subiz-cdn.com
 support.tenten.vn
 surfcountor.com
 sv-api-event.headlines.pw
@@ -1664,6 +1663,7 @@ v9banners.com
 vads.net.vn
 vads.vn
 vcdn.anthill.vn
+vcdn.subiz-cdn.com
 vena.native-ad.net
 verycheap.cheap-ads.net
 viam.com.vn
@@ -1794,7 +1794,6 @@ www.sbbanner.com
 www.slimads.vn
 www.smartconvert.co
 www.sporttv.today
-www.subiz-cdn.com
 www.tpmedia.online
 www.urekamedia.com
 www.v9banners.com
