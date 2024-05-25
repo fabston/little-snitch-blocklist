@@ -4626,6 +4626,7 @@ analytics.pollardwater.com
 analytics.pop2watch.com
 analytics.prezly.com
 analytics.productreview.com.au
+analytics.qogita.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
 analytics.qualityunit.com
@@ -4805,6 +4806,7 @@ analytics1.dillards.com
 analytics1.vdo.ai
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
+analyticsapi.qogita.com
 analyticsbusiness.ing.ro
 analyticsehnwe.servicebus.windows.net
 analyticsnarc.ro.ing.net
