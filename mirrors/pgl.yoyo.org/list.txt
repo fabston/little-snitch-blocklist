@@ -1335,6 +1335,7 @@ click.e.progressive.com
 click.e.zoom.us
 click.em.blizzard.com
 click.email.bbc.com
+click.email.lhh.com
 click.email.microsoftemail.com
 click.email.sonos.com
 click.email.strawberry.no
@@ -3245,6 +3246,7 @@ t.salesmatemail.com
 t.vacations.disneydestinations.com
 t.visit.disneydestinations.com
 t.visitorqueue.com
+t.x.co
 taboola.com
 tag-demo.mention-me.com
 tag.links-analytics.com
