@@ -1264,6 +1264,7 @@ logitechlogitechglobal.112.2o7.net
 logs.browser-intake-datadoghq.com
 logs.gaana.com
 logs.hotstar.com
+logs.netflix.com
 logs1407.xiti.com
 logs1413.xiti.com
 logserver.insight.ucweb.com
