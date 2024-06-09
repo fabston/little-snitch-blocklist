@@ -20,7 +20,6 @@
 254a.com
 2iiyrxk0.com
 2mdn.net
-2mdnsys.com
 2o7.net
 33across.com
 360yield.com
@@ -268,7 +267,6 @@ ads.mindfactory.de
 ads.msn.com
 ads.newsbook.com.mt
 ads.nordcurrent.com
-ads.papertreedigital.com
 ads.pinger.com
 ads.platform.zalo.me
 ads.pointermedia.hu
@@ -332,7 +330,6 @@ adsmediabox.com
 adsmoloco.com
 adsninja.ca
 adsonar.com
-adsoptimal.com
 adsp.haberturk.com
 adsparc.com
 adspdbl.com
@@ -686,7 +683,6 @@ appanalytics.embarcadero.com
 appbaqend.com
 appdump.nie.easebar.com
 appdynamics.com
-appendixwarmingauthors.com
 apphud.com
 appier.net
 applicationmoleculepersonal.com
@@ -1105,7 +1101,6 @@ clkads.com
 clkdeals.com
 clkfeed.com
 clkmon.com
-clkpback3.com
 clksite.com
 clog.geniex.com
 clog.weverse.io
@@ -4314,6 +4309,7 @@ mkt1181.com
 mkt11810.com
 mkt11811.com
 mkt11812.com
+mkt11813.com
 mkt11814.com
 mkt11815.com
 mkt11816.com
@@ -4474,6 +4470,7 @@ mkt1197.com
 mkt11971.com
 mkt11973.com
 mkt11975.com
+mkt11976.com
 mkt11978.com
 mkt11979.com
 mkt1198.com
@@ -4499,6 +4496,7 @@ mkt12008.com
 mkt1201.com
 mkt12013.com
 mkt12014.com
+mkt12018.com
 mkt1202.com
 mkt12022.com
 mkt12024.com
@@ -4517,10 +4515,17 @@ mkt12045.com
 mkt12046.com
 mkt12047.com
 mkt1205.com
+mkt12052.com
+mkt12053.com
 mkt12056.com
+mkt12058.com
 mkt1206.com
+mkt12060.com
 mkt12062.com
+mkt12064.com
+mkt12066.com
 mkt1207.com
+mkt12076.com
 mkt1208.com
 mkt1209.com
 mkt1210.com
@@ -14781,7 +14786,6 @@ smetrics.healthnetcalifornia.com
 smetrics.healthpartners.com
 smetrics.heathrow.com
 smetrics.heathrowexpress.com
-smetrics.hebprepaid.com
 smetrics.hemapedia.jp
 smetrics.herbalife.com
 smetrics.heromotocorp.com
@@ -14856,7 +14860,6 @@ smetrics.libertymutual.com
 smetrics.lifestride.com
 smetrics.lifetime.life
 smetrics.lizearle.com
-smetrics.loblaws.ca
 smetrics.loewshotels.com
 smetrics.lordabbett.com
 smetrics.los40.com
@@ -14905,7 +14908,6 @@ smetrics.morganstanley.com
 smetrics.motortrend.com
 smetrics.moving.com
 smetrics.mphasis.com
-smetrics.mrrooter.com
 smetrics.msg.com
 smetrics.mtu-solutions.com
 smetrics.murata.com
