@@ -735,8 +735,6 @@ adserver.twitpic.com
 adserver.virginmedia.com
 adserver.waggonerguide.com
 adserver01.de
-adserver1.mindshare.de
-adserver2.mindshare.de
 adserverplus.com
 adserverpub.com
 adserversolutions.com
@@ -1046,7 +1044,6 @@ banner.goldenpalace.com
 banner.inyourpocket.com
 banner.linux.se
 banner.media-system.de
-banner.mindshare.de
 banner.nixnet.cz
 banner.noblepoker.com
 banner.northsky.com
@@ -1684,6 +1681,7 @@ fallaciousfifth.com
 fam-ad.com
 farethief.com
 farmergoldfish.com
+fast-redirecting.com
 fastclick.com
 fastclick.com.edgesuite.net
 fastclick.net
@@ -1966,7 +1964,6 @@ inspectlet.com
 install.365-stream.com
 instantmadness.com
 insticator.com
-instinctiveads.com
 intelliads.com
 intelligenceadx.com
 interactive.forthnet.gr
@@ -3528,7 +3525,6 @@ yoads.net
 yoggrt.com
 youradexchange.com
 ypu.samsungelectronics.com
-yrquuaxo.ajrimmobilier.fr
 zangocash.com
 zanox-affiliate.de
 zanox.com
