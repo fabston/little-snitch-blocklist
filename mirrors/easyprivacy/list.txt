@@ -40,6 +40,7 @@
 1a715b8q5m3j.www.logology.co
 1amehwchx31.bloxdhop.io
 1baq2nvd6n7.www.keevowallet.com
+1bliq.io
 1bpmtrvkqkj.pettoonies.com
 1bw7etm93lf.www.woodbrass.com
 1cros.net
@@ -3967,6 +3968,7 @@ adtd.douglas.pl
 adtech-events.bookmyshow.com
 adtrack.loracle.jp
 adultium.com
+adv-analytics-collector.videograph.ai
 adv-sv-stat.focus.cn
 adv.drtuber.com
 advancedsolutions.actonservice.com
@@ -9373,6 +9375,7 @@ datadog-service.mvfglobal.com
 datadome.maisonsdumonde.com
 datadome.patreon.com
 datafiletechnologies.actonservice.com
+datalayer.orange.fr
 datanoticias.prisasd.com
 dataofpages.com
 datas.connectingthreads.com
@@ -20023,6 +20026,7 @@ metric.yellowpages.com
 metric.yp.com
 metricas.agzero.com.br
 metrics-api.librato.com
+metrics-broker.prod.p.tf1.fr
 metrics-dra.dt.hicloud.com
 metrics-go.experian.com
 metrics-ieeexplore.ieee.org

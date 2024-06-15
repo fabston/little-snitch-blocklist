@@ -93,9 +93,11 @@ ads.autonet.com.vn
 ads.baoangiang.com.vn
 ads.baobinhduong.vn
 ads.baobinhthuan.com.vn
+ads.baocamau.vn
 ads.baocantho.com.vn
 ads.baodatviet.vn
 ads.baohaiduong.vn
+ads.baolongan.vn
 ads.baotainguyenmoitruong.vn
 ads.bkitsoftware.com
 ads.botbanhang.vn
@@ -121,6 +123,7 @@ ads.laodongnghean.vn
 ads.markettimes.vn
 ads.marry.vn
 ads.nghenhinvietnam.vn
+ads.nguoiduatin.vn
 ads.nhadatmoi.net
 ads.novanet.vn
 ads.phunuonline.com.vn
@@ -484,6 +487,7 @@ cdn.viraads.com
 cdn.wataads.com
 cdn01.pushtimize.com
 cdn1.tpmedia.online
+cdn1.vda.viettel.vn
 cdn2.adflex.vn
 cdn2.cache.vn
 cdn5.proadscdn.com
@@ -618,6 +622,7 @@ delivery.m.ambient-platform.com
 delivery.m.ambientplatform.vn
 delivery.senvangvn.com
 delivery.smartadnetwork.net
+delivery.vda.viettel.vn
 delivery.vtc.vn
 delivery.vtcnew.com.vn
 delivery.vtcnews.vn
@@ -986,6 +991,7 @@ log.tv.zing.vn
 log.tv360.vn
 log.urekamedia.com
 log.vads.net.vn
+log.vda.viettel.vn
 log.vietnamnetad.vn
 log.vietnamplus.vn
 log.viettimes.vn
@@ -1577,6 +1583,7 @@ track.popsww.com
 track.sendo.vn
 track.vio.edu.vn
 track.vtcnews.vn
+track.winigroup.vn
 tracker-mw-zlivestream.zapps.vn
 tracker-zlivestream.zapps.vn
 tracker.anime47.com
@@ -1668,6 +1675,9 @@ vads.net.vn
 vads.vn
 vcdn.anthill.vn
 vcdn.subiz-cdn.com
+vda.viettel.vn
+vdacdn1.viettel.vn
+vdacdn2.viettel.vn
 vena.native-ad.net
 verycheap.cheap-ads.net
 viam.com.vn
