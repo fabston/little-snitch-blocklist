@@ -4388,6 +4388,7 @@ mkt1195.com
 mkt11950.com
 mkt11951.com
 mkt11952.com
+mkt11954.com
 mkt11955.com
 mkt11956.com
 mkt11957.com
@@ -4410,6 +4411,7 @@ mkt11981.com
 mkt11982.com
 mkt11983.com
 mkt11984.com
+mkt11986.com
 mkt11987.com
 mkt11988.com
 mkt1199.com
@@ -13818,7 +13820,6 @@ p.yotpo.com
 paas-vpc01-dms-edge-fk.easy4ipcloud.com
 padsims.com
 pagefair.com
-pagefair.net
 pages01.net
 pages02.net
 pages03.net
@@ -13856,8 +13857,6 @@ performancetrustednetwork.com
 performax.cz
 performfeeds.com
 performgroup.com
-performtechnique.com
-perfunctoryfrugal.com
 perkyexcitedlyscenario.com
 permutive.app
 permutive.com
