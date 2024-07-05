@@ -314,6 +314,7 @@ adservice.google.com.pe
 adservice.google.com.pk
 adservice.google.pt
 adservice.google.ru
+adservings.ru
 adsessionserv.com
 adsfac.eu
 adsgainer.com
@@ -635,6 +636,7 @@ androidtvwatsonfe-pa.googleapis.com
 anglezinccompassionate.com
 aniview.com
 anm.co.uk
+anonymous-analytics.tonkeeper.com
 anrdoezrs.net
 answerscloud.com
 antiadblocksystems.com
@@ -813,6 +815,7 @@ beacon.qq.com
 beacon.riskified.com
 beacon.searchspring.io
 beacon.walmart.com
+beacon.wikia-services.com
 beaconimages.netflix.net
 beacons.gcp.gvt2.com
 beacons.gvt2.com
@@ -1000,6 +1003,7 @@ cedeimprovise.com
 cedexis-radar.net
 cedexis-test.com
 cedexis.com
+cellrebel.com
 celtra.com
 censusabattoir.com
 center.io
@@ -1096,6 +1100,7 @@ cmcore.com
 cmdspassets.com
 cn-rtb.com
 cnzz.com
+co-buying.com
 coastlineahead.com
 cobwebcomprehension.com
 codigo.se
@@ -2224,6 +2229,7 @@ measurelib.com
 measurement-lab.org
 medals.bizrate.com
 medi-8.net
+media-adv.market.yandex.ru
 media.complex.com
 media.net
 media6degrees.com
@@ -13871,9 +13877,17 @@ pf.newegg.com
 pghub.io
 pglstatp-toutiao.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
+pgteu1-powerpoint-telemetry-vip.officeapps.live.com
+pgteu1-word-telemetry-vip.officeapps.live.com
+pgteu2-excel-telemetry-vip.officeapps.live.com
+pgteu2-powerpoint-telemetry-vip.officeapps.live.com
 pgteu2-word-telemetry-vip.officeapps.live.com
+pgteu3-excel-telemetry-vip.officeapps.live.com
 pgteu3-powerpoint-telemetry-vip.officeapps.live.com
+pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
+pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgteu4-word-telemetry-vip.officeapps.live.com
 phluant.com
 phone.igexin.com
 phonograph2.voxmedia.com
@@ -15320,7 +15334,6 @@ stsdk.vivoglobal.com
 stylitics.com
 sub2tech.com
 successfulpatience.com
-successfultogether.co.uk
 successionflimsy.com
 sugarcrm.com
 suibyuming.com
@@ -15347,7 +15360,6 @@ surveyi.com
 survicate.com
 survio.com
 svibeacon.onezapp.com
-sw-rail-7.com
 swa.vodafone.pt
 swaptrap.live
 switchadhub.com
@@ -15463,7 +15475,6 @@ tkqlhce.com
 tl.foxnews.com
 tl813.com
 tm-awx.com
-tm1-001.com
 tml.clmbtech.com
 tms-api.shalltry.com
 tmyzer.com
@@ -15539,6 +15550,7 @@ tracking.csgipe.com
 tracking.digitalocean.com
 tracking.epicgames.com
 tracking.forbetterforworse.co.uk
+tracking.game8.co
 tracking.hawksearch.com
 tracking.india.miui.com
 tracking.intl.miui.com
@@ -15791,6 +15803,7 @@ visitortracklog.com
 visualrevenue.com
 visualwebsiteoptimizer.com
 vizu.com
+vk-analytics.ru
 vlitag.com
 vlogerads.com
 vmn.net
