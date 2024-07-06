@@ -12772,6 +12772,7 @@ events.careallies.com
 events.centex.com
 events.chaordicsystems.com
 events.cigna.com
+events.clips4sale.com
 events.coface.com
 events.demoup.com
 events.devcycle.com
@@ -16798,7 +16799,6 @@ insights.avad3.com
 insights.biallo.de
 insights.bodogaffiliate.com
 insights.cdt.ch
-insights.decathlon.net
 insights.diamond-consultants.com
 insights.golubcapital.com
 insights.goodandprosper.com
@@ -16819,6 +16819,7 @@ insights.prophet.com
 insights.sitesearch360.com
 insights.sport1.de
 insights.squintopera.com
+insights.v3.decathlon.net
 insights.zinio.com
 insightseries.redbull.racing
 insigit.com
@@ -23328,6 +23329,7 @@ nasi.etherscan.com
 nasscom.epoise.com
 nasscomtest.epoise.com
 nationalaccounts.adp.com
+native-ads-events-api.c4s-rd.services
 native-track.com
 nats.xing.com
 natsp.xing.com
@@ -37171,6 +37173,7 @@ track.yellostrom.de
 track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
+track.zapimoveis.com.br
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
