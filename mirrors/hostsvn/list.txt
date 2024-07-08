@@ -259,7 +259,9 @@ ambientplatform.vn
 amcdn.vn
 an.dongphim.net
 an.xemvtv.net
+analytic.angiang.gov.vn
 analytic.baodantoc.vn
+analytic.proxyme.link
 analytic.thuanbui.me
 analytic.vnanet.vn
 analytics.admon.com.vn
@@ -274,6 +276,7 @@ analytics.digi8.vn
 analytics.donglogs.com
 analytics.eclick.vn
 analytics.evgcdn.net
+analytics.evn.com.vn
 analytics.fsoft.com.vn
 analytics.gotama.link
 analytics.hapo.vn
@@ -295,6 +298,7 @@ analytics.sohatv.vn
 analytics.teko.vn
 analytics.tiki.vn
 analytics.tintuc.vn
+analytics.ungdungtructuyen.vn
 analytics.viblo.asia
 analytics.videocloud.top
 analytics.vietnamfinance.vn
@@ -305,6 +309,7 @@ analytics.yomedia.vn
 analytics.yts.vn
 analytics.zapps.me
 analytics.zapps.vn
+analytics.zatomac.vn
 analytics.zim.vn
 antalyser.ants.vn
 anthill.vn
@@ -616,6 +621,7 @@ delivery.akadigital.vn
 delivery.ambient-platform.com
 delivery.atdnetwork.com
 delivery.cdp.asia
+delivery.doisongphapluat.com.vn
 delivery.kabbmedia.com
 delivery.lavamedia.vn
 delivery.lavanetwork.net
@@ -697,6 +703,7 @@ erp.novaon.asia
 erp2.novaon.asia
 euro.klick.vn
 eva-ad.24hstatic.com
+event-tracking.hellohealthgroup.com
 event.adpia.vn
 event.filum.ai
 event.headlines.pw
@@ -1046,6 +1053,7 @@ m.clevernet.vn
 m.zedcdn.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 ma.ants.vn
+ma.tgdd.vn
 manage.adtima.vn
 mantis.autoads.asia
 market.cityads.com
@@ -1053,6 +1061,7 @@ marketing.dable.io
 marketing.hub-js.com
 marketing.itgeek.vn
 marketingai.admicro.vn
+matomo.bantheme.xyz
 matomo.ecoe.vn
 matomo.hicity.vn
 matomo.quan.hoabinh.vn
@@ -1202,6 +1211,7 @@ pixel.adasiaholdings.com
 pixel.adsparc.net
 pixel.autoads.asia
 pixel.coccoc.com
+pixel.innocom.vn
 pixel.vidoomy.com
 platform.atdnetwork.com
 platform.bidgear.com
@@ -1346,6 +1356,7 @@ sen02.younetmedia.com
 send.mediaz.vn
 sendy.adpia.vn
 sentry.mediacdn.vn
+seo.cloud.edu.vn
 seo.mediaz.vn
 september.cityads.com
 server.zmedia.vn
@@ -1513,6 +1524,7 @@ stportal.eclick.vn
 stream.adtimaserver.vn
 stream.org.adtimaserver.vn
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
+subot.hellobacsi.com
 supply-sspapi.admicro.vn
 support.tenten.vn
 surfcountor.com
@@ -1584,6 +1596,7 @@ track.lemonnovel.com
 track.mclick.mobi
 track.pnj.com.vn
 track.popsww.com
+track.saigon.pro
 track.sendo.vn
 track.vio.edu.vn
 track.vtcnews.vn
@@ -1620,6 +1633,7 @@ tracking.playzing.g6.zing.vn
 tracking.smartadnetwork.net
 tracking.tekoapis.com
 tracking.tinxe.vn
+tracking.tuyenquang.gov.vn
 tracking.tv.zing.vn
 tracking.tvet-vietnam.org
 tracking.urekamedia.com
@@ -1640,6 +1654,7 @@ trackingin.zingplay.com
 trackingsea.zingplay.com
 trackingvn.zingplay.com
 trackity.tiki.vn
+traffic.nvcms.net
 traffic.vietnhan.co
 transfer.urekamedia.com
 trenddigital.vn
@@ -1711,6 +1726,7 @@ wataads.com
 watanet.work
 wcc.admicro.vn
 web-analytic.ghtk.vn
+web-analytics.mona.host
 web-api.tjme.io
 web.api.adtimaserver.vn
 webbot.oncustomer.asia
