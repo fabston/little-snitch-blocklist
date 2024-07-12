@@ -545,7 +545,6 @@ ads.planet.nl
 ads.pni.com
 ads.pof.com
 ads.powweb.com
-ads.ppvmedien.de
 ads.printscr.com
 ads.prisacom.com
 ads.program3.com
@@ -918,7 +917,6 @@ analytics.icons8.com
 analytics.inlinemanual.com
 analytics.jst.ai
 analytics.justuno.com
-analytics.live.com
 analytics.lucid.app
 analytics.mailmunch.co
 analytics.mobile.yandex.net
@@ -1722,7 +1720,6 @@ freebanner.com
 freecounterstat.com
 freelogs.com
 freepay.com
-freeskreen.com
 freestats.com
 freestats.tv
 freewebcounter.com
@@ -1918,7 +1915,6 @@ image4.pubmatic.com
 image6.pubmatic.com
 imagecash.net
 images-pw.secureserver.net
-imarketservices.com
 img.prohardver.hu
 imgpromo.easyrencontre.com
 immensehoney.com
@@ -3229,7 +3225,6 @@ tracker.mmdlv.it
 tracker.samplicio.us
 tracker.vgame.us
 tracking.1-a1502-bi.co.uk
-tracking.1-kv015-ap.co.uk
 tracking.21-a4652-bi.co.uk
 tracking.28-91473-wbm.co.uk
 tracking.39-bb4a9-osm.co.uk
@@ -3435,7 +3430,6 @@ websponsors.com
 webstat.channel4.com
 webstat.com
 webstat.net
-webtracker.jp
 webtrackerplus.com
 webtracky.com
 webtraffic.se
