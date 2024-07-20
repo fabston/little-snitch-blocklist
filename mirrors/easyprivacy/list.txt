@@ -18974,6 +18974,7 @@ logbak.hicloud.com
 logger.bzu.kr
 logger.kataweb.it
 logger.nerdwallet.com
+logger.omio.com
 logger.rm.uol.com.br
 logger.snackly.co
 logger.torimochi-ad.net
