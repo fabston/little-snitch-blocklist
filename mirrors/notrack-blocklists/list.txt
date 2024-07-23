@@ -276,6 +276,7 @@ ads.securityweek.com
 ads.sportradar.com
 ads.sportslocalmedia.com
 ads.superawesome.tv
+ads.the-sun.com
 ads.thescottishsun.co.uk
 ads.thesun.co.uk
 ads.thesun.ie
@@ -4508,6 +4509,7 @@ mkt12098.com
 mkt1210.com
 mkt12100.com
 mkt12101.com
+mkt12102.com
 mkt12103.com
 mkt12105.com
 mkt12106.com
@@ -4516,6 +4518,7 @@ mkt12110.com
 mkt12115.com
 mkt12119.com
 mkt1212.com
+mkt12123.com
 mkt1213.com
 mkt1214.com
 mkt1215.com
@@ -15178,11 +15181,9 @@ soom.la
 sophomoreguessingestrange.com
 sophus3.com
 sortable.com
-sounddelegate.com
 sovrn.com
 spaceio.xyz
 sparkflow.net
-sparrowaboveaveragedefence.com
 spatterjointposition.com
 specificclick.net
 speedcurve.com
@@ -15341,6 +15342,7 @@ survio.com
 svibeacon.onezapp.com
 swa.vodafone.pt
 swaptrap.live
+sweetanalytics.com
 switchadhub.com
 switchads.com
 swoop.com
