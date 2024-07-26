@@ -9396,6 +9396,7 @@ count.asnetworks.de
 count.bank99.at
 count.candou.com
 count.carrierzone.com
+count.darkreader.app
 count.gothaer-digital.de
 count.me.uk
 count.munhwa.com
@@ -19620,6 +19621,7 @@ managedpush.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 maniacalappliance.com
+mantrafox.com
 manufacturing.autodeskcommunications.com
 map.rockwellautomation.com
 mapixl.com
@@ -27311,6 +27313,7 @@ savorystructure.com
 sawap.equifax.com
 say.hello.navan.com
 say.hello.tripactions.com
+sayac.kapital.com.tr
 saysidewalk.com
 sb.mynewplace.com
 sbc-app-links.specialized.com
@@ -35435,6 +35438,7 @@ telemetry.sdk.inmobi.com
 telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
+telemetry.stytch.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.vtex.com

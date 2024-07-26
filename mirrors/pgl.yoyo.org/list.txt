@@ -566,7 +566,6 @@ ads.servebom.com
 ads.shizmoo.com
 ads.shopstyle.com
 ads.sift.co.uk
-ads.simplyhired.com
 ads.sjon.info
 ads.smartclick.com
 ads.socialtheater.com
@@ -757,7 +756,6 @@ adsmart.net
 adsmartracker.com
 adsmetadata.startappservice.com
 adsmogo.com
-adsnative.com
 adsoftware.com
 adsolut.in
 adspeed.net
@@ -848,7 +846,6 @@ adxpansion.com
 adxpose.com
 adyoulike.com
 adz.rashflash.com
-adz2you.com
 adzbazar.com
 adzerk.net
 adzerk.s3.amazonaws.com
@@ -930,7 +927,6 @@ analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.poolshool.com
 analytics.posttv.com
-analytics.samdd.me
 analytics.santander.co.uk
 analytics.shorte.st
 analytics.swiggy.com
@@ -3346,6 +3342,7 @@ unusualtitle.com
 unwieldyhealth.com
 unwieldyimpulse.com
 upu.samsungelectronics.com
+url9467.comms-2.zoopla.co.uk
 urlcash.net
 urldata.net
 us.a1.yimg.com
