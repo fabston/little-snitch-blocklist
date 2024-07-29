@@ -35445,7 +35445,6 @@ telemetry.sdk.inmobi.com
 telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
-telemetry.stytch.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.vtex.com
