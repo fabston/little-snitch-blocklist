@@ -61,6 +61,7 @@ admicro5.vcmedia.vn
 admicro6.vcmedia.vn
 admin.adsplay.net
 admin.dable.io
+admin.giaminhmedia.vn
 admin.iad.eclick.vn
 admin.lavanetwork.net
 admin.novanet.vn
@@ -88,6 +89,7 @@ ads.568play.vn
 ads.6svn.com
 ads.adflex.vn
 ads.admatrix.vn
+ads.alobacsi.vn
 ads.ants.vn
 ads.appota.com
 ads.autonet.com.vn
@@ -111,12 +113,14 @@ ads.chanhtuoi.com
 ads.cungcau.vn
 ads.fpt.vn
 ads.fptplay.net.vn
+ads.giaminhmedia.vn
 ads.gosu.vn
 ads.home.vn
 ads.homedy.net
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.kabbmedia.com
+ads.ketnoitatca.net
 ads.kiemsat.vn
 ads.lamchame.vn
 ads.laodongbinhduong.org.vn
@@ -204,6 +208,7 @@ adv.adflex.vn
 adv.anhsangvacuocsong.vn
 adv.autosurf.vn
 adv.baoangiang.com.vn
+adv.baotayninh.vn
 adv.baotintuc.vn
 adv.baovemoitruong.org.vn
 adv.cityads.com
@@ -1614,6 +1619,7 @@ tracker.phunuvagiadinh.vn
 tracker.thichxemphim.net
 tracking-amp.vnexpress.net
 tracking-web.smobgame.com
+tracking.10gb.vn
 tracking.adflex.vn
 tracking.api.media.zapps.vn
 tracking.appwifi.com
@@ -1632,6 +1638,7 @@ tracking.meta.vn
 tracking.onfluencer.net
 tracking.phunuadong.vn
 tracking.playzing.g6.zing.vn
+tracking.saostar.vn
 tracking.smartadnetwork.net
 tracking.tekoapis.com
 tracking.tinxe.vn
