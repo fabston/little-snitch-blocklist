@@ -9839,6 +9839,7 @@ d-log.tv-asahi.co.jp
 d-snapshotapp.progressive.com
 d-staging.groc.press
 d.adlpo.com
+d.analyticsmania.com
 d.cybtel.com
 d.delahorro.app
 d.deloitte.fr
@@ -14812,6 +14813,8 @@ gsupplyair.carte-gr.total.fr
 gsyegj.shatura.com
 gtgvze.chintai.net
 gtm.diamond.jp
+gtm.lercio.it
+gtm.mandesager.dk
 gtm.wise.com
 gtmfsstatic.getgoogletagmanager.com
 gtreus.aliexpress.com
@@ -27077,6 +27080,7 @@ saegissolutions.actonservice.com
 safepass.citizen.com
 safetravelsapp.progressive.com
 safety.west.com
+safetybrush.com
 saffronrefuge.com
 sagargift.com
 sagxlv.daniellashevel.com
@@ -28321,6 +28325,8 @@ sggsbd.fonteyn.nl
 sgms.greatschools.org
 sgsb.aba.com
 sgstats.com
+sgtm.tagmanageritalia.it
+sgtm.tennis-point.de
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
 sh.b.inhaabit.com
@@ -32369,6 +32375,7 @@ srsg.srglobal.com
 srtb.msn.com
 sruk.srglobal.com
 srv.plesk.com
+ss.esade.edu
 ss.photospecialist.at
 ss.photospecialist.co.uk
 ss.photospecialist.de
@@ -32650,7 +32657,9 @@ ssp.seznam.cz
 sspkbf.ragtag.jp
 ssr.streamrail.net
 ssrlot.lotoquebec.com
+sst.colemanfurniture.com
 sst.cooperativa.cl
+sst.shopware.com
 sstat.3pagen.at
 sstat.detelefoongids.nl
 sstat.gilt.com
@@ -34167,6 +34176,7 @@ strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 strawberry.basf.com
 stream.9now.com.au
+stream.corporatefinanceinstitute.com
 streams.cablecar.sph.com.sg
 streamstats.prd.dlive.tv
 streetsort.com
@@ -37145,6 +37155,7 @@ tr.voixduclient.harmonie-mutuelle.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 tr.wa.wordappeal.com
+tr.wbstraining.de
 tr.webantenna.info
 tr.welcome.easyviaggio.com
 tr.welcome.easyviajar.com
@@ -38281,6 +38292,7 @@ trcka8net.glens.jp
 trcka8net.irobot-jp.com
 trcka8net.lenszero.com
 trcka8net.qieto.net
+trckng.dainese.com
 trckr.nordiskemedier.dk
 trcksplt.miro.com
 treadbun.com
