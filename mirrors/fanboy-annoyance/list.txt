@@ -38,6 +38,8 @@ cmp.pcwelt.de
 cmp.playpilot.com
 cmp.setupcmp.com
 cmp.soundis.gr
+cmp.springer.com
+cmp.springernature.com
 cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
@@ -172,7 +174,6 @@ sourcepoint.thetakeout.com
 subscription-forms.smsbump.com
 sync-transcend-cdn.com
 traffic.styria.hr
-transcend-cdn.com
 transcendcdn.eventbrite.com
 truyoproductionuscdn.truyo.com
 up-cookiemon.wavecdn.net
