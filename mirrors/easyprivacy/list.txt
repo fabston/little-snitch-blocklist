@@ -7887,7 +7887,6 @@ bronxvanilla.openapp.link
 brooklynway.openapp.link
 brothersbucket.com
 brotherslocket.com
-browser-intake-datadoghq.com
 browser-updater.yandex.net
 browser.covatic.io
 browser.pipe.aria.microsoft.com
@@ -12781,6 +12780,7 @@ event-tracking.hellohealthgroup.com
 event.api.drift.com
 event.boozallen.com
 event.clubcorp.com
+event.collector.scopely.io
 event.csdn.net
 event.dnv.com
 event.evtm.53.com
@@ -12818,6 +12818,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+events-endpoint.pointandplace.com
 events-logs.doctolib.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
@@ -12849,6 +12850,7 @@ events.ferrari.com
 events.flagship.io
 events.forddirectdealers.com
 events.framer.com
+events.getmodemagic.com
 events.getsitectrl.com
 events.glory-global.com
 events.gogoair.com
@@ -23952,6 +23954,7 @@ obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
 obscenesidewalk.com
 observantice.com
+observe-nexus.pointandplace.com
 observe.metarouter.io
 observer.ip-label.net
 obtfhl.bellemaison.jp
@@ -28472,6 +28475,7 @@ sicas.ikea.net
 sickflock.com
 sicksmash.com
 sid.nordstrom.com
+sierrakermit.com
 siewmi.uncommongoods.com
 sig.ig.com
 sig.igmarkets.com
