@@ -5054,6 +5054,8 @@ analysis.aws.locondo.jp
 analysis.fi
 analysis.prod.joyfru.jiji.com
 analyt.ir
+analytic-client.chickgoddess.com
+analytic-client.panowars.com
 analytic.alabama.aaa.com
 analytic.americanfunds.com
 analytic.buoyweather.com
@@ -27311,6 +27313,7 @@ sanl.footlocker.pt
 sanl.footlocker.se
 sanl.six02.com
 sanmet.originenergy.com.au
+sapi.tremendous.com
 sapphire-api.target.com
 sappmetrics.sprint.com
 sas.nsm-corp.com
