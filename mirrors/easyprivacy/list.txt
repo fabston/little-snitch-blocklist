@@ -21208,6 +21208,7 @@ mckbpe.united-arrows.co.jp
 mckiey.thun.com
 mclaren-porthuron.hrm.healthgrades.com
 mcs-ie.tiktokw.eu
+mcs-va-useast2a.tiktokv.com
 mcs-va.tiktokv.com
 mcs.tiktokv.us
 mcs.tiktokw.us
@@ -23506,6 +23507,7 @@ nasscom.epoise.com
 nasscomtest.epoise.com
 nationalaccounts.adp.com
 native-ads-events-api.c4s-rd.services
+native-ads-events-api2.c4s-rd.services
 native-track.com
 nats.xing.com
 natsp.xing.com
@@ -33143,6 +33145,7 @@ stat.stheadline.com
 stat.super.cz
 stat.suresmile.dentsplysirona.com
 stat.taxlive.nl
+stat.testme.cloud
 stat.thegeneral.com
 stat.tiara.daum.net
 stat.tiara.kakao.com
@@ -34171,6 +34174,7 @@ strangesink.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 strawberry.basf.com
+stream-log.dditscdn.com
 stream.9now.com.au
 stream.corporatefinanceinstitute.com
 streams.cablecar.sph.com.sg
@@ -35471,6 +35475,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.boxt.co.uk
+telemetry.canva.com
 telemetry.chrobinson.com
 telemetry.commonspirit.org
 telemetry.dematic.com
