@@ -283,6 +283,7 @@ analytics.donglogs.com
 analytics.eclick.vn
 analytics.evgcdn.net
 analytics.evn.com.vn
+analytics.explus.vn
 analytics.fsoft.com.vn
 analytics.gotama.link
 analytics.hapo.vn
@@ -509,6 +510,7 @@ cdnstoremedia.com
 cdnv.tpmedia.online
 cdp.asia
 cdp.cococx.com
+cdptracker.hocmai.com.vn
 centralized.zaloapp.com
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 challenge.cityads.com
