@@ -26540,6 +26540,7 @@ rum.azion.com
 rum.azioncdn.net
 rum.condenastdigital.com
 rum.corewebvitals.io
+rum.hlx.page
 rum.ingress.layer0.co
 rum.layer0.co
 rum.marquardmedia.hu
@@ -33699,6 +33700,7 @@ stats.profitablesignpricing.com
 stats.projectcongress.com
 stats.psychotherapieravensburg.de
 stats.pubfind.io
+stats.pushloop.io
 stats.qdq.com
 stats.qovery.com
 stats.quicksilvercre.com
