@@ -427,6 +427,8 @@ api.moengage.com
 api.pubnative.net
 api.purpleads.io
 api.quantumgraph.com
+api.qub.ca
+api.receptivity.io
 api.rollbar.com
 api.sec.intl.miui.com
 api.setting.intl.miui.com
@@ -700,6 +702,7 @@ collect.usefathom.com
 com-auth.site
 comericac.com
 comilar-efferiff.icu
+commentaires.qub.ca
 compdate.my03.com
 completesatisfaction.ltd
 comssite.com
@@ -796,6 +799,7 @@ demo.alphonso.tv
 deshmedia.com
 designer.dynamic-dns.net
 deta.ero-advertising.com
+detectportal.firefox.com
 dev.appboy.com
 dev.medialogistics2020.ca
 dev.publishers.speakol.com
@@ -1100,6 +1104,7 @@ in16.zog.link
 in8.zog.link
 inatv.pl
 indiaonclick.com
+indicedebonheur.com
 info-eastflirts.com
 information-security.zzux.com
 information-update.dynamic-dns.net
