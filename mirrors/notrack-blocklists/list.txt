@@ -4545,7 +4545,9 @@ mkt12185.com
 mkt12186.com
 mkt12187.com
 mkt12188.com
+mkt12189.com
 mkt1219.com
+mkt12190.com
 mkt1220.com
 mkt1221.com
 mkt1222.com
@@ -14051,7 +14053,6 @@ ptmind.com
 pub.macommune.info
 pub.network
 pubexchange.com
-pubfruitlesswording.com
 pubguru.com
 pubguru.net
 public.shtranssion.com
