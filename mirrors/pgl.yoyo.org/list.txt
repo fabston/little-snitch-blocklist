@@ -104,7 +104,6 @@ ad.digitallook.com
 ad.dnoticias.pt
 ad.domainfactory.de
 ad.exyws.org
-ad.foxnetworks.com
 ad.grafika.cz
 ad.gt
 ad.hbv.de
@@ -209,7 +208,6 @@ ademails.com
 adengage.com
 adetracking.com
 adeure.com
-adexc.net
 adexchangegate.com
 adexchangeprediction.com
 adexpose.com
@@ -350,6 +348,7 @@ ads.activestate.com
 ads.adfox.ru
 ads.administrator.de
 ads.adred.de
+ads.adsbtc.fun
 ads.adstream.com.ro
 ads.adultfriendfinder.com
 ads.advance.net
@@ -439,7 +438,6 @@ ads.forbes.net
 ads.formit.cz
 ads.fortunecity.com
 ads.fotosidan.se
-ads.foxnetworks.com
 ads.friendfinder.com
 ads.gamecity.net
 ads.gamespyid.com
@@ -3095,7 +3093,6 @@ t.visitorqueue.com
 t.x.co
 taboola.com
 tag-demo.mention-me.com
-tag.links-analytics.com
 tag.mention-me.com
 tagcommander.com
 tagger.opecloud.com
