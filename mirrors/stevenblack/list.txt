@@ -420,7 +420,6 @@ api.d.xiaomi.com
 api.datatrics.com
 api.doubles.click
 api.eqmob.com
-api.fouanalytics.com
 api.fpjs.io
 api.gameads.io
 api.ibeat-analytics.com
@@ -1010,6 +1009,7 @@ goldenlion.sg
 goodattack.duckdns.org
 goodblock.gladly.io
 goooooooooogle.com
+gotoyahoo.com
 gouploads.nocoshop.ru
 gouploads.uploadbox.world
 govaj.com
