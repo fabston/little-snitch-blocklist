@@ -427,7 +427,6 @@ api.moengage.com
 api.pubnative.net
 api.purpleads.io
 api.quantumgraph.com
-api.qub.ca
 api.receptivity.io
 api.rollbar.com
 api.sec.intl.miui.com
@@ -1941,6 +1940,7 @@ tweengirlsforum.pk
 twitter.cm
 twitterr.com
 twngcpbidder.lb.engagecore.com
+two.opensourced.us
 ty65xcc-smart-manatee.mybluemix.net
 typo3.ero-advertising.com
 tyty.lolokira.lol
