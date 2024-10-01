@@ -344,6 +344,7 @@ api.ezca.asia
 api.flygame.io
 api.fuseplatform.net
 api.mobio.vn
+api.moneyoyo.org
 api.nas.nct.vn
 api.ozui.vn
 api.piads.vn
@@ -1358,6 +1359,7 @@ scripts.donglogs.com
 sda.tamdiem247.com
 sdk-cdn.aiactiv.io
 sdk.adflex.vn
+sdk.moneyoyo.com
 sdk.pushdi.com
 searcher.qc.coccoc.com
 sellers.urekamedia.com
