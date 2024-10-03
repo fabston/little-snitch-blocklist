@@ -407,6 +407,7 @@ api-rssocks.youzicheng.net
 api.ad.intl.xiaomi.com
 api.ad.snappea.com
 api.ad.xiaomi.com
+api.adnz.co
 api.adviad.com
 api.alphonso.tv
 api.axiatraders.com
@@ -2474,6 +2475,7 @@ wy.adyboh.com
 wzrkt.com
 xad.dnoticias.pt
 xasf32easzx.appspot.com
+xd.adnz.co
 xfnl-spspostit-online.preview-domain.com
 xm0siulufost.com
 xmeeting.com
