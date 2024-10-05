@@ -5300,6 +5300,7 @@ analytics.homes.com
 analytics.hottopic.com
 analytics.id.amazongames.com
 analytics.idfnet.net
+analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
 analytics.inquisitr.com
@@ -7350,6 +7351,7 @@ be.slowmographer.co
 beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
+beacon.cdn.qq.com
 beacon.cdnma.com
 beacon.dropbox.com
 beacon.errorception.com
@@ -13985,6 +13987,7 @@ getconnected.infor.com
 getdev.payso.ca
 getdeviceinf.com
 getinfo.fullsail.edu
+getjan.io
 getl4w.lookout.com
 getpxq.rivolishop.com
 gets.myoyster.mx
@@ -16014,6 +16017,7 @@ img.simply.bwin.com
 img.sparkasse-koelnbonn.de
 img.website-security.symantec.com
 img.yemeksepeti.com
+img2021.navyfederal.org
 imgict.dwtcmarketing.com
 imginfo.insource.co.jp
 imgmail.mediasetpremium.it
@@ -19043,6 +19047,7 @@ log.klook.com
 log.m.sm.cn
 log.mediacategory.com
 log.medietall.no
+log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
 log.nordot.jp
