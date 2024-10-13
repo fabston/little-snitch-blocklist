@@ -406,6 +406,7 @@ aoredi.com
 ap-ms.net
 api-resource.youzicheng.net
 api-rssocks.youzicheng.net
+api-visitor-analytics.intercom.com
 api.ad.intl.xiaomi.com
 api.ad.snappea.com
 api.ad.xiaomi.com
@@ -1619,6 +1620,7 @@ rdi.eu.criteo.com
 recommendation.speakol.com
 redirect.ero-advertising.com
 redivosrl.it
+region1.google-analytics.com
 register.appsflyer.com
 registry.api.cnn.io
 relay.livejasmin.com
