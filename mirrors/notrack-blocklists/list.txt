@@ -15205,7 +15205,6 @@ stat.domainrecover.com
 stat.media
 stat.mixi.media
 stat.okko.tv
-stat.techtimes.com
 stat.tiara.daum.net
 stat.tiara.melon.com
 stat.tildacdn.com
@@ -15247,7 +15246,6 @@ stats.ryzeo.com
 stats.sa-as.com
 stats.safeway.com
 stats.schoolholidays.com.au
-stats.videodelivery.net
 stats.videoseyred.in
 stats.vk-portal.net
 stats.wikimedia.org
