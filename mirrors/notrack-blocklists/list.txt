@@ -2228,6 +2228,7 @@ mkt030.com
 mkt038.com
 mkt042.com
 mkt044.com
+mkt05.com
 mkt059.com
 mkt062.com
 mkt063.com
@@ -2244,6 +2245,7 @@ mkt096.com
 mkt096329.com
 mkt097.com
 mkt098.com
+mkt099.com
 mkt1000.com
 mkt10000.com
 mkt10001.com
@@ -4540,7 +4542,12 @@ mkt12213.com
 mkt12214.com
 mkt12215.com
 mkt12216.com
+mkt12217.com
+mkt12218.com
+mkt12219.com
 mkt1222.com
+mkt12220.com
+mkt12221.com
 mkt1223.com
 mkt1224.com
 mkt1225.com
@@ -13685,7 +13692,6 @@ network-n.com
 networkad.net
 networkadvertising.org
 new-sentry.gitlab.net
-newdisplayformats.com
 newrelic.com
 newrrb.bid
 news.iadsdk.apple.com
