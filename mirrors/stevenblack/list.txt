@@ -621,7 +621,6 @@ care.help.360.cn
 carnataldez.ml
 carniferou.club
 castoola.com
-castoola.tv.lan
 cata.ero-advertising.com
 cbox4.ignorelist.com
 cc.sys.intl.xiaomi.com
@@ -798,6 +797,7 @@ de.betano.com
 dealabs.digidip.net
 default.exp-tas.com
 degea.alphonso.tv
+delivery-schedule.com
 dellgenius.hopto.org
 demo.alphonso.tv
 deshmedia.com
@@ -1026,7 +1026,7 @@ gratlfyingdates.net
 greatmacsoft.tech
 greattus.com
 greenheartmed.org
-grid-bidder.criteo
+grid-bidder.criteo.com
 grow.gab.com
 grow.rtk.io
 growthtransport.com
@@ -1665,6 +1665,10 @@ rumadel.com
 run.cntxtfl.com
 runative-syndicate.com
 runionv62ul3roit.onion.pet
+rustdesk.co.nz
+rustdesk.io
+rustdesk.pl
+rustdesk.secure-box.de
 rutorc6mqdinc4cz.onion.pet
 ruw82qpzxas.appspot.com
 s-img.adskeeper.com
@@ -1798,6 +1802,7 @@ sstats.adobe.com
 st.pubmatic.com
 stage.tvpage.com
 stagolk.com
+starshipstart.com
 stat-c.maxthon.com
 static.clmbtech.com
 static.emsservice.de
