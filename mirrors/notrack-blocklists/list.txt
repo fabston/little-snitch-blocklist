@@ -639,7 +639,6 @@ anytrack.io
 anzu.io
 apester.com
 apexinnotech.com
-api-analytics-ru.huami.com
 api-analytics.prod.birdapp.com
 api-telemetry.servers.getgo.com
 api.ad.intl.xiaomi.com
@@ -949,7 +948,6 @@ carbonads.com
 carbonads.net
 cardlytics.com
 carrotquest.io
-carrottrack.io
 casalemedia.com
 case.clmbtech.com
 catapultx.com
