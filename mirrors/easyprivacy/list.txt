@@ -32360,6 +32360,7 @@ srsg.srglobal.com
 srtb.msn.com
 sruk.srglobal.com
 srv.plesk.com
+srvgl.com
 ss.esade.edu
 ss.photospecialist.at
 ss.photospecialist.co.uk
@@ -39773,7 +39774,6 @@ webanalytics.logitechg.com.cn
 webanalytics.proff.no
 webanalyticsssl.websense.com
 webapp.e-post.smn.no
-webcare.byside.com
 webcasts.de.ni.com
 webcasts.partnermcafee.com
 webcounter.goweb.de
