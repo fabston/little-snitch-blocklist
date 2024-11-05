@@ -4134,6 +4134,7 @@ in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
 in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.jp2.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com

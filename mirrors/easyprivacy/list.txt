@@ -7183,7 +7183,6 @@ b.home.com.au
 b.iheart.southwest.com
 b.itravel.southwest.com
 b.iwanna.southwest.com
-b.karte.io
 b.koodomobile.com
 b.law.com
 b.lyst.com
@@ -12648,6 +12647,7 @@ erraticreaction.com
 error-collector.ted.com
 error.videonow.ru
 errorreports.couponcabin.com
+errors.darkreader.app
 errors.snackly.co
 ert5.rmcsport.tv
 erutinmos.snagajob.com
@@ -33173,6 +33173,7 @@ statistic2.reichelt.de
 statisticplatform.com
 statistics.csob.cz
 statistics.daktilo.com
+statistics.darkreader.app
 statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
@@ -33350,6 +33351,7 @@ stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
 stats.danner-landschaftsbau.at
+stats.darkreader.app
 stats.dashbit.co
 stats.datahjaelp.net
 stats.datamanie.cz
