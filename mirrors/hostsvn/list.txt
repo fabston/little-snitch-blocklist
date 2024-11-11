@@ -72,6 +72,7 @@ adms.phunusuckhoe.vn
 adnetwork-adserver.aiactiv.io
 adnetwork-core-lb7.aiactiv.io
 adnetwork-core.aiactiv.io
+adnetwork-tracking-proxy.aiactiv.io
 adnetwork.adasiaholdings.com
 adnetwork.vn
 adop.asia
