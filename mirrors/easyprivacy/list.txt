@@ -19117,6 +19117,7 @@ logs-api.shoprunner.com
 logs-partners.coupang.com
 logs.51cto.com
 logs.animaapp.com
+logs.chatboost-cv.algoage.co.jp
 logs.hotstar.com
 logs.mezmo.com
 logs.naukri.com
@@ -34911,6 +34912,7 @@ t.ramblinwreck.com
 t.raptorsmartadvisor.com
 t.regionsjob.com
 t.rentcafe.com
+t.rentio.jp
 t.restek.com
 t.rheumatoidarthritis.com
 t.richmondspiders.com
