@@ -12846,6 +12846,7 @@ events.btw.so
 events.careallies.com
 events.centex.com
 events.chaordicsystems.com
+events.character.ai
 events.cigna.com
 events.clips4sale.com
 events.coface.com
@@ -25497,6 +25498,7 @@ prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
 prod.tracking.refinitiv.com
 proditor.sparda.de
+prodregistryv2.org
 producecopy.com
 producepickle.com
 product.cel-fi.com
